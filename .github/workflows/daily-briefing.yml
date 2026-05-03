@@ -1,0 +1,35 @@
+name: Daily Market Briefing
+
+on:
+  schedule:
+    # UTC 기준. KST 06:50 = UTC 21:50 (전날)
+    # 한국 평일(월~금) 아침 = UTC 일~목 21:50
+    - cron: '50 21 * * 0-4'
+  workflow_dispatch:  # GitHub UI에서 수동 실행 가능
+
+jobs:
+  send-briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run briefing
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python briefing.py
