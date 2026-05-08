@@ -1,0 +1,144 @@
+{
+  "date": "2026-05-09 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually enjoy cooking fresh vegetables and lean protein for dinner.",
+      "translation_kr": "저는 보통 저녁으로 신선한 채소와 저지방 단백질을 요리하는 것을 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 발음이 'z'처럼 들리거나, 'u' 발음이 약화되어 한국 학습자들이 듣기 어려워할 수 있습니다."
+        },
+        {
+          "part": "fresh vegetables",
+          "why_kr": "'sh'와 'v' 발음이 이어지고, 'vegetables'의 중간 'e'가 묵음 처리되는 경향이 있어 연결음을 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "lean protein",
+          "meaning_kr": "저지방 단백질"
+        },
+        {
+          "word": "vegetables",
+          "meaning_kr": "채소"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "We confirmed the flight details and accommodation for the upcoming business trip.",
+      "translation_kr": "저희는 다가오는 출장을 위한 항공편 세부 정보와 숙박 시설을 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "confirmed the",
+          "why_kr": "'d'와 'th' 발음이 연결되면서 'd' 소리가 약하게 들리거나 생략된 것처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "accommodation",
+          "why_kr": "단어가 길고 음절이 많아 강세 위치(com-mo-DA-tion)를 놓치거나 발음을 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙박 시설"
+        },
+        {
+          "word": "upcoming",
+          "meaning_kr": "다가오는"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A recent study revealed that daily exercise significantly reduces the risk of heart disease.",
+      "translation_kr": "최근 연구에 따르면 매일 운동하는 것이 심장병 위험을 상당히 줄여준다고 합니다.",
+      "tricky_parts": [
+        {
+          "part": "revealed that",
+          "why_kr": "'d'와 'th'가 이어지는 연결음과 'th'의 마찰음 발음이 정확하게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "significantly",
+          "why_kr": "단어가 길고 음절이 많으며, '-ntly' 부분이 빠르게 발음될 때 't' 소리가 거의 들리지 않거나 약화될 수 있습니다."
+        },
+        {
+          "part": "risk of",
+          "why_kr": "'k'와 'o'가 연결되어 '리스커브'처럼 들릴 수 있어 주의가 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 현저하게"
+        },
+        {
+          "word": "heart disease",
+          "meaning_kr": "심장병"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite our minor disagreement, we decided to clear the air over coffee.",
+      "translation_kr": "사소한 의견 불일치에도 불구하고, 우리는 커피를 마시며 오해를 풀기로 했습니다.",
+      "tricky_parts": [
+        {
+          "part": "disagreement, we",
+          "why_kr": "'t' 소리가 약화되거나 생략되는 경향이 있고, 't'와 'w'가 연결되면서 소리가 뭉개질 수 있습니다."
+        },
+        {
+          "part": "clear the air",
+          "why_kr": "관용구이므로 문자 그대로의 의미가 아닌 '오해를 풀다'는 숨겨진 의미를 파악하는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 앙금을 해소하다"
+        },
+        {
+          "word": "disagreement",
+          "meaning_kr": "의견 불일치"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta book that train ticket soon; it'll sell out quickly during peak season.",
+      "translation_kr": "그 기차표는 곧 예매해야 해; 성수기에는 빠르게 매진될 거야.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "축약어 'you have got to'의 구어체 발음으로, 'you have'의 've'와 'got to'의 't'가 거의 들리지 않고 '가라'처럼 빠르게 발음됩니다."
+        },
+        {
+          "part": "it'll sell out",
+          "why_kr": "축약어 'it will'과 구동사 'sell out'이 연결되어 '이럴 셀라웃'처럼 들릴 수 있으며, 'l' 사운드가 명확하지 않을 수 있습니다."
+        },
+        {
+          "part": "during peak season",
+          "why_kr": "'g'와 'p', 'k'와 's'가 이어지는 연결음에서 소리가 뭉개지기 쉽고, 빠르게 발음되어 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gotta",
+          "meaning_kr": "~해야 한다 (구어체)"
+        },
+        {
+          "word": "peak season",
+          "meaning_kr": "성수기"
+        }
+      ]
+    }
+  ]
+}
