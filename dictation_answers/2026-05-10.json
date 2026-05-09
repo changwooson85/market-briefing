@@ -1,0 +1,152 @@
+{
+  "date": "2026-05-10 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually have a light breakfast with fruit and coffee every morning.",
+      "translation_kr": "저는 보통 매일 아침 과일과 커피로 가벼운 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 발음이 'ㅈ'처럼 들리고, 'l' 소리가 거의 나지 않거나 모호하게 들릴 수 있습니다."
+        },
+        {
+          "part": "light breakfast",
+          "why_kr": "'t'와 'b'가 이어지면서 'tb' 연음이 'p'나 'b' 사이의 소리처럼 들릴 수 있고, 'ght'는 묵음입니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light breakfast",
+          "meaning_kr": "가벼운 아침 식사"
+        },
+        {
+          "word": "every morning",
+          "meaning_kr": "매일 아침"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "To improve our team's productivity, we should regularly schedule short brainstorming sessions.",
+      "translation_kr": "우리 팀의 생산성을 향상시키기 위해, 우리는 짧은 브레인스토밍 회의를 정기적으로 계획해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "productivity",
+          "why_kr": "'duc' 부분이 '덕'이 아닌 '덕'에 가까운 소리로 들릴 수 있고, 강세 위치(duc)가 중요합니다."
+        },
+        {
+          "part": "regularly",
+          "why_kr": "'r' 발음이 여러 번 나오며, 'g'가 '지' 또는 '쥐'처럼 들릴 수 있어 정확한 발음에 주의해야 합니다."
+        },
+        {
+          "part": "sessions",
+          "why_kr": "'s'와 'sh' 발음 구분이 어려울 수 있고, 'ion' 부분이 '션'으로 들립니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "productivity",
+          "meaning_kr": "생산성"
+        },
+        {
+          "word": "brainstorming sessions",
+          "meaning_kr": "브레인스토밍 회의"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The city plans to invest 500 million dollars in public transportation by next year.",
+      "translation_kr": "시는 내년까지 대중교통에 5억 달러를 투자할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "city",
+          "why_kr": "'t' 발음이 모음 사이에 있을 때 'd'에 가깝게 들릴 수 있습니다 (플랩 t)."
+        },
+        {
+          "part": "500 million dollars",
+          "why_kr": "숫자와 단위가 빠르게 연결될 때 정확한 금액('500만 달러'가 아닌 '5억 달러')을 놓치기 쉽습니다."
+        },
+        {
+          "part": "transportation",
+          "why_kr": "'trans' 부분의 'a' 발음과 'spor' 부분의 'o' 발음이 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "invest",
+          "meaning_kr": "투자하다"
+        },
+        {
+          "word": "public transportation",
+          "meaning_kr": "대중교통"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "After working long hours, I decided to call it a day and unwind at home.",
+      "translation_kr": "오랜 시간 일한 후에, 나는 그만두고 집에서 쉬기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "long hours",
+          "why_kr": "'g'가 묵음처럼 들리고, 'h'가 약하게 발음되어 '롱 아워스'처럼 연음될 수 있습니다."
+        },
+        {
+          "part": "call it a day",
+          "why_kr": "'call it'과 'it a'가 빠르게 연음되어 '컬잇어데이'처럼 들릴 수 있으며, 'it'의 't'가 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "unwind",
+          "why_kr": "'un'이 강세가 약해 잘 들리지 않거나, 'un'과 'wind'가 다른 단어처럼 분리되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "call it a day",
+          "meaning_kr": "(그날의 일을) 끝내다"
+        },
+        {
+          "word": "unwind",
+          "meaning_kr": "긴장을 풀다, 쉬다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna love this trip; we've already packed everything and it'll be a blast!",
+      "translation_kr": "너는 이 여행을 정말 좋아할 거야; 우리는 이미 모든 것을 쌌고 정말 신날 거야!",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are going to'의 축약형으로, 'gonna'는 비격식적이며 '고잉 투'가 아닌 '거나'로 들립니다. 'You're'와 'gonna'가 빠르게 연결됩니다."
+        },
+        {
+          "part": "we've already",
+          "why_kr": "'we have'의 축약형인 'we've'의 'v' 발음이 'already'의 'a'와 연음되어 '위벌레디'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll be a blast",
+          "why_kr": "'it will'의 축약형인 'it'll'이 '이틀' 또는 '이럴'처럼 들리고, 'be a'가 빠르게 연음되어 '비어'로 들립니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gonna",
+          "meaning_kr": "~할 것이다 (going to의 구어체 축약)"
+        },
+        {
+          "word": "a blast",
+          "meaning_kr": "매우 즐거운 경험"
+        }
+      ]
+    }
+  ]
+}
