@@ -1,0 +1,144 @@
+{
+  "date": "2026-05-11 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has a great camera and a long-lasting battery life.",
+      "translation_kr": "이 새로운 스마트폰은 훌륭한 카메라와 오래가는 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "smartphone",
+          "why_kr": "'t' 발음이 약하거나 거의 들리지 않게 연결되는 경우가 많아 주의해야 합니다."
+        },
+        {
+          "part": "long-lasting",
+          "why_kr": "두 단어가 합쳐진 복합 형용사로, 원어민은 '롱-라스팅'처럼 연결해서 발음하는 경향이 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company plans to invest heavily in artificial intelligence development next quarter.",
+      "translation_kr": "저희 회사는 다음 분기에 인공지능 개발에 대규모로 투자할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "invest heavily",
+          "why_kr": "'t'와 'h'가 연결될 때 'h' 소리가 약해지거나 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "artificial intelligence",
+          "why_kr": "두 단어 모두 길고 'ti'와 'ci' 부분의 발음이 한국 학습자에게는 익숙지 않아 정확한 발음 연습이 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "invest heavily",
+          "meaning_kr": "대규모로 투자하다"
+        },
+        {
+          "word": "artificial intelligence",
+          "meaning_kr": "인공지능"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Apex Tech announced its latest AI chip, scheduled for release on August 15, 2027.",
+      "translation_kr": "Apex Tech는 2027년 8월 15일 출시 예정인 최신 AI 칩을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced its",
+          "why_kr": "'d'와 'i'가 연결되면서 'd' 소리가 약해지거나 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "scheduled for release",
+          "why_kr": "'scheduled'의 'd' 발음이 약하며, 'for'가 'fər'처럼 약화되어 들릴 수 있습니다."
+        },
+        {
+          "part": "August 15, 2027",
+          "why_kr": "날짜와 연도를 영어식으로 읽는 방식에 익숙하지 않아 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "AI chip",
+          "meaning_kr": "AI 칩"
+        },
+        {
+          "word": "scheduled for release",
+          "meaning_kr": "~출시 예정인"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Staying ahead of the curve in AI innovation requires constant learning and adaptation.",
+      "translation_kr": "AI 혁신에서 시대의 흐름을 앞서나가려면 끊임없는 학습과 적응이 필요합니다.",
+      "tricky_parts": [
+        {
+          "part": "ahead of the curve",
+          "why_kr": "관용구 자체의 의미를 모르면 해석이 어렵고, 'of the' 부분이 'əv ðə'처럼 약하게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "requires constant",
+          "why_kr": "'s'와 'c'가 이어지면서 발음이 뭉개지거나, 'constant'의 't'가 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "ahead of the curve",
+          "meaning_kr": "시대의 흐름을 앞서가다, 선두를 유지하다"
+        },
+        {
+          "word": "adaptation",
+          "meaning_kr": "적응"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna find it's tough if you don't fully grasp AI's incredible potential today.",
+      "translation_kr": "만약 당신이 오늘날 AI의 놀라운 잠재력을 완전히 이해하지 못한다면, 어려울 것이라는 걸 알게 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are going to'가 '유어 거나'로 축약되고 연음되면서 원형과 발음이 매우 달라 한국 학습자에게는 매우 듣기 어렵습니다."
+        },
+        {
+          "part": "find it's tough",
+          "why_kr": "'d'와 'i', 's'와 't'가 빠르게 연결되면서 각각의 소리가 약해지고 '파인딧츠 터프'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "grasp AI's",
+          "why_kr": "'p'와 'AI'가 연결될 때 'p' 소리가 불분명하게 처리되거나 다음 모음에 흡수되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "grasp",
+          "meaning_kr": "이해하다, 파악하다"
+        },
+        {
+          "word": "potential",
+          "meaning_kr": "잠재력"
+        }
+      ]
+    }
+  ]
+}
