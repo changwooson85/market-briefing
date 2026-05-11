@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-12 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are actively searching for new job opportunities in this changing market.",
+      "translation_kr": "많은 사람들이 변화하는 시장에서 새로운 직업 기회를 적극적으로 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "searching for",
+          "why_kr": "'ch' 소리 뒤에 'for'가 연결되어 '서칭 포' 대신 '서칭퍼'처럼 약하게 들리거나 앞 단어와 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "changing market",
+          "why_kr": "'-ing' 소리가 다음 단어 'market'과 연결되어 발음될 때 '체인징 마켓' 대신 '체인징마켓'처럼 자연스럽게 이어질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "job opportunities",
+          "meaning_kr": "직업 기회"
+        },
+        {
+          "word": "changing market",
+          "meaning_kr": "변화하는 시장"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company plans to expand its digital services to enhance customer satisfaction.",
+      "translation_kr": "그 회사는 고객 만족도를 높이기 위해 디지털 서비스를 확장할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "plans to expand",
+          "why_kr": "'plans'의 's'와 'to' 그리고 'expand'가 자연스럽게 연결되어 '플랜즈 투 익스팬드'보다 '플랜즈투익스팬드'처럼 들릴 수 있으며, 'to'는 '터'처럼 약하게 발음됩니다."
+        },
+        {
+          "part": "digital services",
+          "why_kr": "'digital'의 'l'과 'services'의 's'가 이어질 때 발음이 어려울 수 있으며, 'services'의 강세가 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "expand services",
+          "meaning_kr": "서비스를 확장하다"
+        },
+        {
+          "word": "customer satisfaction",
+          "meaning_kr": "고객 만족"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Economists predict inflation will reach 3.5% by the end of this fiscal year 2026.",
+      "translation_kr": "경제학자들은 2026년 회계연도 말까지 인플레이션이 3.5%에 도달할 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "predict inflation",
+          "why_kr": "'predict'의 't' 사운드가 'inflation'과 연결될 때 거의 들리지 않거나 약하게 'd'로 들릴 수 있으며, 'inflation'의 첫 음절이 약화될 수 있습니다."
+        },
+        {
+          "part": "3.5%",
+          "why_kr": "숫자와 퍼센트(three point five percent)를 자연스럽고 빠르게 발음할 때 한국 학습자들이 혼동하거나 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "fiscal year 2026",
+          "why_kr": "'fiscal'의 'l'과 'year'의 'y'가 연결되고, '2026'이라는 연도 숫자를 빠르게 발음할 때 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "inflation",
+          "meaning_kr": "인플레이션"
+        },
+        {
+          "word": "fiscal year",
+          "meaning_kr": "회계연도"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Many small businesses are struggling to keep their heads above water during this downturn.",
+      "translation_kr": "많은 소규모 사업체들이 이 경기 침체기에 간신히 버티고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "businesses are",
+          "why_kr": "'businesses'의 마지막 's' 소리가 다음 'are'와 연결되어 '비즈니스서'처럼 들릴 수 있습니다. 또한, 'are'는 약하게 발음됩니다."
+        },
+        {
+          "part": "keep their heads above water",
+          "why_kr": "이디엄 전체를 빠르게 발음할 때 각 단어의 경계가 모호해지고, 특히 'their heads' 부분이 연결될 때 '데어 헤즈'보다 '데어헤즈'처럼 들릴 수 있어 의미 파악이 어려울 수 있습니다."
+        },
+        {
+          "part": "this downturn",
+          "why_kr": "'this'의 's'와 'downturn'이 연결될 때 '디스 다운턴'보다 '디스다운턴'처럼 들리며, 'downturn'의 강세가 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keep one's head above water",
+          "meaning_kr": "간신히 버티다/겨우 유지하다"
+        },
+        {
+          "word": "downturn",
+          "meaning_kr": "경기 침체"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering why they've decided to cut so many jobs this quarter.",
+      "translation_kr": "당신은 아마 왜 그들이 이번 분기에 그렇게 많은 일자리를 줄이기로 결정했는지 궁금해할 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "You're probably wondering",
+          "why_kr": "'You're'와 'probably'의 연결된 발음 ('유어프라블리'처럼)과 'wondering'의 빠르게 넘어가는 'er' 소리 때문에 전체 구절을 한 번에 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "why they've decided to",
+          "why_kr": "'they've' (데이븐)의 빠른 발음과 'decided to'에서 'd'와 'to'가 약화되면서 '디사이디드투'보다 '디사이딧투'처럼 연결될 수 있습니다."
+        },
+        {
+          "part": "cut so many jobs this quarter",
+          "why_kr": "'cut so', 'many jobs', 'this quarter'가 자연스럽게 연결될 때 각각의 단어 경계가 불분명해지며, 특히 'jobs this' 부분이 '잡스디스'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "cut jobs",
+          "meaning_kr": "일자리를 줄이다/해고하다"
+        },
+        {
+          "word": "this quarter",
+          "meaning_kr": "이번 분기"
+        }
+      ]
+    }
+  ]
+}
