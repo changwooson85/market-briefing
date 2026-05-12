@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-13 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I'd like to order a coffee and a slice of cake, please.",
+      "translation_kr": "커피 한 잔과 케이크 한 조각 주문할게요.",
+      "tricky_parts": [
+        {
+          "part": "I'd like to",
+          "why_kr": "'I'd'의 축약형과 'like to'가 연결되어 발음될 때 '아이들라이크투'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "slice of",
+          "why_kr": "'slice' 끝의 'e'가 묵음이고 'of'가 약화되어 '슬라이서브'처럼 연결되어 발음됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "order",
+          "meaning_kr": "주문하다"
+        },
+        {
+          "word": "slice",
+          "meaning_kr": "조각"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Please confirm the meeting agenda and presentation materials by tomorrow morning.",
+      "translation_kr": "내일 아침까지 회의 안건과 발표 자료를 확인해 주세요.",
+      "tricky_parts": [
+        {
+          "part": "confirm the",
+          "why_kr": "'confirm'의 'm'과 'the'가 연결될 때 '컨펌더'처럼 부드럽게 이어지는 소리를 놓치기 쉽습니다."
+        },
+        {
+          "part": "presentation materials",
+          "why_kr": "'presentation'의 '-tion' 발음과 'materials'의 'r' 발음 및 강세가 까다로울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "agenda",
+          "meaning_kr": "안건"
+        },
+        {
+          "word": "materials",
+          "meaning_kr": "자료"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced intermediate",
+      "text": "The new fitness center, opening Monday, welcomed over 200 members on its first day.",
+      "translation_kr": "지난 월요일에 개장한 새 피트니스 센터는 첫날 200명 이상의 회원을 맞이했습니다.",
+      "tricky_parts": [
+        {
+          "part": "fitness center",
+          "why_kr": "'fitness'의 's' 소리와 'center'의 'ter' 부분이 약화되어 들릴 수 있습니다."
+        },
+        {
+          "part": "welcomed over",
+          "why_kr": "'welcomed'의 'd'가 'over'와 연결될 때 '웰컴도버'처럼 들리며, 'd' 소리가 약해지기 쉽습니다."
+        },
+        {
+          "part": "200 members",
+          "why_kr": "숫자와 'members'의 's' 발음이 빠르게 지나갈 때 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "fitness center",
+          "meaning_kr": "피트니스 센터"
+        },
+        {
+          "word": "members",
+          "meaning_kr": "회원"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "After the long journey, I was so tired I decided to call it a day.",
+      "translation_kr": "긴 여정 후에 너무 피곤해서 그날 일을 마무리하기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "journey, I",
+          "why_kr": "'journey' 끝의 'y' 소리와 'I'가 연결되어 '저니아이'처럼 자연스럽게 이어질 수 있습니다."
+        },
+        {
+          "part": "decided to",
+          "why_kr": "'decided'의 'd'가 뒤따르는 'to'와 연결될 때 '디사이디드투'보다 '디사이딧투'처럼 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "call it a day",
+          "why_kr": "관용구이므로 의미를 모르면 이해하기 어렵고, 'it a'가 '잇어'처럼 연결되어 발음됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "journey",
+          "meaning_kr": "여정"
+        },
+        {
+          "word": "call it a day",
+          "meaning_kr": "(그날) 일을 마치다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "Even though you're busy, it's important you don't forget to take care of yourself.",
+      "translation_kr": "바쁘더라도, 자신을 돌보는 것을 잊지 않는 것이 중요해요.",
+      "tricky_parts": [
+        {
+          "part": "you're busy, it's",
+          "why_kr": "축약형 'you're', 'it's'가 빠르게 발음될 때 'your'와 혼동하기 쉽고, 여러 축약형과 연결음이 연속됩니다."
+        },
+        {
+          "part": "don't forget to",
+          "why_kr": "'don't'의 't'가 뒤따르는 'forget'과 연결될 때 거의 들리지 않거나 약화되며, 'forget to'도 연결되어 발음됩니다."
+        },
+        {
+          "part": "take care of yourself",
+          "why_kr": "'care of'가 '케어로브'처럼 약화되어 연결되며, 'yourself'의 'f' 발음도 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "important",
+          "meaning_kr": "중요한"
+        },
+        {
+          "word": "take care of",
+          "meaning_kr": "~을 돌보다"
+        }
+      ]
+    }
+  ]
+}
