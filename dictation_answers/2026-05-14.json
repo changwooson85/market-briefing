@@ -1,0 +1,144 @@
+{
+  "date": "2026-05-14 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Our new smartphone has a great camera and long battery life.",
+      "translation_kr": "저희의 새 스마트폰은 훌륭한 카메라와 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "has a",
+          "why_kr": "'has'의 's' 발음이 'a'와 연결되어 '하-자'처럼 들릴 수 있으며, 한국어 학습자에게는 익숙하지 않은 연음입니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'battery'의 't' 발음이 약하거나 미국식 영어에서는 'd' 소리로 바뀌는 경향이 있어 정확한 단어 인식이 어려울 수 있습니다. 또한, 두 단어가 합쳐진 복합 명사이므로 전체적인 강세 패턴을 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "The company recently invested in AI research to enhance product development.",
+      "translation_kr": "그 회사는 최근 제품 개발을 강화하기 위해 AI 연구에 투자했습니다.",
+      "tricky_parts": [
+        {
+          "part": "invested in",
+          "why_kr": "'invested'의 마지막 'd' 소리가 'in'과 연결되어 '인베스티딘'처럼 들릴 수 있습니다. 연음에 유의해야 합니다."
+        },
+        {
+          "part": "enhance product",
+          "why_kr": "'enhance'의 마지막 'ce' 소리와 'product'의 'p' 소리가 이어질 때 발음이 서로 영향을 주어 흐릿하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "invested in",
+          "meaning_kr": "~에 투자하다"
+        },
+        {
+          "word": "product development",
+          "meaning_kr": "제품 개발"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "A major tech firm announced record profits of $5 billion for the first quarter.",
+      "translation_kr": "한 주요 기술 기업이 1분기 동안 50억 달러의 기록적인 이익을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "firm announced",
+          "why_kr": "'firm'의 'm' 소리가 'announced'의 'a' 소리와 연결되어 '퍼만나운스드'처럼 들릴 수 있습니다. 빠른 뉴스 보도에서 특히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "record profits",
+          "why_kr": "명사 'record'(기록)는 첫 음절에 강세가 오지만(RE-cord), 동사 'record'(기록하다)는 두 번째 음절에 강세가 옵니다(re-CORD). 여기서 명사로 사용되었기 때문에 강세 위치를 정확히 파악하는 것이 중요합니다."
+        },
+        {
+          "part": "first quarter",
+          "why_kr": "'first'의 'st'와 'quarter'의 'qu' 소리가 붙어있어 발음이 어렵고, 정확히 구분하기 힘들 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech firm",
+          "meaning_kr": "기술 기업"
+        },
+        {
+          "word": "record profits",
+          "meaning_kr": "기록적인 이익"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal",
+      "text": "They need to iron out the software bugs before its official launch next month.",
+      "translation_kr": "그들은 다음 달 공식 출시 전에 소프트웨어 버그들을 해결해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "iron out",
+          "why_kr": "이디엄 'iron out'에서 'iron'의 'r' 소리가 거의 발음되지 않고, 'n'과 'out'이 연결되어 '아인 아웃'보다는 '아이-나웃'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "software bugs",
+          "why_kr": "'software'의 're'와 'bugs'의 'b'가 이어지는 소리에서 발음이 약해지거나 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "iron out",
+          "meaning_kr": "(문제 등을) 해결하다, 다듬다"
+        },
+        {
+          "word": "official launch",
+          "meaning_kr": "공식 출시"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "It'll be crucial to keep up with the latest AI trends, you know.",
+      "translation_kr": "최신 AI 동향을 따라잡는 것이 매우 중요할 거예요, 아시죠.",
+      "tricky_parts": [
+        {
+          "part": "It'll be",
+          "why_kr": "'It will be'의 축약형으로, 'It'll'의 발음이 매우 빠르게 '이털' 또는 '이럴'처럼 들릴 수 있어 정확한 단어 구분이 어렵습니다."
+        },
+        {
+          "part": "keep up with",
+          "why_kr": "세 단어로 이루어진 구동사로, 'p'와 'u', 'p'와 'with'가 각각 연음되어 '키법위th'처럼 빠르게 발음될 때 각 단어를 듣고 의미를 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "you know",
+          "why_kr": "문장 끝에 붙는 구어체 표현으로, 약하고 빠르게 발음되며 생략되듯이 들리는 경우가 많아 듣기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "crucial",
+          "meaning_kr": "매우 중요한, 결정적인"
+        },
+        {
+          "word": "AI trends",
+          "meaning_kr": "AI 동향/트렌드"
+        }
+      ]
+    }
+  ]
+}
