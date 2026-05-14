@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-15 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new jobs to improve their financial situation.",
+      "translation_kr": "많은 사람들이 재정 상황을 개선하기 위해 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "are looking for",
+          "why_kr": "'are'와 'looking'이 연결되어 발음되고, 'for'의 'r' 소리가 약하게 들릴 수 있습니다."
+        },
+        {
+          "part": "financial situation",
+          "why_kr": "'financial'의 'sh' 소리와 'situation'의 't' 소리, 그리고 두 단어의 강세 위치에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "financial situation",
+          "meaning_kr": "재정 상황"
+        },
+        {
+          "word": "improve",
+          "meaning_kr": "개선하다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company announced a significant increase in its quarterly earnings report.",
+      "translation_kr": "그 회사는 분기별 수익 보고서에서 상당한 증가를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced a",
+          "why_kr": "'announced'의 마지막 'd' 소리가 'a'와 연결되어 발음됩니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'와 'earnings' 모두 'r' 발음이 있고, 'quarterly'의 '-ly'는 약하게 발음됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significant",
+          "meaning_kr": "상당한"
+        },
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "Analysts predict the market will recover by October 2026, boosting investor confidence.",
+      "translation_kr": "분석가들은 시장이 2026년 10월까지 회복되어 투자자 신뢰를 높일 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts predict",
+          "why_kr": "'Analysts'의 마지막 'sts'와 'predict'의 'p'가 연달아 나오며 발음하기 어려울 수 있습니다."
+        },
+        {
+          "part": "recover by October",
+          "why_kr": "'recover'의 'r' 소리와 'by'의 'b' 소리, 그리고 'October'가 자연스럽게 연결됩니다."
+        },
+        {
+          "part": "investor confidence",
+          "why_kr": "'investor'의 'r' 발음과 'confidence'의 약한 'i', 'e' 모음, 그리고 'ence' 소리에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "investor confidence",
+          "meaning_kr": "투자자 신뢰"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Despite the recent setbacks, our team is determined to bounce back stronger next quarter.",
+      "translation_kr": "최근의 난관에도 불구하고, 우리 팀은 다음 분기에 더 강하게 회복할 것을 결심했습니다.",
+      "tricky_parts": [
+        {
+          "part": "recent setbacks",
+          "why_kr": "'recent'의 't'와 'setbacks'의 's'가 연음되어 발음될 수 있으며, 'setbacks'의 'ck' 소리도 주의해야 합니다."
+        },
+        {
+          "part": "determined to",
+          "why_kr": "'determined'의 마지막 'd' 소리와 'to'가 약하게 '터'처럼 발음될 수 있습니다."
+        },
+        {
+          "part": "bounce back",
+          "why_kr": "'bounce'의 'nce'와 'back'의 'b'가 빠르게 이어지며, 'nc b' 소리에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "setbacks",
+          "meaning_kr": "난관, 차질"
+        },
+        {
+          "word": "bounce back",
+          "meaning_kr": "회복하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've said the economy's improving, but you'll have to wait and see what happens.",
+      "translation_kr": "그들은 경제가 나아지고 있다고 말했지만, 어떻게 될지는 두고 봐야 할 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "They've said the",
+          "why_kr": "'They've'의 've' 소리와 'said'의 'd' 소리가 'the'와 빠르게 연결되어 발음됩니다."
+        },
+        {
+          "part": "economy's improving",
+          "why_kr": "'economy's' (economy is)의 축약형과 'improving'이 자연스럽게 이어지며, 'improving'의 'v' 소리에 유의해야 합니다."
+        },
+        {
+          "part": "you'll have to wait and see",
+          "why_kr": "'you'll' (you will)과 'have to'가 연음되고, 'wait and see'에서 'and'가 약하게 발음되며 't'와 'd'가 연결되어 '웨이런씨'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "improving",
+          "meaning_kr": "개선되고 있는"
+        },
+        {
+          "word": "wait and see",
+          "meaning_kr": "두고 보다"
+        }
+      ]
+    }
+  ]
+}
