@@ -1,0 +1,144 @@
+{
+  "date": "2026-05-16 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "She usually prefers to eat healthy salads for lunch every weekday.",
+      "translation_kr": "그녀는 보통 매주 평일에 점심으로 건강한 샐러드를 먹는 것을 선호합니다.",
+      "tricky_parts": [
+        {
+          "part": "prefers to",
+          "why_kr": "'s'와 't'가 연음되어 /z tə/ 처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "salads for",
+          "why_kr": "'ds'와 'for'가 연음되어 /dz fɔːr/ 처럼 들릴 때 'd' 소리가 약해질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prefers",
+          "meaning_kr": "~을 더 좋아하다, 선호하다"
+        },
+        {
+          "word": "weekday",
+          "meaning_kr": "평일"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "We finalized our travel itinerary and confirmed the flight reservations for next month's trip.",
+      "translation_kr": "우리는 여행 일정을 확정했고 다음 달 여행을 위한 항공편 예약을 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "finalized our",
+          "why_kr": "'d'와 'our'가 연음될 때 'd' 소리가 약하게 들리거나 'r' 발음과 섞여 명확하지 않을 수 있습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "'t' 발음이 묵음 처리되고 'r' 발음이 반복되어 원어민 발음을 듣고 정확히 받아쓰기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        },
+        {
+          "word": "reservations",
+          "meaning_kr": "예약"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A recent study published on April 10th showed improved health outcomes among participants.",
+      "translation_kr": "4월 10일에 발표된 최근 연구는 참가자들 사이에서 개선된 건강 결과를 보여주었습니다.",
+      "tricky_parts": [
+        {
+          "part": "published on",
+          "why_kr": "'d'와 'on'이 연음될 때 'd' 소리가 약해지고 마치 '퍼블리션'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "improved health",
+          "why_kr": "'d'와 'h'가 연음될 때 'h' 소리가 약해지거나 아예 들리지 않는다고 착각할 수 있습니다."
+        },
+        {
+          "part": "outcomes among",
+          "why_kr": "'s'와 'a'가 연음되어 /z ə/ 소리가 날 때 빠르게 들으면 구분하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "outcomes",
+          "meaning_kr": "결과"
+        },
+        {
+          "word": "participants",
+          "meaning_kr": "참가자"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Even though they disagree sometimes, they always manage to iron out their differences quickly.",
+      "translation_kr": "그들은 가끔 의견이 다르더라도, 항상 재빨리 차이점을 해결해 나갑니다.",
+      "tricky_parts": [
+        {
+          "part": "Even though",
+          "why_kr": "'gh'가 묵음이고 'v'와 'th' 발음이 이어져 부드럽게 연결될 때 처음 듣는 학습자에게는 어려운 발음입니다."
+        },
+        {
+          "part": "iron out",
+          "why_kr": "숙어 'iron out'은 '해결하다'는 뜻을 가지며, 'iron'의 'r' 발음과 'out'이 연음될 때 '아이어나웃'처럼 들릴 수 있어 구분이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "iron out",
+          "meaning_kr": "(문제·어려움 등을) 해결하다"
+        },
+        {
+          "word": "disagree",
+          "meaning_kr": "의견이 다르다, 동의하지 않다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna love that new Italian restaurant; I've heard it's incredibly authentic.",
+      "translation_kr": "그 새로운 이탈리아 식당 정말 마음에 드실 거예요. 정말 정통이라고 들었어요.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are going to'의 구어체 축약형으로, 빠르게 발음될 때 '유어가나'처럼 들려 알아듣기 어렵습니다."
+        },
+        {
+          "part": "I've heard it's",
+          "why_kr": "세 단어가 축약되고 연음되어 '아이브 허리츠'처럼 들릴 수 있어 각각의 단어를 구분하기 어렵습니다."
+        },
+        {
+          "part": "incredibly authentic",
+          "why_kr": "'cr'과 'th' 발음이 한국어에 없는 발음 조합이며, 빠르게 말할 때 'nt' 소리가 흐릿하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gonna",
+          "meaning_kr": "~할 것이다 (going to의 구어체 축약형)"
+        },
+        {
+          "word": "authentic",
+          "meaning_kr": "진짜의, 정통의"
+        }
+      ]
+    }
+  ]
+}
