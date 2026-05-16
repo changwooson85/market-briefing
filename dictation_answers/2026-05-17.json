@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-17 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a light breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요구르트로 가벼운 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "prepare a",
+          "why_kr": "'prepare'의 마지막 /r/ 소리와 'a'가 자연스럽게 이어져 '프리페어러'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "fruit and",
+          "why_kr": "'fruit'의 /t/ 소리가 다음 단어 'and'와 연결되거나 약하게 발음되어 잘 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요구르트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "To minimize expenses for our upcoming trip, we should compare flight prices thoroughly online.",
+      "translation_kr": "다가오는 여행 경비를 최소화하기 위해, 우리는 온라인에서 항공권 가격을 철저히 비교해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "minimize expenses",
+          "why_kr": "'minimize'의 /z/ 발음과 'expenses'의 /eks/ 발음이 연달아 나오며 듣기에 혼동될 수 있습니다."
+        },
+        {
+          "part": "prices thoroughly",
+          "why_kr": "'prices'의 /z/ 소리와 'thoroughly'의 /th/ 소리가 연달아 나오며 정확한 구별이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "minimize",
+          "meaning_kr": "최소화하다"
+        },
+        {
+          "word": "thoroughly",
+          "meaning_kr": "철저히"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "According to recent studies, maintaining a balanced diet significantly improves long-term health by over 15%.",
+      "translation_kr": "최근 연구에 따르면, 균형 잡힌 식단을 유지하는 것이 장기적인 건강을 15% 이상 상당히 향상시킵니다.",
+      "tricky_parts": [
+        {
+          "part": "according to",
+          "why_kr": "연음되어 '어코딩투'처럼 들리며, 의미 단위로 끊어 듣기 어려운 경우가 많습니다."
+        },
+        {
+          "part": "diet significantly",
+          "why_kr": "'diet'의 /t/ 소리가 다음 단어 'significantly'의 /s/ 소리와 만나 자연스럽게 이어져 '다이엇시그니피컨틀리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "over 15%",
+          "why_kr": "숫자와 퍼센트가 함께 나와서, 숫자 자체를 놓치거나 'over' 발음이 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히"
+        },
+        {
+          "word": "balanced diet",
+          "meaning_kr": "균형 잡힌 식단"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "It's important to clear the air after a disagreement to maintain a healthy relationship with friends.",
+      "translation_kr": "친구들과 건강한 관계를 유지하기 위해 불화 후에 오해를 풀고 화해하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "관용구이므로 문자 그대로의 의미가 아닌 비유적 의미를 파악해야 하며, 'the'의 /th/ 발음에 유의해야 합니다."
+        },
+        {
+          "part": "disagreement to",
+          "why_kr": "'disagreement'의 마지막 /t/ 소리가 다음 단어 'to'와 연결되어 '디스어그리먼투'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "relationship with",
+          "why_kr": "'relationship'의 /sh/ 소리와 'with'의 /th/ 소리가 인접해 있어 정확한 발음 구별이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 화해하다"
+        },
+        {
+          "word": "disagreement",
+          "meaning_kr": "불화, 의견 충돌"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning a backpacking trip; it'll be amazing if you don't forget your passport!",
+      "translation_kr": "배낭여행을 계획 중이라고 들었어요; 여권을 잊지 않는다면 정말 멋질 거예요!",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I've', 'heard', 'you're'가 빠르게 연음되어 '아이브허드유어'처럼 들리며, 각각의 축약형을 파악하기 어렵습니다."
+        },
+        {
+          "part": "it'll be amazing",
+          "why_kr": "'it'll'의 축약형과 'be'가 연음되어 '이틀비어메이징'처럼 들릴 수 있으며, /z/ 발음에 유의해야 합니다."
+        },
+        {
+          "part": "don't forget your",
+          "why_kr": "'don't'의 /t/가 종종 생략되고 'forget'과 'your'가 빠르게 연음되어 '돈포겟처'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "backpacking trip",
+          "meaning_kr": "배낭여행"
+        },
+        {
+          "word": "passport",
+          "meaning_kr": "여권"
+        }
+      ]
+    }
+  ]
+}
