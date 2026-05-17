@@ -1,0 +1,144 @@
+{
+  "date": "2026-05-18 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has a really impressive camera system.",
+      "translation_kr": "제 새 스마트폰은 정말 인상적인 카메라 시스템을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "has a",
+          "why_kr": "'s'와 'a'가 연결되어 '해저(haza)'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "camera system",
+          "why_kr": "'camera'의 첫 'a'와 'system'의 첫 'sy' 소리가 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many companies are investing heavily in AI development for future applications.",
+      "translation_kr": "많은 회사들이 미래 애플리케이션을 위해 AI 개발에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'의 'ng'와 'heavily'의 'h'가 연결되거나 'h'가 약하게 발음되어 혼동될 수 있습니다."
+        },
+        {
+          "part": "future applications",
+          "why_kr": "'future'의 'tu' 발음과 'applications'의 강세 위치를 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing",
+          "meaning_kr": "투자하는"
+        },
+        {
+          "word": "applications",
+          "meaning_kr": "응용 프로그램, 적용"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Tech giant InnovateCorp reported a 15% increase in profits by Q3 2025.",
+      "translation_kr": "기술 대기업 이노베이트코프는 2025년 3분기까지 15%의 수익 증가를 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "InnovateCorp",
+          "why_kr": "고유 명사이므로 정확한 발음과 철자를 파악하기 어렵습니다."
+        },
+        {
+          "part": "reported a",
+          "why_kr": "'d'와 'a'가 연결되어 '리포티더(reporteda)'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "profits by",
+          "why_kr": "'profits'의 's'와 'by'가 연결되면서 소리가 뭉개질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech giant",
+          "meaning_kr": "기술 대기업"
+        },
+        {
+          "word": "profits",
+          "meaning_kr": "수익, 이윤"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "The new AI model is going to turn heads with its advanced natural language processing.",
+      "translation_kr": "새로운 AI 모델은 고급 자연어 처리 능력으로 많은 사람들의 이목을 집중시킬 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "going to",
+          "why_kr": "빠른 발음에서는 'gonna'처럼 축약되어 들릴 수 있습니다."
+        },
+        {
+          "part": "turn heads",
+          "why_kr": "숙어이므로 의미를 파악하는 것이 중요하며, 'n'과 'h'의 연결 발음에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "turn heads",
+          "meaning_kr": "사람들의 이목을 집중시키다"
+        },
+        {
+          "word": "natural language processing",
+          "meaning_kr": "자연어 처리"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering how they've integrated AI into that tiny new wearable gadget.",
+      "translation_kr": "당신은 그들이 어떻게 그 작은 새로운 웨어러블 기기에 AI를 통합했는지 궁금할 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You're probably",
+          "why_kr": "'You're'와 'probably'가 빠르게 연결되고 'prob'의 'b'가 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "they've integrated AI",
+          "why_kr": "연결되는 발음 ('they've'의 'v'와 'integrated'의 't', 'integrated'의 'd'와 'AI')이 매우 빠르게 이어져 들립니다."
+        },
+        {
+          "part": "wearable gadget",
+          "why_kr": "두 단어 모두 '어(uh)' 발음이 약하고 빠르게 연결되어 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "integrated",
+          "meaning_kr": "통합된"
+        },
+        {
+          "word": "wearable gadget",
+          "meaning_kr": "웨어러블 기기"
+        }
+      ]
+    }
+  ]
+}
