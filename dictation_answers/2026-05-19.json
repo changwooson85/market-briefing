@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-19 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "She's actively looking for a new job in the marketing sector right now.",
+      "translation_kr": "그녀는 지금 마케팅 분야에서 새로운 일자리를 적극적으로 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for a",
+          "why_kr": "'for a'가 연음되어 '포러'처럼 들릴 수 있으며, 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "marketing sector",
+          "why_kr": "'ng' 발음과 'sector'의 'c' 발음(k 사운드)에 유의하며, 강세가 'mar'와 'sec'에 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "actively",
+          "meaning_kr": "활동적으로, 적극적으로"
+        },
+        {
+          "word": "sector",
+          "meaning_kr": "분야, 부문"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company reported a significant increase in quarterly profits due to strong sales.",
+      "translation_kr": "우리 회사는 강력한 매출 덕분에 분기별 이윤에서 상당한 증가를 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported a",
+          "why_kr": "'reported'의 'd'와 'a'가 연음되어 '리포티드어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "quarterly profits",
+          "why_kr": "'quarterly'의 'ter' 발음과 'profits'의 'pro' 발음에 유의해야 합니다. 두 단어 모두 강세가 첫 음절에 있습니다."
+        },
+        {
+          "part": "due to",
+          "why_kr": "빠른 연설에서 '듀 투'보다는 '듀 터'에 가깝게 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly",
+          "meaning_kr": "분기별의"
+        },
+        {
+          "word": "profits",
+          "meaning_kr": "이윤, 수익"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The main stock index rose by 1.5% yesterday, reaching its highest point this year.",
+      "translation_kr": "주요 주가지수가 어제 1.5% 상승하여 올해 최고점에 도달했습니다.",
+      "tricky_parts": [
+        {
+          "part": "index rose by",
+          "why_kr": "'index'의 'x'와 'rose'가 연음되고, 'by'는 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "highest point",
+          "why_kr": "'highest'의 'gh'는 묵음이며, 'st'와 'p'가 연결되어 '하이스트 포인트'가 아닌 '하이 스포인트'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "stock index",
+          "meaning_kr": "주가지수"
+        },
+        {
+          "word": "point",
+          "meaning_kr": "지점, (여기서는) 수치"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Their new startup really took off last month, exceeding all initial revenue projections.",
+      "translation_kr": "그들의 새로운 스타트업은 지난달에 정말로 급성장하여 모든 초기 수익 예상을 초과했습니다.",
+      "tricky_parts": [
+        {
+          "part": "took off",
+          "why_kr": "구동사 'take off'의 과거형으로, 'k'와 'o'가 연음되어 '툭 오프'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "initial revenue",
+          "why_kr": "'initial'의 'tial' 발음과 'revenue'의 강세(첫 음절)에 유의해야 합니다."
+        },
+        {
+          "part": "projections",
+          "why_kr": "'projections'의 'jec' 발음과 마지막 's' 발음을 정확히 듣는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "startup",
+          "meaning_kr": "신생 기업, 스타트업"
+        },
+        {
+          "word": "projections",
+          "meaning_kr": "예상, 예측"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're worried about job security, I'd say it'll be tough, but you'll manage.",
+      "translation_kr": "직업 안정성에 대해 걱정한다면, 힘들겠지만, 잘 헤쳐나갈 거라고 생각해요.",
+      "tricky_parts": [
+        {
+          "part": "If you're",
+          "why_kr": "'If'와 'you're'가 빠르게 연음되어 '이프유어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "I'd say it'll",
+          "why_kr": "'I'd', 'say', 'it'll' 세 부분이 빠르게 연음되고 축약되어 '아잇 세이 이럴'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "you'll manage",
+          "why_kr": "'you'll'의 축약형과 'manage'의 발음(첫 음절 강세)이 빠르게 이어질 때 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "job security",
+          "meaning_kr": "직업 안정성"
+        },
+        {
+          "word": "manage",
+          "meaning_kr": "(어려운 상황을) 잘 헤쳐나가다, 처리하다"
+        }
+      ]
+    }
+  ]
+}
