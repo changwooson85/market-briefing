@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-20 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually eat a healthy breakfast with fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 과일과 요거트를 곁들인 건강한 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 소리가 'z' 발음으로 나며, 한국 학습자에게는 발음이 어렵거나 'sh'로 잘못 들을 수 있습니다."
+        },
+        {
+          "part": "fruit and",
+          "why_kr": "'t'와 'a'가 연결되어 발음되며, 'and'의 'd' 발음이 약화되거나 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "breakfast",
+          "meaning_kr": "아침 식사"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "We need to finalize our travel itinerary for the business trip by next Friday.",
+      "translation_kr": "우리는 다음 주 금요일까지 출장 여행 일정을 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize",
+          "why_kr": "'l' 발음이 'r' 발음과 혼동되거나 정확하게 발음하기 어려울 수 있습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "발음(특히 강세가 두 번째 음절에 있음)이 생소하여 정확하게 듣고 받아쓰기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정표"
+        },
+        {
+          "word": "business trip",
+          "meaning_kr": "출장"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Recent data shows that over 60% of adults now prioritize regular exercise for better health.",
+      "translation_kr": "최근 자료에 따르면 성인의 60% 이상이 더 나은 건강을 위해 이제 규칙적인 운동을 우선시합니다.",
+      "tricky_parts": [
+        {
+          "part": "shows that",
+          "why_kr": "'s'와 'th'가 연결되어 발음될 때, 한국 학습자들이 종종 's' 소리를 놓치거나 'th' 발음을 혼동할 수 있습니다."
+        },
+        {
+          "part": "60%",
+          "why_kr": "숫자와 퍼센트 발음('sixty percent')을 정확히 듣고 구분하는 것이 어려울 수 있습니다."
+        },
+        {
+          "part": "prioritize",
+          "why_kr": "'r' 발음과 여러 음절로 인해 발음하기 어렵고 강세 위치를 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prioritize",
+          "meaning_kr": "우선순위를 두다"
+        },
+        {
+          "word": "regular exercise",
+          "meaning_kr": "규칙적인 운동"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Even though they often bicker, deep down they always see eye to eye on important matters.",
+      "translation_kr": "그들은 종종 다투지만, 내심으로는 중요한 문제에 대해 항상 의견이 일치합니다.",
+      "tricky_parts": [
+        {
+          "part": "bicker",
+          "why_kr": "'ck' 소리가 한국어에 없는 발음이라서 정확하게 듣고 발음하기 어려울 수 있습니다."
+        },
+        {
+          "part": "deep down",
+          "why_kr": "'p'와 'd'가 연결되어 발음되며, 관용적인 의미를 이해하는 데 어려움이 있을 수 있습니다."
+        },
+        {
+          "part": "see eye to eye",
+          "why_kr": "관용구이므로 문자 그대로의 의미를 넘어 실제 의미(의견이 일치하다)를 파악하는 데 어려움이 있을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "bicker",
+          "meaning_kr": "다투다, 말다툼하다"
+        },
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견이 일치하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering when they've planned it, but it'll be next summer.",
+      "translation_kr": "아마 언제 계획했는지 궁금해할 텐데, 다음 여름이 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You're probably",
+          "why_kr": "축약형 'You're'와 'probably'의 빠른 연음, 특히 'r'과 'p'의 연결, 'prob' 부분의 약한 발음 때문에 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "they've planned it",
+          "why_kr": "축약형 'they've'와 과거형 'planned'의 'd'가 'it'과 연결되어 빠르게 발음될 때, 각 단어를 구분하기 어려울 수 있습니다."
+        },
+        {
+          "part": "it'll be",
+          "why_kr": "축약형 'it'll'과 'be'가 빠르게 연결되어, 'it will' 대신 '이럴비'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "wondering",
+          "meaning_kr": "궁금해하는"
+        },
+        {
+          "word": "next summer",
+          "meaning_kr": "다음 여름"
+        }
+      ]
+    }
+  ]
+}
