@@ -1,0 +1,144 @@
+{
+  "date": "2026-05-24 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I really enjoy trying new restaurants, especially for authentic local dishes.",
+      "translation_kr": "저는 새로운 식당을 시도하는 것을 정말 즐겨요, 특히 현지 전통 음식을요.",
+      "tricky_parts": [
+        {
+          "part": "especially",
+          "why_kr": "'s'와 'p'가 붙어 나는 소리가 한국어에 없어 [s-p]로 들릴 수 있으며, 'sh' 소리와 유사하게 발음될 때도 있어 혼동될 수 있습니다."
+        },
+        {
+          "part": "authentic",
+          "why_kr": "'th' 발음 [θ]이 한국어에 없어 'ㅅ'이나 'ㅌ'으로 대체될 수 있고, 중간의 't'가 거의 들리지 않거나 부드러워질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "enjoy",
+          "meaning_kr": "즐기다"
+        },
+        {
+          "word": "authentic",
+          "meaning_kr": "진짜의, 믿을 만한"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Booking accommodation in advance is crucial for a smooth business trip.",
+      "translation_kr": "순조로운 출장을 위해 숙소를 미리 예약하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "accommodation",
+          "why_kr": "여러 개의 'c' 발음 (k, sh)과 강세 없는 음절(com-mo-da)이 길게 이어져 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "crucial",
+          "why_kr": "'r' 발음과 이어진 'u' 발음 [kruːʃəl]이 한국어 '크루셜'과는 다르게 들릴 수 있고, 'c'가 'sh' 소리를 냅니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙소"
+        },
+        {
+          "word": "crucial",
+          "meaning_kr": "결정적인, 중대한"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A recent study published on May 15th confirmed benefits of daily exercise.",
+      "translation_kr": "5월 15일에 발표된 최근 연구는 매일 운동의 이점을 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "published",
+          "why_kr": "'-ed' 발음이 거의 들리지 않고 'sh'와 't' [pʌblɪʃt]로 끝나기 때문에 뒤따르는 소리와 섞이기 쉽습니다."
+        },
+        {
+          "part": "15th",
+          "why_kr": "'th' 발음 [θ]이 한국어에 없어 's'나 'f'로 대체되거나 생략되기 쉽습니다."
+        },
+        {
+          "part": "confirmed",
+          "why_kr": "'m' 발음 뒤에 오는 '-ed' 발음이 약하게 처리되어 잘 들리지 않거나 'confirm'으로만 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "published",
+          "meaning_kr": "발행된, 발표된"
+        },
+        {
+          "word": "confirmed",
+          "meaning_kr": "확인된, 확정된"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "It's important to iron out any disagreements quickly to maintain healthy relationships.",
+      "translation_kr": "건강한 관계를 유지하려면 어떠한 불일치라도 빨리 해결하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "iron out",
+          "why_kr": "'iron'의 'r' 발음이 'n'과 연결되어 빠르게 발음될 때 '아이런 아웃'이 아닌 '아이언 아웃'처럼 들릴 수 있으며, 이디엄 의미 파악이 어려울 수 있습니다."
+        },
+        {
+          "part": "disagreements",
+          "why_kr": "강세 없는 'dis-'와 'a-' 음절이 빠르게 지나가고, '-ments' 발음이 약하게 들려 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "iron out",
+          "meaning_kr": "해결하다, 다듬다"
+        },
+        {
+          "word": "maintain",
+          "meaning_kr": "유지하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta try that new cafe; it's always packed, but it's worth it.",
+      "translation_kr": "그 새로운 카페 꼭 가봐야 해; 항상 붐비지만, 그만한 가치가 있어.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "'You have got to'의 줄임말로, 'got to'가 'gonna'처럼 'gotta'로 축약되어 빠르게 발음되므로 원형을 유추하기 어렵습니다."
+        },
+        {
+          "part": "it's always",
+          "why_kr": "'t'와 'a'가 이어지는 연음 [ɪtsɔːlweɪz]이 자연스러운 흐름 때문에 '이츠 올웨이즈'가 아닌 '잇츠올웨이즈'처럼 붙어 들릴 수 있습니다."
+        },
+        {
+          "part": "worth it",
+          "why_kr": "'th' [θ] 발음과 뒤의 'it'이 연결될 때 'wɜːrθɪt'으로 자연스럽게 이어져 한국 학습자에게는 '월씻'처럼 들리거나 'th' 발음을 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "packed",
+          "meaning_kr": "붐비는, 만원인"
+        },
+        {
+          "word": "worth it",
+          "meaning_kr": "그만한 가치가 있는"
+        }
+      ]
+    }
+  ]
+}
