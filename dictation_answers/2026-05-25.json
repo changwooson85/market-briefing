@@ -1,0 +1,152 @@
+{
+  "date": "2026-05-25 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has a really impressive camera and long battery life.",
+      "translation_kr": "제 새 스마트폰은 정말 인상적인 카메라와 긴 배터리 수명을 가지고 있어요.",
+      "tricky_parts": [
+        {
+          "part": "impressive",
+          "why_kr": "'s' 발음이 두 번 반복되고 'v' 발음이 한국어에 없어 혼동될 수 있습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'battery'의 끝 'y'와 'life'의 시작 'l'이 연결되어 들릴 수 있으며, 'f' 발음이 명확하지 않으면 'live'로 오해할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The tech giant is launching a new software update for its flagship product next quarter.",
+      "translation_kr": "그 거대 기술 기업은 다음 분기에 주력 제품에 대한 새로운 소프트웨어 업데이트를 출시할 예정입니다.",
+      "tricky_parts": [
+        {
+          "part": "tech giant",
+          "why_kr": "'tech'의 'ch'와 'giant'의 'g' 발음이 이어지면서 명확하게 구분하기 어려울 수 있습니다."
+        },
+        {
+          "part": "software update",
+          "why_kr": "'ftw' 발음이 이어지는 부분과 'update'의 't'가 약하게 들리거나 생략될 수 있어 주의해야 합니다."
+        },
+        {
+          "part": "flagship product",
+          "why_kr": "'flagship'의 'g' 발음이 약하게 들릴 수 있으며, 'sh' 소리와 'product'가 연이어 발음될 때 정확한 구분이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech giant",
+          "meaning_kr": "거대 기술 기업"
+        },
+        {
+          "word": "flagship product",
+          "meaning_kr": "주력 제품"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "AI investments are projected to reach $500 billion globally by the end of 2028.",
+      "translation_kr": "AI 투자는 2028년 말까지 전 세계적으로 5천억 달러에 도달할 것으로 예상됩니다.",
+      "tricky_parts": [
+        {
+          "part": "projected to reach",
+          "why_kr": "'projected'의 'd' 발음이 'to'와 연결되어 약하게 들리거나 't'처럼 들릴 수 있으며, 'ch' 발음이 중요합니다."
+        },
+        {
+          "part": "$500 billion",
+          "why_kr": "빠르게 숫자 정보를 들을 때 'billion'과 'million'을 혼동하거나 정확한 금액을 놓치기 쉽습니다."
+        },
+        {
+          "part": "by the end of",
+          "why_kr": "단어들이 매우 빠르게 연음되어 들리기 때문에, 'by-the-end-ov'처럼 하나의 덩어리로 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "projected",
+          "meaning_kr": "예상되는, 계획된"
+        },
+        {
+          "word": "globally",
+          "meaning_kr": "전 세계적으로"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Many startups are trying to keep pace with the rapidly evolving AI landscape.",
+      "translation_kr": "많은 스타트업들이 빠르게 진화하는 AI 환경에 발맞추려고 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "keep pace with",
+          "why_kr": "원어민들이 'pace with'를 빠르게 연음하는 경향이 있으며, 'th' 발음이 명확하지 않아 'wit'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "rapidly evolving",
+          "why_kr": "'rapidly'의 'dly' 발음이 빠르게 지나가고, 'evolving'의 'v' 발음과 'ing' 끝음절을 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "AI landscape",
+          "why_kr": "두 단어가 연결될 때 'AI'와 'landscape'의 발음이 명확하게 구분되지 않고 붙어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keep pace with",
+          "meaning_kr": "~에 발맞추다, 속도를 맞추다"
+        },
+        {
+          "word": "AI landscape",
+          "meaning_kr": "AI 환경/분야"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard they're implementing AI in their new devices, so it'll be fascinating.",
+      "translation_kr": "그들이 새로운 기기에 AI를 구현하고 있다고 들었어요, 그래서 정말 흥미로울 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard they're",
+          "why_kr": "'I've'와 'heard'의 'd'가 연음되고, 'they're'와 'their'의 발음이 같아 문맥으로 구분해야 하며, 빠르게 들을 때 놓치기 쉽습니다."
+        },
+        {
+          "part": "implementing AI in their new",
+          "why_kr": "'implementing'의 't'가 생략되거나 약화될 수 있고, 'in'과 'their'가 연음될 때 'th' 발음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "it'll be fascinating",
+          "why_kr": "축약형 'it'll'의 발음이 빠르고, 'fascinating'의 'sc' 발음이 's'로 들릴 수 있으며, 't' 발음이 약해질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "implementing",
+          "meaning_kr": "구현하는, 실행하는"
+        },
+        {
+          "word": "fascinating",
+          "meaning_kr": "매우 흥미로운, 매력적인"
+        }
+      ]
+    }
+  ]
+}
