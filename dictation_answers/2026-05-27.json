@@ -1,0 +1,152 @@
+{
+  "date": "2026-05-27 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I'd like to order a chicken sandwich and a cup of coffee, please.",
+      "translation_kr": "치킨 샌드위치 하나랑 커피 한 잔 주세요.",
+      "tricky_parts": [
+        {
+          "part": "order a",
+          "why_kr": "단어 'order'의 끝 'r' 소리가 'a'와 연결되어 'rə'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "cup of",
+          "why_kr": "'p' 소리가 'of'와 연결되고 'of'가 약하게 발음되어 'cup-ov'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "order",
+          "meaning_kr": "주문하다"
+        },
+        {
+          "word": "sandwich",
+          "meaning_kr": "샌드위치"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Please confirm your flight itinerary and hotel reservation by next Thursday morning.",
+      "translation_kr": "다음 주 목요일 오전까지 항공 일정과 호텔 예약을 확인해 주세요.",
+      "tricky_parts": [
+        {
+          "part": "confirm your",
+          "why_kr": "'confirm'의 'm' 소리가 'your'와 연결되어 'm-your'처럼 들릴 수 있으며, 'r' 발음에 유의해야 합니다."
+        },
+        {
+          "part": "itinerary and",
+          "why_kr": "'itinerary'의 복잡한 발음과 'and'가 약하게 발음되어 연결될 때 어려울 수 있습니다."
+        },
+        {
+          "part": "Thursday morning",
+          "why_kr": "'Th' 발음과 'r' 소리, 그리고 'morning'의 'r' 소리가 한국 학습자에게 어렵게 느껴질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        },
+        {
+          "word": "reservation",
+          "meaning_kr": "예약"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A recent study published on April 15th indicated increased benefits from daily exercise.",
+      "translation_kr": "4월 15일에 발표된 최근 연구는 매일 운동으로부터의 증가된 이점을 시사했습니다.",
+      "tricky_parts": [
+        {
+          "part": "published on",
+          "why_kr": "'published'의 끝 'd' 소리가 'on'과 연결되어 'd-on'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "April 15th",
+          "why_kr": "'April'의 'r' 발음과 '15th'의 'th' 발음을 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "increased benefits",
+          "why_kr": "'increased'의 'd' 소리가 'benefits'와 연결될 때 들리지 않거나 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "indicated",
+          "meaning_kr": "시사했다, 나타냈다"
+        },
+        {
+          "word": "benefits",
+          "meaning_kr": "이점"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "It's important to clear the air quickly after misunderstandings to maintain strong relationships.",
+      "translation_kr": "오해 후에 강한 관계를 유지하려면 분위기를 빨리 전환하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "관용구 'clear the air'의 'r' 소리와 'th' 소리가 연결될 때 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "after misunderstandings",
+          "why_kr": "'after'의 'r' 소리와 'misunderstandings'의 's' 발음이 연결될 때 혼동될 수 있습니다."
+        },
+        {
+          "part": "maintain strong",
+          "why_kr": "'maintain'의 'n' 소리가 'strong'과 연결될 때, 그리고 'str' 발음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 분위기를 전환하다"
+        },
+        {
+          "word": "misunderstandings",
+          "meaning_kr": "오해"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're going to travel abroad, you'd better check your passport's expiration date.",
+      "translation_kr": "해외로 여행을 갈 예정이라면, 여권 만료일을 확인하는 것이 좋습니다.",
+      "tricky_parts": [
+        {
+          "part": "you're going to",
+          "why_kr": "축약형 'you're'의 빠른 발음과 'going to'가 연음되어 'gonna'처럼 들릴 수 있어 주의가 필요합니다."
+        },
+        {
+          "part": "travel abroad, you'd",
+          "why_kr": "'travel'의 'l'이 'abroad'와, 'abroad'의 'd'가 'you'd'와 빠르게 연결될 때 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "passport's expiration date",
+          "why_kr": "'passport's'의 소유격 's' 발음과 'expiration'의 'x' 발음 및 강세 위치가 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "abroad",
+          "meaning_kr": "해외로"
+        },
+        {
+          "word": "expiration date",
+          "meaning_kr": "만료일"
+        }
+      ]
+    }
+  ]
+}
