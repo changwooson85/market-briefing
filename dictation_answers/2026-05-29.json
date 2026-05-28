@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-29 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are investing in the stock market to save for their future.",
+      "translation_kr": "많은 사람들이 미래를 위해 주식 시장에 투자하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing in",
+          "why_kr": "'investing'의 'ng' 사운드와 'in'이 연결되어 [ɪnˈvɛstɪŋɪn]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "stock market",
+          "why_kr": "'stock'의 'k'와 'market'의 'm'이 이어지면서 'k' 발음이 약화되거나 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "for their",
+          "why_kr": "'for'와 'their'의 연결 발음과 'th' 발음에 유의해야 합니다. 'there'와 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing",
+          "meaning_kr": "투자하다"
+        },
+        {
+          "word": "stock market",
+          "meaning_kr": "주식 시장"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company announced strong quarterly earnings, exceeding market expectations.",
+      "translation_kr": "우리 회사는 시장 기대치를 뛰어넘는 강력한 분기별 실적을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced strong",
+          "why_kr": "'announced'의 마지막 'd' 발음이 'strong'의 'str' 발음과 이어지면서 약화되거나 뭉개질 수 있습니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'r' 발음과 'earnings'의 'ea' 발음('어' 소리)이 한국 학습자에게는 어려울 수 있습니다."
+        },
+        {
+          "part": "exceeding market",
+          "why_kr": "'exceeding'의 'ng' 사운드가 'market'과 연결될 때, 'g'가 탈락하고 [ɪŋmɑːrkɪt]처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 실적"
+        },
+        {
+          "word": "market expectations",
+          "meaning_kr": "시장 기대치"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "The central bank projects a 2.5% economic growth for next year's fiscal period.",
+      "translation_kr": "중앙은행은 내년 회계 기간 동안 2.5%의 경제 성장을 예상합니다.",
+      "tricky_parts": [
+        {
+          "part": "central bank projects",
+          "why_kr": "'central'의 'l'과 'bank'의 'k', 그리고 'projects'의 'p'가 연음되면서 'k' 발음이 약화되거나 안 들릴 수 있습니다."
+        },
+        {
+          "part": "2.5%",
+          "why_kr": "숫자를 영어로 명확하게 'two point five percent'라고 말하는 것에 익숙해져야 합니다."
+        },
+        {
+          "part": "fiscal period",
+          "why_kr": "'fiscal'의 's' 사운드와 'period'의 'i' (이) 사운드에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "central bank",
+          "meaning_kr": "중앙은행"
+        },
+        {
+          "word": "fiscal period",
+          "meaning_kr": "회계 기간"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Many startups are struggling to make ends meet due to rising operational costs.",
+      "translation_kr": "많은 신생 기업들이 운영 비용 상승으로 인해 겨우 수입과 지출을 맞추려 애쓰고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "struggling to",
+          "why_kr": "'struggling'의 'g'와 'to'가 연결될 때 'g' 발음이 약해지거나 't' 발음이 'd'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "make ends meet",
+          "why_kr": "숙어 'make ends meet'는 빠르게 발음될 때 'ends'의 's' 발음이 약화되거나 'meet'와 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "operational costs",
+          "why_kr": "'operational'의 'tion' 부분 발음과 'costs'의 'sts' 연음 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "make ends meet",
+          "meaning_kr": "겨우 먹고 살다, 수입과 지출을 맞추다"
+        },
+        {
+          "word": "operational costs",
+          "meaning_kr": "운영 비용"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've got to ensure the new policy won't negatively impact job growth.",
+      "translation_kr": "그들은 새로운 정책이 일자리 성장에 부정적인 영향을 미치지 않도록 보장해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "They've got to",
+          "why_kr": "'They've'와 'got to' (실제 발음은 'gotta')는 연음과 축약이 강하게 적용되어 빠르게 들릴 수 있으므로 주의해야 합니다."
+        },
+        {
+          "part": "won't negatively",
+          "why_kr": "'won't'의 't'는 약하게 발음되거나 생략될 수 있으며, 'negatively'와 빠르게 연결될 수 있습니다."
+        },
+        {
+          "part": "impact job growth",
+          "why_kr": "'impact'의 마지막 't'가 약해지거나 다음 단어와 연결되어 'job'의 'j' 발음과 연음될 때 정확히 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "ensure",
+          "meaning_kr": "보장하다, 확실히 하다"
+        },
+        {
+          "word": "job growth",
+          "meaning_kr": "일자리 성장"
+        }
+      ]
+    }
+  ]
+}
