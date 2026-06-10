@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-11 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has a really impressive camera and long battery life.",
+      "translation_kr": "이 새로운 스마트폰은 정말 인상적인 카메라와 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "impressive",
+          "why_kr": "'im-PRESS-iv' 발음에서 'ss'가 [s] 소리, 'v'가 [v] 소리로 정확히 발음되지 않으면 '인프레시브' 등으로 오해할 수 있습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'battery'의 'tt'가 영어식으로 [d] 소리에 가깝게 발음되고, 'battery'와 'life'가 연결되어 '배터리 라이프'가 아닌 '배러리 라이프'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our development team is currently working on an innovative AI project.",
+      "translation_kr": "우리 개발팀은 현재 혁신적인 AI 프로젝트를 진행 중입니다.",
+      "tricky_parts": [
+        {
+          "part": "development",
+          "why_kr": "'de-VEL-op-ment'에서 첫 음절 'de'가 약하게 발음되고, 'v' 소리가 [b]로 들릴 수 있습니다."
+        },
+        {
+          "part": "innovative",
+          "why_kr": "'IN-no-va-tive'에서 강세가 첫 음절에 있고, 'v' 소리가 [b]로 오해될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "development team",
+          "meaning_kr": "개발팀"
+        },
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "Global semiconductor sales reached fifty billion dollars in the first quarter of 2025.",
+      "translation_kr": "글로벌 반도체 매출은 2025년 1분기에 500억 달러에 달했습니다.",
+      "tricky_parts": [
+        {
+          "part": "semiconductor",
+          "why_kr": "긴 단어이며, 각 음절의 강세와 정확한 모음/자음 발음(특히 'c')이 어려울 수 있습니다."
+        },
+        {
+          "part": "reached fifty",
+          "why_kr": "'reached'의 끝 [tʃt] 소리와 'fifty'의 [f] 소리가 빠르게 연결될 때 '리치피프티'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "quarter of",
+          "why_kr": "'quarter'의 'er' 발음과 'of'가 약화되어 '쿼러브'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "semiconductor",
+          "meaning_kr": "반도체"
+        },
+        {
+          "word": "first quarter",
+          "meaning_kr": "1분기"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "To stay ahead of the curve, companies must always keep an eye on emerging technologies.",
+      "translation_kr": "시대에 뒤떨어지지 않으려면, 기업들은 항상 신기술을 주시해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "ahead of the",
+          "why_kr": "'ahead'의 'h'가 약화되거나 탈락하고 'a-he-dov-the'처럼 연결될 수 있습니다."
+        },
+        {
+          "part": "keep an eye on",
+          "why_kr": "'p'와 'an', 'an'과 'eye', 'eye'와 'on'이 모두 연결되어 '키번아이온'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "emerging technologies",
+          "why_kr": "'emerging'의 'g' 소리, 'technologies'의 'ch'와 'g' 소리가 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "stay ahead of the curve",
+          "meaning_kr": "시대에 뒤떨어지지 않다"
+        },
+        {
+          "word": "emerging technologies",
+          "meaning_kr": "신기술"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge (contractions, fast speech)",
+      "text": "You'll likely see AI's impact on how we'll interact with future smart devices, won't you?",
+      "translation_kr": "당신은 AI가 미래 스마트 기기와 우리가 상호작용하는 방식에 미칠 영향을 보게 될 것입니다, 그렇죠?",
+      "tricky_parts": [
+        {
+          "part": "You'll likely",
+          "why_kr": "'You'll'의 'll' 소리와 'likely'의 'l' 소리가 연결될 때, '유일라이클리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "AI's impact",
+          "why_kr": "'AI's'의 's'와 'impact'의 'im'이 연결되어 '에이아이스임팩트'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "won't you?",
+          "why_kr": "'won't'의 't'가 거의 발음되지 않고, 'n'과 'you'가 연결되어 '원츄'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "impact",
+          "meaning_kr": "영향"
+        },
+        {
+          "word": "smart devices",
+          "meaning_kr": "스마트 기기"
+        }
+      ]
+    }
+  ]
+}
