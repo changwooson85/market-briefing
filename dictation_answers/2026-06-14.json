@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-14 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요구르트로 건강한 아침 식사를 준비해요.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u'와 's' 사이의 'a'가 묵음 처리되어 [juːʒəli]로 발음되어 한국 학습자들이 '유즈얼리'로 듣기보다 '유절리'처럼 들을 수 있습니다."
+        },
+        {
+          "part": "fresh fruit",
+          "why_kr": "'sh'와 'f' 발음이 이어지면서 한국 학습자들이 구별하기 어려울 수 있으며, 'fr' 발음이 한국어에 없는 복합 자음이라 발음하기 까다로울 수 있습니다."
+        },
+        {
+          "part": "every morning",
+          "why_kr": "'y'와 'm'이 연음되어 '에브리모닝'이 아니라 '에브리 모닝'처럼 끊어 들을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요구르트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our team has scheduled a business trip next month to negotiate important contract details.",
+      "translation_kr": "우리 팀은 중요한 계약 세부 사항을 협상하기 위해 다음 달에 출장을 계획했습니다.",
+      "tricky_parts": [
+        {
+          "part": "scheduled",
+          "why_kr": "'h'가 묵음이고 'ed' 발음이 [d]로 짧게 끝나며 '스케줄드'가 아닌 [ˈskedʒuːld]로 들려 한국 학습자들이 놓치거나 혼동할 수 있습니다."
+        },
+        {
+          "part": "negotiate",
+          "why_kr": "'ti' 부분이 [ʃi]나 [ʃiə]처럼 들릴 수 있어 '네고시에이트'로 오해하기 쉽습니다."
+        },
+        {
+          "part": "contract details",
+          "why_kr": "'t'와 'd'가 연음되고, 'contract'의 강세가 'con'에 있어 '트랙트 디테일즈'가 아닌 '컨트랙트 디테일즈'처럼 들립니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "scheduled",
+          "meaning_kr": "~을 예정하다, 계획하다"
+        },
+        {
+          "word": "negotiate",
+          "meaning_kr": "협상하다"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A recent survey revealed over 65% of adults consume more processed food daily since 2020.",
+      "translation_kr": "최근 설문조사에 따르면 2020년 이후 성인의 65% 이상이 매일 가공식품을 더 많이 섭취한다고 합니다.",
+      "tricky_parts": [
+        {
+          "part": "revealed",
+          "why_kr": "'ea' 발음이 [iː]로 길게 이어지고, 'ed'가 [d]로 발음되어 '리비얼드'로 들리기보다 '리빌드'처럼 들려 철자를 유추하기 어려울 수 있습니다."
+        },
+        {
+          "part": "processed food",
+          "why_kr": "'processed'의 'ed' 발음이 [t]가 아닌 [t]로 발음되어 [ˈprɑːsest fuːd]로 들리고, 'food'와 연결되어 '프로세스트 푸드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "since 2020",
+          "why_kr": "'ce'와 '2'가 연음되어 '신스 트웬티 트웬티'가 아닌 '신스트웬티 트웬티'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "survey",
+          "meaning_kr": "설문조사"
+        },
+        {
+          "word": "processed food",
+          "meaning_kr": "가공식품"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Despite their differences, they always manage to see eye to eye on important family matters.",
+      "translation_kr": "그들의 차이점에도 불구하고, 그들은 중요한 가족 문제에 있어서는 항상 의견이 일치합니다.",
+      "tricky_parts": [
+        {
+          "part": "Despite their",
+          "why_kr": "'t'와 'th'가 연음되어 '디스파이트 데어'가 아닌 '디스파잇데어'처럼 자연스럽게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "manage to",
+          "why_kr": "'to'가 [tə]로 약화되어 '매니지 투'가 아닌 '매니지 더'처럼 들릴 수 있으며, 전체적으로 빠르게 발음됩니다."
+        },
+        {
+          "part": "see eye to eye",
+          "why_kr": "'see'의 마지막 'ee'와 'eye'가 연음되고, 'eye'와 'to'가 연음되어 '씨 아이 투 아이'가 아닌 '씨아이투아이'처럼 빠르게 연결되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "despite",
+          "meaning_kr": "~에도 불구하고"
+        },
+        {
+          "word": "family matters",
+          "meaning_kr": "가족 문제 (사항)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're really committed to health, you'll ensure you're consistently getting enough sleep.",
+      "translation_kr": "만약 당신이 정말 건강에 전념한다면, 꾸준히 충분한 수면을 취하는 것을 확실히 할 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "you're really",
+          "why_kr": "'you're' [jʊr]와 'really' [ˈrɪli]가 연음되어 '유얼 리얼리'가 아닌 '유어r리얼리'처럼 'r' 소리가 반복되고 빠르게 이어져 들립니다."
+        },
+        {
+          "part": "committed to",
+          "why_kr": "'t' 발음이 '커밋티드 투'가 아닌 '커미티드 더'처럼 [ɾ] (플랩 T)로 약화되어 들릴 수 있으며, 'to'는 [tə]로 약화됩니다."
+        },
+        {
+          "part": "getting enough",
+          "why_kr": "'g'와 'e'가 연음되고 'enough'의 'gh'가 묵음이라 '게팅 이너프'가 아닌 '게팅이너프'처럼 들리며, 't'가 [ɾ] 소리로 약화될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "committed",
+          "meaning_kr": "전념하는, 헌신적인"
+        },
+        {
+          "word": "consistently",
+          "meaning_kr": "꾸준히, 일관되게"
+        }
+      ]
+    }
+  ]
+}
