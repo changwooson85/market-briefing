@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-15 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I really need to get a new smartphone because mine is getting too old.",
+      "translation_kr": "저는 새 스마트폰을 사야 해요. 제 것이 너무 오래되었거든요.",
+      "tricky_parts": [
+        {
+          "part": "need to get a",
+          "why_kr": "'need to'의 't' 발음이 약화되거나 생략되고, 'get a'가 연음되어 '게더'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "is getting",
+          "why_kr": "'is'의 's'와 'getting'의 'g'가 연음되어 '이즈게팅'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The tech company plans to launch its innovative software next quarter.",
+      "translation_kr": "그 IT 회사는 다음 분기에 혁신적인 소프트웨어를 출시할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "plans to launch",
+          "why_kr": "'plans'의 's'와 'to'가 연음되고, 'to'의 't'가 약화되며, 'launch'의 'ch' 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "innovative",
+          "why_kr": "'v' 발음이 한국어에 없어서 어려울 수 있고, 강세가 'no'에 있다는 점에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "launch",
+          "meaning_kr": "출시하다"
+        },
+        {
+          "word": "software",
+          "meaning_kr": "소프트웨어"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Global investment in artificial intelligence is projected to reach billions by 2028.",
+      "translation_kr": "인공지능에 대한 세계 투자는 2028년까지 수십억 달러에 달할 것으로 예상됩니다.",
+      "tricky_parts": [
+        {
+          "part": "artificial intelligence",
+          "why_kr": "'artificial'의 'ti' 부분과 'intelligence'의 'll' 연음, 그리고 전체 단어의 복잡한 발음과 강세가 어렵습니다."
+        },
+        {
+          "part": "is projected to reach",
+          "why_kr": "'is'와 'projected'의 연음, 그리고 'to'의 약화된 't' 발음이 '이즈 프로젝티드투'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "billions by 2028",
+          "why_kr": "'b'와 'v' 발음의 혼동, 'billions'의 's' 발음, 그리고 '2028'과 같은 큰 숫자의 정확한 발음이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investment",
+          "meaning_kr": "투자"
+        },
+        {
+          "word": "artificial intelligence",
+          "meaning_kr": "인공지능"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Developing new AI features has proven a tough nut to crack for the team.",
+      "translation_kr": "새로운 AI 기능을 개발하는 것은 팀에게 매우 어려운 문제임이 입증되었습니다.",
+      "tricky_parts": [
+        {
+          "part": "proven a",
+          "why_kr": "'proven'의 'n'과 'a'가 연음되어 '프로브너'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "tough nut to crack",
+          "why_kr": "관용구 자체의 의미를 파악하기 어렵고, 'tough'의 'gh'가 묵음인 점, 'nut to'의 't'가 약화되어 들릴 수 있습니다."
+        },
+        {
+          "part": "for the",
+          "why_kr": "'for'가 약하게 발음되어 '퍼' 또는 'fər'처럼 들리고, 'the'와 연음될 때 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tough nut to crack",
+          "meaning_kr": "해결하기 어려운 문제, 난제"
+        },
+        {
+          "word": "features",
+          "meaning_kr": "기능"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna need to update your operating system; it'll improve performance significantly.",
+      "translation_kr": "운영체제를 업데이트해야 할 겁니다. 그러면 성능이 상당히 향상될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna need to",
+          "why_kr": "'You are going to need to'의 축약 및 연음이 많아 '유어거나 니드투'와 같이 들리며, 원형을 유추하기 어렵습니다."
+        },
+        {
+          "part": "it'll improve",
+          "why_kr": "'it will improve'의 축약형으로, 't'가 'ㄹ' 소리처럼 들리고 'improve'와 연음되어 '이딜 임프루브'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "performance significantly",
+          "why_kr": "'performance'의 'ance' 부분 발음과 'significantly'의 복잡한 음절 구조 및 'ly' 발음이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "operating system",
+          "meaning_kr": "운영체제"
+        },
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 크게"
+        }
+      ]
+    }
+  ]
+}
