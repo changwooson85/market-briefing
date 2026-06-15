@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-16 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many companies are hiring new employees to expand their business operations.",
+      "translation_kr": "많은 회사들이 사업 확장을 위해 신입 직원을 채용하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "are hiring",
+          "why_kr": "'are'의 /r/ 소리가 'hiring'과 연결되어 자연스럽게 이어지며, 'h' 소리가 약해지거나 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "employees to expand",
+          "why_kr": "'employees'의 마지막 /z/ 소리가 'to'와 연결되고, 'to'는 /tə/로 약하게 발음될 수 있어 잘 안 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hiring",
+          "meaning_kr": "채용 (고용)"
+        },
+        {
+          "word": "operations",
+          "meaning_kr": "사업 활동, 운영"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "The stock market saw a slight increase today, driven by strong tech sector performance.",
+      "translation_kr": "오늘 주식 시장은 강력한 기술 부문의 실적에 힘입어 소폭 상승했습니다.",
+      "tricky_parts": [
+        {
+          "part": "saw a slight",
+          "why_kr": "'saw'의 마지막 /w/ 소리와 'a'가 연결되어 'sawa'처럼 들릴 수 있으며, 'slight'의 /t/는 종종 약하게 발음됩니다."
+        },
+        {
+          "part": "driven by",
+          "why_kr": "'driven'의 /n/과 'by'의 /b/가 연결될 때, /b/가 약해지거나 /m/으로 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "slight increase",
+          "meaning_kr": "소폭 상승"
+        },
+        {
+          "word": "sector performance",
+          "meaning_kr": "부문 실적"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "The company reported a 15% revenue growth for the quarter ending March 31st.",
+      "translation_kr": "그 회사는 3월 31일로 마감하는 분기에 15%의 매출 성장을 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported a 15%",
+          "why_kr": "'reported'의 /d/와 'a'가 연결되고, '15%' (fifteen percent)와 '50%' (fifty percent)를 혼동하기 쉽습니다."
+        },
+        {
+          "part": "revenue growth for",
+          "why_kr": "'growth'의 /θ/ 소리와 'for'의 /f/ 소리가 연결될 때, 발음이 어렵거나 특정 소리가 약해질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revenue growth",
+          "meaning_kr": "매출 성장"
+        },
+        {
+          "word": "quarter",
+          "meaning_kr": "분기"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal_verb",
+      "text": "Many small businesses are struggling to keep their heads above water during this economic downturn.",
+      "translation_kr": "많은 소규모 사업체들이 이번 경기 침체기에 재정적으로 버티기 위해 고군분투하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "struggling to keep",
+          "why_kr": "'struggling'의 /ŋ/ 소리와 'to'의 /t/ 소리가 연결되며, 'to'는 /tə/로 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "heads above water",
+          "why_kr": "'heads'의 /z/와 'above'가 연결되며, 'above'는 종종 약하게 발음되어 원어민이 아닌 경우 잘 듣기 어려운 경향이 있습니다. 또한 숙어 자체의 이해도 중요합니다."
+        },
+        {
+          "part": "economic downturn",
+          "why_kr": "'economic'의 /k/ 소리와 'downturn'이 연결될 때, /k/가 약해지거나 /d/와 합쳐질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keep their heads above water",
+          "meaning_kr": "재정적으로 버티다, 겨우 현상을 유지하다"
+        },
+        {
+          "word": "economic downturn",
+          "meaning_kr": "경기 침체"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge_contractions",
+      "text": "They're expecting the market won't rebound quickly; it'll likely take some time.",
+      "translation_kr": "그들은 시장이 빠르게 반등하지 않을 것으로 예상하고 있습니다; 아마 시간이 좀 걸릴 거예요.",
+      "tricky_parts": [
+        {
+          "part": "They're expecting",
+          "why_kr": "'They're'는 빠르게 발음되며, 'expecting'과 연결될 때 /r/ 소리가 모호해질 수 있습니다. 'expecting'의 /ks/ 발음도 주의해야 합니다."
+        },
+        {
+          "part": "market won't rebound",
+          "why_kr": "'market'의 /t/는 'won't' 앞에서 종종 발음되지 않거나 약하게 발음됩니다. 'won't'의 /t/도 연결될 때 약해지며, 'rebound'를 'around' 등으로 오해할 수 있습니다."
+        },
+        {
+          "part": "it'll likely take",
+          "why_kr": "'it'll'은 매우 빠르게 '이틀'처럼 발음될 수 있으며, 'likely'와 'take' 사이의 /k/ 소리가 연결되거나 약해질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "rebound",
+          "meaning_kr": "반등하다, 회복되다"
+        },
+        {
+          "word": "take some time",
+          "meaning_kr": "시간이 걸리다"
+        }
+      ]
+    }
+  ]
+}
