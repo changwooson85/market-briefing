@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-17 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요구르트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "prepare a",
+          "why_kr": "두 단어의 발음이 이어져 '프리페어러'처럼 들릴 수 있습니다. (r + a 연결)"
+        },
+        {
+          "part": "fresh fruit",
+          "why_kr": "두 단어 모두 'fr' 소리가 있어 정확한 발음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요구르트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "We're planning to finalize the travel itinerary for the conference trip by next Friday.",
+      "translation_kr": "저희는 다음 주 금요일까지 회의 출장 여행 일정을 확정할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize the",
+          "why_kr": "'finalize'의 끝 'z' 발음과 'the'의 'th' 발음이 이어져 어색하게 들릴 수 있습니다."
+        },
+        {
+          "part": "itinerary for",
+          "why_kr": "'itinerary'의 중간 'ner' 소리와 'for'의 'r' 소리가 이어져 정확한 발음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "마무리하다, 확정하다"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate-advanced",
+      "text": "A recent study indicates daily exercise significantly reduces chronic disease risk by 20% for adults.",
+      "translation_kr": "최근 연구에 따르면 성인의 매일 운동은 만성 질환 위험을 20% 유의미하게 줄여줍니다.",
+      "tricky_parts": [
+        {
+          "part": "indicates daily",
+          "why_kr": "'indicates'의 마지막 's' 발음과 'daily'의 'd' 발음이 이어져 들릴 수 있습니다."
+        },
+        {
+          "part": "reduces chronic",
+          "why_kr": "'reduces'의 'z' 발음과 'chronic'의 'ch' 발음이 이어져 명확하게 구분하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 현저하게"
+        },
+        {
+          "word": "chronic disease",
+          "meaning_kr": "만성 질환"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "It's vital to always lend an ear to friends when they're going through a rough patch.",
+      "translation_kr": "친구가 힘든 시기를 겪을 때 항상 귀를 기울여주는 것이 매우 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "lend an ear",
+          "why_kr": "관용구의 의미를 이해해야 하며, 'd'와 'a'가 이어져 '렌던이어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "going through",
+          "why_kr": "구동사(phrasal verb)의 발음과 'through'의 'th' 소리가 이어져 유의해야 합니다."
+        },
+        {
+          "part": "rough patch",
+          "why_kr": "관용구의 의미를 알아야 하며, 'rough'의 'gh'가 'f' 발음이 나는 것에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "lend an ear",
+          "meaning_kr": "~의 말을 경청하다, 귀를 기울이다"
+        },
+        {
+          "word": "rough patch",
+          "meaning_kr": "어려운 시기, 힘든 고비"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "When you're packing for your vacation, don't forget it'll get chilly at night.",
+      "translation_kr": "휴가 짐을 쌀 때, 밤에는 쌀쌀해질 수 있다는 것을 잊지 마세요.",
+      "tricky_parts": [
+        {
+          "part": "When you're",
+          "why_kr": "'When'과 'you're' (you are)가 이어지고 축약된 발음에 익숙해야 합니다."
+        },
+        {
+          "part": "don't forget it'll",
+          "why_kr": "'don't'의 't'가 거의 들리지 않고, 'forget'과 'it'll' (it will)이 빠르게 연결되어 발음됩니다."
+        },
+        {
+          "part": "get chilly",
+          "why_kr": "'get'의 't'와 'chilly'의 'ch'가 이어져 연음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "chilly",
+          "meaning_kr": "쌀쌀한"
+        },
+        {
+          "word": "vacation",
+          "meaning_kr": "휴가"
+        }
+      ]
+    }
+  ]
+}
