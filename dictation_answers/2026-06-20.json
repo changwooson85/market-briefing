@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-20 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually eat breakfast at home before going to work.",
+      "translation_kr": "저는 보통 출근하기 전에 집에서 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u' 사운드가 약화되거나 한국어 '유'와 다르게 들려 헷갈리기 쉽습니다."
+        },
+        {
+          "part": "breakfast at",
+          "why_kr": "두 단어가 연결되어 발음될 때 't' 사운드가 뒤의 모음과 연결되어 '브렉퍼스타트'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "usually",
+          "meaning_kr": "보통, 대개"
+        },
+        {
+          "word": "breakfast",
+          "meaning_kr": "아침 식사"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "We need to finalize the travel itinerary for the upcoming business trip.",
+      "translation_kr": "우리는 다가오는 출장을 위해 여행 일정을 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize",
+          "why_kr": "'파이널라이즈'의 강세와 'z' 발음이 한국어 학습자에게 어려울 수 있습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "복잡한 모음과 자음의 조합, 그리고 강세('아이티너레리'의 두 번째 음절)가 정확하게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "upcoming",
+          "why_kr": "'업커밍'의 연음과 강세를 정확하게 듣는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "마무리하다, 확정하다"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "Experts predict a significant increase in healthy food consumption by 2027.",
+      "translation_kr": "전문가들은 2027년까지 건강식품 소비의 상당한 증가를 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "predict a",
+          "why_kr": "'predict'의 't' 사운드가 뒤의 'a'와 연결되어 '프레딕터'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "significant",
+          "why_kr": "'시그니피컨트'의 강세와 'gn' 발음이 한국어 학습자에게 익숙하지 않을 수 있습니다."
+        },
+        {
+          "part": "consumption",
+          "why_kr": "'컨섬션'의 'sump' 부분 발음과 강세 위치가 틀리기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "predict",
+          "meaning_kr": "예측하다"
+        },
+        {
+          "word": "consumption",
+          "meaning_kr": "소비"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "After a long day, I usually hit the hay early to recharge.",
+      "translation_kr": "긴 하루를 보낸 후, 저는 보통 재충전을 위해 일찍 잠자리에 듭니다.",
+      "tricky_parts": [
+        {
+          "part": "hit the hay",
+          "why_kr": "직역하면 '건초를 치다'이지만 '잠자리에 들다'라는 관용적 표현으로 의미를 파악하기 어렵습니다."
+        },
+        {
+          "part": "recharge",
+          "why_kr": "'리차지'의 'ch' 발음과 강세 위치를 정확히 듣는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hit the hay",
+          "meaning_kr": "잠자리에 들다"
+        },
+        {
+          "word": "recharge",
+          "meaning_kr": "재충전하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning a trip; it's essential we discuss your travel insurance.",
+      "translation_kr": "여행을 계획 중이시라고 들었어요. 여행자 보험에 대해 논의하는 것이 필수적이에요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I have'와 'you are'의 축약형이 연음되면서 '아이브허드유어'처럼 들려 끊어 듣기 어렵습니다."
+        },
+        {
+          "part": "it's essential we",
+          "why_kr": "'it is'의 축약형과 'essential'의 't' 발음이 'we'와 연결되어 빠르게 발음될 때 '잇츠이센셜위'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "travel insurance",
+          "why_kr": "'insurance'의 'shu' 발음이 한국어 '슈'와 달라 정확한 발음을 듣고 이해하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "essential",
+          "meaning_kr": "필수적인"
+        },
+        {
+          "word": "travel insurance",
+          "meaning_kr": "여행자 보험"
+        }
+      ]
+    }
+  ]
+}
