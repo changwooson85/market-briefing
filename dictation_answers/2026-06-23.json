@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-23 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many companies are currently looking for new employees in the technology sector.",
+      "translation_kr": "많은 회사들이 현재 기술 분야에서 새로운 직원들을 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "currently looking",
+          "why_kr": "'currently'의 'tly' 발음과 다음 단어 'looking'과의 자연스러운 연결이 어려울 수 있습니다."
+        },
+        {
+          "part": "technology sector",
+          "why_kr": "'technology'의 마지막 'gy' 소리와 'sector'의 's' 소리가 연결될 때 발음이 헷갈릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "employees",
+          "meaning_kr": "직원들"
+        },
+        {
+          "word": "sector",
+          "meaning_kr": "분야, 부문"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate_basic",
+      "text": "The quarterly earnings report showed significant growth in revenue for the firm.",
+      "translation_kr": "분기별 수익 보고서는 그 회사 매출의 상당한 성장을 보여주었습니다.",
+      "tricky_parts": [
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'r' 발음과 'earnings'의 모음 시작이 연결될 때 소리가 복잡하게 들릴 수 있습니다."
+        },
+        {
+          "part": "showed significant",
+          "why_kr": "'showed'의 마지막 'd' 소리가 다음 단어 'significant'의 's' 소리와 자연스럽게 이어질 때 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익"
+        },
+        {
+          "word": "revenue",
+          "meaning_kr": "수익, 매출"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate_news",
+      "text": "Analysts predict the stock market will rebound by 15% later this year, specifically in Q3.",
+      "translation_kr": "분석가들은 올해 후반, 특히 3분기에 주식 시장이 15% 반등할 것이라고 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts predict",
+          "why_kr": "'Analysts'의 's'와 'predict'의 'p'가 연결될 때 소리가 뭉개지거나, 't' 발음이 약화되어 들릴 수 있습니다."
+        },
+        {
+          "part": "rebound by",
+          "why_kr": "'rebound'의 마지막 'd' 소리가 다음 단어 'by'와 연결될 때 부드럽게 이어지지 않을 수 있습니다."
+        },
+        {
+          "part": "specifically in",
+          "why_kr": "'specifically'의 'ly' 소리와 'in'이 빠르게 연결될 때 정확히 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "rebound",
+          "meaning_kr": "반등하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced_idiom",
+      "text": "Our startup needs to pivot quickly to stay ahead of the curve in this competitive market.",
+      "translation_kr": "우리 스타트업은 이 경쟁적인 시장에서 앞서나가기 위해 빠르게 사업 방향을 전환해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "pivot quickly",
+          "why_kr": "'pivot'의 't' 발음이 약화되거나 'quickly'와 빠르게 연결되면서 잘 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "ahead of the curve",
+          "why_kr": "연결되는 'of the' 부분이 '어브더'나 '어더'처럼 빠르게 축약되어 발음될 수 있어 듣기 어렵습니다."
+        },
+        {
+          "part": "competitive market",
+          "why_kr": "'competitive'의 'titive' 부분이 빠르게 발음될 때 유사한 음들이 이어져 혼란스러울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "pivot",
+          "meaning_kr": "방향을 전환하다, 핵심 사업을 바꾸다"
+        },
+        {
+          "word": "ahead of the curve",
+          "meaning_kr": "시대에 앞서가다, 최신 경향을 따르다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge_fast_speech",
+      "text": "It's important you're aware of how the global economy's shifting; it'll impact everyone.",
+      "translation_kr": "세계 경제가 어떻게 변하고 있는지 당신이 아는 것이 중요합니다; 그것은 모두에게 영향을 미칠 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "you're aware of",
+          "why_kr": "'you're' (you are)와 'aware of' (어웨어러브)가 빠르게 연결될 때 축약과 연음으로 인해 듣기 어렵습니다."
+        },
+        {
+          "part": "economy's shifting",
+          "why_kr": "'economy's' (economy is)의 축약과 'shifting'의 '-ing' 발음이 약화되면서 빠르게 이어지는 소리가 혼란스러울 수 있습니다."
+        },
+        {
+          "part": "it'll impact everyone",
+          "why_kr": "'it'll' (it will)의 축약과 'impact everyone'이 't'가 'e'와 연결되어 약화될 때 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "shifting",
+          "meaning_kr": "변화하는, 이동하는"
+        },
+        {
+          "word": "impact",
+          "meaning_kr": "영향을 미치다"
+        }
+      ]
+    }
+  ]
+}
