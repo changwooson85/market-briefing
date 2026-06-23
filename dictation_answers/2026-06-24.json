@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-24 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruits and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually prepare",
+          "why_kr": "'usually'의 'l' 소리와 'prepare'의 'p' 다음 'r' 발음 연결이 어려울 수 있습니다."
+        },
+        {
+          "part": "fresh fruits",
+          "why_kr": "'sh'와 'fr' 소리가 연달아 나와 발음하기 헷갈릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "fresh",
+          "meaning_kr": "신선한"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "We need to confirm our flight details and hotel reservations by the end of next week.",
+      "translation_kr": "우리는 다음 주말까지 항공편 세부 정보와 호텔 예약을 확인해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "confirm our",
+          "why_kr": "'confirm'의 'm' 소리가 'our'의 'o' 소리와 연결되어 들리는 것이 어려울 수 있습니다."
+        },
+        {
+          "part": "hotel reservations",
+          "why_kr": "'hotel'의 약한 'h' 발음과 'reservations'의 여러 's' 발음이 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "confirm",
+          "meaning_kr": "확인하다"
+        },
+        {
+          "word": "reservations",
+          "meaning_kr": "예약"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate-advanced",
+      "text": "A recent study revealed that daily exercise for 30 minutes significantly improves mental well-being.",
+      "translation_kr": "최근 연구에 따르면 매일 30분 운동이 정신 건강을 크게 향상시킨다고 밝혀졌습니다.",
+      "tricky_parts": [
+        {
+          "part": "revealed that",
+          "why_kr": "'revealed'의 'ld' 소리가 'that'의 'th' 소리와 연결될 때 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "significantly improves",
+          "why_kr": "'significantly'의 'ntly' 발음과 'improves'의 'pr' 발음이 겹쳐서 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "well-being",
+          "why_kr": "하이픈으로 연결된 단어이며, 'well'과 'being' 사이의 연결이 자연스럽지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revealed",
+          "meaning_kr": "밝히다, 드러내다"
+        },
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 크게"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "Even though we argue sometimes, we always try to see eye to eye.",
+      "translation_kr": "우리는 가끔 다투지만, 항상 의견을 일치시키려고 노력합니다.",
+      "tricky_parts": [
+        {
+          "part": "argue sometimes",
+          "why_kr": "'argue'의 'ue'와 'sometimes'의 's' 소리가 연결될 때 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "see eye to eye",
+          "why_kr": "숙어 자체의 의미뿐만 아니라, 'eye'와 'to' 그리고 다시 'eye'로 연결되는 발음이 헷갈릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "argue",
+          "meaning_kr": "논쟁하다, 다투다"
+        },
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견을 일치시키다, 동의하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning a trip, so don't forget to pack your essentials.",
+      "translation_kr": "여행을 계획 중이라고 들었는데, 필수품 챙기는 걸 잊지 마세요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I've'와 'heard', 'you're' 등 여러 축약형과 연결된 발음(연음)이 빠르게 이어져 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "don't forget to pack",
+          "why_kr": "'don't'의 't'가 거의 발음되지 않고, 'forget'의 't'와 'to' 그리고 'pack'이 연결되어 들려 속청에 약한 학습자에게 어려울 수 있습니다."
+        },
+        {
+          "part": "your essentials",
+          "why_kr": "'your'의 'r' 소리가 'essentials'의 'e'와 연결되는 발음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "essentials",
+          "meaning_kr": "필수품"
+        },
+        {
+          "word": "pack",
+          "meaning_kr": "(짐을) 꾸리다"
+        }
+      ]
+    }
+  ]
+}
