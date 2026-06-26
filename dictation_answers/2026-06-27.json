@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-27 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Eating a balanced breakfast every morning is crucial for maintaining good health.",
+      "translation_kr": "매일 아침 균형 잡힌 아침 식사를 하는 것은 건강을 유지하는 데 매우 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "balanced breakfast",
+          "why_kr": "'balanced'의 마지막 /d/와 'breakfast'의 첫 /b/ 소리가 연결되면서 (linking sound) 일부 한국 학습자에게는 'balanc'd_breakfast'처럼 들리거나 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "crucial",
+          "why_kr": "'crucial'의 /ʃ/ (sh) 발음과 마지막 /əl/ 소리가 한국어에 없는 발음이라 익숙하지 않을 수 있습니다. 특히 'u' 발음도 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "balanced",
+          "meaning_kr": "균형 잡힌"
+        },
+        {
+          "word": "crucial",
+          "meaning_kr": "매우 중요한"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "We need to finalize travel arrangements for the conference by next Wednesday.",
+      "translation_kr": "우리는 다음 수요일까지 회의를 위한 여행 준비를 마무리해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize travel",
+          "why_kr": "'finalize'의 /z/ 소리와 'travel'의 /t/ 소리, 그리고 두 단어 사이의 연결 발음이 자연스럽지 않을 수 있습니다."
+        },
+        {
+          "part": "arrangements",
+          "why_kr": "두 번째 음절이 약하게 발음되고, /r/과 /ng/ 소리가 연속적으로 나오며 철자('rr', 'ge')와 발음이 다를 수 있어 듣기에 어려울 수 있습니다."
+        },
+        {
+          "part": "conference",
+          "why_kr": "강세가 첫 음절에 있고 두 번째 음절인 '-er-'가 약하게 발음되어 '컨프런스'가 아닌 '컨퍼런스'처럼 들릴 수 있으며, 발음보다 철자가 더 길게 느껴질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "마무리하다, 완성하다"
+        },
+        {
+          "word": "arrangements",
+          "meaning_kr": "준비, 마련"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "A recent survey revealed that 65% of adults exercise regularly at least three times weekly.",
+      "translation_kr": "최근 설문조사에 따르면 성인의 65%가 주당 최소 세 번 규칙적으로 운동하는 것으로 나타났습니다.",
+      "tricky_parts": [
+        {
+          "part": "revealed that",
+          "why_kr": "'revealed'의 마지막 /d/ 소리가 다음 단어 'that'의 /ð/ 소리와 연결되면서 (linking sound), /dð/처럼 들리거나 /d/ 소리가 약해져 놓치기 쉬울 수 있습니다."
+        },
+        {
+          "part": "65%",
+          "why_kr": "숫자는 특히 빠르게 말할 때 'sixty-five percent'로 정확히 듣고 받아쓰기 어려울 수 있습니다. 'sixty-five'의 /f/ 소리도 주의해야 합니다."
+        },
+        {
+          "part": "regularly",
+          "why_kr": "'r' 발음이 여러 번 나오고 강세가 없는 음절이 많아 ('reg-u-lar-ly') 각 음절을 정확히 듣고 받아쓰기 어려울 수 있습니다. 특히 '-lar-' 부분이 약하게 발음됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "survey",
+          "meaning_kr": "설문조사"
+        },
+        {
+          "word": "regularly",
+          "meaning_kr": "규칙적으로"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal_verb",
+      "text": "Despite initial disagreements, they managed to see eye to eye on most issues.",
+      "translation_kr": "초기에는 의견이 달랐지만, 그들은 대부분의 문제에 대해 의견 일치를 보았습니다.",
+      "tricky_parts": [
+        {
+          "part": "disagreements",
+          "why_kr": "단어의 길이와 강세 없는 음절(dis-a-gree-ments)이 많아 전체를 정확히 듣기 어려울 수 있습니다. 특히 's'와 'ts' 발음에 주의해야 합니다."
+        },
+        {
+          "part": "managed to",
+          "why_kr": "'managed'의 /d/와 'to'의 /t/가 연결되면서 /d/ 소리가 약화되거나 /dʒt/ 처럼 들릴 수 있습니다. 또한 'to'는 /tə/로 약하게 발음됩니다."
+        },
+        {
+          "part": "see eye to eye",
+          "why_kr": "이디엄 자체가 익숙하지 않을 수 있으며, 'eye'와 'to'의 연결 발음('/aɪtuː/')이 빠르게 이어지면 듣기 어려울 수 있습니다. 의미도 문맥으로 파악해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "disagreements",
+          "meaning_kr": "의견 차이, 불일치"
+        },
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견을 같이하다, 동의하다 (이디엄)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're ever in Paris, you've gotta try the croissants; they're incredibly delicious.",
+      "translation_kr": "파리에 가게 된다면, 꼭 크루아상을 먹어봐야 해요. 정말 엄청나게 맛있거든요.",
+      "tricky_parts": [
+        {
+          "part": "you're ever",
+          "why_kr": "'you're'의 /r/ 소리와 'ever'의 모음이 연결되면서 (connected speech) 발음이 빠르게 이어져 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "you've gotta",
+          "why_kr": "구어체 축약형인 'you've gotta'는 'you have got to'의 줄임말로, 'gotta'는 /gɒtə/로 발음되어 한국 학습자가 듣기에 특히 어려울 수 있습니다."
+        },
+        {
+          "part": "croissants",
+          "why_kr": "프랑스어에서 온 단어로, 't'가 묵음이고 발음('/krwɑːˈsɒŋz/' 또는 '/krəˈsɑːnts/')이 영어의 일반적인 철자-발음 규칙을 따르지 않아 어렵습니다."
+        },
+        {
+          "part": "they're incredibly",
+          "why_kr": "'they're'의 /r/ 소리가 다음 단어 'incredibly'와 자연스럽게 연결되어 (linking sound) 발음이 빠르게 이어지며 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "croissants",
+          "meaning_kr": "크루아상 (빵의 일종)"
+        },
+        {
+          "word": "incredibly",
+          "meaning_kr": "믿을 수 없을 정도로, 엄청나게"
+        }
+      ]
+    }
+  ]
+}
