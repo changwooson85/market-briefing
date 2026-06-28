@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-29 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are now buying new smartphones with advanced camera features.",
+      "translation_kr": "많은 사람들이 이제 고급 카메라 기능을 갖춘 새로운 스마트폰을 구매하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "Many people",
+          "why_kr": "'Many'의 끝소리 /i/와 'people'의 첫소리 /p/가 연결되어 발음될 때 '매니피플'처럼 들릴 수 있으며, /iː/와 /ɪ/ 소리 구분이 어렵습니다."
+        },
+        {
+          "part": "smartphones with",
+          "why_kr": "'smartphones'의 /s/와 'with'의 /wɪð/가 연결되어 발음될 때 /swɪð/ 소리가 날 수 있으며, 'th' 발음이 한국 학습자에게는 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphones",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "advanced camera features",
+          "meaning_kr": "고급 카메라 기능"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company's latest quarterly report highlighted significant growth in its cloud computing division.",
+      "translation_kr": "그 회사의 최근 분기별 보고서는 클라우드 컴퓨팅 부문의 상당한 성장을 강조했습니다.",
+      "tricky_parts": [
+        {
+          "part": "quarterly report",
+          "why_kr": "'quarterly'의 'ter' 부분이 /tər/ 또는 /dər/로 들릴 수 있고, 'ly'와 'report'의 연결 발음이 어렵습니다. 't' 발음이 약해지거나 생략될 수 있습니다."
+        },
+        {
+          "part": "significant growth",
+          "why_kr": "'significant'의 't'가 거의 들리지 않거나 생략되는 경우가 많고, 'growth'의 'th' 발음과 'gh' 소리가 한국 학습자에게 혼동을 줄 수 있습니다."
+        },
+        {
+          "part": "computing division",
+          "why_kr": "'computing'의 'g' 소리와 'division'의 's'가 /ʒ/ 소리로 발음되는 것에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly report",
+          "meaning_kr": "분기별 보고서"
+        },
+        {
+          "word": "cloud computing division",
+          "meaning_kr": "클라우드 컴퓨팅 부서"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "AI development is rapidly accelerating, with investments expected to exceed twenty billion dollars by 2027.",
+      "translation_kr": "AI 개발은 급속히 가속화되고 있으며, 2027년까지 투자가 200억 달러를 초과할 것으로 예상됩니다.",
+      "tricky_parts": [
+        {
+          "part": "rapidly accelerating",
+          "why_kr": "'rapidly'의 /lɪ/와 'accelerating'의 /æksɛləreɪtɪŋ/이 빠르게 연결될 때 'ly' 소리가 약해지고, 'ccel' 부분의 발음이 부정확하게 들릴 수 있습니다."
+        },
+        {
+          "part": "expected to exceed",
+          "why_kr": "'expected'의 't'가 생략되거나 약하게 발음될 수 있으며, 'exceed'의 'x' 발음이 /ɪks/ 또는 /ɪgz/로 들릴 수 있어 주의해야 합니다."
+        },
+        {
+          "part": "twenty billion dollars",
+          "why_kr": "미국식 영어에서는 'twenty'의 't'가 /d/ 소리(플랩 T)로 발음되는 경향이 있고, 'billion'의 'll' 소리와 'dollars'의 's' 소리를 정확히 구분하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "rapidly accelerating",
+          "meaning_kr": "급속히 가속화되다"
+        },
+        {
+          "word": "exceed",
+          "meaning_kr": "초과하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "To stay ahead of the curve, tech firms are constantly rolling out innovative products and services.",
+      "translation_kr": "경쟁에서 앞서나가기 위해, 기술 기업들은 혁신적인 제품과 서비스를 끊임없이 출시하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "ahead of the curve",
+          "why_kr": "'ahead of'와 'the curve'가 빠르게 연결될 때 'h'가 거의 들리지 않고, 'of the'가 /əvðə/로 약하게 발음될 수 있으며, 'th' 발음이 어렵습니다."
+        },
+        {
+          "part": "rolling out",
+          "why_kr": "'rolling'의 /ŋ/ 소리와 'out'의 모음 /aʊt/이 연결되어 발음될 때 '롤링아웃'처럼 들리지만, 실제로는 /roʊlɪŋaʊt/으로 자연스럽게 이어집니다."
+        },
+        {
+          "part": "innovative products",
+          "why_kr": "'innovative'의 강세 위치(첫 음절 또는 두 번째 음절)와 'products'의 't'가 거의 들리지 않거나 생략될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "stay ahead of the curve",
+          "meaning_kr": "(경쟁에서) 앞서나가다"
+        },
+        {
+          "word": "rolling out",
+          "meaning_kr": "(신제품을) 출시하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're upgrading your setup, you'll find it's vital to research which gadgets offer the best value.",
+      "translation_kr": "장비를 업그레이드하고 있다면, 어떤 기기가 최고의 가치를 제공하는지 알아보는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "If you're",
+          "why_kr": "'If'의 /f/와 'you're'의 /jʊər/가 빠르게 연결되면서 '이퓨어'처럼 들릴 수 있으며, 축약형 'you're'의 발음이 익숙하지 않을 수 있습니다."
+        },
+        {
+          "part": "you'll find it's",
+          "why_kr": "세 개의 단어가 연음되어 '유을파인딧츠'처럼 빠르게 이어지며, 'you'll'의 /l/과 'it's'의 't'가 거의 들리지 않거나 약화될 수 있습니다."
+        },
+        {
+          "part": "best value",
+          "why_kr": "'best'의 /st/와 'value'의 /v/가 연결되어 발음될 때 /st væljuː/로 매끄럽게 이어지지만, 't'가 약해지거나 'v' 발음 구분이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "upgrading your setup",
+          "meaning_kr": "장비를 업그레이드하다"
+        },
+        {
+          "word": "vital",
+          "meaning_kr": "필수적인, 중요한"
+        }
+      ]
+    }
+  ]
+}
