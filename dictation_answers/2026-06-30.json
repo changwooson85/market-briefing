@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-30 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many companies are actively hiring new staff members this quarter.",
+      "translation_kr": "많은 회사들이 이번 분기에 새로운 직원들을 적극적으로 채용하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "hiring new",
+          "why_kr": "'hiring'의 마지막 소리 /ŋ/과 'new'의 /n/이 비슷하게 들리거나 연결되어 발음될 수 있어 주의가 필요합니다."
+        },
+        {
+          "part": "this quarter",
+          "why_kr": "'this'의 /s/와 'quarter'의 /kw/가 연결될 때, 's' 소리가 약해지거나 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hiring",
+          "meaning_kr": "채용하는"
+        },
+        {
+          "word": "quarter",
+          "meaning_kr": "(회계) 분기"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The recent market fluctuations have significantly impacted small businesses nationwide.",
+      "translation_kr": "최근 시장 변동성이 전국적으로 소규모 사업체에 상당한 영향을 미쳤습니다.",
+      "tricky_parts": [
+        {
+          "part": "fluctuations",
+          "why_kr": "단어의 길이가 길고 'ctua' 부분의 발음 /ktʃu/가 한국어에는 익숙하지 않아 어렵게 들릴 수 있습니다."
+        },
+        {
+          "part": "impacted",
+          "why_kr": "과거형 '-ed' 발음이 앞의 자음 't'와 만나 /ɪd/로 소리 나는데, 이 부분이 간과되기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "fluctuations",
+          "meaning_kr": "변동, 등락"
+        },
+        {
+          "word": "impacted",
+          "meaning_kr": "영향을 미쳤다"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Analysts predict the national unemployment rate will decrease by 0.5% next year.",
+      "translation_kr": "분석가들은 내년에 국가 실업률이 0.5% 감소할 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "unemployment rate",
+          "why_kr": "'unemployment'는 길고 복잡한 단어이며, 'rate'와의 연음에서 't' 소리가 약화되거나 생략될 수 있습니다."
+        },
+        {
+          "part": "0.5%",
+          "why_kr": "소수점과 퍼센트를 영어로 읽는 방식('zero point five percent' 또는 'oh point five percent')이 익숙하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "unemployment rate",
+          "meaning_kr": "실업률"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Despite initial setbacks, the new startup is now back in the black.",
+      "translation_kr": "초기 난관에도 불구하고, 그 새로운 스타트업은 이제 흑자를 기록하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "setbacks",
+          "why_kr": "'setbacks'에서 't' 소리가 약하게 들리거나 거의 들리지 않을 수 있으며, 전체 단어의 강세 위치에 주의해야 합니다."
+        },
+        {
+          "part": "back in the black",
+          "why_kr": "여러 단어가 빠르게 연결되어 발음되며, 'back in'과 'in the'에서 연음이 활발하게 일어납니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "setbacks",
+          "meaning_kr": "난관, 차질"
+        },
+        {
+          "word": "back in the black",
+          "meaning_kr": "흑자 상태인 (관용구)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're going to want to closely watch interest rates; they'll impact your investments.",
+      "translation_kr": "금리를 면밀히 주시해야 할 것입니다; 그것들이 당신의 투자에 영향을 미칠 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You're going to want to",
+          "why_kr": "'You're gonna wanna'처럼 발음이 심하게 축약되고 연음되므로, 원어민의 빠른 발음과 연결된 소리에 익숙해져야 합니다."
+        },
+        {
+          "part": "watch interest rates",
+          "why_kr": "'watch'의 /tʃ/와 'interest'의 /ɪn/이 연결되고, 'interest'의 중간 'e'가 약화되거나 생략되는 경우가 많아 듣기 어렵습니다."
+        },
+        {
+          "part": "they'll impact",
+          "why_kr": "축약된 'they'll'의 /l/ 소리와 'impact'의 첫 소리 /ɪ/가 강하게 연결되어 한 단어처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "interest rates",
+          "meaning_kr": "금리"
+        },
+        {
+          "word": "investments",
+          "meaning_kr": "투자"
+        }
+      ]
+    }
+  ]
+}
