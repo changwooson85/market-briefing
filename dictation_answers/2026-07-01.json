@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-01 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually grab a quick coffee and a croissant before heading to work.",
+      "translation_kr": "저는 보통 출근하기 전에 빨리 커피 한 잔과 크루아상을 먹어요.",
+      "tricky_parts": [
+        {
+          "part": "grab a",
+          "why_kr": "'b'와 'a'가 이어져 '그랩 어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "croissant",
+          "why_kr": "프랑스어에서 유래하여 발음이 어려우며, 마지막 't'는 묵음입니다. '크루아상'으로 발음됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "grab",
+          "meaning_kr": "~을 빨리 먹다/잡다"
+        },
+        {
+          "word": "croissant",
+          "meaning_kr": "크루아상"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Booking flights well in advance can significantly reduce your overall travel expenses.",
+      "translation_kr": "항공권을 미리 예약하면 전체 여행 경비를 상당히 줄일 수 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "well in advance",
+          "why_kr": "연음 ('l'과 'i', 'n'과 'a')이 많고 'in'이 약하게 발음될 수 있어 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "significantly",
+          "why_kr": "음절이 많고 'g' 발음이 어려울 수 있으며, 강세 위치가 틀리기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "in advance",
+          "meaning_kr": "미리, 사전에"
+        },
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 현저하게"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate-advanced",
+      "text": "Experts recommend at least 30 minutes of moderate exercise daily for adults.",
+      "translation_kr": "전문가들은 성인들에게 매일 최소 30분간의 적당한 운동을 권장합니다.",
+      "tricky_parts": [
+        {
+          "part": "recommend at least",
+          "why_kr": "'d'와 'a', 't'와 'l'이 연음되어 빠르게 발음될 때 놓치기 쉽습니다."
+        },
+        {
+          "part": "moderate exercise",
+          "why_kr": "미국식 영어에서 'moderate'의 't'가 'd'처럼 발음될 수 있고, 'exercise'의 'x' 발음이 어렵습니다."
+        },
+        {
+          "part": "daily for adults",
+          "why_kr": "'r' 발음이 한국 학습자에게 어렵고, 'for'가 'fər'처럼 약하게 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "moderate",
+          "meaning_kr": "적당한, 온건한"
+        },
+        {
+          "word": "recommend",
+          "meaning_kr": "권장하다, 추천하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "Despite our minor disagreement, we eventually decided to clear the air and move on.",
+      "translation_kr": "사소한 의견 불일치에도 불구하고, 우리는 결국 오해를 풀고 다음으로 나아가기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "despite our",
+          "why_kr": "'t'와 'o'가 이어져 '디스파잇 아워'가 아닌 '디스파이터'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "clear the air",
+          "why_kr": "관용구이므로 의미를 모르면 해석하기 어렵고, 'th' 발음과 'r' 발음이 동시에 있어 발음이 어렵습니다."
+        },
+        {
+          "part": "move on",
+          "why_kr": "구동사이며 'v'와 'o'가 연음되어 '무본'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 분위기를 전환하다"
+        },
+        {
+          "word": "disagreement",
+          "meaning_kr": "의견 불일치"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're going abroad; it'll be a great chance to broaden horizons.",
+      "translation_kr": "해외에 가신다고 들었어요; 시야를 넓힐 좋은 기회가 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "여러 축약형과 연음('v'와 'h', 'd'와 'y')이 겹쳐 빠르게 발음될 때 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "going abroad",
+          "why_kr": "'g'와 'a'가 연음되고, 'abroad'의 마지막 'd'는 종종 약하게 발음되거나 생략됩니다."
+        },
+        {
+          "part": "it'll be a great chance",
+          "why_kr": "'it'll'의 연음, 't'와 'a'가 이어져 '그레이터'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "abroad",
+          "meaning_kr": "해외로"
+        },
+        {
+          "word": "broaden horizons",
+          "meaning_kr": "시야를 넓히다"
+        }
+      ]
+    }
+  ]
+}
