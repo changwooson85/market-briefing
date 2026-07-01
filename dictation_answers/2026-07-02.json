@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-02 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has an amazing camera and a very long battery life.",
+      "translation_kr": "이 새로운 스마트폰은 정말 멋진 카메라와 매우 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "has an",
+          "why_kr": "'s' 사운드가 'an'에 연결되는 연음; 끊어서 발음하거나 잘못 듣기 쉽습니다."
+        },
+        {
+          "part": "battery",
+          "why_kr": "미국식 발음에서 'tt' 소리가 'd'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "Our tech team needs to develop innovative software solutions for the client next quarter.",
+      "translation_kr": "저희 기술팀은 다음 분기에 고객을 위한 혁신적인 소프트웨어 솔루션을 개발해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "innovative",
+          "why_kr": "강세와 여러 음절이 있어 정확한 발음이 어렵고, 'v' 발음이 'b'로 혼동될 수 있습니다."
+        },
+        {
+          "part": "solutions for the",
+          "why_kr": "'solutions'의 's'와 'for'가 연음되고, 'for the'가 'fərðə'로 약화되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "next quarter",
+          "meaning_kr": "다음 분기"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "AI advancements in 2025 are predicted to significantly impact global industries by 2030.",
+      "translation_kr": "2025년 인공지능 발전은 2030년까지 전 세계 산업에 상당한 영향을 미칠 것으로 예측됩니다.",
+      "tricky_parts": [
+        {
+          "part": "advancements in",
+          "why_kr": "'advancements'의 마지막 's'가 'in'과 연음되어 '어드밴스먼츠인'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "significantly",
+          "why_kr": "길고 복잡한 단어로 강세와 음절을 정확히 발음하기 어렵습니다."
+        },
+        {
+          "part": "global industries",
+          "why_kr": "'global'의 'l' 발음과 'industries'의 'd' 소리가 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "AI advancements",
+          "meaning_kr": "인공지능 발전"
+        },
+        {
+          "word": "impact",
+          "meaning_kr": "영향을 미치다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "The new startup's innovative product really took off after their successful presentation.",
+      "translation_kr": "새로운 스타트업의 혁신적인 제품은 성공적인 발표 후에 정말로 큰 인기를 얻었습니다.",
+      "tricky_parts": [
+        {
+          "part": "startup's innovative",
+          "why_kr": "'startup's'의 's' 발음이 'innovative'와 연결되어 '스타트업스 이노베이티브'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "took off",
+          "why_kr": "'k'와 'off'가 연음되어 '투코프'처럼 들리며, phrasal verb로서의 의미를 이해하는 것이 중요합니다."
+        },
+        {
+          "part": "successful",
+          "why_kr": "'cc' 소리가 'k' 또는 's'로 들릴 수 있고, 강세가 'cess'에 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "took off",
+          "meaning_kr": "큰 인기를 얻다, 급성장하다"
+        },
+        {
+          "word": "startup",
+          "meaning_kr": "스타트업"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta understand that AI's gonna change how we work, haven't you?",
+      "translation_kr": "인공지능이 우리가 일하는 방식을 바꿀 거라는 걸 이해해야 해요, 그렇죠?",
+      "tricky_parts": [
+        {
+          "part": "You've gotta understand",
+          "why_kr": "'You've' (You have)와 'gotta' (got to) 같은 축약어 및 연음이 빠르게 이어져 들리기 어렵습니다."
+        },
+        {
+          "part": "AI's gonna",
+          "why_kr": "'AI's' (AI is)의 축약어와 'gonna' (going to)의 연음 및 약화가 동시에 나타나 발음이 명확하지 않을 수 있습니다."
+        },
+        {
+          "part": "haven't you",
+          "why_kr": "'t' 발음이 약해지거나 'you'와 연음되어 '해븐츄'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gotta (got to)",
+          "meaning_kr": "~해야 한다"
+        },
+        {
+          "word": "gonna (going to)",
+          "meaning_kr": "~할 것이다"
+        }
+      ]
+    }
+  ]
+}
