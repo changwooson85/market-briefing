@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-03 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new job opportunities in the current market.",
+      "translation_kr": "많은 사람들이 현재 시장에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for",
+          "why_kr": "'looking'의 '-ing' 끝소리와 'for'가 자연스럽게 연결되어 [루킹포]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "current market",
+          "why_kr": "'current'의 't' 발음이 약화되거나 다음 단어 'market'과 연결되어 모호하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "opportunity",
+          "meaning_kr": "기회"
+        },
+        {
+          "word": "current",
+          "meaning_kr": "현재의"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company's quarterly earnings exceeded expectations due to strong sales.",
+      "translation_kr": "저희 회사의 분기별 수익이 강력한 매출 덕분에 예상을 초과했습니다.",
+      "tricky_parts": [
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 '-ly' 발음이 약화되거나 빠르게 발음될 수 있으며, 'earnings'의 's'가 'z' 발음으로 들릴 수 있습니다."
+        },
+        {
+          "part": "exceeded expectations",
+          "why_kr": "'exceeded'의 끝소리 'd'와 'expectations'의 첫소리 'e'가 연결되어 [익시디덱스펙테이션즈]처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익"
+        },
+        {
+          "word": "exceeded",
+          "meaning_kr": "초과했다"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The central bank projects a 2.5% economic growth for next year's third quarter.",
+      "translation_kr": "중앙은행은 내년 3분기 경제 성장률을 2.5%로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "central bank projects",
+          "why_kr": "'central'의 'l' 발음과 'bank'의 'k' 발음, 그리고 'projects'의 'ts' 발음이 빠르게 연결되어 각각의 소리가 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "2.5% economic growth",
+          "why_kr": "숫자와 퍼센트 발음이 정확해야 하며, 'economic'과 'growth'가 연결되면서 'th' 발음이 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "projects",
+          "meaning_kr": "예측하다, 전망하다"
+        },
+        {
+          "word": "economic growth",
+          "meaning_kr": "경제 성장"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Investors are advised to keep an eye on market trends before diving in.",
+      "translation_kr": "투자자들은 뛰어들기 전에 시장 동향을 주시하라고 권고받습니다.",
+      "tricky_parts": [
+        {
+          "part": "keep an eye on",
+          "why_kr": "관용구 자체의 의미를 모르면 해석이 어렵고, 'keep'의 'p'와 'an', 'an'과 'eye', 'eye'와 'on'이 강하게 연결되어 [키펀아이온]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "diving in",
+          "why_kr": "'diving'의 '-ing' 끝소리가 약화되거나 생략될 수 있으며, 'in'과 자연스럽게 연결되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keep an eye on",
+          "meaning_kr": "~을 주시하다"
+        },
+        {
+          "word": "trends",
+          "meaning_kr": "동향"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're investing, it'll be smart to diversify your portfolio this quarter.",
+      "translation_kr": "투자하신다면, 이번 분기에는 포트폴리오를 다양화하는 것이 현명할 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "If you're investing, it'll",
+          "why_kr": "'you're'와 'it'll'의 축약형 발음과 함께, 'investing'의 'g' 생략 및 다음 단어 'it'll'과의 빠른 연음이 있어 듣기 어렵습니다."
+        },
+        {
+          "part": "diversify your portfolio",
+          "why_kr": "'diversify'와 'your'가 연결될 때 'your'의 발음이 [여r]로 약화되기 쉬우며, 전체적으로 빠르게 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "diversify",
+          "meaning_kr": "다양화하다"
+        },
+        {
+          "word": "portfolio",
+          "meaning_kr": "포트폴리오 (투자 목록)"
+        }
+      ]
+    }
+  ]
+}
