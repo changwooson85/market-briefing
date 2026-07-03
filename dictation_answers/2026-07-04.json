@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-04 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually enjoy a healthy breakfast with fresh fruits and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "usually enjoy a",
+          "why_kr": "'usually'의 'ly' 발음과 'enjoy a'의 연음, 'a'의 약화된 발음에 유의하세요."
+        },
+        {
+          "part": "fresh fruits",
+          "why_kr": "'fr'과 'sh' 발음, 그리고 뒤에 오는 's' 복수형 발음을 정확히 해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "healthy",
+          "meaning_kr": "건강한"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "slightly more vocabulary",
+      "text": "We're planning a weekend getaway to a charming coastal town next month.",
+      "translation_kr": "저희는 다음 달에 매력적인 해변 마을로 주말 여행을 계획하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "planning a weekend",
+          "why_kr": "'planning'의 'ng' 발음과 'a'의 연음, 'weekend'의 'd'가 종종 약하게 발음됩니다."
+        },
+        {
+          "part": "coastal town",
+          "why_kr": "'coastal'의 'ast' 발음과 't' 발음이 'd'처럼 들릴 수 있으며, 'town'의 'wn' 발음에 유의하세요."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "getaway",
+          "meaning_kr": "짧은 휴가, 여행"
+        },
+        {
+          "word": "charming",
+          "meaning_kr": "매력적인"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "formal structure",
+      "text": "Experts recommend at least 30 minutes of moderate exercise daily for adults.",
+      "translation_kr": "전문가들은 성인에게 매일 최소 30분간의 적당한 운동을 권장합니다.",
+      "tricky_parts": [
+        {
+          "part": "recommend at least",
+          "why_kr": "'recommend'의 'd'와 'at'이 연음되고, 'at'과 'least'의 't' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "moderate exercise",
+          "why_kr": "'moderate'의 't'가 'd'처럼 발음될 수 있으며, 'exercise'의 'x' 발음에 유의하세요."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "moderate",
+          "meaning_kr": "적당한"
+        },
+        {
+          "word": "adults",
+          "meaning_kr": "성인"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Even after years, they still see eye to eye on most important issues.",
+      "translation_kr": "수년이 지나도 그들은 대부분의 중요한 문제에 대해 여전히 의견이 일치합니다.",
+      "tricky_parts": [
+        {
+          "part": "see eye to eye",
+          "why_kr": "관용구 자체의 의미와 더불어 'see'와 'eye', 'to'와 'eye'의 연음 및 'to'의 약화된 발음에 유의하세요."
+        },
+        {
+          "part": "most important issues",
+          "why_kr": "'most'와 'important'의 't' 발음이 종종 생략되거나 약화되며, 'issues'의 'ss' 발음에 주의하세요."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견이 일치하다"
+        },
+        {
+          "word": "issues",
+          "meaning_kr": "문제, 사안"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge - natural fast speech",
+      "text": "If you're going to visit there, you'll love it; they've got amazing local food.",
+      "translation_kr": "거기 방문하시면 분명 마음에 드실 거예요; 그곳은 정말 놀라운 현지 음식을 가지고 있어요.",
+      "tricky_parts": [
+        {
+          "part": "you're going to visit",
+          "why_kr": "축약형 'you're'와 'going to'가 'gonna'처럼 들릴 수 있으며, 'to visit'의 연음에 유의하세요."
+        },
+        {
+          "part": "you'll love it; they've got",
+          "why_kr": "축약형 'you'll'과 'love it'의 연음, 'they've'의 발음, 그리고 'got'의 't'가 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "amazing",
+          "meaning_kr": "놀라운, 훌륭한"
+        },
+        {
+          "word": "local food",
+          "meaning_kr": "현지 음식"
+        }
+      ]
+    }
+  ]
+}
