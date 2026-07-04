@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-05 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually try to eat a healthy breakfast with fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 과일과 요구르트로 건강한 아침 식사를 하려고 노력합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u' 발음과 'y' 연결음이 한국어에는 없어 어색하게 들릴 수 있습니다."
+        },
+        {
+          "part": "eat a",
+          "why_kr": "'t'와 'a'가 연결되어 '티어'처럼 들릴 수 있어 주의해야 합니다."
+        },
+        {
+          "part": "breakfast with",
+          "why_kr": "'f'와 'th' 발음 구분이 어렵고, 'st with'가 연결될 때 소리가 복잡해질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "usually",
+          "meaning_kr": "보통, 대개"
+        },
+        {
+          "word": "healthy",
+          "meaning_kr": "건강한"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "We're currently finalizing our itinerary for next month's vacation to Jeju Island.",
+      "translation_kr": "저희는 다음 달 제주도 휴가 일정을 현재 확정하는 중입니다.",
+      "tricky_parts": [
+        {
+          "part": "currently",
+          "why_kr": "'ntly' 소리가 뭉개지기 쉬워 '런리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "finalizing",
+          "why_kr": "'z' 발음과 여러 음절 때문에 정확한 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "생소한 단어로, '아이티너레리'와 같은 복잡한 발음이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "마무리하다, 확정하다"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정표"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced",
+      "text": "A recent study revealed that average screen time increased by 15% during the past year.",
+      "translation_kr": "최근 연구에 따르면 지난 한 해 동안 평균 스크린 시간이 15% 증가했습니다.",
+      "tricky_parts": [
+        {
+          "part": "revealed",
+          "why_kr": "'v' 발음과 'ea' 발음이 정확하게 구분되지 않아 '리빌드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "average screen time",
+          "why_kr": "'average'의 'ge' 발음과 'screen'의 'scr' 자음군이 연결될 때 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "increased by",
+          "why_kr": "'d'와 'b'가 연결되어 마치 '인크리스바이'처럼 들려 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revealed",
+          "meaning_kr": "밝히다, 드러내다"
+        },
+        {
+          "word": "average",
+          "meaning_kr": "평균의"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "It's important to see eye to eye with friends on major decisions.",
+      "translation_kr": "중요한 결정에 대해 친구들과 의견이 일치하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "important to",
+          "why_kr": "'important'의 마지막 't'가 거의 발음되지 않고 'to'와 연결될 때 소리가 다르게 들릴 수 있습니다."
+        },
+        {
+          "part": "see eye to eye",
+          "why_kr": "관용구로, 각 단어의 연결 발음과 전체적인 의미 파악이 어렵습니다."
+        },
+        {
+          "part": "major decisions",
+          "why_kr": "'j' 발음과 'decisions'의 's' 발음이 정확하게 구분되지 않으면 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견이 일치하다"
+        },
+        {
+          "word": "major",
+          "meaning_kr": "주요한, 중요한"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning that hiking trip; it'll definitely be an amazing experience!",
+      "translation_kr": "등산 여행 계획 중이시라고 들었어요. 분명 멋진 경험이 될 거예요!",
+      "tricky_parts": [
+        {
+          "part": "I've heard",
+          "why_kr": "축약형 ('I have')과 'v' 발음, 그리고 'h'가 거의 들리지 않고 연결되어 '아이브어드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "you're planning",
+          "why_kr": "축약형 ('you are')과 'r' 발음, 그리고 'planning'의 'pl' 발음이 빠르게 연결되어 어렵습니다."
+        },
+        {
+          "part": "it'll definitely be",
+          "why_kr": "두 개의 축약형 ('it will')과 'definitely'의 빠른 발음, 그리고 'tely' 부분의 약한 발음이 뭉개지기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "definitely",
+          "meaning_kr": "분명히, 확실히"
+        },
+        {
+          "word": "experience",
+          "meaning_kr": "경험"
+        }
+      ]
+    }
+  ]
+}
