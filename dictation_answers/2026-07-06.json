@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-06 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has a really impressive camera for taking clear photos.",
+      "translation_kr": "제 새 스마트폰은 선명한 사진을 찍기 위한 정말 인상적인 카메라를 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "impressive camera",
+          "why_kr": "‘impressive’의 /v/ 소리와 ‘camera’의 /k/ 소리가 연결될 때 한국 학습자들이 혼동할 수 있습니다. ‘-ssive’ 부분의 강세도 중요합니다."
+        },
+        {
+          "part": "taking clear",
+          "why_kr": "‘taking’의 끝 /ŋ/ 소리와 ‘clear’의 시작 /k/ 소리 사이의 연결이 자연스럽지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The startup developed innovative software solutions for managing business data efficiently.",
+      "translation_kr": "그 스타트업은 비즈니스 데이터를 효율적으로 관리하기 위한 혁신적인 소프트웨어 솔루션을 개발했습니다.",
+      "tricky_parts": [
+        {
+          "part": "developed innovative",
+          "why_kr": "‘developed’의 끝 /d/ 소리와 ‘innovative’의 시작 /ɪ/ 소리가 연결될 때 /dɪn/과 같이 들릴 수 있어 주의가 필요합니다."
+        },
+        {
+          "part": "solutions for",
+          "why_kr": "‘solutions’의 끝 /z/ 소리와 ‘for’의 /f/ 소리 사이의 연결이 자연스럽지 않을 수 있으며, ‘-tions’ 발음도 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "efficiently",
+          "meaning_kr": "효율적으로"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Leading AI researchers announced their latest breakthrough in neural networks on July 1st.",
+      "translation_kr": "선도적인 AI 연구원들은 7월 1일에 신경망 분야의 최신 돌파구를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "researchers announced",
+          "why_kr": "‘researchers’의 끝 /z/ 소리와 ‘announced’의 시작 /ə/ 소리가 연결될 때 /zən/과 같이 들릴 수 있습니다. ‘announced’의 /s/ 소리도 종종 놓치기 쉽습니다."
+        },
+        {
+          "part": "latest breakthrough",
+          "why_kr": "‘latest’의 /t/ 소리와 ‘breakthrough’의 /b/ 소리가 빠르게 연결될 때 명확하게 듣기 어려울 수 있습니다. ‘breakthrough’의 /th/ 발음도 신경 써야 합니다."
+        },
+        {
+          "part": "July 1st",
+          "why_kr": "날짜 뒤에 오는 서수 표현인 ‘1st’의 /st/ 소리가 빠르게 발음될 때 잘 들리지 않거나 ‘first’로 착각할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "breakthrough",
+          "meaning_kr": "돌파구"
+        },
+        {
+          "word": "neural networks",
+          "meaning_kr": "신경망"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom / phrasal verb",
+      "text": "Our tech company is trying to stay ahead of the curve by investing in AI.",
+      "translation_kr": "우리 기술 회사는 AI에 투자함으로써 시대의 흐름을 앞서가려고 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "stay ahead of the curve",
+          "why_kr": "관용구 자체를 이해하는 것이 어렵고, ‘ahead of the’ 부분에서 여러 소리가 연결되면서 한국 학습자들이 정확하게 듣고 구분하기 어려울 수 있습니다. 특히 ‘of the’는 /əvðə/처럼 약하게 발음됩니다."
+        },
+        {
+          "part": "investing in",
+          "why_kr": "‘investing’의 끝 /ŋ/ 소리와 ‘in’의 시작 /ɪ/ 소리가 연결될 때 /ŋɪn/과 같이 들려 한 단어처럼 인식될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "stay ahead of the curve",
+          "meaning_kr": "시대를 앞서가다 / 유행을 선도하다"
+        },
+        {
+          "word": "investing",
+          "meaning_kr": "투자하는 것"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge (fast speech, contractions)",
+      "text": "You've probably heard about how AI is changing gadget design, haven't you?",
+      "translation_kr": "아마도 AI가 가제트 디자인을 어떻게 바꾸고 있는지 들어보셨을 거예요, 안 그런가요?",
+      "tricky_parts": [
+        {
+          "part": "You've probably heard",
+          "why_kr": "‘You’ve’의 축약형과 ‘probably’의 묵음 /b/가 빠르게 발음될 때 ‘probably’가 ‘probly’처럼 들릴 수 있습니다. ‘heard’의 /d/도 종종 놓치기 쉽습니다."
+        },
+        {
+          "part": "is changing gadget",
+          "why_kr": "‘changing’의 /ŋ/ 소리와 ‘gadget’의 /g/ 소리가 연결될 때 한국 학습자들이 혼동하기 쉽고, ‘gadget’의 첫 /g/ 소리를 /dʒ/로 착각할 수 있습니다."
+        },
+        {
+          "part": "haven't you",
+          "why_kr": "‘haven’t’의 /t/가 빠르게 발음될 때 종종 생략되거나, 뒤따르는 ‘you’와 연결되어 /tʃu/ (ch-u) 소리처럼 들릴 수 있어 학습자들이 인지하기 매우 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gadget",
+          "meaning_kr": "기기 / 장치"
+        },
+        {
+          "word": "design",
+          "meaning_kr": "디자인 / 설계"
+        }
+      ]
+    }
+  ]
+}
