@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-07 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The company's sales went up last quarter due to strong consumer demand.",
+      "translation_kr": "그 회사의 매출은 강력한 소비자 수요 때문에 지난 분기에 상승했습니다.",
+      "tricky_parts": [
+        {
+          "part": "sales went up",
+          "why_kr": "'s'와 'w'가 이어지는 소리, 그리고 't'가 거의 들리지 않고 'went'와 'up'이 연결되어 [웬렂]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "consumer demand",
+          "why_kr": "'consumer'의 첫 'o' 발음이 'u'와 비슷하게 들릴 수 있고, 'demand'의 강세 위치가 다르게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "sales",
+          "meaning_kr": "매출"
+        },
+        {
+          "word": "consumer demand",
+          "meaning_kr": "소비자 수요"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many small businesses are struggling with rising operational costs and inflation.",
+      "translation_kr": "많은 소규모 사업체들이 상승하는 운영 비용과 인플레이션으로 고군분투하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "struggling with",
+          "why_kr": "'struggling'의 'gl' 발음과 'g'와 'w'가 연결되는 소리가 어려울 수 있습니다."
+        },
+        {
+          "part": "operational costs",
+          "why_kr": "'operational'의 'tion' 발음이 '션'이 아닌 '슌'처럼 들릴 수 있고, 'costs'의 's' 소리가 잘 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "operational costs",
+          "meaning_kr": "운영 비용"
+        },
+        {
+          "word": "inflation",
+          "meaning_kr": "인플레이션, 물가 상승"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Officials announced a 2.5% economic growth rate for the last quarter of 2025.",
+      "translation_kr": "관계자들은 2025년 마지막 분기의 경제 성장률이 2.5%라고 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced a",
+          "why_kr": "'announced'의 마지막 'd' 소리가 다음 'a'와 연결되어 [어나운스터]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "growth rate",
+          "why_kr": "'growth'의 'th' 발음과 'rate'의 'r' 발음이 이어져 발음하기 까다로울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "economic growth rate",
+          "meaning_kr": "경제 성장률"
+        },
+        {
+          "word": "quarter",
+          "meaning_kr": "분기"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "The new startup really took off after securing significant venture capital funding.",
+      "translation_kr": "새로운 스타트업은 상당한 벤처 캐피탈 자금을 확보한 후 정말 성공적으로 시작했습니다.",
+      "tricky_parts": [
+        {
+          "part": "took off",
+          "why_kr": "구동사로, 'k'와 'o'가 연결되어 '투컵'처럼 들릴 수 있고, 의미를 유추하기 어려울 수 있습니다."
+        },
+        {
+          "part": "securing significant",
+          "why_kr": "'securing'의 'r' 발음과 'significant'의 'gn' 발음, 그리고 두 단어가 빠르게 이어질 때의 연음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "took off",
+          "meaning_kr": "급성장하다, 성공적으로 시작하다 (이륙하다의 비유적 의미)"
+        },
+        {
+          "word": "venture capital",
+          "meaning_kr": "벤처 캐피탈 (신생 기업에 투자하는 자금)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering why they've decided to pull out of the market so quickly.",
+      "translation_kr": "아마도 그들이 왜 시장에서 그렇게 빨리 철수하기로 결정했는지 궁금하실 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You're probably",
+          "why_kr": "연속적인 축약어와 'probably'의 'bably' 부분이 빠르게 발음되어 [프라블리]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "why they've decided",
+          "why_kr": "'why'와 'they've'의 연음, 'they've'의 've' 소리가 약하게 들리고 'decided'의 'd'가 탈락되거나 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "pull out of",
+          "why_kr": "세 단어가 이어지며 '풀 아웃 오브'가 아니라 [풀아우러브]처럼 들리며, 'out of'의 't'가 약해지거나 'r' 소리로 변할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "pull out of",
+          "meaning_kr": "~에서 철수하다, 손을 떼다"
+        },
+        {
+          "word": "market",
+          "meaning_kr": "시장"
+        }
+      ]
+    }
+  ]
+}
