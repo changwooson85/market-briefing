@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-09 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I bought a new smartphone yesterday; its camera quality is amazing.",
+      "translation_kr": "어제 새 스마트폰을 샀는데, 카메라 품질이 정말 대단해요.",
+      "tricky_parts": [
+        {
+          "part": "bought a",
+          "why_kr": "두 단어 사이의 't'와 'a'가 자연스럽게 연결되어 /bɔːtə/처럼 들립니다. 한국 학습자들은 이 발음을 개별 단어로 듣고 혼동할 수 있습니다."
+        },
+        {
+          "part": "amazing",
+          "why_kr": "강세가 없는 첫 음절 'a'와 한국어에 없는 'z' 소리 때문에 발음과 듣기 모두 어려울 수 있습니다. 's'로 잘못 발음하거나 들을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "amazing",
+          "meaning_kr": "놀라운, 대단한"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company is investing heavily in AI development to enhance customer experience.",
+      "translation_kr": "저희 회사는 고객 경험을 향상시키기 위해 AI 개발에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'의 끝 'g'와 'heavily'의 'h'가 연결되어 발음될 수 있으며, 'heavily'의 'ea' 발음은 한국 학습자들이 종종 헷갈려 하는 부분입니다."
+        },
+        {
+          "part": "enhance",
+          "why_kr": "강세가 없는 'e'와 'h' 소리가 명확하게 들리지 않아 'in-'으로 시작하는 다른 단어와 혼동할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing",
+          "meaning_kr": "투자하는"
+        },
+        {
+          "word": "enhance",
+          "meaning_kr": "향상시키다, 높이다"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A major tech firm announced on July 7th that their new AI model will launch next year.",
+      "translation_kr": "한 주요 기술 기업은 7월 7일에 그들의 새로운 AI 모델이 내년에 출시될 것이라고 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced on",
+          "why_kr": "'announced'의 끝 'd' 소리가 'on'과 연결되어 발음되며, 원어민은 마지막 't' 소리를 생략하거나 약하게 발음하는 경향이 있어 한국 학습자들이 놓치기 쉽습니다."
+        },
+        {
+          "part": "July 7th",
+          "why_kr": "날짜의 '7th'에서 'v'와 'th' 소리가 함께 나오기 때문에 발음하기 어려울 수 있으며, 'th' 소리를 's'나 'f'로 잘못 들을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech firm",
+          "meaning_kr": "기술 기업"
+        },
+        {
+          "word": "AI model",
+          "meaning_kr": "AI 모델"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "The startup is trying to break into the competitive AI market with a novel approach.",
+      "translation_kr": "그 스타트업은 새로운 접근 방식으로 경쟁이 치열한 AI 시장에 진출하려고 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "break into",
+          "why_kr": "구동사 'break into'에서 'k'와 'in'이 연결되어 발음될 때, 한국 학습자들이 두 단어를 구분하기 어려워 의미 파악에 혼동이 올 수 있습니다."
+        },
+        {
+          "part": "novel approach",
+          "why_kr": "'novel'의 'v' 소리와 'approach'의 첫 음절 'a'가 강세 없이 약하게 발음될 때, 정확한 듣기가 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "startup",
+          "meaning_kr": "신생 기업"
+        },
+        {
+          "word": "novel approach",
+          "meaning_kr": "새로운 접근 방식"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna need to understand how AI works; it'll change everything we do.",
+      "translation_kr": "AI가 어떻게 작동하는지 이해해야 할 거예요; 그것이 우리가 하는 모든 것을 바꿀 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are going to'의 구어체 축약형으로, 매우 빠르게 발음되고 'gonna'는 공식적인 표기가 아니므로 듣기 어렵습니다. '유어 고나'가 아닌 '유어거너'에 가깝게 들립니다."
+        },
+        {
+          "part": "it'll change",
+          "why_kr": "'it will'의 축약형 'it'll'은 '잇을'처럼 들리며, 뒤따르는 'change'의 'ch' 소리와 연결될 때 빠르게 들려 구분하기 어렵습니다."
+        },
+        {
+          "part": "everything we do",
+          "why_kr": "'everything'의 'th' 소리는 한국 학습자에게 어렵고, 'g'와 'w'가 연결되어 발음될 때 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "understand",
+          "meaning_kr": "이해하다"
+        },
+        {
+          "word": "everything",
+          "meaning_kr": "모든 것"
+        }
+      ]
+    }
+  ]
+}
