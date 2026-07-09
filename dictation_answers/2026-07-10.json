@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-10 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are currently looking for new jobs in the competitive market.",
+      "translation_kr": "많은 사람들이 현재 경쟁이 치열한 시장에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "currently",
+          "why_kr": "'현재'라는 뜻의 이 단어는 't' 발음이 약화되거나 생략되어 '커런리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "competitive market",
+          "why_kr": "'경쟁력 있는'이라는 형용사와 '시장'이라는 명사의 조합으로, 연음과 강세 위치에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "currently",
+          "meaning_kr": "현재"
+        },
+        {
+          "word": "competitive market",
+          "meaning_kr": "경쟁 시장"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company reported a significant increase in its quarterly sales figures.",
+      "translation_kr": "그 회사는 분기별 판매 수치에서 상당한 증가를 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported a significant",
+          "why_kr": "'reported'의 'd'와 'a'가 연음되고, 'significant'의 강세가 'nif' 부분에 있어 정확한 발음과 흐름을 잡기 어렵습니다."
+        },
+        {
+          "part": "quarterly sales figures",
+          "why_kr": "'quarterly'와 'sales' 사이의 연음, 그리고 'figures'의 'g' 발음을 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significant",
+          "meaning_kr": "상당한, 중요한"
+        },
+        {
+          "word": "quarterly sales",
+          "meaning_kr": "분기별 판매"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "Analysts predict the stock index will reach 3,500 points by early next year.",
+      "translation_kr": "분석가들은 주가 지수가 내년 초까지 3,500포인트에 도달할 것이라고 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts predict",
+          "why_kr": "'Analysts'의 'ts'와 'predict'의 'p'가 연음 없이 발음되며, 'predict'의 'pre' 부분에 강세가 옵니다."
+        },
+        {
+          "part": "reach 3,500 points",
+          "why_kr": "'reach'의 'ch'와 숫자 'three thousand five hundred'를 자연스럽게 연결하기 어렵고, 'points'의 'ts' 발음도 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "stock index",
+          "meaning_kr": "주가 지수"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Investors decided to play it safe during the recent market volatility.",
+      "translation_kr": "투자자들은 최근 시장 변동성 동안 안전책을 택하기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "play it safe",
+          "why_kr": "관용구 'play it safe'는 'it'의 't'가 거의 들리지 않거나 'd'처럼 들릴 수 있으며, 전체적으로 빠르게 연음됩니다."
+        },
+        {
+          "part": "market volatility",
+          "why_kr": "'volatility'는 't' 발음이 'd'처럼 들릴 수 있고, 'l' 사운드가 두 번 반복되어 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "play it safe",
+          "meaning_kr": "안전책을 택하다, 위험을 무릅쓰지 않다"
+        },
+        {
+          "word": "volatility",
+          "meaning_kr": "변동성"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering if they've already started to cut interest rates.",
+      "translation_kr": "당신은 아마 그들이 이미 금리 인하를 시작했는지 궁금해할 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "You're probably wondering",
+          "why_kr": "축약형 'You're'와 'probably'의 'prob' 부분이 강하게 발음되고, 'wondering'의 'der' 부분이 빠르게 이어지며 'd' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "if they've already started to",
+          "why_kr": "여러 단어와 축약형이 연속으로 빠르게 이어져 'if they've'에서 'v'와 'a'가 연음되고, 'already started to'의 't' 사운드들이 약화되거나 생략되어 들릴 수 있습니다."
+        },
+        {
+          "part": "interest rates",
+          "why_kr": "'interest'의 중간 't'가 거의 들리지 않고, 'rates'의 't'도 약하게 발음되어 '인러스트 레이츠'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "interest rates",
+          "meaning_kr": "금리"
+        },
+        {
+          "word": "cut rates",
+          "meaning_kr": "금리를 인하하다"
+        }
+      ]
+    }
+  ]
+}
