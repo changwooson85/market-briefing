@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-11 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruits and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요구르트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "연음(y-oo-zh-uh-lee)과 'sh' 소리가 한국 학습자에게는 익숙지 않아 잘못 듣거나 발음할 수 있습니다."
+        },
+        {
+          "part": "fresh fruits",
+          "why_kr": "'sh' 소리와 'fr' 발음, 그리고 'fruits'의 끝 's' 소리가 뭉쳐 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요구르트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "We need to finalize our travel itinerary for the upcoming business conference by next Friday.",
+      "translation_kr": "우리는 다음 주 금요일까지 다가오는 비즈니스 회의를 위한 여행 일정을 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize",
+          "why_kr": "'fai-nuh-lize' 발음의 'z' 소리와 복잡한 음절 구조 때문에 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "음절이 길고(ai-tin-uh-rare-ee) 익숙하지 않은 단어로, 모음과 강세를 놓치기 쉽습니다."
+        },
+        {
+          "part": "upcoming business",
+          "why_kr": "'g'와 'b'의 연음, 그리고 'business'의 'ss' 소리가 빠르게 이어지면 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "확정하다, 마무리하다"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The local health center announced a free flu shot program on October 25th for all residents.",
+      "translation_kr": "지역 보건소는 모든 주민들을 위해 10월 25일에 무료 독감 예방 접종 프로그램을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced a",
+          "why_kr": "'d'와 'a'가 연음되면서 빠르게 들릴 수 있고, 'ou' 발음도 주의해야 합니다."
+        },
+        {
+          "part": "flu shot",
+          "why_kr": "'flu'의 'u' 발음과 'shot'의 't' 발음이 명확하지 않을 수 있으며, 빠르게 이어집니다."
+        },
+        {
+          "part": "October 25th",
+          "why_kr": "날짜의 'th' 발음과 'r' 발음, 그리고 숫자가 결합될 때 집중해서 들어야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "announced",
+          "meaning_kr": "발표했다"
+        },
+        {
+          "word": "residents",
+          "meaning_kr": "주민들"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Even though they've had their ups and downs, they always manage to iron out their differences.",
+      "translation_kr": "그들은 우여곡절을 겪었음에도 불구하고, 항상 차이점을 해결해 나갑니다.",
+      "tricky_parts": [
+        {
+          "part": "though they've",
+          "why_kr": "'though'의 'th' 소리와 'gh'의 묵음, 그리고 'they've'의 축약형이 빠르게 이어져 혼동될 수 있습니다."
+        },
+        {
+          "part": "ups and downs",
+          "why_kr": "관용어구로 자연스럽게 연결되어 들리며, 's'와 'and'의 연음이 발생합니다."
+        },
+        {
+          "part": "iron out",
+          "why_kr": "구동사 'iron out'에서 'iron'의 'r' 발음이 모호하고 'n'과 'out'이 연음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "ups and downs",
+          "meaning_kr": "우여곡절"
+        },
+        {
+          "word": "iron out",
+          "meaning_kr": "(문제 등을) 해결하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge (fast speech, contractions)",
+      "text": "You've gotta be quick if you're gonna catch that early train; it'll leave soon.",
+      "translation_kr": "그 이른 기차를 타려면 서둘러야 할 거야; 곧 떠날 거야.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "'You've' (You have)와 'gotta' (got to)의 축약형이 자연스러운 빠른 연음으로 발음되어 듣기 어렵습니다."
+        },
+        {
+          "part": "if you're gonna",
+          "why_kr": "'you're' (you are)와 'gonna' (going to)의 축약형이 빠르게 연결되어 원어민 발음에 익숙하지 않으면 놓치기 쉽습니다."
+        },
+        {
+          "part": "it'll leave soon",
+          "why_kr": "'it'll' (it will)의 축약형과 'l' 소리가 반복되어 듣기 어렵고, 'soon'의 'oo' 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gotta (got to)",
+          "meaning_kr": "~해야 한다"
+        },
+        {
+          "word": "gonna (going to)",
+          "meaning_kr": "~할 것이다"
+        }
+      ]
+    }
+  ]
+}
