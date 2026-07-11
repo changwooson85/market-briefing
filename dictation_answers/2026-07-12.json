@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-12 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I always try to eat a balanced diet, including fresh fruits and vegetables.",
+      "translation_kr": "저는 항상 신선한 과일과 채소를 포함한 균형 잡힌 식단을 섭취하려고 노력해요.",
+      "tricky_parts": [
+        {
+          "part": "always try to",
+          "why_kr": "'always'의 's'와 'try'의 't', 'try'의 'y'와 'to'의 연음, 그리고 'to'의 약화된 발음 때문에 학습자들이 놓치기 쉽습니다."
+        },
+        {
+          "part": "balanced diet",
+          "why_kr": "'balanced'의 'd'가 뒤따르는 'diet'의 'd'와 연결될 때 발음이 모호해지거나, 'balanced'의 모음이 약화되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "balanced diet",
+          "meaning_kr": "균형 잡힌 식단"
+        },
+        {
+          "word": "fresh fruits",
+          "meaning_kr": "신선한 과일"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate_plus",
+      "text": "Effective communication is essential for maintaining healthy relationships, both professionally and personally.",
+      "translation_kr": "효과적인 의사소통은 업무적으로나 개인적으로나 건강한 관계를 유지하는 데 필수적입니다.",
+      "tricky_parts": [
+        {
+          "part": "Effective communication",
+          "why_kr": "'effective'의 'v' 발음이 약화되거나, 'communication'의 '-tion' 발음이 명확하지 않아 혼동될 수 있습니다."
+        },
+        {
+          "part": "essential for",
+          "why_kr": "'essential'의 'tial' 발음과 끝의 'l'이 'for'와 연결되어 들리는 소리가 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "effective communication",
+          "meaning_kr": "효과적인 의사소통"
+        },
+        {
+          "word": "maintaining relationships",
+          "meaning_kr": "관계 유지"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_style",
+      "text": "The company reported a 15% increase in online sales during Q2 2026.",
+      "translation_kr": "그 회사는 2026년 2분기에 온라인 판매가 15% 증가했다고 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported a",
+          "why_kr": "'reported'의 'd'와 'a'가 연음되며 'a' 발음이 약화되어 들릴 수 있습니다."
+        },
+        {
+          "part": "15% increase",
+          "why_kr": "'15%' (fifteen percent)가 '50%' (fifty percent)와 혼동될 수 있으며, 'increase'가 명사로 쓰였지만 동사처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "Q2 2026",
+          "why_kr": "'Q2'와 '2026'의 빠르고 간결한 발음이 숫자를 놓치게 할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "online sales",
+          "meaning_kr": "온라인 판매"
+        },
+        {
+          "word": "Q2",
+          "meaning_kr": "2분기"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal_verb",
+      "text": "After a hectic week, I often try to unwind by catching up with friends.",
+      "translation_kr": "바쁜 한 주 후에, 저는 종종 친구들과 만나며 긴장을 풀려고 노력해요.",
+      "tricky_parts": [
+        {
+          "part": "hectic week",
+          "why_kr": "'hectic'의 'c' 발음과 'week'의 'w' 발음이 연결되며, 'hectic'의 'ic' 부분이 빠르게 지나가기 쉽습니다."
+        },
+        {
+          "part": "unwind by",
+          "why_kr": "'unwind'의 끝 'd' 소리가 뒤따르는 'by'와 연결될 때 약화되거나 잘 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "catching up",
+          "why_kr": "'catching'의 'g' 발음이 생략되고 'ch' 소리가 'up'과 빠르게 연음될 때 정확하게 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hectic week",
+          "meaning_kr": "바쁜 한 주"
+        },
+        {
+          "word": "unwind",
+          "meaning_kr": "긴장을 풀다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta prioritize your health, or you'll regret it later, believe me.",
+      "translation_kr": "건강을 우선해야 해요, 안 그러면 나중에 후회할 거예요, 저를 믿으세요.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "'You have to'가 'You've gotta'로 축약되어 빠르게 발음되므로, 익숙하지 않으면 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "prioritize your",
+          "why_kr": "'prioritize'의 'ze' 소리와 'your'가 연음되며, 'your'가 'yer'처럼 약화되어 들릴 수 있습니다."
+        },
+        {
+          "part": "you'll regret it",
+          "why_kr": "'you will'의 'll' 발음과 'regret'의 't'가 'it'과 연음되어, 't' 발음이 거의 들리지 않고 'it'도 약화되어 빠르게 연결됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prioritize",
+          "meaning_kr": "우선순위를 두다"
+        },
+        {
+          "word": "regret",
+          "meaning_kr": "후회하다"
+        }
+      ]
+    }
+  ]
+}
