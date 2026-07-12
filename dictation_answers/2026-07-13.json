@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-13 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has excellent battery life and a fantastic camera.",
+      "translation_kr": "제 새 스마트폰은 배터리 수명이 훌륭하고 카메라가 환상적이에요.",
+      "tricky_parts": [
+        {
+          "part": "excellent battery",
+          "why_kr": "'excellent'의 't' 소리가 뒤의 'battery'와 이어지며 'e' 소리가 약화될 수 있고, 'x' 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "fantastic camera",
+          "why_kr": "'fantastic'의 'c' 소리와 'camera'의 'c' 소리가 연결될 때 한국 학습자들이 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        },
+        {
+          "word": "fantastic",
+          "meaning_kr": "환상적인"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company is actively investing in AI development to enhance customer experience.",
+      "translation_kr": "저희 회사는 고객 경험 향상을 위해 AI 개발에 적극적으로 투자하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "actively investing",
+          "why_kr": "'actively'의 'ly'와 'investing'이 빠르게 이어지며 't' 소리가 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "enhance customer experience",
+          "why_kr": "'enhance'는 다소 새로운 어휘일 수 있으며, 'customer experience'와 같이 두 단어가 빠르게 연결될 때 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "actively",
+          "meaning_kr": "적극적으로"
+        },
+        {
+          "word": "enhance",
+          "meaning_kr": "향상시키다"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The new AI model, launched yesterday, aims to revolutionize data analysis by Q4 2026.",
+      "translation_kr": "어제 출시된 새로운 AI 모델은 2026년 4분기까지 데이터 분석을 혁신하는 것을 목표로 합니다.",
+      "tricky_parts": [
+        {
+          "part": "launched yesterday",
+          "why_kr": "'launched'의 'ch' 소리와 'yesterday'가 빠르게 연결되며 'd' 소리가 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "revolutionize data analysis",
+          "why_kr": "'revolutionize'와 같은 길고 격식 있는 단어는 발음이 어려울 수 있고, 'data analysis'는 빠르게 발음될 때 한 덩어리로 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "by Q4 2026",
+          "why_kr": "'Q4' (큐포)와 같은 약어는 구어체에서 익숙하지 않을 수 있으며, 'by'의 소리가 짧게 지나갈 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revolutionize",
+          "meaning_kr": "혁신하다"
+        },
+        {
+          "word": "Q4",
+          "meaning_kr": "4분기"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "We need to keep our finger on the pulse of emerging tech to stay competitive.",
+      "translation_kr": "우리는 경쟁력을 유지하기 위해 떠오르는 기술의 흐름을 계속 파악해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "keep our finger on the pulse",
+          "why_kr": "이것은 관용구이며, 'our'의 약화 발음과 'pulse'의 'l' 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "emerging tech",
+          "why_kr": "'emerging'과 'tech'가 빠르게 연결될 때 'g'와 't' 소리가 자연스럽게 이어져 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keep one's finger on the pulse",
+          "meaning_kr": "(~의) 흐름을 계속 파악하다"
+        },
+        {
+          "word": "emerging",
+          "meaning_kr": "떠오르는, 신흥의"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard they're developing an AI that'll instantly translate conversations; it's quite impressive.",
+      "translation_kr": "대화를 즉시 번역할 AI를 개발하고 있다고 들었어요; 꽤 인상적이에요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard they're",
+          "why_kr": "세 개의 축약형('I've', 'heard', 'they're')이 빠르게 이어지며 각 단어의 경계가 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "that'll instantly translate",
+          "why_kr": "'that'll'의 'tl' 발음과 'instantly'의 'tly' 발음이 빠르게 연결될 때 정확히 듣고 구분하기 어렵습니다."
+        },
+        {
+          "part": "conversations; it's quite impressive",
+          "why_kr": "'conversations'의 끝 's' 소리와 'it's'의 시작 'i' 소리가 연결되며, 'quite impressive'가 자연스럽게 이어질 때 빠르게 인식하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "instantly",
+          "meaning_kr": "즉시, 즉각적으로"
+        },
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        }
+      ]
+    }
+  ]
+}
