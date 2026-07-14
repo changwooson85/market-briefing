@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-15 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy everyday expression",
+      "text": "I usually eat a light breakfast with fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 과일과 요거트로 가볍게 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "한국어 화자들은 보통 '유주얼리'라고 발음하지만, 실제로는 '유절리'에 가깝게 들리며 's' 소리가 'ㅈ' 또는 '쥐' 소리로 나는 것을 놓치기 쉽습니다."
+        },
+        {
+          "part": "light breakfast",
+          "why_kr": "'light'의 't' 소리가 잘 들리지 않거나 다음 단어 'breakfast'와 연음될 때 혼동하기 쉽습니다. 'br' 발음도 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light",
+          "meaning_kr": "가벼운"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "We confirmed our flight reservation for next month's trip to Jeju Island yesterday.",
+      "translation_kr": "우리는 어제 다음 달 제주도 여행을 위한 항공편 예약을 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "confirmed",
+          "why_kr": "'confirmed'의 '-ed' 발음이 '드'로 명확하게 들리지 않거나, 한국어에 없는 'f' 발음과 'r' 발음이 섞여 들을 때 어렵습니다."
+        },
+        {
+          "part": "reservation",
+          "why_kr": "'reservation'의 'r'과 'v' 발음이 한국어에는 없는 소리여서 듣기 어려우며, '-tion'이 '션'으로 들릴 때가 많아 혼동할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "confirmed",
+          "meaning_kr": "확인했다"
+        },
+        {
+          "word": "reservation",
+          "meaning_kr": "예약"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Experts recommend at least 30 minutes of moderate exercise daily for adults.",
+      "translation_kr": "전문가들은 성인에게 매일 최소 30분간의 적당한 운동을 권장합니다.",
+      "tricky_parts": [
+        {
+          "part": "experts recommend",
+          "why_kr": "'experts'의 '츠'와 'recommend'의 '르' 소리가 연이어 나올 때 혼동하기 쉽습니다. 특히 'd' 소리가 약하게 들릴 수 있습니다."
+        },
+        {
+          "part": "moderate exercise",
+          "why_kr": "'moderate'의 'r' 발음과 'exercise'의 'x' 발음(크스 소리)이 정확히 들리지 않으면 다른 단어로 착각할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "moderate",
+          "meaning_kr": "적당한"
+        },
+        {
+          "word": "exercise",
+          "meaning_kr": "운동"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "includes idiom or phrasal verb",
+      "text": "After discussing for hours, we finally decided to patch things up and move on.",
+      "translation_kr": "몇 시간 동안 논의한 끝에, 우리는 마침내 화해하고 넘어가기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "discussing for hours",
+          "why_kr": "'discussing'의 's' 발음과 'for hours'가 연음될 때 '포라워즈'처럼 들려 혼동하기 쉽습니다. 'hours'의 'h'가 묵음인 경우가 많아 더욱 그렇습니다."
+        },
+        {
+          "part": "patch things up",
+          "why_kr": "'patch'의 'ㅊ' 소리와 'things up'이 '씽섭'처럼 연음될 때 정확한 구절을 파악하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "patch things up",
+          "meaning_kr": "화해하다, 관계를 개선하다"
+        },
+        {
+          "word": "move on",
+          "meaning_kr": "(과거를 잊고) 나아가다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge - natural fast speech",
+      "text": "You're right, they've probably already left, so it'll be quick to catch up.",
+      "translation_kr": "네 말이 맞아, 그들은 아마 이미 떠났을 거야, 그러니 따라잡는 건 금방일 거야.",
+      "tricky_parts": [
+        {
+          "part": "You're right, they've",
+          "why_kr": "'you're'와 'right'의 연음, 그리고 'they've'의 '브' 발음이 약하게 들리거나 빠르게 지나가면 듣기 어렵습니다. 특히 'right'의 't'가 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "probably already",
+          "why_kr": "'probably'가 '프라블리'가 아닌 '프라블리' 또는 '프라블리'처럼 빠르게 축약되어 발음될 수 있으며, 'already'와 연음될 때 더욱 놓치기 쉽습니다."
+        },
+        {
+          "part": "it'll be quick to catch up",
+          "why_kr": "'it'll'의 '이틀' 또는 '이럴' 발음과 'quick to'의 'k' 사운드 생략, 그리고 'catch up'이 '캐첩'처럼 연음될 때 각 단어를 구분하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "catch up",
+          "meaning_kr": "따라잡다"
+        },
+        {
+          "word": "probably",
+          "meaning_kr": "아마도"
+        }
+      ]
+    }
+  ]
+}
