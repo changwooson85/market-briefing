@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-17 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are currently looking for new jobs in the tech industry.",
+      "translation_kr": "많은 사람들이 현재 기술 산업에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "currently looking",
+          "why_kr": "'currently'의 '-tly' 발음과 'looking'이 연결될 때 부자연스러울 수 있습니다."
+        },
+        {
+          "part": "tech industry",
+          "why_kr": "'tech'의 'ch' 소리와 'industry'의 's' 소리가 뭉개지기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "currently",
+          "meaning_kr": "현재"
+        },
+        {
+          "word": "tech industry",
+          "meaning_kr": "기술 산업"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company announced a significant increase in profits for the last quarter.",
+      "translation_kr": "저희 회사는 지난 분기에 상당한 수익 증가를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "significant increase",
+          "why_kr": "'significant'의 't'와 'increase'가 연결될 때 't' 발음이 약화되거나 뭉개질 수 있습니다."
+        },
+        {
+          "part": "last quarter",
+          "why_kr": "'last'의 't'와 'quarter'의 'q' 발음이 이어지면서 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significant",
+          "meaning_kr": "상당한"
+        },
+        {
+          "word": "profits",
+          "meaning_kr": "수익"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "The stock market saw a 1.5% drop on Friday, July 17th, affecting many investors.",
+      "translation_kr": "주식 시장은 7월 17일 금요일에 1.5% 하락하여 많은 투자자들에게 영향을 미쳤습니다.",
+      "tricky_parts": [
+        {
+          "part": "saw a",
+          "why_kr": "'saw'의 'w' 소리가 'a'와 자연스럽게 연결되어 'so-uh'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "1.5% drop",
+          "why_kr": "숫자와 퍼센트, 그리고 'drop'의 발음이 빠르게 이어지며 'job' 등으로 오해하기 쉽습니다."
+        },
+        {
+          "part": "July 17th",
+          "why_kr": "날짜의 서수 '17th'의 'th' 발음이 부정확하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "stock market",
+          "meaning_kr": "주식 시장"
+        },
+        {
+          "word": "investors",
+          "meaning_kr": "투자자"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Experts believe the economy will pick up steam by the end of this year.",
+      "translation_kr": "전문가들은 올해 말까지 경제가 활력을 되찾을 것이라고 믿습니다.",
+      "tricky_parts": [
+        {
+          "part": "pick up steam",
+          "why_kr": "관용어구로, 각 단어의 의미를 개별적으로 해석하기보다 통째로 이해해야 하며, 'pick up'과 'steam'의 발음 연결이 중요합니다."
+        },
+        {
+          "part": "by the end of",
+          "why_kr": "'by the end of'는 연결 발음이 강해 '바이 디 엔드 옵'과 같이 한 단어처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "pick up steam",
+          "meaning_kr": "활력을 되찾다, 탄력을 받다"
+        },
+        {
+          "word": "experts",
+          "meaning_kr": "전문가"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge (contractions, connected speech)",
+      "text": "They're gonna have to cut some costs if they wanna stay competitive, won't they?",
+      "translation_kr": "그들은 경쟁력을 유지하려면 비용을 좀 절감해야 할 거예요, 그렇죠?",
+      "tricky_parts": [
+        {
+          "part": "They're gonna",
+          "why_kr": "축약형 'They are'와 'going to'의 구어체 표현인 'gonna'가 빠르게 연결되어 원형을 유추하기 어렵습니다."
+        },
+        {
+          "part": "wanna stay",
+          "why_kr": "'want to'의 구어체 표현인 'wanna'와 'stay'가 연결되어 '워너 스테이'처럼 발음되므로 익숙하지 않으면 듣기 어렵습니다."
+        },
+        {
+          "part": "won't they",
+          "why_kr": "부가의문문으로, 빠르고 자연스러운 대화에서 약하게 발음되어 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "cut costs",
+          "meaning_kr": "비용을 절감하다"
+        },
+        {
+          "word": "competitive",
+          "meaning_kr": "경쟁력 있는"
+        }
+      ]
+    }
+  ]
+}
