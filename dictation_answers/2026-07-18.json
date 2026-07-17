@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-18 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 준비해요.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 발음이 한국어 '즈'와는 다른 소리로, 약하게 발음될 때 잘 안 들리거나 혼동하기 쉽습니다."
+        },
+        {
+          "part": "fresh fruit",
+          "why_kr": "'sh' (쉬) 발음과 'fr' (프르) 자음군이 연달아 나오며, 자연스럽게 연결될 때 '프레쉬프루트'처럼 들려 자음군 발음이 어렵습니다."
+        },
+        {
+          "part": "every morning",
+          "why_kr": "'v' 발음이 한국어 'ㅂ'과 달라 혼동하기 쉽고, 'r' 발음이 약하게 처리될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "We need to finalize the travel itinerary for the team building trip by next Tuesday.",
+      "translation_kr": "우리는 다음 주 화요일까지 팀 빌딩 여행의 여행 일정을 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize",
+          "why_kr": "'f' 발음과 마지막 'l' 발음이 약하게 처리되거나 정확한 강세를 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "단어 자체가 길고 강세가 'tin'에 있어서 한국어 학습자가 발음이나 의미를 파악하기 어렵습니다."
+        },
+        {
+          "part": "team building",
+          "why_kr": "'m'과 'b'가 연음될 때 '팀빌딩'처럼 들릴 수 있으나, 실제 발음은 더 부드럽게 연결됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "확정하다, 마무리 짓다"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "A recent report indicated 65% of adults exercise regularly, a 5% increase since 2024.",
+      "translation_kr": "최근 보고서에 따르면 성인의 65%가 규칙적으로 운동하며, 이는 2024년 이후 5% 증가한 수치입니다.",
+      "tricky_parts": [
+        {
+          "part": "indicated",
+          "why_kr": "끝에 오는 '-ed' 발음이 약하게 'd' 소리로 들리거나 거의 묵음처럼 처리될 수 있어 듣기 어렵습니다."
+        },
+        {
+          "part": "65%",
+          "why_kr": "빠르게 말할 때 'sixty-five percent'가 뭉개져 들릴 수 있어 숫자를 정확히 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "since 2024",
+          "why_kr": "'since'의 's'와 '2024'의 's' (two thousand twenty-four) 발음이 연달아 자연스럽게 연결되어 들립니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "indicated",
+          "meaning_kr": "나타냈다, 지적했다"
+        },
+        {
+          "word": "regularly",
+          "meaning_kr": "규칙적으로"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "My friend decided to clear the air about our misunderstanding over coffee yesterday afternoon.",
+      "translation_kr": "제 친구는 어제 오후 커피를 마시며 우리 사이의 오해에 대해 솔직히 이야기하기로 했습니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "'clear'의 'r'과 'the'의 'th' 발음, 그리고 'air'의 'r' 발음이 연이어 나오며, 'the'의 'th'가 약화되어 잘 안 들리거나 발음하기 어렵습니다."
+        },
+        {
+          "part": "misunderstanding",
+          "why_kr": "단어가 길고 강세가 불분명할 수 있으며, 's-t' 자음군이 이어져 발음하기 어려울 수 있습니다."
+        },
+        {
+          "part": "over coffee",
+          "why_kr": "'over'의 'r'과 'coffee'의 'c'가 연음될 때 '오버커피'가 아닌 '오우버어-커피'처럼 연결되어 들립니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 분위기를 쇄신하다 (숙어)"
+        },
+        {
+          "word": "misunderstanding",
+          "meaning_kr": "오해"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta try that new Italian place; it's got an amazing pasta dish you'll love.",
+      "translation_kr": "그 새로운 이탈리아 식당 꼭 가봐야 해; 놀라운 파스타 요리가 있는데 너 정말 좋아할 거야.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "'You have got to'의 비격식 축약형으로, 'v' 발음이 약하고 'got to'가 'godd-a'로 발음되어 원형을 파악하고 듣기가 매우 어렵습니다."
+        },
+        {
+          "part": "it's got an",
+          "why_kr": "'got'의 't'가 거의 묵음처럼 약화되고 's'와 'an'이 연음되어 '잇츠가든'처럼 빠르게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "pasta dish you'll",
+          "why_kr": "'dish'의 'sh'와 'you'll'의 'y'가 연결되어 '디쉬율'처럼 들릴 수 있고, 'you will'의 'll' 발음이 약화됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "amazing",
+          "meaning_kr": "놀라운, 굉장한"
+        },
+        {
+          "word": "pasta dish",
+          "meaning_kr": "파스타 요리"
+        }
+      ]
+    }
+  ]
+}
