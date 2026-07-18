@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-19 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy lunchbox for work to save money and eat well.",
+      "translation_kr": "저는 돈을 절약하고 잘 먹기 위해 보통 직장에 건강한 도시락을 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "prepare a",
+          "why_kr": "'prepare'의 [r] 소리와 'a'가 이어지는 연음이 빠르게 지나가면 'a'를 놓치거나 '프리페어러'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "lunchbox for",
+          "why_kr": "'lunchbox'의 [ks] 소리와 'for'의 [f] 소리가 연달아 오면서 발음이 뭉개지기 쉽고, 'for'가 약하게 발음될 수 있어 잘 안 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "lunchbox",
+          "meaning_kr": "도시락"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "We need to finalize the travel itinerary for our upcoming team-building retreat.",
+      "translation_kr": "우리는 다가오는 팀 빌딩 워크숍을 위한 여행 일정을 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize the",
+          "why_kr": "'finalize'의 [z] 소리와 'the'의 [ð] 소리가 이어지면서 발음이 어렵고, 'the'가 약하게 발음될 때 놓치기 쉽습니다."
+        },
+        {
+          "part": "itinerary for",
+          "why_kr": "'itinerary'의 중간 't'가 플랩 T 사운드에 가깝게 발음될 수 있고, 'for'가 강세 없이 빠르게 지나가면 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "마무리하다, 확정하다"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced intermediate",
+      "text": "Experts predict a steady increase in tourism to Southeast Asia by early 2027.",
+      "translation_kr": "전문가들은 2027년 초까지 동남아시아 관광이 꾸준히 증가할 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "predict a",
+          "why_kr": "'predict'의 't' 사운드 뒤에 모음 'a'가 오면서 [t] 소리가 약해지거나 다음 단어와 이어져 연음될 수 있습니다."
+        },
+        {
+          "part": "increase in",
+          "why_kr": "'increase'의 [s] 소리 다음에 'in'의 [ɪ] 모음이 오면서 [sɪn] 또는 [zɪn]과 같이 들릴 수 있어 주의가 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "predict",
+          "meaning_kr": "예측하다"
+        },
+        {
+          "word": "tourism",
+          "meaning_kr": "관광"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "challenge",
+      "text": "Even with a busy schedule, I try to carve out time for my hobbies.",
+      "translation_kr": "바쁜 일정 속에서도, 저는 제 취미를 위한 시간을 할애하려고 노력합니다.",
+      "tricky_parts": [
+        {
+          "part": "carve out",
+          "why_kr": "'carve'의 [v] 소리가 다음 단어 'out'의 [aʊ]와 자연스럽게 연결되는 연음 부분에서, 한국 학습자들이 이 연음을 놓치거나 정확한 발음을 듣기 어려워할 수 있습니다."
+        },
+        {
+          "part": "for my",
+          "why_kr": "'for'가 약형(unstressed form)으로 발음되어 [fər] 또는 [fr]와 같이 들릴 수 있으며, 이어서 'my'가 빠르게 나오면 구별하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "carve out",
+          "meaning_kr": "시간/공간을 할애하다, 따로 떼어내다"
+        },
+        {
+          "word": "hobbies",
+          "meaning_kr": "취미"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "ultimate challenge",
+      "text": "You've gotta prioritize your well-being; it'll definitely help you stay healthy.",
+      "translation_kr": "당신은 당신의 행복을 우선시해야 합니다; 그것은 분명히 건강을 유지하는 데 도움이 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "'You have got to'의 구어체 축약형으로, 'have'가 탈락되고 'got to'가 'gotta' ([ˈɡɑːtə])로 발음되는 대표적인 연음 및 축약 형태입니다. 빠르게 발음될 때 원형을 유추하기 어렵습니다."
+        },
+        {
+          "part": "it'll definitely",
+          "why_kr": "'it will'의 축약형인 'it'll' ([ɪtəl])은 'l' 소리가 거의 들리지 않게 빠르게 발음될 수 있으며, 'definitely'의 중간 'i'나 't'가 묵음 처리되거나 플랩 T로 발음되어 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "stay healthy",
+          "why_kr": "'healthy'의 'th' ([θ]) 발음은 한국어에 없는 발음이라 익숙지 않아 구별하기 어렵고, 'stay'와 'healthy'가 빠르게 이어질 때 연음되는 것을 캐치하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prioritize",
+          "meaning_kr": "우선순위를 매기다"
+        },
+        {
+          "word": "well-being",
+          "meaning_kr": "행복, 안녕"
+        }
+      ]
+    }
+  ]
+}
