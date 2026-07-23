@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-24 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new jobs to improve their financial situation.",
+      "translation_kr": "많은 사람들이 재정 상황을 개선하기 위해 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for",
+          "why_kr": "'looking'의 'ng' 소리가 'for'와 연결되어 들릴 수 있으며, 한국어에는 없는 'r' 소리가 뒤따라 나오기 때문에 발음하기 어려울 수 있습니다."
+        },
+        {
+          "part": "financial situation",
+          "why_kr": "'financial'의 'c' 소리가 'sh'처럼 발음되고, 'situation'의 't' 소리가 'd'처럼 들리거나 약하게 발음될 수 있어 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "financial situation",
+          "meaning_kr": "재정 상황"
+        },
+        {
+          "word": "improve",
+          "meaning_kr": "개선하다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company announced its quarterly earnings report, showing steady revenue growth.",
+      "translation_kr": "그 회사는 꾸준한 매출 성장을 보여주는 분기별 실적 보고서를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced its",
+          "why_kr": "'announced'의 'd' 소리가 'its'와 자연스럽게 연결되어 발음되며, 'its'는 약하게 발음될 수 있어 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'er' 발음과 'earnings'의 's' 발음을 명확하게 구분하기 어려울 수 있습니다."
+        },
+        {
+          "part": "revenue growth",
+          "why_kr": "'growth'의 'th' 발음은 한국어에 없는 소리여서 정확히 듣고 따라 하기가 매우 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings report",
+          "meaning_kr": "분기별 실적 보고서"
+        },
+        {
+          "word": "revenue growth",
+          "meaning_kr": "매출 성장"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "Analysts predict the stock market will rebound significantly by late 2026.",
+      "translation_kr": "분석가들은 2026년 말까지 주식 시장이 크게 반등할 것이라고 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts predict",
+          "why_kr": "'Analysts'의 마지막 's'와 'predict'의 첫 'p'가 연결되어 발음될 때 'st' 소리가 약해지거나 생략될 수 있습니다."
+        },
+        {
+          "part": "stock market will",
+          "why_kr": "'stock'의 'ck'와 'market'의 't'가 약하게 발음될 수 있으며, 'will'은 종종 'll'로 축약되어 들리기 쉽습니다."
+        },
+        {
+          "part": "rebound significantly",
+          "why_kr": "'rebound'의 'd' 소리와 'significantly'의 's' 소리가 연결되어 'ds'와 같은 복잡한 자음군으로 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가"
+        },
+        {
+          "word": "rebound",
+          "meaning_kr": "반등하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Many startups are struggling to make ends meet due to recent economic downturns.",
+      "translation_kr": "많은 스타트업들이 최근의 경기 침체로 인해 겨우 생계를 유지하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "struggling to",
+          "why_kr": "'struggling'의 'g' 소리가 뒤따르는 'to'와 연결될 때 'g-t' 소리가 자연스럽게 이어지기 어렵고, 'to'는 'da'처럼 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "make ends meet",
+          "why_kr": "관용구 'make ends meet'에서 'ends'의 'ds'와 'meet'의 'm'이 연결되어 발음될 때 소리가 뭉개지기 쉽습니다."
+        },
+        {
+          "part": "economic downturns",
+          "why_kr": "'economic'의 'c'와 'downturns'의 'd' 소리가 연결되며, 'downturns'의 마지막 's' 발음이 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "make ends meet",
+          "meaning_kr": "겨우 생활을 유지하다 (생계를 꾸려나가다)"
+        },
+        {
+          "word": "downturns",
+          "meaning_kr": "경기 침체"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge (contractions/connected speech)",
+      "text": "It's tough, but you've got to adapt if you're gonna stay competitive.",
+      "translation_kr": "힘들겠지만, 경쟁력을 유지하려면 적응해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "It's tough, but you've",
+          "why_kr": "축약형 'It's'와 'you've'의 빠른 발음과 함께, 'but'의 't'가 생략되거나 'you've'와 연결될 때 소리가 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "got to adapt",
+          "why_kr": "'got to'가 'gotta'로 발음되고, 't' 소리가 'd'처럼 약하게 들리면서 'adapt'와 자연스럽게 연결될 때 구분이 어려울 수 있습니다."
+        },
+        {
+          "part": "you're gonna stay",
+          "why_kr": "축약형 'you're'와 'gonna' (going to)가 빠르게 이어지며, 'r' 소리와 'g' 소리가 연결될 때 한국어 화자에게는 발음 및 청취가 까다로울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "adapt",
+          "meaning_kr": "적응하다"
+        },
+        {
+          "word": "competitive",
+          "meaning_kr": "경쟁력 있는"
+        }
+      ]
+    }
+  ]
+}
