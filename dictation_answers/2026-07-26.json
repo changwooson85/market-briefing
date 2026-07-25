@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-26 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I really enjoy trying different international dishes when I travel abroad.",
+      "translation_kr": "저는 해외여행을 할 때 다양한 세계 각국의 요리를 맛보는 것을 정말 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "enjoy trying",
+          "why_kr": "두 단어가 빠르게 연결될 때 'y' 소리와 't' 소리가 부드럽게 이어지는 '이' 발음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "international dishes",
+          "why_kr": "'international'의 't' 발음이 약화되거나 생략될 수 있고, 'dishes'의 'sh' 소리와 이어진 'es' 소리가 '이즈' 또는 '으즈'로 들려 혼동할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "international",
+          "meaning_kr": "국제적인, 세계 각국의"
+        },
+        {
+          "word": "abroad",
+          "meaning_kr": "해외로, 해외에"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "Prioritizing adequate rest is crucial for maintaining productivity and overall well-being.",
+      "translation_kr": "충분한 휴식을 우선시하는 것은 생산성과 전반적인 안녕을 유지하는 데 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "Prioritizing adequate",
+          "why_kr": "'Prioritizing'의 't'가 'r' 소리 뒤에 빠르게 발음되고, 'adequate'와 연결되면서 'g' 소리가 'k'처럼 들리거나 연음이 어려울 수 있습니다."
+        },
+        {
+          "part": "crucial for",
+          "why_kr": "'crucial'의 'sh' 소리와 'for'의 'r' 소리가 자연스럽게 연결될 때, 'r' 발음을 놓치거나 두 단어 사이의 연결이 어색하게 들릴 수 있습니다."
+        },
+        {
+          "part": "well-being",
+          "why_kr": "복합어로서 'well'과 'being'이 자연스럽게 연결되어야 하는데, 'l' 소리와 'b' 소리 사이의 연결이 매끄럽지 않게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prioritizing",
+          "meaning_kr": "우선순위를 정하는 것"
+        },
+        {
+          "word": "crucial",
+          "meaning_kr": "결정적인, 매우 중요한"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "Analysts predict a 15% increase in domestic travel by summer 2027, according to recent data.",
+      "translation_kr": "최근 자료에 따르면, 분석가들은 2027년 여름까지 국내 여행이 15% 증가할 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts predict",
+          "why_kr": "'Analysts'의 마지막 's' 소리와 'predict'의 'p' 소리가 연결될 때, 's' 소리가 약하게 들리거나 생략된 것처럼 들려 혼동될 수 있습니다."
+        },
+        {
+          "part": "15% increase",
+          "why_kr": "숫자 '15'의 발음과 'increase'의 'in' 소리가 연결될 때, 퍼센트 기호(%)가 발음되지 않으므로 'fifteen percent increase'가 아닌 'fifteen increase'로 들릴 수 있습니다."
+        },
+        {
+          "part": "according to",
+          "why_kr": "자주 사용되는 표현으로, 'acCORDing-to'와 같이 'to'가 약하게 발음되고 'g'와 't'가 연음될 때, 원어민의 빠른 발음에서 하나의 단어처럼 들려 이해하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "domestic",
+          "meaning_kr": "국내의"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal",
+      "text": "It's important to iron out any misunderstandings quickly to maintain a strong relationship.",
+      "translation_kr": "강한 관계를 유지하기 위해 어떤 오해라도 빨리 해결하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "iron out",
+          "why_kr": "관용구 'iron out'에서 'iron'의 'r'이 잘 들리지 않을 수 있고, '아연 아웃'이 아닌 '아이언 아웃'처럼 발음되므로 의미를 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "misunderstandings quickly",
+          "why_kr": "'misunderstandings'의 마지막 's' 소리가 'quickly'의 'q' 소리와 연결될 때 연음이 자연스럽지 않아 놓치기 쉬우며, 'quickly'의 'ck'와 'ly'가 빠르게 이어집니다."
+        },
+        {
+          "part": "maintain a strong",
+          "why_kr": "'maintain'의 'n' 소리와 'a' 소리가 연결되고, 다시 'strong'의 's' 소리가 이어질 때 부드러운 연음이 되지 않아 한 단어처럼 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "iron out",
+          "meaning_kr": "~을 해결하다, ~을 다듬다"
+        },
+        {
+          "word": "misunderstandings",
+          "meaning_kr": "오해들"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta make sure you're getting enough sleep; it'll really help your concentration.",
+      "translation_kr": "충분한 잠을 자야 합니다; 그것은 당신의 집중력에 정말 도움이 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "원어민들이 'You have got to'를 'You've gotta'로 줄여 말하기 때문에 익숙하지 않으면 'gotta' 부분을 듣기 어렵고, 've' 소리도 약하게 발음됩니다."
+        },
+        {
+          "part": "you're getting",
+          "why_kr": "'you're'와 'getting'이 빠르게 연결될 때 'r' 소리가 약하게 들리거나 're'가 '어'처럼 발음될 수 있으며, 'getting'의 't'가 'd' 소리처럼 들립니다(flapped t)."
+        },
+        {
+          "part": "it'll really",
+          "why_kr": "'it will'의 축약형인 'it'll'은 '이틀' 또는 '이럴'처럼 들릴 수 있고, 뒤의 'really'와 연결될 때 'l' 소리가 반복되면서 혼동을 줄 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gotta (have got to)",
+          "meaning_kr": "~해야 한다 (구어체)"
+        },
+        {
+          "word": "concentration",
+          "meaning_kr": "집중력"
+        }
+      ]
+    }
+  ]
+}
