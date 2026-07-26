@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-27 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has an amazing camera and a really long battery life.",
+      "translation_kr": "이 새 스마트폰은 놀라운 카메라와 정말 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "smartphone has",
+          "why_kr": "'smartphone' 끝의 'e' 소리가 거의 나지 않거나 'has'의 'h'와 연결되어 /s/ 또는 /z/ 소리가 빠르게 이어지기 때문에 '스마트폰 해즈'가 아닌 '스마트폰 애즈'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'battery'의 'tt' 소리가 미국식 영어에서 'r' 소리처럼 들리는 플랩티(flapped t)가 많고, 'life'의 'f' 발음을 어려워하는 경우가 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "amazing",
+          "meaning_kr": "놀라운"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company plans to invest heavily in AI research and development next quarter.",
+      "translation_kr": "우리 회사는 다음 분기에 AI 연구 및 개발에 막대한 투자를 할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "invest heavily",
+          "why_kr": "'invest'의 't'와 'heavily'의 'h'가 연결되면서 't' 소리가 약해지거나 생략되어 '인베스트 헤빌리'가 아닌 '인베스데빌리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "research and development",
+          "why_kr": "'and'가 종종 약화되어 'n' 또는 'ən' 소리로 발음되며, 'research'의 'ch'와 연결될 때 소리를 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "invest heavily",
+          "meaning_kr": "막대한 투자를 하다"
+        },
+        {
+          "word": "research and development",
+          "meaning_kr": "연구 및 개발 (R&D)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Tech analysts predict the global gadget market will grow by 15% by late 2026.",
+      "translation_kr": "기술 분석가들은 전 세계 기기 시장이 2026년 말까지 15% 성장할 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "analysts predict",
+          "why_kr": "'analysts'의 't'는 종종 발음되지 않는 경우가 많고, 's'와 'predict'의 'p'가 연결되면서 '애널리스트 프레딕트'가 아닌 '애널리스 프레딕트'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "gadget market",
+          "why_kr": "'gadget'의 마지막 't' 소리가 약하거나 성문 파열음으로 처리되어 '가젯 마켓'이 아닌 '가젴 마켓'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "by 15%",
+          "why_kr": "'by'와 숫자 '15'가 연결되어 '바이 피프틴 퍼센트'가 아닌 '바이프틴 퍼센트'처럼 빠르게 이어질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech analysts",
+          "meaning_kr": "기술 분석가"
+        },
+        {
+          "word": "global gadget market",
+          "meaning_kr": "전 세계 기기 시장"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Many startups are trying to catch on to the latest AI trends to stay ahead.",
+      "translation_kr": "많은 스타트업들이 앞서 나가기 위해 최신 AI 트렌드를 따라잡으려 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "catch on to",
+          "why_kr": "구동사 'catch on to'는 'catch'의 'ch'가 'on'의 'o'와 연결되고, 다시 'on'의 'n'이 'to'의 'o'와 연결되어 '캐치 온 투'가 아닌 '캐천투'처럼 빠르게 이어질 수 있습니다."
+        },
+        {
+          "part": "stay ahead",
+          "why_kr": "'stay'의 긴 'ay' 소리와 'ahead'의 'a' 소리, 그리고 'd' 소리가 한국어에 없는 발음이라 비슷하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "catch on to",
+          "meaning_kr": "~을 따라잡다 / ~을 이해하다"
+        },
+        {
+          "word": "stay ahead",
+          "meaning_kr": "앞서 나가다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're keen on upgrading your old laptop; it'll really boost your productivity.",
+      "translation_kr": "당신이 오래된 노트북을 업그레이드하는 데 관심이 있다고 들었어요; 그건 분명히 당신의 생산성을 높여줄 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I've'와 'you're' 같은 축약형은 빠르게 발음되며, 'v'와 'r' 소리가 연결되어 '아이브 허드 유어'가 아닌 '아이버드유어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "keen on upgrading",
+          "why_kr": "'keen on'에서 'n'이 'on'의 'o'와 연결되고, 다시 'on'의 'n'이 'upgrading'의 'u'와 연결되어 '킨 온 업그레이딩'이 아닌 '키넌업그레이딩'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll really boost",
+          "why_kr": "'it'll'은 '이틀'이 아닌 '이들'처럼 발음될 수 있고, 'really'와 'boost'가 빠르게 이어지면서 'l'과 'b' 발음이 뭉개질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keen on",
+          "meaning_kr": "~에 열심인 / ~에 관심이 많은"
+        },
+        {
+          "word": "boost productivity",
+          "meaning_kr": "생산성을 높이다"
+        }
+      ]
+    }
+  ]
+}
