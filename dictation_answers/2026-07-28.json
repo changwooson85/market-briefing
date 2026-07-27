@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-28 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many companies are hiring new employees for various positions next quarter.",
+      "translation_kr": "많은 회사들이 다음 분기에 다양한 직책으로 신입 사원들을 고용하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "companies are",
+          "why_kr": "두 단어의 발음이 이어지며 's' 소리가 'z'로 변하고 'r' 소리와 연결되어 '컴퍼니즈 아'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "various",
+          "why_kr": "'various'는 첫 음절에 강세가 있고 'i' 소리가 모호하게 들릴 수 있어 '베리어스'와 같이 정확한 발음 파악이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hiring",
+          "meaning_kr": "고용하는"
+        },
+        {
+          "word": "next quarter",
+          "meaning_kr": "다음 분기"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The recent interest rate hike might impact consumer spending and business investments.",
+      "translation_kr": "최근의 금리 인상이 소비자 지출과 기업 투자에 영향을 미칠 수 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "interest rate",
+          "why_kr": "'interest'의 't'와 'rate'의 'r' 발음이 부드럽게 이어져 '인터레스 레이트'처럼 들릴 수 있으며, 't' 소리가 약화될 수 있습니다."
+        },
+        {
+          "part": "impact",
+          "why_kr": "'impact'의 'a' 소리가 종종 '어' 또는 '애'로 부정확하게 들릴 수 있으며, 유사한 단어 'effect'와 혼동할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "interest rate hike",
+          "meaning_kr": "금리 인상"
+        },
+        {
+          "word": "consumer spending",
+          "meaning_kr": "소비자 지출"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Analysts project a 3.5% economic growth for 2025, driven by strong export figures.",
+      "translation_kr": "분석가들은 견고한 수출 수치에 힘입어 2025년에 3.5%의 경제 성장을 전망합니다.",
+      "tricky_parts": [
+        {
+          "part": "project a",
+          "why_kr": "'project'의 마지막 't' 소리가 'a'와 이어지면서 연음 처리되어 '프로젝터'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "economic growth",
+          "why_kr": "'economic'의 '-ic' 부분이 빠르게 발음될 때 모음이 약화될 수 있고, 'growth'의 'th' 발음은 한국어에 없는 소리라 어려울 수 있습니다."
+        },
+        {
+          "part": "export figures",
+          "why_kr": "'export'의 't' 발음이 약화되거나 거의 들리지 않을 수 있으며, 'figures'의 복수형 's' 발음이 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts project",
+          "meaning_kr": "분석가들이 전망하다"
+        },
+        {
+          "word": "export figures",
+          "meaning_kr": "수출 수치"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Investors need to keep an eye on market trends before they jump on the bandwagon.",
+      "translation_kr": "투자자들은 시류에 편승하기 전에 시장 동향을 주시해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "keep an eye on",
+          "why_kr": "세 단어가 연음되어 '키펀아이온'처럼 빠르게 발음되며, 각 단어의 경계가 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "jump on the bandwagon",
+          "why_kr": "관용구 전체가 하나의 흐름으로 빠르게 발음되어 '점펀더밴드왜건'처럼 들리며, 특히 'on the' 부분이 약화되기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keep an eye on",
+          "meaning_kr": "~을 주시하다"
+        },
+        {
+          "word": "jump on the bandwagon",
+          "meaning_kr": "시류에 편승하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta adapt quickly; the job market's always changing, and it'll affect everyone.",
+      "translation_kr": "빨리 적응해야 해요. 고용 시장은 항상 변하고 있고, 그것은 모두에게 영향을 미칠 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "'You have got to'가 'You've gotta'로 축약되고, 'got to'가 'gotta'로 발음되면서 매우 빠르게 연결되어 한국 학습자가 듣기에 어려울 수 있습니다."
+        },
+        {
+          "part": "market's always changing",
+          "why_kr": "'market'의 't' 소리가 약화되거나 생략될 수 있으며, 'market's'의 's'와 'always'의 'a'가 연음되어 '마켓츠올웨이즈'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll affect",
+          "why_kr": "'it will'이 'it'll'로 축약되고, 'it'll'의 'l'과 'affect'의 'a'가 연음되어 '이털어펙트'처럼 빠르게 연결됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "adapt quickly",
+          "meaning_kr": "빠르게 적응하다"
+        },
+        {
+          "word": "job market",
+          "meaning_kr": "고용 시장"
+        }
+      ]
+    }
+  ]
+}
