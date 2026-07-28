@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-29 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I always make sure to drink plenty of water throughout the day for good health.",
+      "translation_kr": "저는 좋은 건강을 위해 하루 종일 충분한 물을 마시도록 항상 신경 씁니다.",
+      "tricky_parts": [
+        {
+          "part": "make sure to",
+          "why_kr": "'make'의 'k'와 'sure'의 's'가 연음되어 자연스럽게 연결되는 부분입니다."
+        },
+        {
+          "part": "plenty of",
+          "why_kr": "'t' 발음이 약화되거나 플랩 T로 바뀌고 'of'의 'o'와 연결되어 '플렌티어브'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "throughout the day",
+          "why_kr": "'th' 발음과 'out'의 't'가 약화되고 'the'가 거의 들리지 않게 연결되는 부분입니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "plenty of",
+          "meaning_kr": "많은, 충분한 양의"
+        },
+        {
+          "word": "throughout the day",
+          "meaning_kr": "하루 종일"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Before embarking on my vacation, I meticulously prepared an itinerary for seamless travel.",
+      "translation_kr": "휴가 떠나기 전에, 저는 순조로운 여행을 위해 세심하게 일정을 준비했습니다.",
+      "tricky_parts": [
+        {
+          "part": "embarking on",
+          "why_kr": "'k'와 'on'이 연음되어 마치 하나의 단어처럼 들릴 수 있으며, 'on'의 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "meticulously prepared",
+          "why_kr": "'meticulously'의 '-ly'와 'prepared'의 'p'가 연결될 때, 'lyp'처럼 들리지 않고 자연스럽게 넘어가는 부분입니다."
+        },
+        {
+          "part": "seamless travel",
+          "why_kr": "'seamless'의 's'와 'travel'의 't'가 연결될 때 자연스러운 연음과 'ea' (이-장음) 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "embarking on",
+          "meaning_kr": "~에 착수하다, 시작하다 (여행의 경우 '떠나다')"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정표"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "upper-intermediate",
+      "text": "Experts estimate that regular meditation for fifteen minutes daily enhances mental clarity significantly.",
+      "translation_kr": "전문가들은 매일 15분씩 규칙적인 명상이 정신적 명료함을 상당히 향상시킨다고 추정합니다.",
+      "tricky_parts": [
+        {
+          "part": "Experts estimate",
+          "why_kr": "'Experts'의 'ts'와 'estimate'의 'es'가 연결될 때, '츠에'처럼 자연스럽게 이어져 들릴 수 있습니다."
+        },
+        {
+          "part": "fifteen minutes daily",
+          "why_kr": "'minutes'의 't'가 플랩 T로 발음되고 's'가 'daily'와 연결될 때 원어민의 빠른 발음에 익숙해져야 합니다."
+        },
+        {
+          "part": "enhances mental clarity",
+          "why_kr": "'enhances'의 's'와 'mental'의 'm'이 부드럽게 연결되고 'clarity'의 't' 발음 또한 플랩 T로 약화될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "mental clarity",
+          "meaning_kr": "정신적 명료함"
+        },
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 두드러지게"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "It's essential to clear the air with colleagues to foster a harmonious work environment.",
+      "translation_kr": "조화로운 업무 환경을 조성하기 위해 동료들과 오해를 해소하는 것이 필수적입니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "이디엄의 의미를 파악하는 것이 중요하며, 'r' 사운드와 'the'가 연음되어 빠르게 발음됩니다."
+        },
+        {
+          "part": "foster a",
+          "why_kr": "'r'과 'a'가 연음되어 마치 '포스터러'처럼 들릴 수 있으며, 'a'가 약하게 발음됩니다."
+        },
+        {
+          "part": "harmonious work",
+          "why_kr": "'harmonious'의 's'와 'work'의 'w'가 연결될 때의 소리 변화와 'harmonious'의 강세 위치에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 관계를 명확히 하다 (관용구)"
+        },
+        {
+          "word": "foster",
+          "meaning_kr": "조성하다, 발전시키다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're hoping to move; it'll be quite a change, won't it?",
+      "translation_kr": "이사하시길 바라신다고 들었어요; 꽤 큰 변화일 거예요, 그렇죠?",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "축약형 'I've'와 'you're'가 빠르게 연결되어 '아이브 허드 유어'처럼 명확히 들리지 않고, 자연스러운 연음으로 인해 학습자가 놓치기 쉽습니다."
+        },
+        {
+          "part": "it'll be",
+          "why_kr": "축약형 'it'll (it will)'은 '이틀' 또는 '이덜'처럼 들릴 수 있어 'l' 사운드의 정확한 파악이 어렵습니다."
+        },
+        {
+          "part": "won't it",
+          "why_kr": "'n'과 't' 발음 뒤에 'it'이 올 때 't'가 거의 들리지 않거나 플랩 T로 바뀌어 '워우닛'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hoping to",
+          "meaning_kr": "~하기를 바라다"
+        },
+        {
+          "word": "quite a change",
+          "meaning_kr": "꽤 큰 변화"
+        }
+      ]
+    }
+  ]
+}
