@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-30 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people use their smartphones to access the internet daily.",
+      "translation_kr": "많은 사람들이 매일 스마트폰을 이용해 인터넷에 접속합니다.",
+      "tricky_parts": [
+        {
+          "part": "access the",
+          "why_kr": "'access'의 's'와 'the'의 'th'가 연결되어 발음될 때 'ssuh'처럼 들려 혼동할 수 있습니다."
+        },
+        {
+          "part": "internet daily",
+          "why_kr": "'internet'의 마지막 't'가 거의 들리지 않거나 다음 단어 'daily'와 연결되어 'internedaily'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphones",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "access",
+          "meaning_kr": "접속하다, 접근하다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company plans to launch a new software update by the end of next quarter.",
+      "translation_kr": "우리 회사는 다음 분기 말까지 새로운 소프트웨어 업데이트를 출시할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "launch a new",
+          "why_kr": "'launch'의 'ch'와 'a'가 연결되고 'new'가 빠르게 이어져 발음이 뭉개지기 쉽습니다."
+        },
+        {
+          "part": "software update by",
+          "why_kr": "'update'의 't'가 강하게 발음되지 않고 다음 단어 'by'와 연결될 때 약하게 들리거나 생략될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "launch",
+          "meaning_kr": "출시하다, 시작하다"
+        },
+        {
+          "word": "software update",
+          "meaning_kr": "소프트웨어 업데이트"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Artificial intelligence is expected to revolutionize industries worldwide by 2030, analysts predict.",
+      "translation_kr": "인공지능은 2030년까지 전 세계 산업을 혁신할 것으로 예상된다고 분석가들이 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Artificial intelligence",
+          "why_kr": "두 단어 모두 길이가 길고 발음이 복잡하여 연음과 강세가 익숙하지 않으면 듣기 어렵습니다."
+        },
+        {
+          "part": "revolutionize industries",
+          "why_kr": "'revolutionize'의 'ze'와 'industries'의 'in'이 빠르게 이어지면서 연음 처리될 때 구분이 어려울 수 있습니다."
+        },
+        {
+          "part": "analysts predict",
+          "why_kr": "'analysts'의 'ts'와 'predict'의 'p'가 빠르게 연결될 때 'ts' 발음이 약화되거나 생략되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revolutionize",
+          "meaning_kr": "혁신하다, 혁명을 일으키다"
+        },
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "They decided to roll out the new AI feature despite some initial bugs.",
+      "translation_kr": "그들은 몇 가지 초기 버그에도 불구하고 새로운 AI 기능을 출시하기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "roll out the",
+          "why_kr": "구동사 'roll out'과 다음 단어 'the'가 연결될 때, 특히 't'가 약하게 발음되어 'roll ou-thuh'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "despite some initial bugs",
+          "why_kr": "'despite'의 't'와 'some'의 's', 'initial'의 'sh' 발음이 빠르게 이어지며, 'initial'의 'i'가 약하게 발음될 수 있어 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "roll out",
+          "meaning_kr": "출시하다, 공개하다"
+        },
+        {
+          "word": "bugs",
+          "meaning_kr": "(컴퓨터) 오류, 버그"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're upgrading your device, you'll find its AI features have gotten much smarter.",
+      "translation_kr": "기기를 업그레이드한다면, 그 AI 기능들이 훨씬 더 똑똑해졌다는 것을 알게 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "you're upgrading",
+          "why_kr": "축약형 'you're'와 'upgrading'이 연결될 때, 'r' 사운드가 'u' 사운드와 자연스럽게 이어지면서 원어민처럼 빠르게 발음됩니다."
+        },
+        {
+          "part": "you'll find its",
+          "why_kr": "두 축약형 'you'll'과 'its'가 빠르게 이어지고, 'll'과 'i'가 연음 처리되어 자연스러운 구어체 발음에 익숙하지 않으면 듣기 어렵습니다."
+        },
+        {
+          "part": "features have gotten",
+          "why_kr": "'features'와 'have'가 연결될 때 'have'가 약하게 발음되거나 'featuress'처럼 들릴 수 있고, 'gotten'의 'tt'가 'd' 사운드로 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "upgrading",
+          "meaning_kr": "업그레이드하는, 향상시키는"
+        },
+        {
+          "word": "AI features",
+          "meaning_kr": "AI 기능"
+        }
+      ]
+    }
+  ]
+}
