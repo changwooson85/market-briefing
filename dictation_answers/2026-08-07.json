@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-07 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The company reported good profits last quarter due to strong sales.",
+      "translation_kr": "그 회사는 지난 분기에 견조한 매출로 인해 좋은 수익을 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported good",
+          "why_kr": "'d'와 'g'가 연결되어 '리포티드 굿'보다는 '리포티드 굿'처럼 들릴 수 있으며, 'd' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "last quarter",
+          "why_kr": "'t' 발음이 종종 약하게 발음되거나 거의 들리지 않으며, '라스트 쿼터'보다 '라스 쿼터'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "profits",
+          "meaning_kr": "수익, 이익"
+        },
+        {
+          "word": "sales",
+          "meaning_kr": "매출"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many analysts predict a slight increase in the stock market's value next month.",
+      "translation_kr": "많은 분석가들이 다음 달 주식 시장 가치의 소폭 상승을 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "analysts predict",
+          "why_kr": "'s'와 'p'가 연음되면서 '애널리스트 프레딕트'처럼 들릴 수 있으며, 중간의 't' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "stock market's",
+          "why_kr": "소유격 '-s' 발음이 앞의 't'와 겹쳐서 '마켓스'처럼 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "stock market",
+          "meaning_kr": "주식 시장"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A major investment firm announced a 5% gain in its portfolio by July 31st.",
+      "translation_kr": "한 주요 투자 회사가 7월 31일까지 포트폴리오에서 5%의 수익을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "investment firm",
+          "why_kr": "'investment'의 't' 발음이 'firm'과 연결될 때 약화되거나 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "5% gain",
+          "why_kr": "'5%'의 'v' 발음과 'gain'의 'g' 발음이 부드럽게 연결되어 '파이브 퍼센트 게인'이 아닌 '파이프 퍼센게인'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investment firm",
+          "meaning_kr": "투자 회사"
+        },
+        {
+          "word": "portfolio",
+          "meaning_kr": "포트폴리오 (투자 자산 목록)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite initial setbacks, the new startup is finally getting off the ground.",
+      "translation_kr": "초기의 난관에도 불구하고, 새로운 스타트업은 마침내 순조롭게 시작되고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "initial setbacks",
+          "why_kr": "'initial'의 't' 발음이 'sh' 소리로 변하고 ('이닛셜'), 'setbacks'의 't'가 거의 들리지 않아 '셋백스'로 들릴 수 있습니다."
+        },
+        {
+          "part": "getting off the ground",
+          "why_kr": "연음 ('getting'의 'g'와 'off'의 'o', 'off'의 'f'와 'the'의 'th')과 구동사 'get off the ground' 자체의 의미 파악이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "setbacks",
+          "meaning_kr": "난관, 차질"
+        },
+        {
+          "word": "get off the ground",
+          "meaning_kr": "(계획 등이) 순조롭게 시작되다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering why they've decided to cut staff; it'll boost efficiency.",
+      "translation_kr": "아마도 왜 그들이 직원을 감축하기로 결정했는지 궁금하실 겁니다. 그것은 효율성을 높일 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "You're probably",
+          "why_kr": "'You're'와 'probably'가 빠르게 연결되고, 'probably'의 'b'가 거의 들리지 않아 '유어 프라블리'가 아닌 '유어 프라블리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "they've decided",
+          "why_kr": "'they've'의 'v' 발음이 약하고, 'decided'의 첫 음절 'de-'가 빠르게 지나가며 '디사이디드'가 아닌 '드사이디드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll boost efficiency",
+          "why_kr": "'it'll'의 't' 발음이 'l' 소리로 변형되고 ('이럴'), 'boost efficiency'가 빠르게 연음되면서 '부스트 이피션시'가 아닌 '부스띠피션시'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "cut staff",
+          "meaning_kr": "직원을 감축하다"
+        },
+        {
+          "word": "boost efficiency",
+          "meaning_kr": "효율성을 높이다"
+        }
+      ]
+    }
+  ]
+}
