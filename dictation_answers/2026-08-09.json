@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-09 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually eat a light breakfast, like yogurt and fruit, to stay healthy.",
+      "translation_kr": "저는 건강을 유지하기 위해 보통 요구르트와 과일 같은 가벼운 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u'가 묵음 처리되고 'y'와 연결되어 발음될 때 한국 학습자들이 놓치기 쉽습니다."
+        },
+        {
+          "part": "light breakfast",
+          "why_kr": "'t' 발음이 약화되거나 뒷 단어 'b'와 연결될 때 명확하게 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light breakfast",
+          "meaning_kr": "가벼운 아침 식사"
+        },
+        {
+          "word": "stay healthy",
+          "meaning_kr": "건강을 유지하다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "We're considering booking an accommodation with a scenic view for our upcoming vacation.",
+      "translation_kr": "저희는 다가오는 휴가를 위해 경치 좋은 숙소를 예약하는 것을 고려 중입니다.",
+      "tricky_parts": [
+        {
+          "part": "considering",
+          "why_kr": "모음 'i'가 약하게 발음되고 's' 소리가 한국어에 없는 'z' 소리에 가깝게 발음될 때 혼동하기 쉽습니다."
+        },
+        {
+          "part": "accommodation",
+          "why_kr": "음절이 많고 'cc'가 하나의 소리로 발음되어 정확하게 듣고 받아쓰기 어렵습니다."
+        },
+        {
+          "part": "scenic view",
+          "why_kr": "'c'가 묵음이고 'v' 발음이 한국 학습자들에게 익숙하지 않아 mishear하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙소"
+        },
+        {
+          "word": "scenic view",
+          "meaning_kr": "경치 좋은 전망"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced intermediate",
+      "text": "A recent survey revealed that 70% of respondents prioritize family time over career advancement.",
+      "translation_kr": "최근 설문조사에 따르면 응답자의 70%가 경력 발전보다 가족 시간을 우선시한다고 밝혔습니다.",
+      "tricky_parts": [
+        {
+          "part": "revealed that",
+          "why_kr": "'d'와 'th' 소리가 연결될 때, 특히 'th' 발음이 약화될 때 정확히 듣기 어렵습니다."
+        },
+        {
+          "part": "respondents",
+          "why_kr": "음절이 많고 's' 발음이 연속으로 나올 때, 특히 약화된 모음과 함께 발음될 때 혼동하기 쉽습니다."
+        },
+        {
+          "part": "prioritize",
+          "why_kr": "음절이 많고 'r' 발음이 연속될 때 정확한 발음과 강세를 파악하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "survey",
+          "meaning_kr": "설문조사"
+        },
+        {
+          "word": "prioritize",
+          "meaning_kr": "우선시하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "challenging",
+      "text": "After a long discussion, they decided to clear the air about their misunderstanding.",
+      "translation_kr": "긴 논의 끝에 그들은 오해에 대해 속 시원히 털어놓기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "discussion",
+          "why_kr": "이중 's' 소리가 /ʃ/ 발음으로 날 때 한국 학습자들이 종종 's'로 잘못 듣거나 놓치기 쉽습니다."
+        },
+        {
+          "part": "clear the air",
+          "why_kr": "숙어 표현으로, 'r'이 'the'와 연결되고 'th' 발음이 약화될 때 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 분위기를 일신하다"
+        },
+        {
+          "word": "misunderstanding",
+          "meaning_kr": "오해"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "expert",
+      "text": "You've gotta try that new cafe; it's got amazing coffee and pastries, I hear.",
+      "translation_kr": "그 새로운 카페 꼭 가봐야 해; 정말 맛있는 커피랑 페이스트리가 있다고 들었어.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "'You have got to'의 축약형으로, 'v' 발음이 약하고 'got to'가 'gotta'로 빠르게 연결될 때 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "it's got amazing",
+          "why_kr": "'it's got'의 't'가 거의 들리지 않고 'amazing'과 빠르게 연결되어 발음될 때 자연스러운 연음 때문에 놓치기 쉽습니다."
+        },
+        {
+          "part": "coffee and pastries",
+          "why_kr": "'and'의 'd'가 묵음 처리되고 앞뒤 단어와 빠르게 연결되어 'coffee 'n pastries'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "cafe",
+          "meaning_kr": "카페"
+        },
+        {
+          "word": "pastries",
+          "meaning_kr": "페이스트리 (빵, 과자류)"
+        }
+      ]
+    }
+  ]
+}
