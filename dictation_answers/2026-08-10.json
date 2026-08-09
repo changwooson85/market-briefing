@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-10 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has an amazing camera and a long-lasting battery life.",
+      "translation_kr": "제 새 스마트폰은 멋진 카메라와 오래가는 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "amazing camera",
+          "why_kr": "'amazing'의 'z' 발음과 'amazing'과 'camera' 사이의 연결음 처리가 어려울 수 있습니다."
+        },
+        {
+          "part": "long-lasting",
+          "why_kr": "'ng'와 'l'이 연달아 오는 자음 연쇄 발음이 부자연스러울 수 있습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'battery'의 't' 발음이 플랩 'd' 사운드(미국식)로 들릴 수 있으며, 'f' 발음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "long-lasting",
+          "meaning_kr": "오래가는, 지속력이 긴"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "Tech companies are investing heavily in AI development for future applications.",
+      "translation_kr": "기술 기업들은 미래의 응용 프로그램을 위해 AI 개발에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'과 'heavily' 사이의 연결음과 'v' 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "AI development",
+          "why_kr": "'AI'의 정확한 발음과 'development'의 'v' 발음 처리가 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing heavily",
+          "meaning_kr": "막대한 투자를 하다"
+        },
+        {
+          "word": "applications",
+          "meaning_kr": "응용 프로그램"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "A recent report indicated that AI processes vast amounts of data daily.",
+      "translation_kr": "최근 보고서에 따르면 AI가 매일 방대한 양의 데이터를 처리한다고 합니다.",
+      "tricky_parts": [
+        {
+          "part": "recent report",
+          "why_kr": "'recent'의 마지막 't' 발음이 생략되거나 약하게 들릴 수 있으며, 'r' 발음이 연속됩니다."
+        },
+        {
+          "part": "indicated that",
+          "why_kr": "'indicated'의 'd'와 'that'의 'th' 발음이 연결되면서 'd' 발음이 약화되거나 'th' 발음이 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "vast amounts of data",
+          "why_kr": "'vast'의 't'와 'amounts'의 연결, 그리고 'of'가 '어브'가 아닌 '어v'로 발음되는 것을 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "indicated",
+          "meaning_kr": "나타내다, 지적하다"
+        },
+        {
+          "word": "vast amounts",
+          "meaning_kr": "방대한 양"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal_verb",
+      "text": "The startup is gearing up to launch its innovative new gadget next quarter.",
+      "translation_kr": "그 스타트업은 다음 분기에 혁신적인 새 기기를 출시할 준비를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "gearing up",
+          "why_kr": "구동사 'gearing up'의 'r'과 'up'이 연결되어 발음되며, 'g' 발음도 주의해야 합니다."
+        },
+        {
+          "part": "innovative new",
+          "why_kr": "'innovative'의 'v' 발음과 'new'가 연이어 나오는 부분이 발음하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gearing up",
+          "meaning_kr": "~을 준비하다, 채비를 갖추다"
+        },
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering how AI's going to affect our daily routines, aren't you?",
+      "translation_kr": "여러분은 아마 AI가 우리의 일상에 어떻게 영향을 미칠지 궁금해하실 거예요, 그렇죠?",
+      "tricky_parts": [
+        {
+          "part": "You're probably",
+          "why_kr": "'You're'의 연음과 'probably'에서 'b'가 거의 들리지 않고 'pra-bly'처럼 발음되는 빠른 연음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "AI's going to affect our",
+          "why_kr": "'AI's' (아이즈)의 연음, 'going to'가 'gonna'로 줄어들고, 'affect'와 'our'이 'fec-tour'처럼 들리는 빠른 연결 발음을 듣기 어렵습니다."
+        },
+        {
+          "part": "aren't you",
+          "why_kr": "'aren't'의 't'가 거의 발음되지 않고 'aren'과 'you'가 연결되어 'aren-choo'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "affect",
+          "meaning_kr": "영향을 미치다"
+        },
+        {
+          "word": "routines",
+          "meaning_kr": "일상, 루틴"
+        }
+      ]
+    }
+  ]
+}
