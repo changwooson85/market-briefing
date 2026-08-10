@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-11 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "She's very excited about her new job opportunity in the marketing department.",
+      "translation_kr": "그녀는 마케팅 부서에서의 새로운 직업 기회에 대해 매우 기대하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "She's excited",
+          "why_kr": "'She's'의 /z/ 소리가 'excited'와 연결되어 들릴 수 있고, 'excited'의 /ɪkˈsaɪtɪd/ 발음에서 중간 /t/ 소리가 약해질 수 있습니다."
+        },
+        {
+          "part": "marketing department",
+          "why_kr": "'marketing'의 'ing' 소리와 'department'의 마지막 /t/ 소리가 종종 약하게 발음되거나 생략되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "opportunity",
+          "meaning_kr": "기회"
+        },
+        {
+          "word": "marketing department",
+          "meaning_kr": "마케팅 부서"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company plans to significantly increase its investment in renewable energy projects next quarter.",
+      "translation_kr": "그 회사는 다음 분기에 재생 에너지 프로젝트에 대한 투자를 상당히 늘릴 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "significantly increase",
+          "why_kr": "'significantly'의 'ntly' 부분은 빠르게 발음될 때 거의 들리지 않을 수 있으며, 'increase'의 'ea'는 장모음 /iː/로 발음됩니다."
+        },
+        {
+          "part": "renewable energy",
+          "why_kr": "'renewable'의 'new' 소리와 'energy'의 'er' 소리를 명확히 구분하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investment",
+          "meaning_kr": "투자"
+        },
+        {
+          "word": "renewable energy",
+          "meaning_kr": "재생 가능 에너지"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The stock index gained 1.5% today, closing at a record high of 3,250 points.",
+      "translation_kr": "오늘 주가지수는 1.5% 상승하여 사상 최고치인 3,250포인트로 마감했습니다.",
+      "tricky_parts": [
+        {
+          "part": "gained 1.5%",
+          "why_kr": "'gained'의 마지막 /d/ 소리가 다음 숫자 'one'과 연결되어 들릴 수 있으며, 1.5%를 'one point five percent'로 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "closing at a record high",
+          "why_kr": "'closing'의 'ng' 소리와 'at a'가 약하게 연결되어 '애러'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "stock index",
+          "meaning_kr": "주가지수"
+        },
+        {
+          "word": "record high",
+          "meaning_kr": "사상 최고치"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Management decided to bite the bullet and cut non-essential expenses immediately.",
+      "translation_kr": "경영진은 어려운 상황을 감내하고 불필요한 경비를 즉시 삭감하기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "bite the bullet",
+          "why_kr": "관용구 자체의 의미를 알지 못하면 문맥 파악이 어렵고, 'bite'의 /t/ 소리가 약하게 발음되거나 'the'와 연결될 수 있습니다."
+        },
+        {
+          "part": "cut non-essential expenses",
+          "why_kr": "'cut'의 /t/ 소리가 'non-'과 연결될 때 약해지거나 들리지 않을 수 있고, 'expenses'의 /s/ 소리 발음에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "bite the bullet",
+          "meaning_kr": "어려운 상황을 감내하다 (이를 악물고 참다)"
+        },
+        {
+          "word": "non-essential expenses",
+          "meaning_kr": "비필수 경비"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna wanna keep an eye on the job market; it'll likely shift soon.",
+      "translation_kr": "당신은 고용 시장을 주시해야 할 것입니다; 그것은 곧 변동될 가능성이 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna wanna",
+          "why_kr": "'You are going to want to'가 'You're gonna wanna'로 빠르게 축약되어 발음되기 때문에 각 단어를 분리하여 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "keep an eye on",
+          "why_kr": "'keep'의 /p/ 소리가 'an'과, 'an'의 /n/ 소리가 'eye'와, 'eye'가 'on'과 연결되어 마치 한 단어처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll likely shift soon",
+          "why_kr": "'it'll'의 /l/ 소리가 'likely'와 연결되고, 'shift'의 마지막 /ft/ 소리가 'soon'의 /s/와 빠르게 연결되어 발음될 때 명확하게 구분하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keep an eye on",
+          "meaning_kr": "~을 주시하다"
+        },
+        {
+          "word": "shift",
+          "meaning_kr": "변동하다, 변화하다"
+        }
+      ]
+    }
+  ]
+}
