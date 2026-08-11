@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-12 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I really enjoy trying new foods when I travel to different countries.",
+      "translation_kr": "저는 다른 나라로 여행할 때 새로운 음식을 시도하는 것을 정말 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "enjoy trying",
+          "why_kr": "'enjoy'의 'oy'와 'trying'의 'tr'이 이어져 발음될 때 한국 학습자가 혼동하기 쉽습니다."
+        },
+        {
+          "part": "different countries",
+          "why_kr": "'different'의 't' 소리가 종종 약화되거나 생략되고, 'countries'의 'r' 발음이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "enjoy",
+          "meaning_kr": "즐기다"
+        },
+        {
+          "word": "travel",
+          "meaning_kr": "여행하다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Maintaining a balanced diet is crucial for productivity and overall well-being.",
+      "translation_kr": "균형 잡힌 식단을 유지하는 것은 생산성과 전반적인 행복에 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "Maintaining a balanced",
+          "why_kr": "'maintaining'과 'a'가 이어지고, 'balanced'의 'd'가 뒤의 단어와 연결될 때 소리가 약해져 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "crucial for",
+          "why_kr": "'crucial'의 'l' 소리와 'for'의 'r' 소리가 한국 학습자에게는 구별하기 어렵거나 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "productivity",
+          "meaning_kr": "생산성"
+        },
+        {
+          "word": "well-being",
+          "meaning_kr": "행복, 안녕"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate-advanced",
+      "text": "A recent survey published on August 7th indicated a significant rise in sustainable travel.",
+      "translation_kr": "8월 7일에 발표된 최근 설문조사는 지속 가능한 여행의 상당한 증가를 나타냈습니다.",
+      "tricky_parts": [
+        {
+          "part": "published on",
+          "why_kr": "'published'의 'd'가 'on'과 연결되어 'don'처럼 들릴 수 있어 혼동을 줍니다."
+        },
+        {
+          "part": "August 7th",
+          "why_kr": "날짜의 'th' 발음과 't' 발음이 약화되어 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "sustainable travel",
+          "why_kr": "'sustainable'의 's'와 't' 발음, 그리고 'travel'의 'tr' 발음이 한국 학습자에게 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "survey",
+          "meaning_kr": "설문조사"
+        },
+        {
+          "word": "sustainable",
+          "meaning_kr": "지속 가능한"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "Despite occasional disagreements, we always try to see eye to eye on family decisions.",
+      "translation_kr": "가끔 의견이 다르더라도, 우리는 가족 결정에 대해 항상 의견을 일치시키려고 노력합니다.",
+      "tricky_parts": [
+        {
+          "part": "Despite occasional",
+          "why_kr": "'despite'의 't'가 'occasional'과 이어질 때 약화되거나 생략되어 들릴 수 있습니다."
+        },
+        {
+          "part": "see eye to eye",
+          "why_kr": "이디엄 전체의 의미를 이해하기 어렵고, 'eye'와 'to' 사이의 연결 발음이 자연스럽게 이어져 들립니다."
+        },
+        {
+          "part": "family decisions",
+          "why_kr": "'family'의 'i' 소리가 약화되어 들리고, 'decisions'의 's' 소리가 'z'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견이 일치하다"
+        },
+        {
+          "word": "disagreements",
+          "meaning_kr": "의견 불일치"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've gotta reschedule that doctor's appointment; it's just slipped my mind completely.",
+      "translation_kr": "의사 진료 예약을 다시 잡아야겠어요. 완전히 잊어버렸네요.",
+      "tricky_parts": [
+        {
+          "part": "I've gotta",
+          "why_kr": "축약형 'I've'와 'got to'가 'gotta'로 발음될 때, 자연스러운 빠른 발화에서 원래 형태를 인지하기 어렵습니다."
+        },
+        {
+          "part": "doctor's appointment",
+          "why_kr": "'doctor's'의 소유격 's'와 'appointment'가 이어지며, 't' 발음이 약화되거나 생략될 수 있습니다."
+        },
+        {
+          "part": "slipped my mind",
+          "why_kr": "연결 발음 'slipped my'와 'mind'의 'd' 소리가 약해져서 듣기 어렵고, 이디엄이므로 문맥 파악이 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "reschedule",
+          "meaning_kr": "일정을 변경하다"
+        },
+        {
+          "word": "slipped my mind",
+          "meaning_kr": "깜빡 잊다"
+        }
+      ]
+    }
+  ]
+}
