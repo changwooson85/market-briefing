@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-14 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are now looking for better job opportunities in the city.",
+      "translation_kr": "많은 사람들이 이제 도시에서 더 나은 직업 기회를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for a",
+          "why_kr": "'k'와 'f', 'r'과 'a'가 자연스럽게 연결되어 '루킹포러'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "opportunities",
+          "why_kr": "강세가 'tu'에 있고, 't' 발음이 'd'처럼 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "opportunities",
+          "meaning_kr": "기회"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company announced its quarterly earnings report, showing a steady revenue growth.",
+      "translation_kr": "그 회사는 분기별 실적 보고서를 발표하며 꾸준한 매출 성장을 보였습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced its",
+          "why_kr": "'d'와 'i'가 연결되어 '어나운스티츠'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'er' 발음과 'earnings'의 'ea' 발음이 한국 학습자에게는 유사하게 들리거나 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 실적"
+        },
+        {
+          "word": "revenue growth",
+          "meaning_kr": "매출 성장"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Analysts predict the stock market will rebound significantly by next December, reaching new highs.",
+      "translation_kr": "분석가들은 다음 12월까지 주식 시장이 크게 반등하여 새로운 최고치를 기록할 것이라고 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "predict the",
+          "why_kr": "'t'와 'th'가 연결되어 '프리딕더'처럼 들리며, 't' 발음이 약해질 수 있습니다."
+        },
+        {
+          "part": "significantly",
+          "why_kr": "단어가 길고 강세가 'ni'에 있어 정확한 발음과 속도감으로 인해 놓치기 쉽습니다."
+        },
+        {
+          "part": "next December",
+          "why_kr": "'x'와 'D'가 연결되어 '넥스티셈버'처럼 들릴 수 있으며, 월 이름을 정확히 듣는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "rebound",
+          "meaning_kr": "반등하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite recent economic headwinds, the new startup managed to stay afloat with strategic investments.",
+      "translation_kr": "최근 경제적 역풍에도 불구하고, 새로운 스타트업은 전략적 투자를 통해 파산하지 않고 버텨냈습니다.",
+      "tricky_parts": [
+        {
+          "part": "headwinds",
+          "why_kr": "'어려움, 역풍'이라는 비유적인 의미를 이해하는 것이 중요하며, 'h' 발음이 약해질 수 있습니다."
+        },
+        {
+          "part": "managed to stay afloat",
+          "why_kr": "원어민은 'managed to'의 'to'를 약하게 발음하며, 'stay afloat'라는 숙어의 의미를 파악하기 어렵습니다."
+        },
+        {
+          "part": "strategic investments",
+          "why_kr": "'strategic'의 'gic'와 'investments'의 'in'이 연결되어 '스트래티지킨베스트먼츠'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "headwinds",
+          "meaning_kr": "역풍, 역경"
+        },
+        {
+          "word": "stay afloat",
+          "meaning_kr": "빚지지 않고 버티다, 파산하지 않다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering if they've already secured enough capital for future expansion.",
+      "translation_kr": "아마도 그들이 미래 확장을 위해 충분한 자본을 이미 확보했는지 궁금해하실 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You're probably wondering",
+          "why_kr": "'You're'와 'probably'의 강세, 'prob'과 'ly' 발음이 빠르게 연결되어 들릴 때 혼동하기 쉽습니다."
+        },
+        {
+          "part": "if they've already",
+          "why_kr": "'f'와 'th', 'v'와 'a'가 빠르게 연결되어 '이프데이벌레디'처럼 들릴 수 있습니다. 특히 'they've' 축약형이 듣기 어렵습니다."
+        },
+        {
+          "part": "secured enough capital",
+          "why_kr": "'d'와 'e'가 연결되어 '시큐어드이너프'처럼 들리고, 'enough'의 'gh'가 'f' 발음임을 인지하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "secured capital",
+          "meaning_kr": "자본을 확보하다"
+        },
+        {
+          "word": "expansion",
+          "meaning_kr": "확장"
+        }
+      ]
+    }
+  ]
+}
