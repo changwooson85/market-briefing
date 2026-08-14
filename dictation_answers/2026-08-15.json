@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-15 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I often enjoy cooking new recipes and sharing meals with my family.",
+      "translation_kr": "저는 종종 새로운 요리법으로 요리하는 것을 즐기고 가족과 식사를 나눕니다.",
+      "tricky_parts": [
+        {
+          "part": "often",
+          "why_kr": "'t'가 묵음 처리되는 경우가 많아 [ɔːf(ə)n]으로 들릴 수 있습니다. 한국 학습자들은 '오픈'으로 발음하기 쉽습니다."
+        },
+        {
+          "part": "recipes",
+          "why_kr": "두 번째 'e'가 묵음 처리되어 '레시피즈'가 아닌 '레서피스'처럼 발음되며, 복수형 's' 발음이 [z]로 변합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "recipes",
+          "meaning_kr": "요리법"
+        },
+        {
+          "word": "sharing meals",
+          "meaning_kr": "식사를 나누다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Regular exercise is crucial for maintaining good health and boosting productivity at work.",
+      "translation_kr": "규칙적인 운동은 좋은 건강을 유지하고 직장에서의 생산성을 높이는 데 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "crucial",
+          "why_kr": "강세가 첫 음절에 있으며, 'ci' 부분이 '슈' 소리에 가깝게 발음되어 정확한 발음에 주의해야 합니다."
+        },
+        {
+          "part": "maintaining",
+          "why_kr": "발음할 때 '테인' 부분에 강세가 있고, 중간의 't' 발음이 약하게 처리될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "crucial",
+          "meaning_kr": "중요한, 결정적인"
+        },
+        {
+          "word": "productivity",
+          "meaning_kr": "생산성"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A recent survey indicated that 75% of respondents prioritize mental wellness over physical fitness.",
+      "translation_kr": "최근 설문조사에 따르면 응답자의 75%가 신체적 건강보다 정신적 건강을 우선시하는 것으로 나타났습니다.",
+      "tricky_parts": [
+        {
+          "part": "indicated",
+          "why_kr": "'t' 발음이 약화되거나 [d]와 연결될 때 [dɪk-]처럼 들릴 수 있으며, 정확한 강세와 연음에 유의해야 합니다."
+        },
+        {
+          "part": "prioritize",
+          "why_kr": "여러 음절로 이루어져 강세 위치 (두 번째 음절)를 정확히 잡기 어렵고, 'o' 발음이 [aɪ]로 납니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "survey",
+          "meaning_kr": "설문조사"
+        },
+        {
+          "word": "mental wellness",
+          "meaning_kr": "정신 건강"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "My friend and I always try to see eye to eye before making major travel plans.",
+      "translation_kr": "제 친구와 저는 중요한 여행 계획을 세우기 전에 항상 의견 일치를 보려고 노력합니다.",
+      "tricky_parts": [
+        {
+          "part": "see eye to eye",
+          "why_kr": "이디엄의 의미를 모르면 이해하기 어렵고, 'eye'와 'to'가 빠르게 연결되어 [aɪtə]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "making major",
+          "why_kr": "'making'의 마지막 'g' 사운드가 약화되거나 거의 들리지 않고, 'major'의 'j' 사운드가 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견이 일치하다"
+        },
+        {
+          "word": "major",
+          "meaning_kr": "주요한, 중대한"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're considering a short getaway; it'll definitely help you clear your head.",
+      "translation_kr": "단기 휴가를 고려 중이시라고 들었어요. 분명히 머리를 식히는 데 도움이 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "연결 발음과 축약형이 많아 [aɪv hɜːrd jʊər]처럼 매우 빠르게 이어져 들릴 수 있어 주의 깊게 들어야 합니다."
+        },
+        {
+          "part": "it'll definitely",
+          "why_kr": "'it'll'은 [ɪtəl]처럼 발음되며, 'definitely'는 강세와 발음이 복잡하여 [ˈdɛfɪnɪtli]로 정확히 듣기 어렵습니다. 't'가 거의 들리지 않는 경우가 많습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "getaway",
+          "meaning_kr": "휴가, 짧은 여행"
+        },
+        {
+          "word": "clear your head",
+          "meaning_kr": "머리를 식히다, 생각을 정리하다"
+        }
+      ]
+    }
+  ]
+}
