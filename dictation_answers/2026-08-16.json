@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-16 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruits and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 준비해요.",
+      "tricky_parts": [
+        {
+          "part": "prepare a",
+          "why_kr": "두 단어가 연결되어 '프리페어러'처럼 들릴 수 있습니다. (linking sound)"
+        },
+        {
+          "part": "fruits and",
+          "why_kr": "'s'와 'and'가 연결되면서 '프루츠앤'처럼 들리고 'and'의 'd' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "every morning",
+          "why_kr": "'v' 발음과 'morning'의 'ing' 발음이 명확하지 않으면 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "We've scheduled our flight for next month and confirmed the hotel booking details.",
+      "translation_kr": "저희는 다음 달 항공편 일정을 잡았고 호텔 예약 세부 사항을 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "We've scheduled",
+          "why_kr": "축약형 'We've'와 'scheduled'의 'd' 발음이 뒤따르는 모음과 연결되거나 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "flight for",
+          "why_kr": "'flight'의 끝 't' 발음이 'for'와 연결될 때 약하게 들리거나 생략될 수 있습니다."
+        },
+        {
+          "part": "confirmed the",
+          "why_kr": "'confirmed'의 '-ed' 발음과 'the'의 'th' 발음이 자연스럽게 연결될 때 'd' 발음이 잘 안 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "scheduled",
+          "meaning_kr": "일정을 잡다, 예정된"
+        },
+        {
+          "word": "confirmed",
+          "meaning_kr": "확인했다"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "A recent survey indicated that 70% of participants prioritize daily exercise for better health.",
+      "translation_kr": "최근 설문조사에 따르면 참가자의 70%가 더 나은 건강을 위해 매일 운동을 우선시한다고 합니다.",
+      "tricky_parts": [
+        {
+          "part": "recent survey",
+          "why_kr": "'recent'의 't' 발음이 'survey'와 연결될 때 약화되거나 탈락될 수 있습니다."
+        },
+        {
+          "part": "indicated that",
+          "why_kr": "'indicated'의 'd'와 'that'의 'th' 발음이 연결되면서 'd' 발음이 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "prioritize daily",
+          "why_kr": "'prioritize'의 길고 복잡한 발음과 'daily'의 연결이 어려울 수 있습니다. ('z' 발음 주의)"
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "survey",
+          "meaning_kr": "설문조사"
+        },
+        {
+          "word": "prioritize",
+          "meaning_kr": "우선시하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "After a long discussion, we decided to clear the air about our misunderstanding.",
+      "translation_kr": "긴 논의 끝에 우리는 오해를 풀기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "After a long",
+          "why_kr": "'After'의 'r' 발음이 'a'와 연결되고 'long'의 'g' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "clear the air",
+          "why_kr": "관용구 'clear the air'에서 'the'의 'th' 발음이 약하고, 전체적으로 하나의 소리처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "misunderstanding",
+          "why_kr": "음절이 많고 발음이 길어서 제대로 듣고 받아쓰기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 분위기를 맑게 하다"
+        },
+        {
+          "word": "misunderstanding",
+          "meaning_kr": "오해"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta try this new vegan spot; it's got amazing reviews, and you'll love it.",
+      "translation_kr": "이 새로운 비건 식당 꼭 가봐야 해; 후기가 엄청 좋고, 분명 마음에 들 거야.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "'You have got to'의 구어체 축약형으로, 빠르게 발음되어 '유브가라'처럼 들릴 수 있습니다. (connected speech, reduction)"
+        },
+        {
+          "part": "it's got amazing",
+          "why_kr": "'It has got'의 축약형 'it's got'과 'amazing'이 빠르게 연결되면서 '잇츠가러메이징'처럼 들릴 수 있습니다. ('t' 사운드 생략/연결)"
+        },
+        {
+          "part": "you'll love it",
+          "why_kr": "'you will love it'의 축약형으로, '유을러빗'처럼 빠르게 연결되어 발음됩니다. (contraction, linking sound)"
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "vegan spot",
+          "meaning_kr": "비건 식당/장소"
+        },
+        {
+          "word": "amazing reviews",
+          "meaning_kr": "놀라운/훌륭한 후기"
+        }
+      ]
+    }
+  ]
+}
