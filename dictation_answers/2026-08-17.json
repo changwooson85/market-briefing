@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-17 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has an impressive AI assistant that helps with daily tasks.",
+      "translation_kr": "제 새 스마트폰에는 일상 업무에 도움이 되는 인상적인 AI 비서가 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "impressive AI",
+          "why_kr": "두 단어의 연결 발음('v'와 'ai'가 이어지는 소리)과 'ss'와 'sh' 사이의 미묘한 차이로 인해 혼동될 수 있습니다."
+        },
+        {
+          "part": "assistant that helps",
+          "why_kr": "'t' 소리가 약하게 들리거나 생략될 수 있고, 'that'의 'th' 발음과 'helps'의 's' 발음이 한국어에 익숙하지 않아 어렵게 느껴질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "AI assistant",
+          "meaning_kr": "AI 비서"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company announced a significant investment in cloud computing infrastructure for global expansion.",
+      "translation_kr": "그 회사는 글로벌 확장을 위해 클라우드 컴퓨팅 인프라에 대한 상당한 투자를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced a significant",
+          "why_kr": "'d'와 'a'가 이어지는 연결 발음과 'significant'의 'gn' 발음, 그리고 'i' 모음의 강세 변화가 어려울 수 있습니다."
+        },
+        {
+          "part": "investment in cloud",
+          "why_kr": "'t' 발음이 약하게 들리거나 생략될 수 있으며, 'in'과 'cloud'가 이어질 때 'n' 소리가 연결되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "cloud computing",
+          "meaning_kr": "클라우드 컴퓨팅"
+        },
+        {
+          "word": "global expansion",
+          "meaning_kr": "글로벌 확장"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "By 2030, AI-driven automation is projected to impact millions of jobs worldwide.",
+      "translation_kr": "2030년까지 AI 기반 자동화는 전 세계 수백만 개의 일자리에 영향을 미칠 것으로 예상됩니다.",
+      "tricky_parts": [
+        {
+          "part": "AI-driven automation",
+          "why_kr": "각 단어의 강세와 'AI'의 모음 소리가 이어지는 발음, 그리고 'automation'의 'tion' 발음이 한국 학습자에게는 다소 복잡할 수 있습니다."
+        },
+        {
+          "part": "projected to impact",
+          "why_kr": "'ed' 발음이 약화되거나 거의 들리지 않을 수 있으며, 't'와 'to'가 이어질 때의 소리 연결, 'impact'의 'ct' 발음이 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "AI-driven automation",
+          "meaning_kr": "AI 기반 자동화"
+        },
+        {
+          "word": "projected",
+          "meaning_kr": "예상되는, 계획된"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Our team is working to iron out the bugs in their new wearable tech before launch.",
+      "translation_kr": "우리 팀은 출시 전에 새로운 웨어러블 기술의 버그를 해결하기 위해 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "iron out the bugs",
+          "why_kr": "숙어 'iron out'의 발음('iron'에서 'r' 소리가 들리지 않거나 'out'과 연결되는 발음)과 전체 구문의 자연스러운 연결이 어려울 수 있습니다."
+        },
+        {
+          "part": "wearable tech",
+          "why_kr": "'wearable'의 'r' 발음과 'tech'의 짧은 'e' 발음이 한국 학습자에게는 발음하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "iron out the bugs",
+          "meaning_kr": "문제점들을 해결하다"
+        },
+        {
+          "word": "wearable tech",
+          "meaning_kr": "웨어러블 기술"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're keen on AI's future, you'll wanna keep up with the latest tech advancements.",
+      "translation_kr": "만약 AI의 미래에 관심이 있다면, 최신 기술 발전을 계속 주시해야 할 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "you're keen on",
+          "why_kr": "연음 ('you're'가 'your'처럼 들릴 수 있음), 'keen on'의 'n'과 'on'이 연결되는 소리가 원어민처럼 자연스럽게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "you'll wanna keep up",
+          "why_kr": "줄임말 'you'll'과 'wanna' (want to의 구어체)의 빠른 발음, 그리고 'wanna'와 'keep up'의 자연스러운 연결이 어려울 수 있습니다."
+        },
+        {
+          "part": "latest tech advancements",
+          "why_kr": "'latest'의 't' 소리 약화, 'tech advancements'의 'ch'와 'a'가 이어지는 연음, 그리고 'advancements'의 's'가 'z'처럼 들릴 수 있는 발음이 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keen on",
+          "meaning_kr": "~에 열정적인, ~에 관심이 많은"
+        },
+        {
+          "word": "tech advancements",
+          "meaning_kr": "기술 발전"
+        }
+      ]
+    }
+  ]
+}
