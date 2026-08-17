@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-18 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new job opportunities in the current market.",
+      "translation_kr": "많은 사람들이 현재 시장에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for",
+          "why_kr": "두 단어의 소리가 이어져 '루킹포r'처럼 들릴 수 있습니다. 특히 'g' 다음에 'f'가 오면서 소리가 연결됩니다."
+        },
+        {
+          "part": "current market",
+          "why_kr": "'t' 발음이 약화되거나 생략될 수 있어 '커런 마r켓'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "opportunities",
+          "meaning_kr": "기회, 일자리"
+        },
+        {
+          "word": "current market",
+          "meaning_kr": "현재 시장"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company announced positive quarterly earnings, boosting investor confidence significantly.",
+      "translation_kr": "그 회사는 긍정적인 분기별 실적을 발표하며 투자자 신뢰를 크게 높였습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced positive",
+          "why_kr": "'d'와 'p'가 만나면서 'd' 소리가 약해지거나 't'로 변형될 수 있어 한국 학습자들이 놓치기 쉽습니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'r' 발음과 'earnings'의 시작 소리가 이어지며 '쿼터리 어닝s'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "investor confidence",
+          "why_kr": "'t' 사운드가 'r' 사운드와 함께 나타나기 때문에 '인베스털 컨피던스'처럼 들릴 수 있으며, 'f' 소리를 'p'로 오해할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 실적"
+        },
+        {
+          "word": "investor confidence",
+          "meaning_kr": "투자자 신뢰"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Economists predict a 2.5% growth rate next year, driven by strong consumer spending.",
+      "translation_kr": "경제학자들은 견고한 소비자 지출에 힘입어 내년에 2.5%의 성장률을 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "predict a",
+          "why_kr": "'t'와 'a'가 이어지면서 '프레딕터'처럼 연음될 수 있어 'a'가 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "growth rate",
+          "why_kr": "'th' 발음과 'rate'의 'r' 발음이 이어지면서 명확하게 듣기 어려울 수 있습니다. 'th' 소리가 's'나 'f'로 오인될 수 있습니다."
+        },
+        {
+          "part": "driven by strong",
+          "why_kr": "'driven'의 'v' 소리가 'b' 소리와 혼동될 수 있고, 'by strong'이 빠르게 연결되어 '바이스트롱'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "growth rate",
+          "meaning_kr": "성장률"
+        },
+        {
+          "word": "consumer spending",
+          "meaning_kr": "소비자 지출"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "After the recent acquisition, the new management team hopes to turn a corner quickly.",
+      "translation_kr": "최근 인수 후, 새로운 경영진은 빨리 전환점을 맞이하기를 바랍니다.",
+      "tricky_parts": [
+        {
+          "part": "acquisition, the",
+          "why_kr": "'n'과 'th' 소리가 연결될 때 'd' 소리처럼 들리거나 'th' 소리가 약화되어 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "turn a corner",
+          "why_kr": "연어적인 표현으로 '전환점을 맞다'는 뜻을 모르면 오해하기 쉽고, 'turn'과 'a'가 이어져 '터너'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "management team",
+          "why_kr": "'t' 발음이 약화되거나 생략될 수 있어 '매니지먼 팀'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "acquisition",
+          "meaning_kr": "인수"
+        },
+        {
+          "word": "turn a corner",
+          "meaning_kr": "전환점을 맞다, 고비를 넘기다 (관용구)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're investing, you've got to diversify your portfolio; it'll protect assets.",
+      "translation_kr": "투자하신다면, 포트폴리오를 다각화해야 합니다. 그것이 당신의 자산을 보호할 거예요.",
+      "tricky_parts": [
+        {
+          "part": "you're investing, you've got to",
+          "why_kr": "'you're'와 'you've'의 축약형이 빠르게 발음될 때 'r'과 'v' 소리가 약해져 혼동될 수 있습니다. 'got to'는 'gadda'처럼 약화되어 들릴 수 있습니다."
+        },
+        {
+          "part": "diversify your portfolio",
+          "why_kr": "'diversify'의 'v'와 's' 소리가 한국 학습자에게는 'b'나 'z'와 유사하게 들릴 수 있고, 'your'가 약하게 '여r'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll protect assets",
+          "why_kr": "'it'll'의 't'가 거의 들리지 않고 '을'처럼 들릴 수 있으며, 'protect'의 't'가 약해지고 'assets'와 연결될 때 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "diversify",
+          "meaning_kr": "다각화하다"
+        },
+        {
+          "word": "portfolio",
+          "meaning_kr": "포트폴리오 (투자 자산 목록)"
+        }
+      ]
+    }
+  ]
+}
