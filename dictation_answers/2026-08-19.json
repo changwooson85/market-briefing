@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-19 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually enjoy a light breakfast with fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 과일과 요거트로 가벼운 아침 식사를 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "두 번째 'u'가 슈아(schwa) 사운드로 발음되고 's'가 /ʒ/ 소리로 발음되어 한국 학습자들이 놓치기 쉽습니다."
+        },
+        {
+          "part": "light breakfast",
+          "why_kr": "'light'의 'gh'가 묵음이고, 'light'의 't'와 'breakfast'의 'b'가 연결되어 발음될 때 '트 브'가 아닌 '브'에 가깝게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light breakfast",
+          "meaning_kr": "가벼운 아침 식사"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "We confirmed our flight reservation and accommodation details for next month's business trip.",
+      "translation_kr": "저희는 다음 달 출장을 위한 항공편 예약 및 숙박 세부 정보를 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "confirmed",
+          "why_kr": "단어 끝의 '-ed' 발음이 명확하지 않아 'd' 소리를 놓치기 쉽고, 'r' 발음도 유의해야 합니다."
+        },
+        {
+          "part": "accommodation",
+          "why_kr": "철자가 복잡하고, 'cc'와 'mm' 발음, 그리고 강세 위치(com-mo-DA-tion)를 정확히 듣고 구분하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "reservation",
+          "meaning_kr": "예약"
+        },
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙박 시설"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "A recent study revealed that daily exercise significantly improves well-being among adults.",
+      "translation_kr": "최근 연구에 따르면 매일 운동이 성인의 행복을 크게 향상시키는 것으로 밝혀졌습니다.",
+      "tricky_parts": [
+        {
+          "part": "revealed that",
+          "why_kr": "'revealed'의 마지막 'd'와 'that'의 'th'가 연결되어 발음될 때 '드 댓'이 아닌 부드러운 연결음으로 들려 구분하기 어렵습니다."
+        },
+        {
+          "part": "significantly",
+          "why_kr": "'gn'이 '그느'가 아닌 '그' 소리로 발음되고, 마지막 '-ly' 발음이 약화되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revealed",
+          "meaning_kr": "밝히다, 드러내다"
+        },
+        {
+          "word": "well-being",
+          "meaning_kr": "행복, 안녕"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "Despite some minor disagreements, we always manage to see eye to eye on important matters.",
+      "translation_kr": "몇 가지 사소한 의견 불일치에도 불구하고, 우리는 항상 중요한 문제에 대해 의견이 일치합니다.",
+      "tricky_parts": [
+        {
+          "part": "disagreements",
+          "why_kr": "여러 개의 모음과 자음이 섞여 있어 발음이 길고 복잡하며, 's' 발음을 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "see eye to eye",
+          "why_kr": "숙어 표현이라 전체 의미를 모르면 문맥 파악이 어렵고, 'eye to eye'가 빠르게 발음될 때 각각의 단어가 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "disagreements",
+          "meaning_kr": "의견 불일치"
+        },
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견이 일치하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna love the new cafe; it's got a really cozy atmosphere.",
+      "translation_kr": "그 새로운 카페 정말 마음에 드실 거예요; 정말 아늑한 분위기를 가지고 있어요.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are'와 'going to'의 축약형으로, 빠르게 발음되어 듣고 이해하기 어려울 수 있습니다."
+        },
+        {
+          "part": "it's got a really",
+          "why_kr": "'it's got'의 't' 사운드가 거의 들리지 않거나 연결되며, 'got'과 'a'가 자연스럽게 연결되어 마치 하나의 단어처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "cozy atmosphere",
+          "why_kr": "'cozy'의 'z' 발음과 'atmosphere'의 강세 위치(AT-mos-phere) 및 모음 소리들이 한국 학습자에게는 불분명하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gonna",
+          "meaning_kr": "~할 것이다 (going to의 축약)"
+        },
+        {
+          "word": "cozy",
+          "meaning_kr": "아늑한"
+        }
+      ]
+    }
+  ]
+}
