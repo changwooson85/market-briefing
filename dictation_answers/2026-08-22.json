@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-22 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruits and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually prepare a",
+          "why_kr": "'usually'의 /ʒ/ 소리와 'prepare'의 /pr/ 소리, 그리고 'prepare a'의 연결 발음을 한국어 학습자들이 듣기 어려워할 수 있습니다."
+        },
+        {
+          "part": "fruits and",
+          "why_kr": "'fruits'의 /ts/와 'and'의 /ən/ 발음이 연결될 때 /t/ 소리가 약해지거나 생략되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Our team needs to finalize the travel itinerary for the upcoming conference by Friday.",
+      "translation_kr": "우리 팀은 다가오는 컨퍼런스를 위한 출장 일정을 금요일까지 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize the",
+          "why_kr": "'finalize'의 /z/ 소리와 'the'의 /ð/ 소리가 연결될 때 한국어 학습자들이 구별하기 어려워할 수 있습니다."
+        },
+        {
+          "part": "upcoming conference",
+          "why_kr": "'upcoming'의 강세와 /ʌp/ 소리, 그리고 'conference'의 /fər/ 발음과 강세를 정확히 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정, 여정"
+        },
+        {
+          "word": "conference",
+          "meaning_kr": "회의, 컨퍼런스"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced intermediate",
+      "text": "A recent study published on August 20th confirmed the benefits of daily exercise.",
+      "translation_kr": "8월 20일에 발표된 최근 연구는 매일 운동의 이점을 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "published on",
+          "why_kr": "'published'의 /d/ 소리가 'on'과 연결될 때 자연스럽게 이어지는 소리를 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "August 20th",
+          "why_kr": "'20th'의 /tθ/ 발음은 한국어에는 없는 조합이므로 정확히 듣고 발음하기 어렵습니다."
+        },
+        {
+          "part": "benefits of",
+          "why_kr": "'benefits'의 /ts/ 소리와 'of'의 /v/ 소리가 연결될 때 /t/가 약해지거나 /v/가 /f/처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "published",
+          "meaning_kr": "발표된, 출판된"
+        },
+        {
+          "word": "benefits",
+          "meaning_kr": "이점, 장점"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "It's important to iron out any misunderstandings quickly to maintain strong relationships.",
+      "translation_kr": "돈독한 관계를 유지하기 위해서는 오해를 빨리 해결하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "iron out",
+          "why_kr": "숙어 'iron out'의 의미를 파악하는 것이 중요하며, 'n' 소리가 'out'과 연결될 때 자연스러운 발음을 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "misunderstandings quickly",
+          "why_kr": "길고 복잡한 단어인 'misunderstandings'의 정확한 발음과 's' 소리가 'quickly'와 연결될 때의 소리를 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "iron out",
+          "meaning_kr": "해결하다, 다림질하여 펴다"
+        },
+        {
+          "word": "maintain",
+          "meaning_kr": "유지하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning a trip, but don't forget it's essential to pack light.",
+      "translation_kr": "여행을 계획 중이라고 들었는데, 짐을 가볍게 싸는 것이 중요하다는 것을 잊지 마세요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I've'와 'you're' 같은 축약형 발음과 'heard'의 /d/ 소리가 이어질 때의 연음 처리를 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "don't forget it's",
+          "why_kr": "'don't'의 /t/ 소리가 종종 생략되거나 약화되고, 'forget'의 /t/가 'it's'와 연결될 때의 연음 변화를 파악하기 어렵습니다."
+        },
+        {
+          "part": "pack light",
+          "why_kr": "'pack'의 /k/ 소리가 'light'의 /l/ 소리와 연결될 때, 두 소리가 명확하게 들리지 않거나 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "essential",
+          "meaning_kr": "필수적인, 본질적인"
+        },
+        {
+          "word": "pack light",
+          "meaning_kr": "짐을 가볍게 싸다"
+        }
+      ]
+    }
+  ]
+}
