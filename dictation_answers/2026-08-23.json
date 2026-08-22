@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-23 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually eat a light breakfast before going to work every morning.",
+      "translation_kr": "저는 보통 매일 아침 출근 전에 가벼운 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u-su-a-lly'처럼 발음하기 쉽지만, '유-쥐얼리' 또는 '유-쥴리'와 같이 중간 's'가 /ʒ/ 소리로 발음되고 'l'이 거의 들리지 않게 연결되는 경우가 많아 주의해야 합니다."
+        },
+        {
+          "part": "breakfast before",
+          "why_kr": "'t'와 'b' 소리 사이에 거의 휴지 없이 빠르게 연결되어 '브렉퍼스트 비포어'가 아니라 '브렉퍼스(트)비포어'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light breakfast",
+          "meaning_kr": "가벼운 아침 식사"
+        },
+        {
+          "word": "every morning",
+          "meaning_kr": "매일 아침"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate-low",
+      "text": "The team reviewed the project budget and discussed travel expenses for next month.",
+      "translation_kr": "팀은 프로젝트 예산을 검토하고 다음 달 출장 경비를 논의했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reviewed the",
+          "why_kr": "'d'와 'th' 소리가 자연스럽게 연결되어 '리뷰드 더'가 아닌 '리뷰드-더'처럼 들립니다. 'the'가 약화되어 거의 '러' 소리처럼 들리기도 합니다."
+        },
+        {
+          "part": "travel expenses",
+          "why_kr": "'travel'의 'l'과 'expenses'의 'e'가 연결되면서 '트래블 익스펜시스'보다는 '트래블익스펜시스'처럼 들릴 수 있으며, 'expenses'의 'ex' 부분이 약화될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "project budget",
+          "meaning_kr": "프로젝트 예산"
+        },
+        {
+          "word": "travel expenses",
+          "meaning_kr": "출장 경비"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate-mid",
+      "text": "According to recent health reports, daily exercise effectively reduces stress levels.",
+      "translation_kr": "최근 건강 보고서에 따르면, 매일 운동하는 것이 스트레스 수준을 효과적으로 줄여줍니다.",
+      "tricky_parts": [
+        {
+          "part": "according to",
+          "why_kr": "'어코딩 투'가 아닌 '어코딩투'처럼 빠르게 연결되며, 'to'가 약화되어 '터' 또는 '더'처럼 들리는 경우가 많습니다."
+        },
+        {
+          "part": "effectively reduces",
+          "why_kr": "'effectively'의 'ly'와 'reduces'의 're'가 연결되면서 '이펙티브리 리듀시스'보다는 '이펙티브리듀시스'처럼 들릴 수 있으며, 자음 연쇄가 복잡하게 느껴질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "health reports",
+          "meaning_kr": "건강 보고서"
+        },
+        {
+          "word": "reduces stress levels",
+          "meaning_kr": "스트레스 수준을 줄이다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "intermediate-high",
+      "text": "After moving, it took me a while to get the hang of using local transit.",
+      "translation_kr": "이사를 한 후, 저는 지역 대중교통 이용에 익숙해지는 데 시간이 좀 걸렸습니다.",
+      "tricky_parts": [
+        {
+          "part": "took me a while",
+          "why_kr": "'took me a' 부분이 빠르게 연결되어 '툭 미 어'가 아니라 '툭미어'처럼 들리며, 'a'가 약화되어 거의 들리지 않거나 '어'로 짧게 발음됩니다."
+        },
+        {
+          "part": "get the hang of",
+          "why_kr": "이디엄 전체를 빠르게 발음할 때 'get the'의 't'와 'the'의 'th'가 연결되고, 'of'가 '어브'가 아닌 '어' 또는 '아'로 약화되는 경향이 있어 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "get the hang of",
+          "meaning_kr": "~에 익숙해지다, 요령을 터득하다"
+        },
+        {
+          "word": "local transit",
+          "meaning_kr": "지역 대중교통"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "advanced",
+      "text": "I've heard you're going on a trip, but it'll be tough fitting it in.",
+      "translation_kr": "당신이 여행 갈 계획이라고 들었는데, 그걸 맞추기가 힘들 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "세 개의 축약형이 연속으로 나오며, 'I've heard'의 'd' 소리가 종종 약화되거나 거의 들리지 않고 'you're'와 자연스럽게 연결되어 '아이브 헐드 유어'가 아닌 '아이브 헐드유어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll be tough",
+          "why_kr": "'it'll'의 't' 소리가 거의 들리지 않거나 'd'처럼 부드럽게 발음될 수 있으며, 'tough'와 연결되어 '이털 비 터프'가 아닌 '이러비터프'처럼 들리면서 빠른 발음 속도 때문에 이해하기 어려울 수 있습니다."
+        },
+        {
+          "part": "fitting it in",
+          "why_kr": "'fitting'의 't'가 'f' 발음처럼 약화되거나 'd' 발음으로 변하고, 뒤의 'it'과 'in'이 모두 약하게 연결되어 '피팅 잇 인'이 아닌 '피린잇인'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tough",
+          "meaning_kr": "힘든, 어려운"
+        },
+        {
+          "word": "fitting it in",
+          "meaning_kr": "일정에 ~을 맞추다, 끼워 넣다"
+        }
+      ]
+    }
+  ]
+}
