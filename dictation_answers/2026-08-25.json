@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-25 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are currently looking for new jobs in the competitive market.",
+      "translation_kr": "많은 사람들이 현재 경쟁적인 시장에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "currently",
+          "why_kr": "'r'과 'l' 소리가 연속되어 발음하기 어렵고, 'rent' 부분이 빠르게 발음될 때 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "competitive market",
+          "why_kr": "'competitive'의 두 번째 'e'가 약하게 발음되고, 'titive' 부분이 '티티브'보다는 '터티브'처럼 들릴 수 있습니다. 'market'의 't'는 약하게 발음되거나 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "currently",
+          "meaning_kr": "현재"
+        },
+        {
+          "word": "competitive market",
+          "meaning_kr": "경쟁 시장"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company reported a significant increase in quarterly sales for the last period.",
+      "translation_kr": "우리 회사는 지난 분기에 상당한 분기별 매출 증가를 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported a",
+          "why_kr": "'reported'의 마지막 'd' 소리가 다음 단어 'a'와 이어져 '리포터다'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "quarterly sales",
+          "why_kr": "'quarterly'의 'r' 소리가 한국어에 없는 발음이라 어렵고, 't' 발음이 약하게 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significant increase",
+          "meaning_kr": "상당한 증가"
+        },
+        {
+          "word": "quarterly sales",
+          "meaning_kr": "분기별 매출"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "The benchmark stock index rose by 1.5% yesterday, reaching its highest point since June.",
+      "translation_kr": "벤치마크 주가 지수는 어제 1.5% 상승하여 6월 이후 최고점을 기록했습니다.",
+      "tricky_parts": [
+        {
+          "part": "benchmark stock index",
+          "why_kr": "'benchmark'의 'k' 소리가 다음 'stock'의 's' 소리와 겹쳐 들리거나 약하게 들릴 수 있습니다. 'index'의 'x' 소리가 정확하게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "rose by",
+          "why_kr": "'rose'의 마지막 'z' 소리와 'by'의 'b' 소리가 빠르게 이어지면서 '로즈바이'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "highest point since",
+          "why_kr": "'highest'의 'st'와 'point'의 't' 그리고 'since'의 's'가 연속적으로 발음될 때 '스트 포인뜨 신쓰'처럼 끊어지지 않고 이어지는 소리를 캐치하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "benchmark stock index",
+          "meaning_kr": "벤치마크 주가 지수"
+        },
+        {
+          "word": "highest point",
+          "meaning_kr": "최고점"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Despite the economic downturn, the startup managed to stay afloat by cutting costs.",
+      "translation_kr": "경기 침체에도 불구하고, 그 스타트업은 비용 절감으로 겨우 살아남았습니다.",
+      "tricky_parts": [
+        {
+          "part": "economic downturn",
+          "why_kr": "'economic'의 'c'와 'downturn'의 'd'가 연결되어 발음될 때 '이코노믹 다운턴'처럼 명확하게 구분되지 않고 이어집니다."
+        },
+        {
+          "part": "managed to",
+          "why_kr": "'to'가 약하게 '터'로 발음되고, 'managed'의 'd'와 연결되어 '매니지드터'처럼 빠르게 지나갈 수 있습니다."
+        },
+        {
+          "part": "stay afloat",
+          "why_kr": "관용구이므로 문자 그대로의 의미가 아니라 '어려운 상황에서 벗어나다, 재정적으로 파산하지 않다'는 의미를 이해해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "economic downturn",
+          "meaning_kr": "경기 침체"
+        },
+        {
+          "word": "stay afloat",
+          "meaning_kr": "파산하지 않고 유지하다, 살아남다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna need to keep an eye on interest rates; they're pivotal for investors.",
+      "translation_kr": "금리를 주시해야 할 거예요. 투자자들에게는 매우 중요하거든요.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are going to'의 구어체 축약형으로, '유어 거너' 또는 '유아가나'처럼 빠르게 발음되어 듣기 어렵습니다."
+        },
+        {
+          "part": "keep an eye on",
+          "why_kr": "'keep an eye on'은 '주시하다'라는 의미의 숙어이며, 'keep'의 'p'와 'an'의 'an', 'eye'의 'i', 'on'이 모두 연결되어 '키번아이온'처럼 빠르게 들립니다."
+        },
+        {
+          "part": "pivotal for investors",
+          "why_kr": "'pivotal'의 't'가 약하게 'd'처럼 발음될 수 있고, 'for'가 약하게 '퍼'로 발음되며 'investors'와 이어져 '피버덜퍼인베스터즈'처럼 빠르게 연결됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "interest rates",
+          "meaning_kr": "금리"
+        },
+        {
+          "word": "pivotal",
+          "meaning_kr": "중추적인, 아주 중요한"
+        }
+      ]
+    }
+  ]
+}
