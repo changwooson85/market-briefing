@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-26 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I often enjoy cooking healthy meals at home with fresh vegetables.",
+      "translation_kr": "저는 종종 집에서 신선한 채소로 건강한 식사를 요리하는 것을 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "often",
+          "why_kr": "'t' 발음이 묵음이 되는 경우가 많아 한국 학습자가 종종 놓치기 쉽습니다."
+        },
+        {
+          "part": "healthy meals",
+          "why_kr": "'healthy'의 'th' 발음과 'meals'의 'ea' 발음이 정확하지 않거나 연결음으로 인해 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "healthy meals",
+          "meaning_kr": "건강한 식사"
+        },
+        {
+          "word": "fresh vegetables",
+          "meaning_kr": "신선한 채소"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "We discussed the budget allocation for our upcoming team building trip next quarter.",
+      "translation_kr": "우리는 다음 분기 예정된 팀 빌딩 여행을 위한 예산 배분에 대해 논의했습니다.",
+      "tricky_parts": [
+        {
+          "part": "discussed the",
+          "why_kr": "'d'와 'th'의 연결음이 부드럽게 이어지지 않거나 'the' 발음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "allocation for",
+          "why_kr": "'allocation'의 끝 음절과 'for'가 연결될 때 발음이 흐려질 수 있습니다."
+        },
+        {
+          "part": "next quarter",
+          "why_kr": "'next'의 't'가 거의 들리지 않거나 'quarter'와 연결될 때 원어민처럼 자연스럽게 발음하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "budget allocation",
+          "meaning_kr": "예산 배분"
+        },
+        {
+          "word": "team building trip",
+          "meaning_kr": "팀 빌딩 여행"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "A recent study revealed that daily exercise significantly improves mental well-being for adults.",
+      "translation_kr": "최근 연구에 따르면 매일의 운동이 성인의 정신적 건강을 크게 향상시키는 것으로 나타났습니다.",
+      "tricky_parts": [
+        {
+          "part": "recent study",
+          "why_kr": "'recent'의 't'가 약해지고 'study'와 연결될 때 발음이 뭉개지기 쉽습니다."
+        },
+        {
+          "part": "significantly improves",
+          "why_kr": "두 단어 모두 길이가 길고 강세가 있어 정확한 발음과 연결을 연습해야 합니다."
+        },
+        {
+          "part": "mental well-being",
+          "why_kr": "'mental'의 'l' 발음과 'well-being'이 자연스럽게 연결되지 않아 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significantly improves",
+          "meaning_kr": "크게 향상시키다"
+        },
+        {
+          "word": "mental well-being",
+          "meaning_kr": "정신적 건강/행복"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal",
+      "text": "After missing her flight, she decided to bite the bullet and buy a new ticket.",
+      "translation_kr": "그녀는 비행기를 놓친 후, 울며 겨자 먹기로 새 티켓을 사기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "missing her flight",
+          "why_kr": "'missing'과 'her'의 연결, 그리고 'her'의 'h'가 묵음이 되는 경우가 있어 'missin'er'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "bite the bullet",
+          "why_kr": "이디엄이므로 의미를 모르면 문맥 이해가 어렵고, 'bite'의 't'와 'the'의 연결 발음이 자연스럽지 않을 수 있습니다."
+        },
+        {
+          "part": "buy a new",
+          "why_kr": "'buy'의 'y' 소리와 'a'가 연결되고, 'new'와도 이어져 'buy a new'가 한 단어처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "bite the bullet",
+          "meaning_kr": "이를 악물고 힘든 일을 감수하다, 울며 겨자 먹기로 하다"
+        },
+        {
+          "word": "missing her flight",
+          "meaning_kr": "비행기를 놓치다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning a trip, but won't you need to save up first?",
+      "translation_kr": "여행을 계획 중이라고 들었는데, 먼저 저축해야 하지 않을까요?",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I've' (아이브)와 'heard' (헐드), 'you're' (유어) 세 단어의 축약형과 연결 발음이 매우 빠르게 이어져 듣기 어렵습니다."
+        },
+        {
+          "part": "won't you need to",
+          "why_kr": "'won't'의 't'가 거의 들리지 않고 'you'와 연결되어 '워뉴'처럼 들리며, 'need to'의 'd'와 't'도 연결되어 '니투'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "save up first",
+          "why_kr": "'save'의 'v'와 'up'이 연결되고, 'up'의 'p'와 'first'의 'f'가 빠르게 이어져 듣기 까다로울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "save up",
+          "meaning_kr": "저축하다, 돈을 모으다"
+        },
+        {
+          "word": "planning a trip",
+          "meaning_kr": "여행을 계획하다"
+        }
+      ]
+    }
+  ]
+}
