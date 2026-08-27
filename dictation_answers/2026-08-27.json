@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-27 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has an amazing camera and a long-lasting battery.",
+      "translation_kr": "이 새로운 스마트폰은 멋진 카메라와 오래가는 배터리를 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "amazing",
+          "why_kr": "'a' 발음이 약화되고 'z' 소리를 정확히 내는 것이 어려울 수 있습니다."
+        },
+        {
+          "part": "long-lasting",
+          "why_kr": "'g'와 'l'이 연결되는 소리, 그리고 'st' 소리를 명확하게 발음하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery",
+          "meaning_kr": "배터리"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "Our team is developing innovative software solutions for enterprise clients worldwide.",
+      "translation_kr": "우리 팀은 전 세계 기업 고객들을 위한 혁신적인 소프트웨어 솔루션을 개발하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "innovative",
+          "why_kr": "'o' 발음이 약화되거나 'v' 발음이 'b'로 혼동될 수 있습니다."
+        },
+        {
+          "part": "enterprise clients",
+          "why_kr": "'r' 발음과 'pri' 음절을 정확하게 발음하는 것이 한국 학습자에게 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "enterprise clients",
+          "meaning_kr": "기업 고객"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "Industry analysts predict AI market growth will reach $500 billion by 2030.",
+      "translation_kr": "산업 분석가들은 AI 시장 성장이 2030년까지 5천억 달러에 이를 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "analysts predict",
+          "why_kr": "'sts'와 'pr' 소리의 연속과 두 단어의 연결 발음이 어렵습니다."
+        },
+        {
+          "part": "$500 billion by 2030",
+          "why_kr": "숫자를 영어로 정확히 듣고 구분하는 것이 어려울 수 있으며, 'n'과 'b'의 연결 발음이 헷갈릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가"
+        },
+        {
+          "word": "market growth",
+          "meaning_kr": "시장 성장"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "Despite initial setbacks, the startup's AI project is really taking off now.",
+      "translation_kr": "초기 난관에도 불구하고, 그 스타트업의 AI 프로젝트는 이제 정말 잘되고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "initial setbacks",
+          "why_kr": "'sh' 소리와 'ck' 및 's'가 연속되는 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "taking off",
+          "why_kr": "숙어의 의미(번창하다)를 파악하는 것과 'ng' 소리가 'o'로 연결되는 발음을 듣는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "setbacks",
+          "meaning_kr": "난관, 좌절"
+        },
+        {
+          "word": "taking off",
+          "meaning_kr": "(사업 등이) 번창하다, 뜨다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've said it'll drastically change how we're gonna interact with future tech.",
+      "translation_kr": "그들은 그것이 우리가 미래 기술과 상호작용하는 방식을 급진적으로 바꿀 것이라고 말했습니다.",
+      "tricky_parts": [
+        {
+          "part": "They've said it'll",
+          "why_kr": "연음(connected speech)과 'They have', 'it will'과 같은 여러 축약형이 빠르게 이어져 들립니다."
+        },
+        {
+          "part": "we're gonna",
+          "why_kr": "축약형 'we are'와 구어체 'going to'의 축약형 'gonna'를 빠르게 듣고 이해하는 것이 어려울 수 있습니다."
+        },
+        {
+          "part": "interact with",
+          "why_kr": "'t'와 'w'의 연결 소리, 그리고 'th' 발음을 명확하게 듣는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "drastically",
+          "meaning_kr": "급진적으로, 과감하게"
+        },
+        {
+          "word": "interact",
+          "meaning_kr": "상호작용하다"
+        }
+      ]
+    }
+  ]
+}
