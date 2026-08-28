@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-28 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are saving money for their future investments in the market.",
+      "translation_kr": "많은 사람들이 미래 시장 투자를 위해 돈을 저축하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "saving money",
+          "why_kr": "'saving'의 'ng' 발음과 'money'의 'm' 발음이 연결될 때 자연스럽게 이어지지 않고 끊어지거나 어색하게 들릴 수 있습니다."
+        },
+        {
+          "part": "investments in",
+          "why_kr": "'investments'의 마지막 's' 발음과 'in'이 연결될 때 부드러운 연음 처리가 어렵거나, 's'가 묵음 처리될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "saving",
+          "meaning_kr": "저축하다"
+        },
+        {
+          "word": "investments",
+          "meaning_kr": "투자"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "The company announced robust quarterly earnings, exceeding analysts' expectations significantly.",
+      "translation_kr": "그 회사는 애널리스트들의 기대를 상당히 뛰어넘는 견조한 분기별 수익을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "robust quarterly",
+          "why_kr": "'robust'의 't' 발음이 약화되거나 생략될 수 있으며, 'quarterly'의 'r' 발음이 정확하게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "analysts' expectations",
+          "why_kr": "'analysts'에서 't'가 묵음 처리되는 경향이 있고, 's'와 'expectations'가 연음될 때 정확하게 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "robust",
+          "meaning_kr": "견조한, 튼튼한"
+        },
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "Major market indices closed higher today, with the KOSPI gaining 1.5% to 2,750 points.",
+      "translation_kr": "주요 시장 지수들이 오늘 상승 마감했으며, 코스피는 1.5% 상승하여 2,750 포인트를 기록했습니다.",
+      "tricky_parts": [
+        {
+          "part": "indices closed",
+          "why_kr": "'indices'의 마지막 's' 발음과 'closed'의 'cl'이 자연스럽게 연음되지 않을 경우 혼동될 수 있습니다."
+        },
+        {
+          "part": "gaining 1.5%",
+          "why_kr": "'gaining'의 'ng' 발음과 '1.5%' (one point five percent)와 같은 숫자의 정확한 청취가 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "market indices",
+          "meaning_kr": "시장 지수"
+        },
+        {
+          "word": "gaining",
+          "meaning_kr": "상승하다, 얻다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal_verb",
+      "text": "Despite recent economic headwinds, the company managed to stay afloat with strategic cost-cutting.",
+      "translation_kr": "최근의 경제적 역풍에도 불구하고, 그 회사는 전략적인 비용 절감으로 겨우 버텨냈습니다.",
+      "tricky_parts": [
+        {
+          "part": "economic headwinds",
+          "why_kr": "'economic'과 'headwinds'의 연음, 특히 'c'와 'h' 발음이 빠르게 이어질 때 구별이 어려울 수 있습니다."
+        },
+        {
+          "part": "stay afloat",
+          "why_kr": "숙어 'stay afloat'의 의미 파악과, 'a' 발음이 약화되어 'stay float'으로 오해할 수 있습니다."
+        },
+        {
+          "part": "cost-cutting",
+          "why_kr": "두 단어가 연결되면서 't' 발음이 약화되거나 생략될 수 있어 '코스 커팅'으로 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "headwinds",
+          "meaning_kr": "역풍, 난관"
+        },
+        {
+          "word": "stay afloat",
+          "meaning_kr": "(파산하지 않고) 겨우 버티다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "It's crucial you're prepared for unexpected market shifts; they've certainly impacted many investors.",
+      "translation_kr": "예상치 못한 시장 변화에 대비하는 것이 중요합니다; 그것들이 분명히 많은 투자자들에게 영향을 미쳤거든요.",
+      "tricky_parts": [
+        {
+          "part": "It's crucial you're",
+          "why_kr": "'It's'와 'crucial'의 's'와 'l' 발음, 그리고 'you're' (유얼)가 'your' (유얼)와 발음상 유사하여 구분이 어려울 수 있습니다."
+        },
+        {
+          "part": "prepared for unexpected",
+          "why_kr": "'prepared'의 'd'와 'for'의 'f', 그리고 'r'이 'unexpected'와 빠르게 연음될 때 듣기가 까다로울 수 있습니다."
+        },
+        {
+          "part": "they've certainly impacted",
+          "why_kr": "축약형 'they've'의 'v' 발음, 'certainly'의 약화된 't' 발음, 그리고 'impacted'와의 연음이 빠르게 이어질 때 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "crucial",
+          "meaning_kr": "매우 중요한"
+        },
+        {
+          "word": "market shifts",
+          "meaning_kr": "시장 변화"
+        }
+      ]
+    }
+  ]
+}
