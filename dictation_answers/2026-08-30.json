@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-30 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually have a light breakfast, like toast and coffee, before starting my day.",
+      "translation_kr": "저는 보통 하루를 시작하기 전에 토스트와 커피 같은 가벼운 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually have a",
+          "why_kr": "'usually'의 'l' 발음과 'have a'의 연음이 어려울 수 있습니다."
+        },
+        {
+          "part": "starting my day",
+          "why_kr": "'starting'의 'r' 발음과 'g'가 약하게 발음되는 경향이 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light breakfast",
+          "meaning_kr": "가벼운 아침 식사"
+        },
+        {
+          "word": "before starting my day",
+          "meaning_kr": "하루를 시작하기 전에"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Regular exercise is crucial for maintaining good health, especially during long trips.",
+      "translation_kr": "규칙적인 운동은 특히 장거리 여행 중에 좋은 건강을 유지하는 데 매우 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "Regular exercise",
+          "why_kr": "'Regular'의 'r'과 'g' 발음, 그리고 'exercise'의 'x' 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "crucial for maintaining",
+          "why_kr": "'crucial'의 'sh' 소리와 'for'와 'maintaining'의 연음이 까다로울 수 있습니다."
+        },
+        {
+          "part": "during long trips",
+          "why_kr": "'long'의 'ng' 발음과 'trips'의 's' 발음이 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "crucial",
+          "meaning_kr": "매우 중요한"
+        },
+        {
+          "word": "maintaining",
+          "meaning_kr": "유지하는 것"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate-advanced",
+      "text": "A recent study found that 70% of participants improved sleep quality by early evening walks.",
+      "translation_kr": "최근 연구에 따르면 참가자의 70%가 이른 저녁 산책을 통해 수면의 질을 향상시켰습니다.",
+      "tricky_parts": [
+        {
+          "part": "recent study found that",
+          "why_kr": "'recent'의 't'가 거의 들리지 않고 'study'와 'found that'이 연음될 때 발음이 뭉개질 수 있습니다."
+        },
+        {
+          "part": "70% of participants",
+          "why_kr": "'of'가 /əv/로 약하게 발음되고, 'participants'의 여러 음절이 명확하게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "improved sleep quality",
+          "why_kr": "'improved'의 'ved' 발음과 'quality'의 'l' 발음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "participants",
+          "meaning_kr": "참가자"
+        },
+        {
+          "word": "sleep quality",
+          "meaning_kr": "수면의 질"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "It's important to clear the air quickly after a misunderstanding with friends.",
+      "translation_kr": "친구들과 오해가 생긴 후에는 빠르게 오해를 푸는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "'the'의 'th' 발음과 'clear'와 'the'의 연음이 어려울 수 있습니다."
+        },
+        {
+          "part": "after a misunderstanding",
+          "why_kr": "'after a'가 빠르게 연음되어 들리고 'misunderstanding'의 긴 음절을 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "with friends",
+          "why_kr": "'with'의 'th' 발음과 'friends'의 마지막 's' 발음이 부정확하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다"
+        },
+        {
+          "word": "misunderstanding",
+          "meaning_kr": "오해"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're planning a trip, you'll definitely want to check out their online reviews.",
+      "translation_kr": "만약 여행을 계획 중이시라면, 그들의 온라인 후기를 꼭 확인해보고 싶으실 거예요.",
+      "tricky_parts": [
+        {
+          "part": "If you're planning",
+          "why_kr": "'If you are'가 'If you're'로 축약되고 'planning'과 빠르게 연결되어 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "you'll definitely want to",
+          "why_kr": "'you will'의 축약형 'you'll'과 'definitely'의 빠른 발음, 그리고 'want to'가 'wanna'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "check out their",
+          "why_kr": "'check out'과 'their'가 연음되고 'their'의 'th' 발음이 까다로울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "online reviews",
+          "meaning_kr": "온라인 후기"
+        },
+        {
+          "word": "check out",
+          "meaning_kr": "확인하다, 알아보다"
+        }
+      ]
+    }
+  ]
+}
