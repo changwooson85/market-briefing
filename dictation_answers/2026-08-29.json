@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-29 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually enjoy a healthy breakfast with fruit and yogurt to begin my day.",
+      "translation_kr": "저는 보통 과일과 요거트를 곁들인 건강한 아침 식사를 즐기며 하루를 시작합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 발음이 'zh' ([ʒ]) 소리로 나는 경우가 많고, 강세가 없는 'u' 모음이 축약되어 들릴 수 있습니다."
+        },
+        {
+          "part": "fruit and",
+          "why_kr": "'fruit'의 't'가 뒤따르는 'and'와 연음되거나 ('and'는 종종 'n'으로 축약됨) 묵음 처리될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "healthy breakfast",
+          "meaning_kr": "건강한 아침 식사"
+        },
+        {
+          "word": "begin my day",
+          "meaning_kr": "하루를 시작하다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Please remember to submit your travel expense report by the end of next week.",
+      "translation_kr": "다음 주 말까지 여행 경비 보고서를 제출하는 것을 잊지 마세요.",
+      "tricky_parts": [
+        {
+          "part": "submit your",
+          "why_kr": "'submit'의 't' 발음이 뒤따르는 'your'와 연음되어 'dʒər'와 유사하게 들릴 수 있습니다."
+        },
+        {
+          "part": "expense report",
+          "why_kr": "'expense'와 'report'의 모음 발음이 유사하여 혼동하기 쉽고, 'report'의 't'는 종종 발음되지 않거나 약하게 발음됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "expense report",
+          "meaning_kr": "경비 보고서"
+        },
+        {
+          "word": "next week",
+          "meaning_kr": "다음 주"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Recent data showed that 68% of adults prioritize mental health over physical fitness.",
+      "translation_kr": "최근 데이터에 따르면 성인의 68%가 신체 건강보다 정신 건강을 우선시하는 것으로 나타났습니다.",
+      "tricky_parts": [
+        {
+          "part": "data showed that",
+          "why_kr": "'data'의 'a' 모음 발음이 다양하며, 'd'와 'sh', 그리고 'ed'와 'that'이 연음되어 빠르게 들릴 수 있습니다."
+        },
+        {
+          "part": "68% of adults",
+          "why_kr": "'of'가 약화되어 'əv' 또는 'ə'로 발음되며, 뒤따르는 'adults'와 연음될 때 특히 알아듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prioritize",
+          "meaning_kr": "우선시하다"
+        },
+        {
+          "word": "mental health",
+          "meaning_kr": "정신 건강"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "After years apart, they finally decided to catch up over coffee and reminisce.",
+      "translation_kr": "수년 만에 그들은 마침내 커피를 마시며 만나서 옛 추억을 되새기기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "catch up over",
+          "why_kr": "'catch'의 'ch'와 'up', 그리고 'up'의 'p'와 'over'가 자연스럽게 연음되어 하나의 덩어리처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "reminisce",
+          "why_kr": "강세 위치와 're' 및 'nisce'의 정확한 발음이 어려워, 한국 학습자들이 유사한 발음의 단어와 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "catch up",
+          "meaning_kr": "(오랜만에) 만나서 소식을 나누다"
+        },
+        {
+          "word": "reminisce",
+          "meaning_kr": "추억하다, 회상하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning a trip, so you'll definitely enjoy exploring new cultures.",
+      "translation_kr": "여행 계획 중이라고 들었는데, 새로운 문화를 탐험하는 것을 분명히 즐기실 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I've'와 'you're'의 축약형과 더불어, 'heard'의 'd'와 'you're'의 'y'가 연음되어 빠르게 발음될 때 알아듣기 어렵습니다."
+        },
+        {
+          "part": "you'll definitely enjoy",
+          "why_kr": "'you'll'의 축약 및 약화된 발음, 'definitely'의 빠른 발음과 'ly' 사운드, 그리고 'y'와 'e'의 연음으로 인해 난이도가 높습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "exploring new cultures",
+          "meaning_kr": "새로운 문화를 탐험하다"
+        },
+        {
+          "word": "planning a trip",
+          "meaning_kr": "여행을 계획하다"
+        }
+      ]
+    }
+  ]
+}
