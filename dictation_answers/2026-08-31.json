@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-31 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people regularly use their smartphones for various daily tasks now.",
+      "translation_kr": "많은 사람들이 이제 다양한 일상 업무를 위해 스마트폰을 정기적으로 사용합니다.",
+      "tricky_parts": [
+        {
+          "part": "use their",
+          "why_kr": "'use'의 '즈' 발음과 'their'가 연결되어 '유즈 데어' 또는 '유제어'처럼 들릴 수 있습니다. '즈'와 '드'의 미묘한 차이에 주의해야 합니다."
+        },
+        {
+          "part": "daily tasks",
+          "why_kr": "'daily'의 '리'와 'tasks'의 '태'가 빠르게 연결될 때 명확하게 구분하기 어려울 수 있으며, 'tasks'의 마지막 'ks' 발음이 약해지기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphones",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "daily tasks",
+          "meaning_kr": "일상 업무"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "Our tech startup successfully secured significant funding for its innovative AI platform.",
+      "translation_kr": "저희 기술 스타트업은 혁신적인 AI 플랫폼을 위해 상당한 자금을 성공적으로 확보했습니다.",
+      "tricky_parts": [
+        {
+          "part": "secured significant",
+          "why_kr": "'secured'의 '드'와 'significant'의 '스'가 연결되면서 발음이 혼동될 수 있으며, 'significant'는 한국 학습자들이 발음하기 어려워하는 'gn' 조합이 있습니다."
+        },
+        {
+          "part": "innovative AI",
+          "why_kr": "'innovative'의 끝 발음이 모음으로 끝나고 'AI'가 모음으로 시작하여 연결 발음이 자연스럽게 이어지기 때문에, 개별 단어를 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "secured funding",
+          "meaning_kr": "자금 확보"
+        },
+        {
+          "word": "AI platform",
+          "meaning_kr": "AI 플랫폼"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "The global tech giant is expected to unveil its new flagship gadget on October 25th.",
+      "translation_kr": "글로벌 기술 대기업은 10월 25일에 새로운 주력 기기를 공개할 예정입니다.",
+      "tricky_parts": [
+        {
+          "part": "tech giant",
+          "why_kr": "'tech'의 '크'와 'giant'의 '지'가 연결될 때 '크지' 또는 '기'처럼 들릴 수 있어 구분이 필요합니다."
+        },
+        {
+          "part": "flagship gadget",
+          "why_kr": "'flagship'의 '프'와 'gadget'의 '개'가 빠르게 이어지면 '프개'처럼 들릴 수 있으며, 두 단어 모두 익숙하지 않은 학습자에게는 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "October 25th",
+          "why_kr": "날짜와 서수 발음은 한국 학습자들이 종종 혼동하거나 놓치는 부분입니다. '25th'의 'th' 발음도 주의가 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech giant",
+          "meaning_kr": "기술 대기업"
+        },
+        {
+          "word": "flagship gadget",
+          "meaning_kr": "주력 기기 (주력 제품)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal_verb",
+      "text": "Before the presentation, we need to hammer out the final details of our software update.",
+      "translation_kr": "프레젠테이션 전에, 저희는 소프트웨어 업데이트의 최종 세부 사항을 논의하여 결정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "hammer out",
+          "why_kr": "원어민이 빠르게 발음할 때 '해머 라웃'처럼 들릴 수 있습니다. 구동사(phrasal verb)는 그 의미를 유추하기 어렵고 연결 발음이 잦아 학습자들이 듣기 어려워합니다."
+        },
+        {
+          "part": "final details",
+          "why_kr": "'final'의 '늘'과 'details'의 '디'가 연결될 때 '늘디'처럼 들릴 수 있으며, 'details'의 'l' 발음이 약화될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hammer out",
+          "meaning_kr": "고심하여 논의/결정하다"
+        },
+        {
+          "word": "software update",
+          "meaning_kr": "소프트웨어 업데이트"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've said it'll be tough, but you're gonna have to really step up for this project.",
+      "translation_kr": "그들은 힘들 거라고 했지만, 당신은 이 프로젝트를 위해 정말로 분발해야 할 거예요.",
+      "tricky_parts": [
+        {
+          "part": "They've said it'll be",
+          "why_kr": "여러 단어가 축약('They've', 'it'll')되고 연결 발음('said it', 'it'll be')이 많아 빠르게 들립니다. 개별 단어를 구분하기가 매우 어렵습니다."
+        },
+        {
+          "part": "you're gonna",
+          "why_kr": "축약형('you're')과 비형식적인 표현('gonna')의 조합으로, 원어민의 빠른 회화에서 자주 사용되지만 한국 학습자에게는 익숙하지 않아 듣기 어렵습니다."
+        },
+        {
+          "part": "step up for",
+          "why_kr": "구동사('step up')가 이어지고, 'up'의 '프'와 'for'의 '프' 발음이 연결되거나 '포'가 '퍼'처럼 약화되어 '스텝 업퍼'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "step up",
+          "meaning_kr": "분발하다, 책임감을 가지고 나서다"
+        },
+        {
+          "word": "tough project",
+          "meaning_kr": "힘든 프로젝트"
+        }
+      ]
+    }
+  ]
+}
