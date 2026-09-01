@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-01 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The company's new product launch is expected to happen next month.",
+      "translation_kr": "그 회사의 신제품 출시는 다음 달에 있을 것으로 예상됩니다.",
+      "tricky_parts": [
+        {
+          "part": "product launch",
+          "why_kr": "'d'와 'l'이 연음되면서 '프로덕트 런치'가 아닌 '프로덕 런치'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "expected to",
+          "why_kr": "'expected'의 끝 't'는 뒤에 오는 'to'와 연음되면서 거의 들리지 않거나 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "next month",
+          "why_kr": "'next'의 't'는 뒤에 오는 'month'의 'm' 때문에 거의 발음되지 않거나 아주 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "product launch",
+          "meaning_kr": "신제품 출시"
+        },
+        {
+          "word": "expected",
+          "meaning_kr": "예상되는"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many small businesses are currently struggling with high inflation rates.",
+      "translation_kr": "많은 소규모 기업들이 현재 높은 인플레이션율로 고군분투하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "businesses are",
+          "why_kr": "'businesses'의 끝 's'와 'are'가 연음되어 '비즈니스 사'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "struggling with",
+          "why_kr": "'struggling'의 끝 'g'와 'with'가 연음되어 '스트러글링 위드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "inflation rates",
+          "why_kr": "'inflation'의 'ti' 부분 발음('션')과 'rates'의 복수형 's' 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "struggling",
+          "meaning_kr": "고군분투하는, 어려움을 겪는"
+        },
+        {
+          "word": "inflation rates",
+          "meaning_kr": "인플레이션율"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The stock market saw a 1.5% decline yesterday, marking its lowest point this quarter.",
+      "translation_kr": "주식 시장은 어제 1.5% 하락하여 이번 분기 최저점을 기록했습니다.",
+      "tricky_parts": [
+        {
+          "part": "saw a",
+          "why_kr": "'saw'의 'w' 소리가 'a'와 연음되어 '쏘어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "1.5%",
+          "why_kr": "소수점과 퍼센트(one point five percent)를 정확히 발음하고 듣는 연습이 필요합니다."
+        },
+        {
+          "part": "lowest point",
+          "why_kr": "'point'의 끝 't'는 뒤에 오는 'this'의 'th' 때문에 약하게 발음되거나 생략되는 경우가 많습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "decline",
+          "meaning_kr": "하락, 감소"
+        },
+        {
+          "word": "quarter",
+          "meaning_kr": "(회계) 분기"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "After the recent merger, the new entity plans to lay off a quarter of its workforce.",
+      "translation_kr": "최근 합병 이후, 새로운 법인은 직원 중 4분의 1을 해고할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "recent merger",
+          "why_kr": "'recent'의 't'는 뒤에 오는 'merger'의 'm' 때문에 약하게 발음되거나 생략되는 경우가 많습니다."
+        },
+        {
+          "part": "lay off",
+          "why_kr": "구동사인 'lay off'는 '레이 오프'가 아닌 '레이오프'처럼 연음되며, 그 의미를 모르면 문맥을 놓치기 쉽습니다."
+        },
+        {
+          "part": "workforce",
+          "why_kr": "'work'와 'force'가 합쳐진 복합 명사로, 'r' 사운드와 강세 위치에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "merger",
+          "meaning_kr": "합병"
+        },
+        {
+          "word": "lay off",
+          "meaning_kr": "해고하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna need to adjust your investment portfolio; they've decided to pull out.",
+      "translation_kr": "투자 포트폴리오를 조정해야 할 거예요; 그들이 철수하기로 결정했거든요.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are going to'의 구어체 축약형으로, 빠르게 발음되어 '유어가나'처럼 들릴 수 있으며, 익숙하지 않으면 놓치기 쉽습니다."
+        },
+        {
+          "part": "investment portfolio",
+          "why_kr": "'investment'의 't' 발음이 약화되고, 'portfolio'의 'li' 부분이 '리오'가 아닌 '리요'처럼 부드럽게 연결되는 경우가 많습니다."
+        },
+        {
+          "part": "pull out",
+          "why_kr": "구동사인 'pull out'은 '풀 아웃'이 아닌 '풀아웃'처럼 연음되며, 문맥상 '철수하다'의 의미를 이해해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investment portfolio",
+          "meaning_kr": "투자 포트폴리오"
+        },
+        {
+          "word": "pull out",
+          "meaning_kr": "철수하다, 손을 떼다"
+        }
+      ]
+    }
+  ]
+}
