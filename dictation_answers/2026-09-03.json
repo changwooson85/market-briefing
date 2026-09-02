@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-03 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has an amazing camera and long-lasting battery life.",
+      "translation_kr": "제 새 스마트폰은 멋진 카메라와 오래가는 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "smartphone has an",
+          "why_kr": "'smartphone'의 'e'와 'has'의 's'가 연음되어 '스마트폰 해즈'로 들릴 수 있고, 'has'의 's'와 'an'의 'a'가 연음되어 '해즈 앤'처럼 들릴 수 있습니다. 특히 'has'의 's' 발음이 'z'에 가깝게 들릴 수 있습니다."
+        },
+        {
+          "part": "camera and",
+          "why_kr": "'camera'는 종종 중간의 'e'가 묵음 처리되어 '캠러'처럼 발음되며, 'and'는 약하게 발음되어 '앤드'보다는 '은' 또는 '언'처럼 들리는 경우가 많습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "미국식 영어에서 'battery'의 'tt'는 'd' 소리에 가깝게 발음되어 '배더리'처럼 들릴 수 있습니다. 'life'의 'l' 발음도 한국어 'ㄹ'과는 차이가 있어 주의가 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company plans to launch its innovative AI product next quarter.",
+      "translation_kr": "그 회사는 다음 분기에 혁신적인 AI 제품을 출시할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "plans to launch",
+          "why_kr": "'plans'의 's'와 'to'의 't'가 붙으면서 '플랜즈 투'가 아닌 '플랜즈 두' 혹은 '플랜스 투'처럼 발음될 수 있으며, 'launch'의 'l'과 'ch' 소리가 한국 학습자에게는 익숙하지 않을 수 있습니다."
+        },
+        {
+          "part": "innovative AI",
+          "why_kr": "'innovative'의 'tive' 부분은 '티브'가 아닌 '티프' 또는 '러티브'처럼 발음될 수 있으며, 'innovative' 끝 모음과 'AI'가 연음되면서 하나의 단어처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "next quarter",
+          "why_kr": "'next'의 'xt' 발음과 'quarter'의 'q' 발음이 이어지면서 명확하게 구분하기 어려울 수 있습니다. '넥스트 쿼터'보다는 '넥스 쿼터'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "next quarter",
+          "meaning_kr": "다음 분기"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Global tech giant announced a 15% revenue increase for the fiscal year 2023.",
+      "translation_kr": "글로벌 IT 대기업은 2023 회계연도에 15%의 수익 증가를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "tech giant announced",
+          "why_kr": "'tech'의 'ch'와 'giant'의 'g' 소리가 이어지기 어렵고, 'giant'의 't'와 'announced'의 'a'가 연음되어 '자이언트 어나운스드'가 아닌 '자이언 어나운스드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "revenue increase",
+          "why_kr": "'revenue'의 마지막 모음 'e'와 'increase'의 첫 모음 'i'가 연음되어 '레비뉴 인크리스'가 아닌 '레비뉴인크리스'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "fiscal year",
+          "why_kr": "'fiscal'의 's' 발음이 '즈'에 가깝게 들릴 수 있으며, 'year'의 'y' 발음이 한국어 '이'와 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revenue",
+          "meaning_kr": "수익"
+        },
+        {
+          "word": "fiscal year",
+          "meaning_kr": "회계연도"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Many startups are trying to keep pace with rapid technological advancements.",
+      "translation_kr": "많은 스타트업들이 급속한 기술 발전에 발맞추기 위해 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "keep pace with",
+          "why_kr": "관용구 'keep pace with'는 한 단어처럼 빠르게 발음될 수 있으며, 'p'와 'p' 발음이 이어지고 'with'의 'th' 발음이 약하게 처리되어 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "rapid technological",
+          "why_kr": "'rapid'의 'd' 발음이 약하게 처리되거나 다음 단어와 연음될 수 있으며, 'technological'은 길고 복잡한 발음으로 듣기 어려울 수 있습니다. 특히 중간의 'no' 부분이 '너'보다 약한 '너얼'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "advancements",
+          "why_kr": "'advancements'의 'ce' 부분이 '스'와 '츠'의 중간 발음처럼 들릴 수 있고, 'nts'가 연달아 있어 정확한 발음을 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "keep pace with",
+          "meaning_kr": "~에 발맞추다"
+        },
+        {
+          "word": "technological advancements",
+          "meaning_kr": "기술 발전"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've said it'll be a game-changer for how we interact with AI.",
+      "translation_kr": "그들은 그것이 우리가 AI와 상호작용하는 방식의 판도를 바꿀 것이라고 말했습니다.",
+      "tricky_parts": [
+        {
+          "part": "They've said it'll",
+          "why_kr": "축약형 'They've'와 'it'll'은 빠르게 발음될 때 한국 학습자들이 놓치기 쉽습니다. 특히 'said it'll'은 '세딧을'처럼 연음되어 하나의 소리 덩어리로 들릴 수 있습니다."
+        },
+        {
+          "part": "game-changer for how",
+          "why_kr": "'game-changer'는 복합 명사로 빠르게 발음될 때 '게임 체인저'가 아닌 '게임 체인저'처럼 들릴 수 있고, 'for'는 약하게 발음되어 '퍼'보다는 'f' 소리만 남거나 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "interact with AI",
+          "why_kr": "'interact'의 't'는 약하게 발음될 수 있으며, 'with'의 'th' 발음과 'AI'가 연음되어 '위드 AI'가 아닌 '위쓰아이'처럼 들릴 수 있습니다. 특히 'with AI'는 '위 다이'처럼 들리기도 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "game-changer",
+          "meaning_kr": "판도를 바꾸는 것"
+        },
+        {
+          "word": "interact with",
+          "meaning_kr": "~와 상호작용하다"
+        }
+      ]
+    }
+  ]
+}
