@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-07 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has a really impressive camera and long battery life.",
+      "translation_kr": "이 새로운 스마트폰은 정말 인상적인 카메라와 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "impressive camera",
+          "why_kr": "'impressive'의 'ss' 소리가 다음 단어와 연결될 때, 그리고 'camera'의 중간 'e'가 약화되어 들릴 수 있습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'battery'의 't' 발음이 'ㄹ'처럼 들릴 수 있고, 'y'와 'l'이 연결될 때 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "Our team is developing innovative software solutions for enterprise clients worldwide.",
+      "translation_kr": "우리 팀은 전 세계 기업 고객을 위한 혁신적인 소프트웨어 솔루션을 개발하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "developing innovative",
+          "why_kr": "'developing'의 마지막 'g' 소리가 다음 'innovative'의 'i'와 연결되어 들릴 수 있으며, 'innovative'의 강세 위치에 유의해야 합니다."
+        },
+        {
+          "part": "software solutions",
+          "why_kr": "'software'의 'ft' 발음과 'solutions'의 't'가 약화되거나 생략될 수 있어 주의가 필요합니다."
+        },
+        {
+          "part": "enterprise clients",
+          "why_kr": "'enterprise'의 'se' 발음과 'clients'의 마지막 's' 발음을 정확히 듣는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "enterprise clients",
+          "meaning_kr": "기업 고객"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "AI advancements are projected to reshape the job market by 2030, impacting millions of workers.",
+      "translation_kr": "AI 발전은 2030년까지 고용 시장을 재편할 것으로 예상되며, 수백만 명의 근로자에게 영향을 미칠 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "projected to reshape",
+          "why_kr": "'projected'의 'ted' 발음이 약화되고 'to'가 '터'처럼 약하게 발음될 수 있으며, 'reshape'의 강세에 유의해야 합니다."
+        },
+        {
+          "part": "job market",
+          "why_kr": "'job'의 'b' 소리가 약하게 들릴 수 있고, 'market'의 't' 소리가 잘 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "impacting millions",
+          "why_kr": "'impacting'의 'g' 소리가 다음 'millions'의 'm'과 연결될 수 있으며, 'millions'의 's' 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "advancements",
+          "meaning_kr": "발전, 진보"
+        },
+        {
+          "word": "reshape",
+          "meaning_kr": "재편하다, 형태를 바꾸다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "The startup's new AI product really took off, exceeding all expectations in its first quarter.",
+      "translation_kr": "그 스타트업의 새로운 AI 제품은 정말 성공적으로 시작되어, 첫 분기에 모든 기대를 뛰어넘었습니다.",
+      "tricky_parts": [
+        {
+          "part": "startup's new AI",
+          "why_kr": "'startup'의 마지막 'p' 소리가 약화될 수 있으며, 'startup's'의 's'와 'new'가 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "took off",
+          "why_kr": "'took'의 'k' 소리가 다음 'off'와 연결되어 하나의 소리처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "exceeding all expectations",
+          "why_kr": "'exceeding'의 'ee' 발음과 'all'이 약화되어 발음될 수 있고, 'expectations'의 약한 음절 발음에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "took off",
+          "meaning_kr": "급성장하다, 성공적으로 시작하다 (관용구)"
+        },
+        {
+          "word": "exceeding expectations",
+          "meaning_kr": "기대를 뛰어넘는"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're looking for a cutting-edge gadget, it'll likely integrate advanced AI features.",
+      "translation_kr": "최첨단 기기를 찾고 계신다면, 그것은 고급 AI 기능을 통합할 가능성이 높습니다.",
+      "tricky_parts": [
+        {
+          "part": "If you're looking for a",
+          "why_kr": "'If you're'가 '이퓨어'처럼, 'for a'가 '포러'처럼 연음되고 약화되어 빠르게 지나갈 수 있습니다."
+        },
+        {
+          "part": "cutting-edge gadget",
+          "why_kr": "'cutting'과 'gadget'의 't' 발음이 'ㄹ'처럼 들릴 수 있고, 'edge'의 'dge' 발음이 쉽지 않을 수 있습니다."
+        },
+        {
+          "part": "it'll likely integrate",
+          "why_kr": "'it'll'이 '이털' 또는 '이들'처럼 발음되고, 'likely'의 'ly'와 'integrate'의 'i'가 연결되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "cutting-edge",
+          "meaning_kr": "최첨단, 최신 기술의"
+        },
+        {
+          "word": "integrate",
+          "meaning_kr": "통합하다, 결합하다"
+        }
+      ]
+    }
+  ]
+}
