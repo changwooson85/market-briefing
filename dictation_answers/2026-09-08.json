@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-08 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many companies are hiring new employees, which is good for the economy.",
+      "translation_kr": "많은 회사들이 새로운 직원들을 채용하고 있으며, 이는 경제에 좋습니다.",
+      "tricky_parts": [
+        {
+          "part": "hiring new",
+          "why_kr": "'hiring'의 '-ing' 끝소리와 'new'가 연결될 때 자연스러운 연음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "for the economy",
+          "why_kr": "'for the'가 약하게 발음되고 'economy'와 빠르게 이어져서 한 단어처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hiring",
+          "meaning_kr": "채용하다"
+        },
+        {
+          "word": "economy",
+          "meaning_kr": "경제"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company's quarterly earnings report exceeded market expectations, boosting investor confidence.",
+      "translation_kr": "그 회사의 분기별 수익 보고서는 시장 예상을 뛰어넘어 투자자 신뢰를 높였습니다.",
+      "tricky_parts": [
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'er' 발음과 'earnings'의 'ea' 발음이 한국어에는 없는 소리 조합이라 정확히 듣기 어렵습니다."
+        },
+        {
+          "part": "exceeded market",
+          "why_kr": "'exceeded'의 '-ed' 발음과 'market'이 연결될 때 'd' 소리가 약화되거나 'm'과 자연스럽게 연음되는 것을 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익"
+        },
+        {
+          "word": "investor confidence",
+          "meaning_kr": "투자자 신뢰"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Analysts predict a 2.5% economic growth next year, following strong Q3 results released on Monday.",
+      "translation_kr": "분석가들은 다음 해 2.5%의 경제 성장을 예측하며, 이는 월요일에 발표된 강력한 3분기 실적에 따른 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "economic growth",
+          "why_kr": "'economic'의 'k' 소리와 'growth'의 'g' 소리가 이어질 때 'k' 소리가 약화되거나 'g'와 섞여 들릴 수 있습니다."
+        },
+        {
+          "part": "Q3 results",
+          "why_kr": "'Q3'를 '큐 쓰리'로 정확히 듣고, 'results'의 마지막 's' 발음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "released on",
+          "why_kr": "'released'의 마지막 'd' 소리가 'on'과 이어지면서 연음되거나 'd'가 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "economic growth",
+          "meaning_kr": "경제 성장"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite initial struggles, the new startup finally started to take off after securing significant funding.",
+      "translation_kr": "초기 어려움에도 불구하고, 그 새로운 스타트업은 상당한 자금을 확보한 후 마침내 급성장하기 시작했습니다.",
+      "tricky_parts": [
+        {
+          "part": "initial struggles",
+          "why_kr": "'initial'의 'sh' 발음과 'struggles'의 'str' 자음군, 그리고 복수형 's' 발음을 정확히 듣기 어렵습니다."
+        },
+        {
+          "part": "take off",
+          "why_kr": "구동사 'take off'는 '이륙하다' 외에 '급성장하다'라는 비유적 의미로 사용되어 문맥을 놓치면 의미 파악이 어렵습니다."
+        },
+        {
+          "part": "securing significant",
+          "why_kr": "'securing'의 'g' 소리와 'significant'의 's' 소리가 연결될 때 유사한 발음들이 혼동을 줄 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "take off",
+          "meaning_kr": "급성장하다, 이륙하다"
+        },
+        {
+          "word": "significant funding",
+          "meaning_kr": "상당한 자금 조달"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna need to invest wisely; otherwise, your portfolio won't grow much next year.",
+      "translation_kr": "현명하게 투자해야 할 거예요. 그렇지 않으면, 당신의 포트폴리오는 내년에 많이 성장하지 못할 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna need to",
+          "why_kr": "'You're'와 'gonna' (going to) 같은 축약어들과 'need to'의 빠른 연음 및 축약 발음을 한 번에 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "won't grow much",
+          "why_kr": "'won't'의 끝 't' 발음이 'grow' 앞에서 거의 들리지 않고, 'w'와 'g' 소리가 빠르게 이어져 혼동을 줄 수 있습니다."
+        },
+        {
+          "part": "next year",
+          "why_kr": "'next'의 끝 't' 발음이 'year' 앞에서 탈락하거나 매우 약하게 들려 'nex'와 'year'가 빠르게 이어지는 것을 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "invest wisely",
+          "meaning_kr": "현명하게 투자하다"
+        },
+        {
+          "word": "portfolio",
+          "meaning_kr": "포트폴리오 (자산 목록)"
+        }
+      ]
+    }
+  ]
+}
