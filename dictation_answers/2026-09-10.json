@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-10 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The new smartphone offers a really impressive camera and much longer battery life.",
+      "translation_kr": "새로운 스마트폰은 정말 인상적인 카메라와 훨씬 더 긴 배터리 수명을 제공합니다.",
+      "tricky_parts": [
+        {
+          "part": "offers a",
+          "why_kr": "'offers'의 끝 's'와 'a'가 이어져 '오퍼저'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "impressive camera",
+          "why_kr": "'impressive'의 've'와 'camera'가 연결되어 발음될 때, 한국어 학습자가 중간에 끊어 듣기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company is investing heavily in AI solutions for more efficient data analysis.",
+      "translation_kr": "우리 회사는 보다 효율적인 데이터 분석을 위해 AI 솔루션에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'의 'ng' 사운드와 'heavily'의 'h'가 이어질 때, 'h'가 약화되거나 소리가 뭉개지기 쉽습니다."
+        },
+        {
+          "part": "efficient data",
+          "why_kr": "'efficient'의 마지막 't' 사운드가 약하게 들리거나 다음 단어와 이어질 때 'd'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing heavily",
+          "meaning_kr": "막대한 투자를 하다"
+        },
+        {
+          "word": "data analysis",
+          "meaning_kr": "데이터 분석"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "Tech giant GlobalNet reported a 20% growth in its cloud services revenue this quarter.",
+      "translation_kr": "기술 대기업 글로벌넷은 이번 분기에 클라우드 서비스 매출이 20% 성장했다고 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "GlobalNet reported a",
+          "why_kr": "'GlobalNet'의 't'와 'reported'의 're'가 연결될 때 't' 발음이 약화되거나 'd'처럼 들릴 수 있으며, 'reported'와 'a'가 자연스럽게 이어져 '리포티드 어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "20% growth",
+          "why_kr": "숫자 '20%'를 정확히 듣는 것이 어려울 수 있으며, 'growth'의 'th' 발음은 한국어 학습자에게 특히 까다로운 부분입니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revenue",
+          "meaning_kr": "매출"
+        },
+        {
+          "word": "cloud services",
+          "meaning_kr": "클라우드 서비스"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "To stay competitive, many tech companies are now trying to catch on to the latest AI trends.",
+      "translation_kr": "경쟁력을 유지하기 위해 많은 기술 기업들이 이제 최신 AI 트렌드를 따라잡으려 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "catch on to",
+          "why_kr": "세 단어가 이어져 하나의 구동사처럼 빠르게 발음되며, 'on'과 'to' 사이의 't' 사운드가 약화되거나 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "latest AI trends",
+          "why_kr": "'latest'의 't' 사운드가 약화되어 '레이디스트'처럼 들릴 수 있으며, 'AI'와 자연스럽게 연결될 때 구별하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "catch on to",
+          "meaning_kr": "(~을) 이해하다 / (~에) 익숙해지다 / (~을) 따라잡다"
+        },
+        {
+          "word": "competitive",
+          "meaning_kr": "경쟁력 있는"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna need to understand how AI's affecting jobs; it'll be crucial for your career.",
+      "translation_kr": "AI가 일자리에 어떻게 영향을 미치는지 이해해야 할 것입니다. 그것은 당신의 경력에 매우 중요할 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are going to'의 축약형으로, 매우 빠르게 '유어 거너'처럼 발음되어 원형을 유추하기 어렵습니다."
+        },
+        {
+          "part": "AI's affecting",
+          "why_kr": "'AI is'가 'AI's'로 축약되고 's'가 'affecting'과 이어져 '에이아이즈 어펙팅'처럼 들릴 수 있으며, 중간의 'is'를 놓치기 쉽습니다."
+        },
+        {
+          "part": "it'll be",
+          "why_kr": "'it will be'의 축약형으로, '이럴 비' 또는 '이들 비'처럼 빠르게 발음되어 원형을 파악하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "affecting",
+          "meaning_kr": "영향을 미치는"
+        },
+        {
+          "word": "crucial",
+          "meaning_kr": "매우 중요한"
+        }
+      ]
+    }
+  ]
+}
