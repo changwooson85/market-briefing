@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-11 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are currently looking for new jobs in the city.",
+      "translation_kr": "많은 사람들이 현재 도시에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for",
+          "why_kr": "'k'와 'f' 소리가 연음되거나 'f' 소리 자체를 정확히 발음하기 어려워 종종 놓치기 쉽습니다."
+        },
+        {
+          "part": "city",
+          "why_kr": "미국식 영어의 't' 소리(플랩 T)는 한국어의 'ㄹ'과 비슷하여 '시리'로 들릴 수 있으며, 정확한 발음을 구별하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "currently",
+          "meaning_kr": "현재"
+        },
+        {
+          "word": "looking for",
+          "meaning_kr": "~을 찾다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company reported strong quarterly earnings, exceeding market expectations.",
+      "translation_kr": "그 회사는 시장 기대치를 초과하는 견조한 분기 실적을 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported strong",
+          "why_kr": "'reported'의 'd'와 'strong'의 's'가 연음되면서 빠르게 발음될 때 '디스트롱'처럼 들려 혼동하기 쉽습니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'er'와 'ly' 소리가 빠르게 이어지며, 'earnings'의 'ear' 소리가 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 실적"
+        },
+        {
+          "word": "exceeding",
+          "meaning_kr": "초과하는"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The index rose by 1.5% on Friday, marking its highest point since June.",
+      "translation_kr": "그 지수는 금요일에 1.5% 상승하여 6월 이후 최고점을 기록했습니다.",
+      "tricky_parts": [
+        {
+          "part": "rose by",
+          "why_kr": "'rose'의 'z' 소리와 'by'가 빠르게 이어지면 '로즈바이'처럼 들려 자칫 놓치기 쉽습니다."
+        },
+        {
+          "part": "marking its",
+          "why_kr": "'marking'의 'ng' 소리가 약화되거나 'its'의 's' 소리가 연결되어 '마킹이츠'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "index",
+          "meaning_kr": "지수"
+        },
+        {
+          "word": "marking",
+          "meaning_kr": "~을 기록하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite budget cuts, the department managed to stay afloat with a new project.",
+      "translation_kr": "예산 삭감에도 불구하고, 그 부서는 새로운 프로젝트로 간신히 버텨냈습니다.",
+      "tricky_parts": [
+        {
+          "part": "budget cuts",
+          "why_kr": "'budget'의 't'가 거의 발음되지 않거나 'cuts'의 'ts' 발음이 약화되어 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "stay afloat",
+          "why_kr": "숙어 표현으로, '떠오르다'는 문자적 의미와 '어려움 속에서 버티다'라는 비유적 의미를 파악하는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "budget cuts",
+          "meaning_kr": "예산 삭감"
+        },
+        {
+          "word": "stay afloat",
+          "meaning_kr": "(어려운 상황에서) 버티다, 유지하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna need to understand why they've invested so much in that company.",
+      "translation_kr": "왜 그들이 그 회사에 그렇게 많이 투자했는지 이해해야 할 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "축약형 'You're'와 비격식 표현 'gonna'(going to)의 빠른 발음으로 인해 '유어거나'처럼 들려 혼동하기 쉽습니다."
+        },
+        {
+          "part": "they've invested",
+          "why_kr": "축약형 'they've'와 'invested'가 연음될 때, 've'와 'in' 소리가 연결되어 '데이빈베스티드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "so much in that",
+          "why_kr": "'much'와 'in'이, 그리고 'in'과 'that'이 빠르게 연음되어 '머친댓'처럼 들릴 수 있으며, 단어 경계를 파악하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "invested",
+          "meaning_kr": "투자했다"
+        },
+        {
+          "word": "gonna (going to)",
+          "meaning_kr": "~할 것이다 (비격식)"
+        }
+      ]
+    }
+  ]
+}
