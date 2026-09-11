@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-12 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy_everyday",
+      "text": "I usually prepare a healthy breakfast with fresh fruits and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u' 부분이 '유'가 아닌 '야' 또는 '여'에 가까운 소리가 나며, 's'가 'ㅈ' 소리로 발음됩니다. ('유' 줄리 -> '유' 쥬얼리)"
+        },
+        {
+          "part": "fresh fruits",
+          "why_kr": "'f'와 'r' 발음이 붙어있어 혼동하기 쉽고, 'fruits'의 'ts' 소리가 자연스럽게 연결되기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate_descriptive",
+      "text": "For our upcoming vacation, we've carefully considered several budget-friendly accommodation options.",
+      "translation_kr": "다가오는 휴가를 위해, 저희는 여러 가성비 좋은 숙박 옵션들을 신중하게 고려했습니다.",
+      "tricky_parts": [
+        {
+          "part": "upcoming",
+          "why_kr": "'up'과 'coming'이 합쳐지면서 '업커밍'보다는 '어(업)커밍'처럼 'u'가 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "considered several",
+          "why_kr": "'d'와 's' 소리가 이어지면서 부드럽게 연결되는 'r' 소리 때문에 자칫 놓치기 쉽습니다."
+        },
+        {
+          "part": "accommodation options",
+          "why_kr": "'accommodation'의 강세가 세 번째 음절에 있고 'o' 발음이 다양하며, 'options'의 'ti' 부분이 '션' 소리로 발음됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "upcoming",
+          "meaning_kr": "다가오는"
+        },
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙박 시설"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "factual_report",
+      "text": "A recent study indicated that regular exercise significantly boosts mental well-being for adults.",
+      "translation_kr": "최근 연구는 규칙적인 운동이 성인의 정신적 행복을 상당히 증진시킨다는 것을 보여주었습니다.",
+      "tricky_parts": [
+        {
+          "part": "indicated that",
+          "why_kr": "'indicated'의 끝 'd'와 'that'의 'th' 소리가 연결될 때 'd' 소리가 약화되거나 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "significantly boosts",
+          "why_kr": "'gn' 소리('그니'->'니')와 'sts'의 연속되는 자음 소리가 빠르고 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "indicated",
+          "meaning_kr": "나타내었다, 시사했다"
+        },
+        {
+          "word": "well-being",
+          "meaning_kr": "행복, 안녕"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal",
+      "text": "After discussing the issue, we decided to clear the air and move forward positively.",
+      "translation_kr": "그 문제를 논의한 후, 우리는 오해를 풀고 긍정적으로 나아가기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "discussing the",
+          "why_kr": "빠른 발화에서 'ss'와 'th'가 연결될 때 '더'가 아닌 '드' 또는 약한 '쓰' 소리로 들릴 수 있습니다."
+        },
+        {
+          "part": "clear the air",
+          "why_kr": "관용구 자체의 의미를 알지 못하면 문맥 파악이 어렵고, 'the air'의 'h' 소리가 거의 들리지 않습니다."
+        },
+        {
+          "part": "move forward",
+          "why_kr": "'v'와 'f' 소리가 유사하여 혼동하기 쉬우며, 'forward'의 'w' 발음이 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 분위기를 쇄신하다 (숙어)"
+        },
+        {
+          "word": "positively",
+          "meaning_kr": "긍정적으로"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "fast_speech_challenge",
+      "text": "I've heard you're planning a trip to Jeju Island; it'll be an amazing experience.",
+      "translation_kr": "제주도로 여행을 계획 중이시라고 들었어요; 정말 멋진 경험이 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "연음 ('v'와 'h' 연결)과 축약형 ('I've', 'you're')이 빠르게 이어져 들릴 때 'I've heard'의 'd'가 거의 들리지 않고 'you're'가 '유어'가 아닌 '율'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "planning a trip",
+          "why_kr": "'planning'의 'ng' 사운드와 'a'가 연결되고, 'a trip'에서 'p'가 다음 단어와 연결되지 않고 강하게 멈추는 경향이 있습니다."
+        },
+        {
+          "part": "it'll be an",
+          "why_kr": "축약형 'it'll'의 't'가 거의 들리지 않고 'l' 발음이 두 번 이어지며, 'be'의 'e'와 'an'의 'a'가 연결될 때 '비언'처럼 들립니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "Jeju Island",
+          "meaning_kr": "제주도"
+        },
+        {
+          "word": "experience",
+          "meaning_kr": "경험"
+        }
+      ]
+    }
+  ]
+}
