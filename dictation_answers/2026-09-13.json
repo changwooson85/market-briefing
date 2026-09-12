@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-13 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요구르트로 건강한 아침 식사를 준비해요.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u' 발음이 약화되고 's'가 /ʒ/ 소리가 나서 한국 학습자들이 mishear하기 쉽습니다."
+        },
+        {
+          "part": "fruit and",
+          "why_kr": "'fruit'의 't'와 'and'의 'a'가 연결되어 'frwee-tænd'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "every morning",
+          "why_kr": "'every'의 'e' 발음이 약화되고, 'every'의 'y'와 'morning'의 'm'이 연결되어 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요구르트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Maintaining a balanced diet is crucial for productivity, especially during busy work weeks.",
+      "translation_kr": "균형 잡힌 식단을 유지하는 것은 특히 바쁜 업무 주간 동안 생산성에 매우 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "Maintaining",
+          "why_kr": "초음절 'Main-'에 강세가 있고 'ai' 발음이 길어 한국 학습자가 듣기에 혼동될 수 있습니다."
+        },
+        {
+          "part": "crucial for",
+          "why_kr": "'crucial'의 'l'과 'for'의 'f'가 연결되어 'cru-shul-for'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "work weeks",
+          "why_kr": "'work'의 'k' 소리가 다음 'weeks'의 'w' 소리와 이어지며 비슷하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "balanced diet",
+          "meaning_kr": "균형 잡힌 식단"
+        },
+        {
+          "word": "productivity",
+          "meaning_kr": "생산성"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced-intermediate",
+      "text": "Travelers planning trips for 2026 often book accommodations three to four months in advance.",
+      "translation_kr": "2026년 여행을 계획하는 여행객들은 종종 3~4개월 전에 숙소를 예약합니다.",
+      "tricky_parts": [
+        {
+          "part": "Travelers planning",
+          "why_kr": "'Travelers'의 's' 소리가 다음 'planning'의 'p'와 연결되어 발음될 수 있습니다."
+        },
+        {
+          "part": "accommodations",
+          "why_kr": "여러 개의 'c' 소리와 긴 단어의 강세 위치('da-'에 강세) 때문에 혼동하기 쉽습니다."
+        },
+        {
+          "part": "in advance",
+          "why_kr": "'in'의 'n'과 'advance'의 'a'가 연결되어 'in-nuhdvance'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "accommodations",
+          "meaning_kr": "숙소"
+        },
+        {
+          "word": "in advance",
+          "meaning_kr": "미리, 사전에"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "challenging",
+      "text": "It's important to clear the air after a disagreement to keep your friendships strong.",
+      "translation_kr": "논쟁 후에 우정을 굳건히 유지하려면 오해를 풀고 화해하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "'clear'의 'r'과 'the'의 'th'가 연결되고, 'air'는 'h' 발음 없이 시작되어 혼동하기 쉽습니다."
+        },
+        {
+          "part": "disagreement",
+          "why_kr": "강세가 'agree'에 있어 'dis' 부분이 약하게 들리고, 'g' 발음이 명확하지 않을 수 있습니다."
+        },
+        {
+          "part": "friendships strong",
+          "why_kr": "'friendships'의 's'와 'strong'의 's'가 연결되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 화해하다 (관용구)"
+        },
+        {
+          "word": "disagreement",
+          "meaning_kr": "의견 불일치, 논쟁"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge-fast-speech",
+      "text": "If you're not careful, you'll run out of groceries before you know it.",
+      "translation_kr": "조심하지 않으면, 모르는 새에 식료품이 다 떨어질 거예요.",
+      "tricky_parts": [
+        {
+          "part": "you're not",
+          "why_kr": "연음(linking)과 축약형 발음 때문에 'you're'와 'not'이 빠르게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "you'll run out of",
+          "why_kr": "세 단어가 빠르게 연결되어 'yool-run-nou-tuv'처럼 들려 한국 학습자들이 알아듣기 매우 어렵습니다."
+        },
+        {
+          "part": "know it",
+          "why_kr": "'know'의 'k'가 묵음이고, 'w'와 'it'의 'i'가 연결되어 'no-wit'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "run out of",
+          "meaning_kr": "~이 다 떨어지다, 고갈되다 (구동사)"
+        },
+        {
+          "word": "groceries",
+          "meaning_kr": "식료품"
+        }
+      ]
+    }
+  ]
+}
