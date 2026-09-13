@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-14 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are excited about the new smartphone model coming out next month.",
+      "translation_kr": "많은 사람들이 다음 달에 출시될 새로운 스마트폰 모델에 대해 기대하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "excited about",
+          "why_kr": "'d'와 'a'가 연결되어 '익사이티드 어바웃'이 아닌 '익사이티더바웃'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "coming out",
+          "why_kr": "'g'와 'o'가 연결되어 '커밍 아웃'이 아닌 '커밍아웃'처럼 한 단어처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone model",
+          "meaning_kr": "스마트폰 모델"
+        },
+        {
+          "word": "coming out",
+          "meaning_kr": "출시되다, 나오다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company is investing heavily in AI research to maintain a competitive edge.",
+      "translation_kr": "저희 회사는 경쟁 우위를 유지하기 위해 AI 연구에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'g'와 'h'가 연결될 때 'h'가 약하게 발음되거나 생략될 수 있어 '인베스팅 해빌리'가 아닌 '인베스팅에빌리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "competitive edge",
+          "why_kr": "'tive'의 발음과 'edge'의 발음이 합쳐질 때 한국 학습자들이 혼동하기 쉽고, 빠르게 발음될 때 '컴페티티브 엣지'가 아닌 '컴페티리베지'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing heavily",
+          "meaning_kr": "막대한 투자를 하다"
+        },
+        {
+          "word": "competitive edge",
+          "meaning_kr": "경쟁 우위"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A major tech firm announced plans to launch its new AI platform by early 2027.",
+      "translation_kr": "한 주요 기술 기업이 2027년 초까지 새로운 AI 플랫폼을 출시할 계획을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "tech firm",
+          "why_kr": "'firm'의 발음이 '폼(form)'과 비슷하게 들릴 수 있어 혼동될 수 있습니다."
+        },
+        {
+          "part": "announced plans",
+          "why_kr": "'announced'의 마지막 'd'는 거의 들리지 않고 's'와 'p'가 연결되어 '어넌스 플랜즈'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "by early 2027",
+          "why_kr": "시간이나 기한을 나타내는 전치사 'by'가 빠르게 발음될 때 놓치기 쉽고, 'early'와 연결되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech firm",
+          "meaning_kr": "기술 기업"
+        },
+        {
+          "word": "AI platform",
+          "meaning_kr": "AI 플랫폼"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Experts believe AI advancements will likely shake up the job market across the board.",
+      "translation_kr": "전문가들은 AI 발전이 전반적으로 일자리 시장을 뒤흔들 것으로 예상합니다.",
+      "tricky_parts": [
+        {
+          "part": "shake up",
+          "why_kr": "구동사로 'k'와 'u'가 연결되어 '쉐이컵'처럼 들릴 수 있으며, 의미를 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "across the board",
+          "why_kr": "관용구로, 빠르게 발음될 때 '어크로스 더 보드'가 아닌 하나의 단어처럼 '어크로스터보드'로 들릴 수 있으며, 문맥상 의미를 파악하는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "shake up",
+          "meaning_kr": "~을 뒤흔들다, 큰 변화를 주다"
+        },
+        {
+          "word": "across the board",
+          "meaning_kr": "전반적으로, 모든 분야에 걸쳐"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're into new gadgets, you'll find it's a real game-changer for productivity.",
+      "translation_kr": "만약 당신이 새로운 기기에 관심이 있다면, 이것이 생산성에 있어 진정한 혁신이 될 것임을 알게 될 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "you're into",
+          "why_kr": "축약형 'you're'와 전치사 'into'가 연결될 때 'r' 발음이 약화되거나 거의 들리지 않을 수 있어 '유아린투'가 아닌 '유인투'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "you'll find it's",
+          "why_kr": "세 개의 단어가 축약형('you'll', 'it's')과 함께 빠르게 연결되어 발음되므로, '유일파인딧츠'처럼 한 덩어리로 들려 분리하기 어렵습니다."
+        },
+        {
+          "part": "game-changer",
+          "why_kr": "복합 명사로, 빠르게 발음될 때 '게임 체인저'가 아닌 '겜체인저'처럼 하나의 단어로 뭉쳐 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "into",
+          "meaning_kr": "~에 관심 있는, ~을 좋아하는"
+        },
+        {
+          "word": "game-changer",
+          "meaning_kr": "판도를 바꾸는 것, 혁신적인 것"
+        }
+      ]
+    }
+  ]
+}
