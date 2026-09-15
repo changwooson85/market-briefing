@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-16 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually grab a quick breakfast at home before heading out for work.",
+      "translation_kr": "저는 보통 출근하기 전에 집에서 간단하게 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "grab a",
+          "why_kr": "'grab'의 'b'와 'a'가 연결되어 '그랩 어'가 아닌 '그래버'처럼 자연스럽게 연음됩니다."
+        },
+        {
+          "part": "heading out",
+          "why_kr": "'heading'의 'g'와 'out'이 연결되어 '헤딩 아웃'이 아닌 '헤딩아웃'처럼 이어져 발음됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "grab a quick breakfast",
+          "meaning_kr": "간단하게 아침 식사를 하다"
+        },
+        {
+          "word": "heading out",
+          "meaning_kr": "(어디로) 향하다, 나서다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The project proposal requires immediate approval to meet the tight deadline.",
+      "translation_kr": "그 프로젝트 제안서는 빠듯한 마감 기한을 맞추기 위해 즉각적인 승인이 필요합니다.",
+      "tricky_parts": [
+        {
+          "part": "requires immediate",
+          "why_kr": "'requires'의 's'와 'immediate'의 'i'가 연결되어 '리콰이어즈 이머디엇'이 아닌 '리콰이어즈이머디엇'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "tight deadline",
+          "why_kr": "'tight'의 마지막 't' 발음이 약화되거나 거의 들리지 않을 수 있으며, 'deadline'과 빠르게 이어집니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "project proposal",
+          "meaning_kr": "프로젝트 제안서"
+        },
+        {
+          "word": "tight deadline",
+          "meaning_kr": "빠듯한 마감 기한"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The city anticipates a significant increase in tourism during October's festival season.",
+      "translation_kr": "시는 10월 축제 기간 동안 관광객 수가 상당히 증가할 것으로 예상합니다.",
+      "tricky_parts": [
+        {
+          "part": "anticipates a",
+          "why_kr": "'anticipates'의 's'와 'a'가 연결되어 '앤티서페이츠 어'가 아닌 '앤티서페이츠어'처럼 자연스럽게 이어집니다."
+        },
+        {
+          "part": "October's festival",
+          "why_kr": "소유격 's' 발음과 'festival'의 'f' 발음이 연결되며 '옥토버스 페스티벌'로 또박또박 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "anticipates",
+          "meaning_kr": "~을 예상하다, 기대하다"
+        },
+        {
+          "word": "tourism",
+          "meaning_kr": "관광, 관광 산업"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "I had to bite the bullet and work overtime to finish the urgent report.",
+      "translation_kr": "저는 급한 보고서를 끝내기 위해 이를 악물고 야근해야만 했습니다.",
+      "tricky_parts": [
+        {
+          "part": "bite the bullet",
+          "why_kr": "이디엄이므로 문맥을 모르면 의미를 파악하기 어렵고, '바이트 더 불릿'이 빠르게 연음될 수 있습니다."
+        },
+        {
+          "part": "work overtime",
+          "why_kr": "'work'의 'k' 발음이 거의 들리지 않거나 'overtime'과 연결되어 '워코버타임'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "bite the bullet",
+          "meaning_kr": "이를 악물고 참다, 어려운 일을 감수하다"
+        },
+        {
+          "word": "overtime",
+          "meaning_kr": "야근, 초과 근무"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're planning that trip, you'll definitely wanna book tickets early.",
+      "translation_kr": "그 여행을 계획하고 있다면, 당신은 분명히 일찍 표를 예매하고 싶을 거예요.",
+      "tricky_parts": [
+        {
+          "part": "you're planning",
+          "why_kr": "'you are'의 축약형인 'you're'가 '유얼' 또는 '유어'로 빠르게 발음되며, 're' 부분이 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "you'll definitely wanna",
+          "why_kr": "'you will'의 'you'll'과 'definitely', 그리고 'want to'의 구어체 축약형인 'wanna'가 매우 빠르게 연결되며, 각각의 발음이 약화되거나 변형됩니다."
+        },
+        {
+          "part": "book tickets early",
+          "why_kr": "'book'의 'k'와 'tickets'의 't'가 거의 붙어 발음되고, 'tickets'의 's'와 'early'가 연결되어 '틱킷츠얼리'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "wanna",
+          "meaning_kr": "~하고 싶다 (want to의 구어체 축약형)"
+        },
+        {
+          "word": "book tickets",
+          "meaning_kr": "표를 예매하다"
+        }
+      ]
+    }
+  ]
+}
