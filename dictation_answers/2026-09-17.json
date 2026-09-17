@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-17 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I bought a new smartphone last week; its camera is really impressive.",
+      "translation_kr": "저는 지난주에 새 스마트폰을 샀는데, 카메라가 정말 인상적이에요.",
+      "tricky_parts": [
+        {
+          "part": "smartphone",
+          "why_kr": "'phone'의 'ph' 발음이 'f' 소리 나는 것을 놓치기 쉽고, '-phone last'에서 자음 동화가 발생할 수 있습니다."
+        },
+        {
+          "part": "camera",
+          "why_kr": "중간 'e'가 약화되어 거의 소리 나지 않거나 (cam-ra) 강세 없는 음절로 인해 정확한 발음을 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "Our company is investing heavily in artificial intelligence research and development.",
+      "translation_kr": "우리 회사는 인공지능 연구 개발에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'의 마지막 'g'와 'heavily'의 'h'가 연결되어 'g-h'로 들리거나, 'h'가 묵음처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "artificial intelligence",
+          "why_kr": "'artificial'의 'ti' 발음('sh' 소리)과 'intelligence'의 중간 'e'가 약화되는 현상 때문에 정확한 발음을 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing heavily",
+          "meaning_kr": "막대한 투자를 하는"
+        },
+        {
+          "word": "artificial intelligence",
+          "meaning_kr": "인공지능"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "A recent report suggests AI's market value will exceed two trillion dollars by 2030.",
+      "translation_kr": "최근 보고서에 따르면 인공지능의 시장 가치가 2030년까지 2조 달러를 초과할 것으로 예상됩니다.",
+      "tricky_parts": [
+        {
+          "part": "suggests AI's",
+          "why_kr": "'suggests'의 마지막 's'와 'AI's'의 's'가 연음되어 마치 하나의 소리처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "exceed",
+          "why_kr": "이중 모음 'ee' 발음과 'x'가 'k-s'로 소리 나는 특징을 놓치기 쉬워, 정확한 발음 구별이 어려울 수 있습니다."
+        },
+        {
+          "part": "trillion dollars",
+          "why_kr": "'trillion'의 마지막 'n'과 'dollars'의 'd'가 연음되어 'nd'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "market value",
+          "meaning_kr": "시장 가치"
+        },
+        {
+          "word": "exceed",
+          "meaning_kr": "초과하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "Many startups are trying to break into the competitive tech industry this year.",
+      "translation_kr": "많은 스타트업들이 올해 경쟁적인 IT 산업에 진출하려고 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "break into",
+          "why_kr": "구동사 'break into'에서 'k'와 'i'가 연음되어 'brea-kinto'처럼 들릴 수 있어 한 단어처럼 인식하기 쉽습니다."
+        },
+        {
+          "part": "competitive tech industry",
+          "why_kr": "유사한 't' 발음과 여러 자음이 겹치는 부분('competitive tech', 'tech industry')에서 소리가 뭉개지거나 연결되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "break into",
+          "meaning_kr": "~에 진출하다, 침입하다"
+        },
+        {
+          "word": "startups",
+          "meaning_kr": "스타트업, 신생 기업"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You've gotta update your software soon, or it'll compromise your device's security.",
+      "translation_kr": "소프트웨어를 곧 업데이트해야 해요, 그렇지 않으면 기기 보안이 손상될 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You've gotta",
+          "why_kr": "축약형 'You've'와 구어체 표현 'gotta'(got to)가 빠르게 발음되어, 원형을 파악하기 어려울 수 있으며 'v'와 'g'가 연음됩니다."
+        },
+        {
+          "part": "it'll compromise",
+          "why_kr": "축약형 'it'll'의 'l' 발음이 다음 단어 'compromise'의 'c'와 연결되어 'it-ll-compromise'처럼 빠르게 들려 놓치기 쉽습니다."
+        },
+        {
+          "part": "device's security",
+          "why_kr": "'device's'의 's' 발음이 'z'에 가깝고, 'security'의 강세 없는 음절과 연음이 빠르게 이어져 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "compromise",
+          "meaning_kr": "손상시키다, 위태롭게 하다"
+        },
+        {
+          "word": "security",
+          "meaning_kr": "보안"
+        }
+      ]
+    }
+  ]
+}
