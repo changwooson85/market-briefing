@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-18 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new jobs in the current market economy.",
+      "translation_kr": "많은 사람들이 현재 시장 경제에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for",
+          "why_kr": "'k'와 'f' 사이의 연음이 발생하여 '루킹포'처럼 들릴 수 있습니다. 'looking'의 'g'는 거의 발음되지 않고 다음 단어와 연결됩니다."
+        },
+        {
+          "part": "current market",
+          "why_kr": "두 단어 모두 'r' 발음이 있어 한국어 화자에게 어려울 수 있으며, 't' 소리가 약하게 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "current",
+          "meaning_kr": "현재의"
+        },
+        {
+          "word": "market economy",
+          "meaning_kr": "시장 경제"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company announced robust quarterly earnings, exceeding analyst expectations.",
+      "translation_kr": "그 회사는 견조한 분기별 실적을 발표하며, 애널리스트들의 예상을 뛰어넘었습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced robust",
+          "why_kr": "'announced'의 'd' 발음이 다음 단어 'robust'와 자연스럽게 연결되어 '어넌스트 로버스트'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'와 'earnings' 모두 'er' 발음이 반복되고, 'earnings'의 마지막 's' 발음이 약하게 처리될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "robust",
+          "meaning_kr": "견조한, 강력한"
+        },
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익/실적"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The stock index gained 1.5% today, reaching its highest point since August 10th.",
+      "translation_kr": "주가지수는 오늘 1.5% 상승하여 8월 10일 이후 최고점을 기록했습니다.",
+      "tricky_parts": [
+        {
+          "part": "gained 1.5%",
+          "why_kr": "'gained'의 'd' 발음이 다음 숫자 발음과 연결되어 들릴 수 있으며, 퍼센트(%) 표현을 정확히 듣고 이해하기 어려울 수 있습니다."
+        },
+        {
+          "part": "highest point since",
+          "why_kr": "'highest'의 마지막 'st'와 'point'의 't' 발음이 약화되거나 생략될 수 있어 '하이이스트 포인 신스'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "stock index",
+          "meaning_kr": "주가지수"
+        },
+        {
+          "word": "highest point",
+          "meaning_kr": "최고점"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Despite tough competition, their new product is really taking off quickly.",
+      "translation_kr": "치열한 경쟁에도 불구하고, 그들의 신제품은 정말 빠르게 성공하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "tough competition",
+          "why_kr": "'tough'의 'gh'가 'f' 발음으로 나고, 'competition'의 't' 발음이 약해지거나 '션'으로 들릴 수 있습니다."
+        },
+        {
+          "part": "taking off",
+          "why_kr": "구동사 'take off'의 연음으로 '테이킹오프'처럼 들리며, 'g' 발음이 거의 나지 않습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "taking off",
+          "meaning_kr": "급격히 성공하다, 인기를 얻다"
+        },
+        {
+          "word": "competition",
+          "meaning_kr": "경쟁"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard they're cutting costs, so it'll be a challenging quarter for everyone.",
+      "translation_kr": "그들이 비용을 절감하고 있다고 들었습니다. 그래서 모두에게 힘든 분기가 될 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "I've heard",
+          "why_kr": "축약형 'I've'는 '아이브'로 빠르게 발음되며, 'heard'의 'h'가 약하고 'rd' 발음이 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "they're cutting costs",
+          "why_kr": "'they're'의 'r' 발음과 'cutting'의 't' 발음이 빠르게 연결되면서 '컷팅'이 아닌 '커링'처럼 들릴 수 있으며, 'costs'의 마지막 's' 발음이 약하게 처리됩니다."
+        },
+        {
+          "part": "it'll be",
+          "why_kr": "축약형 'it'll'은 매우 빠르게 발음되며, '잇을 비'처럼 들릴 수 있어 주의가 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "cutting costs",
+          "meaning_kr": "비용 절감"
+        },
+        {
+          "word": "challenging quarter",
+          "meaning_kr": "힘든/어려운 분기"
+        }
+      ]
+    }
+  ]
+}
