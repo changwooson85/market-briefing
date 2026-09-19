@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-20 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy everyday expression",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요구르트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 발음이 /ʒ/ 소리 (ㅈ과 흡사)로 나고, 'u' 발음이 약화되어 한국 학습자에게는 익숙하지 않게 들릴 수 있습니다."
+        },
+        {
+          "part": "prepare a",
+          "why_kr": "'prepare'의 마지막 'e' 소리가 약화되면서 뒤에 오는 'a'와 자연스럽게 연결되어 '프리페어러'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "fresh fruit",
+          "why_kr": "'f'와 'r' 발음이 연달아 나오며 비슷한 소리가 연결될 때 정확히 듣고 구분하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요구르트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Before traveling abroad, it's essential to confirm your flight details and accommodation.",
+      "translation_kr": "해외 여행 전, 항공편 세부 정보와 숙소를 확인하는 것이 필수적입니다.",
+      "tricky_parts": [
+        {
+          "part": "essential",
+          "why_kr": "첫 'e' 발음이 약화되어 거의 들리지 않거나, 'tial' 부분이 '셜'처럼 들려 혼동하기 쉽습니다."
+        },
+        {
+          "part": "confirm your",
+          "why_kr": "'confirm'의 'm'과 'your'의 'y'가 연결되어 '컨펌 유어'보다는 '컨퍼미어'처럼 부드럽게 들릴 수 있습니다."
+        },
+        {
+          "part": "flight details",
+          "why_kr": "'flight'의 'gh'는 묵음이며, 't' 발음이 약하게 들리거나 생략되어 '플라이 디테일스'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "essential",
+          "meaning_kr": "필수적인"
+        },
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙소"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A report published on October 10th highlighted improved public health initiatives across the region.",
+      "translation_kr": "10월 10일에 발표된 보고서는 해당 지역 전반에 걸쳐 개선된 공중 보건 정책들을 강조했습니다.",
+      "tricky_parts": [
+        {
+          "part": "published on",
+          "why_kr": "'published'의 마지막 'd'와 'on'의 'o'가 연결되어 '퍼블리시드 온'이 아닌 '퍼블리시돈'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "highlighted improved",
+          "why_kr": "'highlighted'의 'd'와 'improved'의 'i'가 연결되어 '하이라이티드 임프루브드'가 아닌 '하이라이티딤프루브드'처럼 빠르게 들릴 수 있습니다."
+        },
+        {
+          "part": "public health",
+          "why_kr": "'public'의 'c' 발음이 'health'의 'h'와 이어지면서 '퍼블리크 헬스'가 아닌 '퍼블리헬스'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "highlighted",
+          "meaning_kr": "강조했다"
+        },
+        {
+          "word": "initiatives",
+          "meaning_kr": "정책들, 계획들"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "After years of hard work, she finally decided to bite the bullet and start her own business.",
+      "translation_kr": "수년간의 노력 끝에, 그녀는 마침내 고통을 감수하기로 결심하고 자신의 사업을 시작했습니다.",
+      "tricky_parts": [
+        {
+          "part": "years of",
+          "why_kr": "'years'의 's'와 'of'의 'o'가 연결되어 '이얼스 오브'가 아닌 '이얼저브'처럼 빠르게 들릴 수 있습니다."
+        },
+        {
+          "part": "bite the bullet",
+          "why_kr": "idiom (고통을 감수하다) 자체의 의미를 알기 어렵고, 'bite'의 't'가 약화되거나 플랩 'd' 소리로 들릴 수 있으며, 'the'의 'th' 발음과 'bullet'의 연결이 빠르게 이어져 들릴 수 있습니다."
+        },
+        {
+          "part": "start her own",
+          "why_kr": "'start'의 마지막 't'가 거의 들리지 않거나 생략되고, 'her'의 'h'가 약화되어 '스타러론'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hard work",
+          "meaning_kr": "노력"
+        },
+        {
+          "word": "business",
+          "meaning_kr": "사업"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're feeling tired, don't worry; it'll probably just take some rest to feel better.",
+      "translation_kr": "피곤함을 느낀다면 걱정 마세요. 아마 좀 쉬면 기분이 나아질 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "you're feeling",
+          "why_kr": "'you're'는 '유얼'보다 '여ㄹ'에 가깝게 빠르게 발음되며, 뒤에 오는 'feeling'과 연결되어 부드럽게 이어집니다."
+        },
+        {
+          "part": "don't worry",
+          "why_kr": "'don't'의 마지막 't'는 보통 발음되지 않고 '돈워리'처럼 들려, 축약형을 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "it'll probably",
+          "why_kr": "'it'll'은 '이틀'처럼, 'probably'는 '프라버블리'보다 '프라블리'처럼 축약되어 빠르게 발음되는 경우가 많아 듣기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tired",
+          "meaning_kr": "피곤한"
+        },
+        {
+          "word": "rest",
+          "meaning_kr": "휴식"
+        }
+      ]
+    }
+  ]
+}
