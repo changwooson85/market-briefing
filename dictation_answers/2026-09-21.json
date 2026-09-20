@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-21 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I bought a new smartphone yesterday; its camera is really impressive.",
+      "translation_kr": "저는 어제 새 스마트폰을 샀는데, 카메라 성능이 정말 인상적이에요.",
+      "tricky_parts": [
+        {
+          "part": "bought a",
+          "why_kr": "'bought'의 마지막 't'와 'a'가 연결되어 '보러(bo-tuh)'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "impressive",
+          "why_kr": "강세가 없는 첫 번째 'i'는 약하게 발음되어 잘 들리지 않을 수 있으며, 'ssive' 부분의 발음도 익숙하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our tech company is launching an innovative software update next quarter, focusing on user experience.",
+      "translation_kr": "저희 기술 회사는 다음 분기에 사용자 경험에 중점을 둔 혁신적인 소프트웨어 업데이트를 출시할 예정입니다.",
+      "tricky_parts": [
+        {
+          "part": "launching an",
+          "why_kr": "'launching'의 'g'와 'an'이 연결되어 '런칭언(launching-un)'처럼 발음됩니다."
+        },
+        {
+          "part": "software update",
+          "why_kr": "'software'의 'ft' 발음과 'update'의 'p' 발음이 명확하게 들리지 않을 수 있고, 'update'가 한 단어처럼 빠르게 연결될 수 있습니다."
+        },
+        {
+          "part": "user experience",
+          "why_kr": "'experience'의 첫 음절 'ex'가 '익스'가 아닌 '엑스' 또는 '이엑스'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "user experience",
+          "meaning_kr": "사용자 경험"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Global tech giants reported a 15% increase in AI investments during the first half of 2026.",
+      "translation_kr": "글로벌 기술 대기업들은 2026년 상반기 동안 AI 투자에서 15%의 증가를 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported a",
+          "why_kr": "'reported'의 'd'와 'a'가 연결되어 '리포티더(report-ed-uh)'처럼 발음될 수 있습니다."
+        },
+        {
+          "part": "AI investments",
+          "why_kr": "'investments'의 'st' 연음과 's' 발음이 명확하지 않을 수 있고, AI와 연결될 때 더욱 어려울 수 있습니다."
+        },
+        {
+          "part": "first half",
+          "why_kr": "'first'의 'st'와 'half'의 'h'가 연결되어 '퍼스트하프(first-half)'가 아닌 '퍼스태프(furs-t-haf)'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "global tech giants",
+          "meaning_kr": "글로벌 기술 대기업"
+        },
+        {
+          "word": "AI investments",
+          "meaning_kr": "AI 투자"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "includes an idiom or phrasal verb",
+      "text": "Developing advanced AI models is a complex task; it's not just a walk in the park.",
+      "translation_kr": "고급 AI 모델을 개발하는 것은 복잡한 일이며, 결코 식은 죽 먹기가 아닙니다.",
+      "tricky_parts": [
+        {
+          "part": "advanced AI",
+          "why_kr": "'advanced'의 'd'와 'AI'가 연결되어 '어드밴스드아이(advanced-eye)'처럼 발음됩니다."
+        },
+        {
+          "part": "complex task",
+          "why_kr": "'complex'의 'x'와 'task'의 't'가 연결되어 '컴플렉스태스크(com-plex-task)'처럼 들리며, 'sk' 연음도 어려울 수 있습니다."
+        },
+        {
+          "part": "a walk in the park",
+          "why_kr": "이디엄 전체가 빠르게 발음될 때 'in the' 부분이 약화되어 잘 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "advanced AI models",
+          "meaning_kr": "고급 AI 모델"
+        },
+        {
+          "word": "a walk in the park",
+          "meaning_kr": "식은 죽 먹기 (쉬운 일)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've just released their latest gadget, and it'll definitely shake up the market.",
+      "translation_kr": "그들은 방금 최신 기기를 출시했는데, 분명히 시장을 뒤흔들 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "They've just released",
+          "why_kr": "축약형 'They've'와 'just' 그리고 'released'의 연음이 빠르게 이어져 '데이브저스트릴리스드(They've-just-released)'처럼 한 덩어리로 들릴 수 있습니다."
+        },
+        {
+          "part": "latest gadget",
+          "why_kr": "'latest'의 마지막 't' 발음이 약화되거나 생략될 수 있고, 'st g' 연음도 빠르게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll definitely shake up",
+          "why_kr": "축약형 'it'll'과 'definitely', 그리고 이어지는 'shake up'이 빠르게 연결되어 각각의 단어를 인식하기 어려울 수 있으며, 'shake up'은 동사구로 한 단어처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "latest gadget",
+          "meaning_kr": "최신 기기"
+        },
+        {
+          "word": "shake up",
+          "meaning_kr": "~을 뒤흔들다, 변화를 주다"
+        }
+      ]
+    }
+  ]
+}
