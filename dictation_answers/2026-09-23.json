@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-23 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually prepare a",
+          "why_kr": "'usually'의 'sh' 발음과 'prepare a'의 연결음('preparea')이 자연스럽게 이어지며 혼동될 수 있습니다."
+        },
+        {
+          "part": "fresh fruit",
+          "why_kr": "'fr' 소리와 'sh' 소리가 연달아 오고, 'fruit'의 'u' 발음과 마지막 't' 발음이 약하게 처리될 수 있어 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "They're contemplating a trip to Europe next spring to experience diverse cultures.",
+      "translation_kr": "그들은 다양한 문화를 경험하기 위해 다음 봄에 유럽 여행을 고려하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "contemplating a",
+          "why_kr": "'contemplating'의 'ng' 발음과 뒤따르는 'a'가 연결될 때 소리가 변형되거나 놓치기 쉽습니다."
+        },
+        {
+          "part": "diverse cultures",
+          "why_kr": "'diverse'의 'v' 발음과 'cultures'의 'r' 발음, 그리고 강세 없는 'u' 발음이 명확하지 않아 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "contemplating",
+          "meaning_kr": "고려하다, 심사숙고하다"
+        },
+        {
+          "word": "diverse",
+          "meaning_kr": "다양한"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced intermediate",
+      "text": "The nutritionist advised reducing sugar intake to improve overall well-being significantly.",
+      "translation_kr": "영양사는 전반적인 건강을 상당히 개선하기 위해 설탕 섭취를 줄이라고 조언했습니다.",
+      "tricky_parts": [
+        {
+          "part": "nutritionist advised reducing",
+          "why_kr": "'nutritionist'의 'sh' 소리, 'advised'의 'd'가 뒤의 'reducing'과 연결될 때의 소리 변화, 그리고 'reducing'의 's' 소리에 주의해야 합니다."
+        },
+        {
+          "part": "overall well-being",
+          "why_kr": "'overall'의 'll' 소리가 뒤의 'well-being'과 연결되는 자연스러운 흐름과 'well-being'의 'w' 발음에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "nutritionist",
+          "meaning_kr": "영양사"
+        },
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 현저하게"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "After a long day, I always unwind by reading a book or listening to music.",
+      "translation_kr": "긴 하루를 보낸 후, 저는 항상 책을 읽거나 음악을 들으며 긴장을 풉니다.",
+      "tricky_parts": [
+        {
+          "part": "unwind by reading",
+          "why_kr": "숙어 'unwind'의 'nd' 발음이 약하게 들릴 수 있으며, 'by'와 'reading'의 연결음에 주의해야 합니다."
+        },
+        {
+          "part": "listening to music",
+          "why_kr": "'listening'의 묵음 't'와 'to'가 약화되어 'ta'나 'da'처럼 들릴 수 있는 연결 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "unwind",
+          "meaning_kr": "긴장을 풀다, 휴식을 취하다"
+        },
+        {
+          "word": "long day",
+          "meaning_kr": "힘든 하루"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "It's imperative you're on time; they've already started the family dinner without us.",
+      "translation_kr": "제시간에 오는 것이 필수적입니다. 그들은 이미 우리 없이 가족 저녁 식사를 시작했어요.",
+      "tricky_parts": [
+        {
+          "part": "It's imperative you're",
+          "why_kr": "연결되는 축약형 'It's'와 'you're'가 빠르게 발음될 때 's'와 'r' 소리가 혼동될 수 있고, 'imperative'의 'v' 소리가 약하게 들릴 수 있습니다."
+        },
+        {
+          "part": "they've already started",
+          "why_kr": "축약형 'they've'의 'v' 소리가 뒤의 'already'와 연결되고, 'started'의 중간 't' 소리가 거의 들리지 않거나 'd'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "dinner without us",
+          "why_kr": "'dinner'의 마지막 'r' 소리가 'without'의 'w'와 연결되고, 'without'의 't'가 'us'와 연결될 때 't' 소리가 약화되거나 생략될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "imperative",
+          "meaning_kr": "필수적인, 반드시 해야 하는"
+        },
+        {
+          "word": "without us",
+          "meaning_kr": "우리 없이"
+        }
+      ]
+    }
+  ]
+}
