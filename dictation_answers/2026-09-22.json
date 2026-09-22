@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-22 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The company reported good sales figures last quarter, boosting its stock price slightly.",
+      "translation_kr": "그 회사는 지난 분기에 좋은 매출 수치를 보고했고, 이는 주가를 약간 상승시켰습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported good",
+          "why_kr": "'reported'의 'd'와 'good'의 'g'가 연결되어 하나의 소리처럼 들리거나 'd' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "sales figures",
+          "why_kr": "'figures'의 's'와 뒤따르는 단어와의 연결, 혹은 'figure'라는 단어 자체가 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "sales figures",
+          "meaning_kr": "매출 수치"
+        },
+        {
+          "word": "stock price",
+          "meaning_kr": "주가"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many small businesses are struggling with rising operational costs and supply chain issues.",
+      "translation_kr": "많은 소규모 사업체들이 상승하는 운영 비용과 공급망 문제로 어려움을 겪고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "struggling with",
+          "why_kr": "'struggling'의 끝 'g'와 'with'의 'w'가 연결되고, 'with'의 'th' 발음은 한국 학습자에게 종종 어렵습니다."
+        },
+        {
+          "part": "operational costs",
+          "why_kr": "'operational'은 긴 단어로 정확한 발음이 어렵고, 'costs'의 마지막 'ts' 소리가 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "operational costs",
+          "meaning_kr": "운영 비용"
+        },
+        {
+          "word": "supply chain issues",
+          "meaning_kr": "공급망 문제"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Analysts predict a 0.5% interest rate hike by the central bank next month, impacting loans.",
+      "translation_kr": "분석가들은 다음 달 중앙은행의 0.5% 금리 인상을 예측하며, 이는 대출에 영향을 미칠 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "interest rate hike",
+          "why_kr": "'interest'의 't' 발음이 종종 생략되고, 'rate'와 'hike'가 빠르게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "central bank",
+          "why_kr": "'central'의 'tr' 소리와 강세 없는 모음 'a'가 한국 학습자에게는 불분명하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "interest rate hike",
+          "meaning_kr": "금리 인상"
+        },
+        {
+          "word": "central bank",
+          "meaning_kr": "중앙은행"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite recent market volatility, investors are advised to keep a close eye on their portfolios.",
+      "translation_kr": "최근 시장 변동성에도 불구하고, 투자자들은 자신의 포트폴리오를 면밀히 주시할 것을 권고받습니다.",
+      "tricky_parts": [
+        {
+          "part": "market volatility",
+          "why_kr": "'volatility'는 발음하기 어려운 긴 단어로, 't' 발음이 'd'처럼 들리거나 전체 단어가 명확하게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "keep a close eye on",
+          "why_kr": "관용구 전체가 빠르게 연결되어 'keep a'가 '키퍼'처럼 들리거나, 'close eye on'이 뭉개져 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "market volatility",
+          "meaning_kr": "시장 변동성"
+        },
+        {
+          "word": "keep a close eye on",
+          "meaning_kr": "~을 면밀히 주시하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge (contractions, fast speech)",
+      "text": "They've said it'll take a while for the economy to really pick up again.",
+      "translation_kr": "그들은 경제가 다시 정말로 회복되려면 시간이 좀 걸릴 것이라고 말했습니다.",
+      "tricky_parts": [
+        {
+          "part": "They've said it'll",
+          "why_kr": "'They've'와 'said'가 연결되고, 'it'll'은 빠르게 발음되어 '이틀'처럼 들려 알아듣기 매우 어렵습니다."
+        },
+        {
+          "part": "take a while",
+          "why_kr": "'take a'가 연결되어 '테이커'처럼 들리며, 'while'의 'wh' 발음이 약할 수 있습니다."
+        },
+        {
+          "part": "pick up again",
+          "why_kr": "'pick up'이 연결되고, 'up'과 'again'이 빠르게 이어져 '어게인'의 첫 'a'가 약화되거나 생략될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "pick up",
+          "meaning_kr": "회복되다, 나아지다"
+        },
+        {
+          "word": "take a while",
+          "meaning_kr": "시간이 좀 걸리다"
+        }
+      ]
+    }
+  ]
+}
