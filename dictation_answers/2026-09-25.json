@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-25 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "We need to hire more staff to handle the increasing customer requests.",
+      "translation_kr": "늘어나는 고객 요청을 처리하기 위해 더 많은 직원을 고용해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "hire more",
+          "why_kr": "'hire'의 마지막 /r/ 소리가 'more'와 연결될 때, 한국어 '하이어모어'처럼 끊지 않고 자연스럽게 이어지는 연음이 발생합니다."
+        },
+        {
+          "part": "staff to",
+          "why_kr": "'staff'의 /f/ 발음과 'to'가 이어질 때 /ft/ 소리가 약화되거나 연결되는 경향이 있어 잘 듣기 어렵습니다."
+        },
+        {
+          "part": "customer requests",
+          "why_kr": "'requests'의 복수형 /s/ 소리가 강세와 함께 명확히 들리지 않을 수 있어 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hire",
+          "meaning_kr": "고용하다"
+        },
+        {
+          "word": "requests",
+          "meaning_kr": "요청, 요구"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company aims to expand its market share by introducing innovative products.",
+      "translation_kr": "그 회사는 혁신적인 제품을 출시하여 시장 점유율을 확대하는 것을 목표로 합니다.",
+      "tricky_parts": [
+        {
+          "part": "aims to",
+          "why_kr": "'aims'의 /z/ 소리가 'to'의 /t/와 연결될 때 /z.t/ 발음이 약화되거나 'to'가 '터'처럼 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "market share",
+          "why_kr": "'market'의 마지막 /t/ 소리가 'share' 앞에서 거의 들리지 않거나 약하게 발음될 수 있습니다."
+        },
+        {
+          "part": "innovative products",
+          "why_kr": "'innovative'의 /v/ 소리가 한국어에 없어 발음하기 어려우며, 'products'와 연결될 때 소리가 뭉개질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "market share",
+          "meaning_kr": "시장 점유율"
+        },
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Analysts expect a slight rebound in the stock market by mid-2024.",
+      "translation_kr": "분석가들은 2024년 중반까지 주식 시장의 소폭 반등을 예상합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts expect a",
+          "why_kr": "'Analysts'의 /s/와 'expect'의 /ɪk/, 'expect'의 /t/와 'a'가 자연스럽게 연결되어 '애널리스텍스펙터'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "stock market",
+          "why_kr": "'stock'의 /k/ 소리와 'market'의 /m/ 소리가 빠르게 이어지면서 /k/ 소리가 약화될 수 있습니다."
+        },
+        {
+          "part": "mid-2024",
+          "why_kr": "'mid'의 /d/ 소리가 약하게 들리거나 생략될 수 있으며, 연도 '2024'를 빠르게 발음할 때 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "rebound",
+          "meaning_kr": "반등"
+        },
+        {
+          "word": "mid-",
+          "meaning_kr": "~ 중반"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Investors were advised not to put all their eggs in one basket.",
+      "translation_kr": "투자자들은 모든 것을 한 바구니에 담지 말라는 조언을 받았습니다.",
+      "tricky_parts": [
+        {
+          "part": "advised not to",
+          "why_kr": "'advised'의 /d/가 약화되거나 생략되고, 'not'의 /t/도 뒤의 'to' 앞에서 후두음(glottal stop) 처리되어 잘 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "eggs in",
+          "why_kr": "'eggs'의 /z/ 소리가 'in'과 연결되어 '에그신'처럼 들리며, 의미 단위로 끊어 듣기 어렵습니다."
+        },
+        {
+          "part": "put all their eggs",
+          "why_kr": "'put all their' 부분에서 /t/, /l/, /ð/ 소리가 빠르게 이어져 뭉개지기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "put all your eggs in one basket",
+          "meaning_kr": "모든 것을 한 바구니에 담다 (모든 것을 한 곳에 집중시키다)"
+        },
+        {
+          "word": "investors",
+          "meaning_kr": "투자자"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "It's unlikely they'll reach their financial goals if they don't innovate quickly.",
+      "translation_kr": "그들이 빠르게 혁신하지 않는다면 재정 목표에 도달하기 어려울 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "It's unlikely",
+          "why_kr": "축약형 'It's'의 /s/ 소리와 'unlikely'가 빠르게 연결되어 '잇선라이클리'처럼 들립니다."
+        },
+        {
+          "part": "they'll reach",
+          "why_kr": "축약형 'they'll'의 /l/ 소리가 약하게 발음되고 'reach'와 빠르게 이어지면서 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "don't innovate quickly",
+          "why_kr": "'don't'의 /t/가 종종 생략되고, 'innovate'와 'quickly'가 이어서 발음될 때 모음과 자음의 연결이 자연스럽게 이어져 듣기 까다롭습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "financial goals",
+          "meaning_kr": "재정 목표"
+        },
+        {
+          "word": "innovate",
+          "meaning_kr": "혁신하다"
+        }
+      ]
+    }
+  ]
+}
