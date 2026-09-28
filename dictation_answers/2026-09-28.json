@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-28 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "AI technology is improving our daily lives with smart home devices.",
+      "translation_kr": "AI 기술은 스마트 홈 기기로 우리의 일상생활을 향상시키고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "is improving",
+          "why_kr": "'is'의 's'와 'improving'이 자연스럽게 연결되어 [zɪm]과 같이 들릴 수 있습니다."
+        },
+        {
+          "part": "smart home",
+          "why_kr": "'smart'와 'home'이 빠르게 이어지면서 't' 소리가 약화되거나 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "AI technology",
+          "meaning_kr": "AI 기술"
+        },
+        {
+          "word": "smart home devices",
+          "meaning_kr": "스마트 홈 기기"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many companies are investing heavily in developing advanced wearable gadgets.",
+      "translation_kr": "많은 회사들이 고급 웨어러블 기기 개발에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'의 'g'와 'heavily'의 'h'가 연결되면서 'g' 소리가 약화되거나 생략될 수 있으며, 'h'가 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "wearable gadgets",
+          "why_kr": "'wearable'의 'r'과 'gadgets'의 'g' 소리가 한국어에는 없는 발음이라 구별하거나 정확히 발음하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing heavily",
+          "meaning_kr": "막대한 투자를 하다"
+        },
+        {
+          "word": "wearable gadgets",
+          "meaning_kr": "웨어러블 기기"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Tech giant InnovateCorp announced a 15% revenue increase for Q3 2026.",
+      "translation_kr": "거대 기술 기업 이노베이트콥은 2026년 3분기에 15%의 매출 증가를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced a",
+          "why_kr": "'announced'의 마지막 'd' 소리가 'a'와 자연스럽게 연결되어 [dɑ]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "15% revenue increase",
+          "why_kr": "'15%'에서 'percent'가 빠르게 발음되어 잘 안 들릴 수 있고, 'revenue'와 'increase'가 빠르게 이어져 하나의 단어처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "Q3 2026",
+          "why_kr": "'Q3'의 발음 [kjuː θriː]와 연도 '2026'을 빠르게 발음할 때 정확한 숫자를 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech giant",
+          "meaning_kr": "거대 기술 기업"
+        },
+        {
+          "word": "revenue increase",
+          "meaning_kr": "매출 증가"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "With new AI models, our competitors might be getting ahead of the game.",
+      "translation_kr": "새로운 AI 모델들로 인해, 우리 경쟁사들이 우위를 점하고 있을지도 모릅니다.",
+      "tricky_parts": [
+        {
+          "part": "might be getting",
+          "why_kr": "'might'의 't'는 종종 발음되지 않고, 'be getting'이 빠르게 이어지며 't'가 [d]처럼 들리는 경우가 많아 듣기가 어려울 수 있습니다."
+        },
+        {
+          "part": "getting ahead of the game",
+          "why_kr": "이 관용구의 의미를 이해하는 것이 중요하며, 'of the' 부분이 빠르게 줄어들어 발음되는 경향이 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "getting ahead of the game",
+          "meaning_kr": "유리한 고지를 차지하다, 우위를 점하다"
+        },
+        {
+          "word": "competitors",
+          "meaning_kr": "경쟁사"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're not careful, they've already got a huge market share; it'll be tough.",
+      "translation_kr": "조심하지 않으면, 그들은 이미 엄청난 시장 점유율을 확보했을 거예요; 쉽지 않을 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "you're not",
+          "why_kr": "연음 [jʊər nɑt]으로 발음되며, 'not'의 't'가 약화되거나 생략되어 들릴 수 있습니다."
+        },
+        {
+          "part": "they've already",
+          "why_kr": "축약형 'they've'의 'v' 소리가 약하고, 'v'와 'already'가 연결되어 [ðeɪv ɔːl-]처럼 빠르게 이어져 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll be tough",
+          "why_kr": "축약형 'it'll'의 't'가 [d] 소리로 바뀌거나 빠르게 연결되어 [ɪdəl]처럼 들릴 수 있으며, 'tough'의 [ʌf] 발음이 헷갈릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "market share",
+          "meaning_kr": "시장 점유율"
+        },
+        {
+          "word": "tough",
+          "meaning_kr": "어려운, 힘든"
+        }
+      ]
+    }
+  ]
+}
