@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-29 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The company's sales increased significantly last quarter, boosting profits.",
+      "translation_kr": "그 회사의 매출은 지난 분기에 상당히 증가하여 수익을 증대시켰습니다.",
+      "tricky_parts": [
+        {
+          "part": "sales increased",
+          "why_kr": "'sales'의 /s/와 'increased'의 모음이 연결되어 '세일즈잉크리스드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "last quarter",
+          "why_kr": "'quarter'의 'er' 발음이 약화되어 '쿼러'처럼 들릴 수 있으며, /t/ 소리가 불분명할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 두드러지게"
+        },
+        {
+          "word": "boosting",
+          "meaning_kr": "증대시키는, 촉진하는"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many analysts predict a steady economic recovery throughout the next fiscal year.",
+      "translation_kr": "많은 분석가들은 다음 회계연도 내내 꾸준한 경제 회복을 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "analysts predict",
+          "why_kr": "'analysts'의 마지막 't'가 거의 발음되지 않고 's'와 'predict'가 이어져 '애널리츠프레딕트'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "throughout",
+          "why_kr": "'th' 발음과 중간의 'ough' 모음 소리가 한국 학습자에게 어렵게 느껴질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "fiscal year",
+          "meaning_kr": "회계연도"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The central bank projects 2.5% growth for the economy by December 2026.",
+      "translation_kr": "중앙은행은 2026년 12월까지 경제 2.5% 성장을 전망합니다.",
+      "tricky_parts": [
+        {
+          "part": "bank projects",
+          "why_kr": "'bank'의 /k/ 소리와 'projects'의 /pr/ 소리가 이어지면서 발음이 뭉개지기 쉽습니다."
+        },
+        {
+          "part": "2.5%",
+          "why_kr": "소수점 'point'와 퍼센트 기호 '%'를 영어로 정확하게 읽는 것이 익숙하지 않을 수 있습니다 ('two point five percent')."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "central bank",
+          "meaning_kr": "중앙은행"
+        },
+        {
+          "word": "projects",
+          "meaning_kr": "전망하다, 예상하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite market volatility, investors are advised to hold their horses for now.",
+      "translation_kr": "시장 변동성에도 불구하고, 투자자들은 당분간 서두르지 말 것을 권고받았습니다.",
+      "tricky_parts": [
+        {
+          "part": "Despite market",
+          "why_kr": "'Despite'의 마지막 /t/가 약화되거나 'market'과 연결되어 '디스파잇마켓'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "hold their horses",
+          "why_kr": "이디엄(관용구)이므로 단어 그대로의 의미가 아니라 '서두르지 않다, 기다리다'라는 뜻을 파악해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "volatility",
+          "meaning_kr": "변동성"
+        },
+        {
+          "word": "hold their horses",
+          "meaning_kr": "서두르지 않다, 기다리다 (관용구)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've confirmed it'll be a tough quarter, but we're prepared for adjustments.",
+      "translation_kr": "그들은 힘든 분기가 될 것이라고 확인했지만, 우리는 조정에 대비하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "They've confirmed it'll",
+          "why_kr": "'They've' (they have), 'confirmed'의 /d/ 소리와 'it'll' (it will)이 빠르게 연결되어 발음되므로 놓치기 쉽습니다."
+        },
+        {
+          "part": "it'll be",
+          "why_kr": "축약형 'it'll'은 '이털' 또는 '이들'처럼 발음될 수 있으며, 빠르게 지나갈 수 있습니다."
+        },
+        {
+          "part": "we're prepared",
+          "why_kr": "축약형 'we're' (we are)의 발음이 약화되고 'prepared'와 연결되어 '위어프리페어드'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "confirmed",
+          "meaning_kr": "확인했다"
+        },
+        {
+          "word": "adjustments",
+          "meaning_kr": "조정, 수정"
+        }
+      ]
+    }
+  ]
+}
