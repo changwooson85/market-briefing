@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-30 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I often enjoy cooking healthy meals at home using fresh ingredients from the market.",
+      "translation_kr": "저는 시장에서 신선한 재료를 사다가 집에서 건강한 식사를 요리하는 것을 종종 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "often enjoy",
+          "why_kr": "'often'의 't' 발음이 묵음이고, 'n'과 'enjoy'의 'e'가 연결되어 발음됩니다."
+        },
+        {
+          "part": "cooking healthy",
+          "why_kr": "'cooking'의 'g' 발음이 약화되거나 다음 단어 'healthy'와 연결되어 발음될 수 있습니다."
+        },
+        {
+          "part": "fresh ingredients",
+          "why_kr": "'sh' 소리와 'ingredients'의 'i'가 연결되어 발음되어 듣기에 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "enjoy",
+          "meaning_kr": "즐기다"
+        },
+        {
+          "word": "ingredients",
+          "meaning_kr": "재료"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Please confirm your flight details and hotel reservations by the end of next week.",
+      "translation_kr": "다음 주 말까지 항공편 상세 정보와 호텔 예약을 확인해 주십시오.",
+      "tricky_parts": [
+        {
+          "part": "confirm your",
+          "why_kr": "'confirm'의 'm'과 'your'의 'y'가 연결되어 발음될 수 있습니다."
+        },
+        {
+          "part": "flight details",
+          "why_kr": "'flight'의 'ght'와 'details'의 'd' 발음이 이어져 부드럽게 발음될 수 있습니다."
+        },
+        {
+          "part": "reservations by",
+          "why_kr": "'reservations'의 's' 소리가 'by'와 연결되어 발음될 때 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "confirm",
+          "meaning_kr": "확인하다"
+        },
+        {
+          "word": "reservations",
+          "meaning_kr": "예약"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A new health program targeting seniors will launch on October 1st to improve well-being.",
+      "translation_kr": "노년층을 대상으로 하는 새로운 건강 프로그램이 10월 1일에 시작되어 웰빙 증진을 목표로 합니다.",
+      "tricky_parts": [
+        {
+          "part": "targeting seniors",
+          "why_kr": "'targeting'의 'g'와 'seniors'의 's'가 자연스럽게 연결되어 발음될 수 있습니다."
+        },
+        {
+          "part": "launch on",
+          "why_kr": "'launch'의 'ch' 소리와 'on'의 'o'가 연결되어 발음되어 듣기에 까다로울 수 있습니다."
+        },
+        {
+          "part": "October 1st",
+          "why_kr": "날짜와 서수(1st)의 연결된 발음, 특히 'st' 소리가 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "targeting",
+          "meaning_kr": "~를 목표로 하는"
+        },
+        {
+          "word": "well-being",
+          "meaning_kr": "웰빙, 행복, 건강"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "It's important to always stand by your friends, especially during difficult times.",
+      "translation_kr": "특히 힘든 시기에는 항상 친구들 곁을 지켜주는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "stand by",
+          "why_kr": "'stand'의 'd' 발음이 'by' 앞에서 약화되거나 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "your friends",
+          "why_kr": "'your'의 'r' 소리가 'friends'의 'f'와 연결되어 발음될 때 어려움을 느낄 수 있습니다."
+        },
+        {
+          "part": "difficult times",
+          "why_kr": "'difficult'의 마지막 't'가 거의 들리지 않거나 약하게 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "stand by",
+          "meaning_kr": "~를 지지하다, ~의 곁에 있어주다"
+        },
+        {
+          "word": "difficult times",
+          "meaning_kr": "힘든 시기"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're saying they've already left, so it'll be hard to meet them today.",
+      "translation_kr": "그들이 이미 떠났다고 말하는 거죠? 그렇다면 오늘 그들을 만나기는 어려울 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You're saying they've",
+          "why_kr": "연음(You're-saying-they've)과 축약형('You're', 'they've')이 빠르게 이어져 들릴 때 각 단어를 구분하기 어렵습니다."
+        },
+        {
+          "part": "already left, so it'll",
+          "why_kr": "'already'의 'y'와 'left'의 'l', 그리고 'left'의 'ft'와 'so', 'so'와 'it'll'이 복잡하게 연결되어 발음됩니다."
+        },
+        {
+          "part": "meet them today",
+          "why_kr": "'meet'의 't'가 약화되거나 묵음이 될 수 있으며, 'them'의 'th' 발음과 'today'의 연결이 까다로울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "saying",
+          "meaning_kr": "말하고 있는 (여기서는 '네가 말하기를'의 의미)"
+        },
+        {
+          "word": "it'll",
+          "meaning_kr": "~일 것이다 (it will의 줄임말)"
+        }
+      ]
+    }
+  ]
+}
