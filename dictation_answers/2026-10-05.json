@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-05 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has an impressive camera and a long-lasting battery.",
+      "translation_kr": "이 새로운 스마트폰은 인상적인 카메라와 오래 지속되는 배터리를 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "impressive camera",
+          "why_kr": "'impressive'의 'v' 소리와 'camera'의 'r' 소리가 한국어에 없어 발음하기 어렵고, 단어 간 연결될 때 자연스러운 발음이 중요합니다."
+        },
+        {
+          "part": "long-lasting",
+          "why_kr": "'g'와 'l'의 연결 발음('g'가 거의 들리지 않게 연결)과 's'가 두 번 이어지는 발음이 헷갈릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery",
+          "meaning_kr": "배터리"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company will launch a revolutionary AI software next quarter for business solutions.",
+      "translation_kr": "우리 회사는 다음 분기에 비즈니스 솔루션을 위한 혁신적인 AI 소프트웨어를 출시할 예정입니다.",
+      "tricky_parts": [
+        {
+          "part": "revolutionary AI",
+          "why_kr": "'revolutionary'의 'v' 발음과 'y'가 'AI'와 연결될 때의 자연스러운 발음, 그리고 'AI'의 명확한 발음이 중요합니다."
+        },
+        {
+          "part": "next quarter",
+          "why_kr": "'next'의 'xt' 연음과 'quarter'의 'qua' 발음이 한국어 화자에게는 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revolutionary",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "software",
+          "meaning_kr": "소프트웨어"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Tech giant Innovatech announced a $500 million investment in AI research on October 3rd.",
+      "translation_kr": "기술 대기업 이노베이텍은 10월 3일에 AI 연구에 5억 달러를 투자한다고 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "Innovatech announced",
+          "why_kr": "'Innovatech'의 'h'와 'announced'의 'a'가 연결되어 발음될 때 '치 어나운스드'처럼 들릴 수 있어 주의해야 합니다."
+        },
+        {
+          "part": "$500 million",
+          "why_kr": "큰 숫자('500 million')는 빠르게 들을 때 잘못 이해하거나 혼동하기 쉽습니다."
+        },
+        {
+          "part": "October 3rd",
+          "why_kr": "'3rd'와 같이 서수를 나타내는 'th' 발음은 한국어에 없어서 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech giant",
+          "meaning_kr": "기술 대기업"
+        },
+        {
+          "word": "investment",
+          "meaning_kr": "투자"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "AI advancements are constantly moving the goalposts for what's considered cutting-edge technology.",
+      "translation_kr": "AI 발전은 최첨단 기술로 여겨지는 것에 대한 기준을 계속해서 바꾸고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "moving the goalposts",
+          "why_kr": "관용구이므로 문맥을 통해 의미를 유추하기 어렵고, 'goalposts'의 's' 발음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "cutting-edge",
+          "why_kr": "'cutting'의 'ng'와 'edge'의 'e'가 연결되는 소리, 그리고 't' 발음이 플랩티(flapped t)로 들릴 수 있어 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "move the goalposts",
+          "meaning_kr": "기준을 바꾸다/재정의하다 (관용구)"
+        },
+        {
+          "word": "cutting-edge",
+          "meaning_kr": "최첨단"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering how these new smart devices' AI features'll affect our daily lives.",
+      "translation_kr": "여러분은 아마도 이 새로운 스마트 기기의 AI 기능들이 우리 일상생활에 어떻게 영향을 미칠지 궁금해하실 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You're probably wondering",
+          "why_kr": "'You're'와 'probably'의 축약 및 연음('prob-lee'처럼 들릴 수 있음)으로 인해 빠르게 들으면 놓치기 쉽습니다."
+        },
+        {
+          "part": "devices' AI features'll",
+          "why_kr": "'devices'와 'AI', 'features'와 'will'의 축약형('features'll')이 연달아 나오며, 소유격('devices'')과 연결될 때 특히 복잡하고 빠르게 지나가서 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "affect our daily lives",
+          "why_kr": "'affect'의 't'가 'our'와 연결되고, 'daily'의 'y' 발음, 그리고 'lives'의 'v'와 'z' 발음이 빠르게 지나가면서 정확히 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smart devices",
+          "meaning_kr": "스마트 기기"
+        },
+        {
+          "word": "affect",
+          "meaning_kr": "영향을 미치다"
+        }
+      ]
+    }
+  ]
+}
