@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-06 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are saving money to buy a new car next year.",
+      "translation_kr": "많은 사람들이 내년에 새 차를 사기 위해 돈을 모으고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "saving money",
+          "why_kr": "'saving'의 'ng' 발음과 'money'의 'm' 발음이 부드럽게 이어지는 연음(linking sound)을 놓치기 쉽습니다."
+        },
+        {
+          "part": "next year",
+          "why_kr": "'next'의 't' 사운드가 약하게 발음되거나 생략되어 '넥스 이어'처럼 들릴 수 있습니다. 'th' 사운드도 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "saving money",
+          "meaning_kr": "돈을 모으다"
+        },
+        {
+          "word": "next year",
+          "meaning_kr": "내년"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company announced robust quarterly earnings, exceeding market expectations.",
+      "translation_kr": "그 회사는 시장 기대를 뛰어넘는 견고한 분기별 실적을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced robust",
+          "why_kr": "'announced'의 'd' 발음과 'robust'의 'r' 발음이 자연스럽게 이어지는 연음과 'robust'의 강세 위치에 유의해야 합니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'와 'earnings' 모두 'r' 발음이 포함되어 있으며, 특히 'earnings'의 'ear' 부분이 '얼'이 아닌 '어r'로 발음되는 것에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "robust earnings",
+          "meaning_kr": "견고한 실적"
+        },
+        {
+          "word": "market expectations",
+          "meaning_kr": "시장 기대치"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "Analysts project a 3.5% growth in GDP by the end of Q4 2026.",
+      "translation_kr": "분석가들은 2026년 4분기 말까지 GDP 3.5% 성장을 전망합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts project a",
+          "why_kr": "'Analysts'의 'ts' 발음과 'project'의 't' 발음, 그리고 뒤따르는 'a'가 약하게 연음되는 부분을 놓치기 쉽습니다."
+        },
+        {
+          "part": "3.5% growth",
+          "why_kr": "'3.5%'를 'three point five percent'로 정확하게 발음하는 것과 'growth'의 'th' 발음이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "project growth",
+          "meaning_kr": "성장을 전망하다"
+        },
+        {
+          "word": "GDP",
+          "meaning_kr": "국내총생산"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Despite rising inflation, the new startup is really taking off.",
+      "translation_kr": "물가 상승에도 불구하고, 그 새로운 스타트업은 정말 급성장하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "Despite rising",
+          "why_kr": "'Despite'의 't' 발음이 'rising'의 'r'과 연음될 때 약해지거나 생략될 수 있으며, 'sp' 발음도 주의해야 합니다."
+        },
+        {
+          "part": "inflation",
+          "why_kr": "'f' 발음과 'l' 발음이 연이어 나오며, 강세가 'fla'에 있다는 것을 인지해야 합니다."
+        },
+        {
+          "part": "taking off",
+          "why_kr": "'taking'의 'g' 사운드가 'off'와 자연스럽게 이어지는 연음과 'take off'라는 구동사의 의미를 이해하는 것이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "inflation",
+          "meaning_kr": "인플레이션, 물가 상승"
+        },
+        {
+          "word": "take off",
+          "meaning_kr": "급성장하다, 이륙하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've confirmed it's tough, but we're hopeful about job market recovery.",
+      "translation_kr": "그들은 상황이 어렵다는 것을 확인했지만, 우리는 고용 시장 회복에 대해 희망적입니다.",
+      "tricky_parts": [
+        {
+          "part": "They've confirmed it's",
+          "why_kr": "'They've'와 'it's'와 같은 축약형 발음, 그리고 'confirmed'의 'd'가 'it's'의 'i'와 연음되는 빠른 연결 발음에 주의해야 합니다."
+        },
+        {
+          "part": "tough, but we're",
+          "why_kr": "'tough'의 'gh' 발음과 'but'의 't'가 거의 들리지 않고 'we're'와 빠르게 이어지는 연음이 어렵습니다."
+        },
+        {
+          "part": "job market recovery",
+          "why_kr": "'job'의 'b' 발음, 'market'의 't'가 거의 들리지 않고 'recovery'와 빠르게 이어지는 연음, 그리고 'r' 발음들이 복합적으로 나옵니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "job market recovery",
+          "meaning_kr": "고용 시장 회복"
+        },
+        {
+          "word": "hopeful",
+          "meaning_kr": "희망적인"
+        }
+      ]
+    }
+  ]
+}
