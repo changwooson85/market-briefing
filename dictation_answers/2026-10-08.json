@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-08 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has a really impressive camera and long battery life.",
+      "translation_kr": "제 새 스마트폰은 정말 인상적인 카메라와 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "impressive camera",
+          "why_kr": "연결음: 'impressive'의 've'와 'camera'가 연결되어 '임프레시브 카메라'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "발음: 미국식 영어에서 'battery'의 't'가 'd' 소리처럼 들릴 수 있으며, 'y'와 'life'가 연결되어 들립니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many tech companies are investing heavily in AI research for future product development.",
+      "translation_kr": "많은 IT 기업들이 미래 제품 개발을 위해 AI 연구에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "연결음: 'investing'의 'g' 발음이 약해지고 'heavily'의 'ly'와 'in'이 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "product development",
+          "why_kr": "발음: 'product'의 마지막 't'가 약하게 발음되거나 다음 단어와 연결될 수 있으며, 'development'의 'p' 발음이 약할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing",
+          "meaning_kr": "투자하는"
+        },
+        {
+          "word": "product development",
+          "meaning_kr": "제품 개발"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The tech giant reported a 15% increase in cloud services revenue this quarter.",
+      "translation_kr": "그 거대 IT 기업은 이번 분기에 클라우드 서비스 수익이 15% 증가했다고 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported a",
+          "why_kr": "연결음: 'reported'의 'd'와 'a'가 연결되어 '리포티다'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "services revenue",
+          "why_kr": "발음: 'services'의 's'가 'z' 발음이 나고, 'revenue'와 연결되어 들립니다."
+        },
+        {
+          "part": "this quarter",
+          "why_kr": "연결음: 'this'의 's'와 'quarter'가 연결되어 '디스쿼터'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech giant",
+          "meaning_kr": "거대 기술 기업"
+        },
+        {
+          "word": "revenue",
+          "meaning_kr": "수익"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Our engineering team had to burn the midnight oil to fix the critical software bug.",
+      "translation_kr": "우리 엔지니어링 팀은 중요한 소프트웨어 버그를 고치기 위해 밤샘 작업을 해야 했습니다.",
+      "tricky_parts": [
+        {
+          "part": "burn the midnight oil",
+          "why_kr": "의미 및 연결음: 관용구의 의미('밤샘하다')를 파악하기 어렵고, 'n'-'th', 't'-'o'와 같은 연결음이 자연스럽습니다."
+        },
+        {
+          "part": "critical software",
+          "why_kr": "연결음: 'critical'의 'al'이 'software'와 연결되어 들릴 수 있으며, 미국식 발음에서 't'가 'd'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "software bug",
+          "why_kr": "유사 발음: 'bug' (벌레, 결함)와 'bag' (가방)의 발음이 비슷하여 혼동할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "burn the midnight oil",
+          "meaning_kr": "밤샘하다, 늦게까지 일하다"
+        },
+        {
+          "word": "software bug",
+          "meaning_kr": "소프트웨어 버그 (결함)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna see incredible innovation once they've integrated AI into your system.",
+      "translation_kr": "그들이 AI를 당신의 시스템에 통합하면, 당신은 놀라운 혁신을 보게 될 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "축약형 및 약화: 'you are'의 축약형과 'going to'의 약화된 발음('gonna')이 자연스러운 대화에서 빠르게 이어집니다."
+        },
+        {
+          "part": "they've integrated",
+          "why_kr": "축약형 및 연결음: 'they have'의 축약형('they've')과 've'가 'integrated'와 빠르게 연결되어 발음됩니다."
+        },
+        {
+          "part": "into your system",
+          "why_kr": "약화 발음: 'into'의 'to' 부분이 약화될 수 있으며, 'your'가 'yer'처럼 줄어들어 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovation",
+          "meaning_kr": "혁신"
+        },
+        {
+          "word": "integrated",
+          "meaning_kr": "통합된"
+        }
+      ]
+    }
+  ]
+}
