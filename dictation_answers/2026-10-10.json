@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-10 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요구르트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "‘s’ 소리가 ‘ㅈ’처럼 발음될 수 있고, 뒤의 모음과 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "prepare a",
+          "why_kr": "'prepare'의 'r' 소리가 뒤의 'a'와 자연스럽게 연결되어 '프리페어러'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "fruit and",
+          "why_kr": "'fruit'의 'u'는 거의 소리가 나지 않고, 't'는 약하게 발음되거나 멈춤 소리가 될 수 있으며, 'and'와 연결될 때 '프루랜'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요구르트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "They recently decided to explore a new destination, planning a trip to a quiet coastal town.",
+      "translation_kr": "그들은 최근에 새로운 목적지를 탐험하기로 결정하고, 조용한 해안 마을로의 여행을 계획했습니다.",
+      "tricky_parts": [
+        {
+          "part": "recently",
+          "why_kr": "'t' 소리가 약하게 발음되거나 거의 들리지 않을 수 있으며, 'ly' 발음이 모호하게 들릴 수 있습니다."
+        },
+        {
+          "part": "explore a",
+          "why_kr": "'explore'의 끝 'e'가 묵음 처리되고 뒤의 'a'와 연결되어 '익스플로러'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "coastal town",
+          "why_kr": "'coastal'의 't'와 'l' 발음이 정확하게 들리지 않을 수 있으며, 'town'과 붙어 발음될 때 모호할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "destination",
+          "meaning_kr": "목적지"
+        },
+        {
+          "word": "coastal",
+          "meaning_kr": "해안의"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Our community outreach program will hold its annual health checkup on November 15th for all residents.",
+      "translation_kr": "우리 지역사회 봉사 프로그램은 11월 15일에 모든 주민을 대상으로 연례 건강 검진을 실시할 예정입니다.",
+      "tricky_parts": [
+        {
+          "part": "outreach program",
+          "why_kr": "'outreach'의 'ch'와 'program'의 'p'가 연결될 때 소리가 뭉개지거나 '프' 소리가 약하게 들릴 수 있습니다."
+        },
+        {
+          "part": "annual health",
+          "why_kr": "'annual'의 'l' 발음과 'health'의 'th' 발음이 한국어에는 없는 소리여서 정확한 발음을 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "15th for",
+          "why_kr": "'15th'의 'th'와 'for'의 'f' 발음이 비슷하게 들릴 수 있고, 빠르게 연결될 때 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "outreach",
+          "meaning_kr": "봉사, 지원 활동"
+        },
+        {
+          "word": "residents",
+          "meaning_kr": "주민들"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite busy schedules, they always try to catch up with old friends over coffee.",
+      "translation_kr": "바쁜 일정에도 불구하고, 그들은 항상 커피를 마시며 오랜 친구들과 밀린 이야기를 나누려고 노력합니다.",
+      "tricky_parts": [
+        {
+          "part": "despite busy",
+          "why_kr": "'despite'의 't'가 거의 들리지 않거나 뒤의 'busy'와 연결되어 '디스파이비지'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "catch up with",
+          "why_kr": "구동사로 'catch'의 'ch'와 'up'이 연결되고, 다시 'up'과 'with'가 연결되어 '캐쳐업위쓰'처럼 빠르게 들릴 수 있습니다."
+        },
+        {
+          "part": "old friends",
+          "why_kr": "'old'의 'd'가 뒤의 'friends'와 연결되거나 약하게 발음되어 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "catch up with",
+          "meaning_kr": "~와 밀린 이야기를 나누다"
+        },
+        {
+          "word": "schedules",
+          "meaning_kr": "일정들"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're going to travel abroad, you'll definitely need to try their local cuisine.",
+      "translation_kr": "만약 해외여행을 갈 거라면, 분명히 그곳의 현지 음식을 맛봐야 할 거예요.",
+      "tricky_parts": [
+        {
+          "part": "you're going to",
+          "why_kr": "빠른 말에서는 'you're'와 'going to'가 연음되어 '유어고너' 또는 '유어고잉타'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "travel abroad",
+          "why_kr": "'travel'의 'l'과 'abroad'의 'a'가 연결되어 '트래블어브로드'처럼 들릴 수 있고, 'abroad'의 'br' 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "need to try",
+          "why_kr": "'need'의 'd'가 'to'와 연결되어 '니드투'가 아닌 '니러트라이'처럼 'd'가 플랩 t처럼 발음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "abroad",
+          "meaning_kr": "해외로"
+        },
+        {
+          "word": "cuisine",
+          "meaning_kr": "요리, 음식"
+        }
+      ]
+    }
+  ]
+}
