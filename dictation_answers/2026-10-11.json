@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-11 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요구르트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u' 발음과 's'가 [ʒ] 소리로 발음되어 혼동하기 쉽습니다."
+        },
+        {
+          "part": "breakfast",
+          "why_kr": "'ea' 발음과 'kfa' 자음군이 연결될 때 부자연스럽게 느껴질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요구르트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "For our upcoming business trip, we need to finalize the flight details and accommodation soon.",
+      "translation_kr": "다가오는 출장을 위해 비행 정보와 숙박을 곧 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "upcoming",
+          "why_kr": "'p' 발음이 약하거나 생략될 수 있으며, 'ing' 발음이 어색할 수 있습니다."
+        },
+        {
+          "part": "finalize",
+          "why_kr": "'f'와 'p' 발음을 혼동하기 쉬우며, 'z' 소리가 어려울 수 있습니다."
+        },
+        {
+          "part": "accommodation",
+          "why_kr": "여러 개의 'c'와 'm' 철자 및 복잡한 음절 구조 때문에 발음과 철자가 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "upcoming",
+          "meaning_kr": "다가오는"
+        },
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙박"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "upper-intermediate",
+      "text": "A recent study, published on October 5th, indicates a 15% increase in daily outdoor exercise.",
+      "translation_kr": "10월 5일에 발표된 최근 연구에 따르면 매일 야외 운동량이 15% 증가했습니다.",
+      "tricky_parts": [
+        {
+          "part": "published",
+          "why_kr": "'sh' 발음과 'bl' 자음군이 연결될 때 혼동하기 쉽습니다."
+        },
+        {
+          "part": "indicates",
+          "why_kr": "음절 강세와 'di' 발음이 한국어와 달라 정확하게 발음하기 어려울 수 있습니다."
+        },
+        {
+          "part": "15% increase",
+          "why_kr": "숫자와 퍼센트 발음, 그리고 'increase'의 'ncr' 자음군과 's' 소리가 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "study",
+          "meaning_kr": "연구"
+        },
+        {
+          "word": "indicates",
+          "meaning_kr": "나타내다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "You should always try to iron out any misunderstandings quickly with your close friends.",
+      "translation_kr": "가까운 친구들과는 항상 오해를 빨리 해결하려고 노력해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "iron out",
+          "why_kr": "'iron out'이 연어처럼 발음될 때 'n'과 'o'가 연결되어 들리며, '해결하다'는 관용적 의미를 이해하기 어렵습니다."
+        },
+        {
+          "part": "misunderstandings",
+          "why_kr": "여러 음절로 이루어져 있고 's'와 'ings' 발음이 한국 학습자에게는 길고 복잡하게 느껴질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "iron out",
+          "meaning_kr": "(문제 등을) 해결하다"
+        },
+        {
+          "word": "misunderstanding",
+          "meaning_kr": "오해"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've confirmed it'll be a busy itinerary, so you're gonna need to pack light.",
+      "translation_kr": "그들은 바쁜 일정이 될 거라고 확인했으니, 짐을 가볍게 싸야 할 거야.",
+      "tricky_parts": [
+        {
+          "part": "They've confirmed it'll",
+          "why_kr": "여러 축약어와 연음('They've' [ðeɪv], 'confirmed it'll' [kənˈfɜːrmd ɪtl])이 빠르게 연결되어 발음될 때 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "낯선 단어일 수 있으며, 't' 발음(특히 미식 영어에서 플랩 T)과 음절 강세가 한국어와 다릅니다."
+        },
+        {
+          "part": "gonna need to pack light",
+          "why_kr": "'going to'의 축약형 'gonna'와 'need to'의 'd'와 't'가 연결되어 발음되며, 'pack light'의 마지막 't'가 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        },
+        {
+          "word": "pack light",
+          "meaning_kr": "짐을 가볍게 싸다"
+        }
+      ]
+    }
+  ]
+}
