@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-12 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are now using new apps on their smartphones daily.",
+      "translation_kr": "많은 사람들이 이제 스마트폰으로 새로운 앱들을 매일 사용하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "using new",
+          "why_kr": "두 단어가 이어질 때 'ng' 소리가 다음 단어 'new'의 'n' 소리와 비슷하게 연결되어 혼동될 수 있습니다."
+        },
+        {
+          "part": "apps on",
+          "why_kr": "'s' 소리가 다음 단어 'on'과 이어지면서 마치 한 단어처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "apps",
+          "meaning_kr": "앱 (애플리케이션)"
+        },
+        {
+          "word": "smartphones",
+          "meaning_kr": "스마트폰"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "Our company is investing heavily in AI development for future growth.",
+      "translation_kr": "저희 회사는 미래 성장을 위해 AI 개발에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'-ing' 뒤에 'heavily'가 오면서 'g' 소리가 사라지거나 'h'가 발음되지 않아 '인베스팅 에빌리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "future growth",
+          "why_kr": "'future'의 'r'과 'growth'의 'gr' 발음이 이어지고, 특히 'growth'의 'th' 발음은 한국 학습자에게 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing",
+          "meaning_kr": "투자하다"
+        },
+        {
+          "word": "development",
+          "meaning_kr": "개발"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "The tech giant announced its Q3 earnings report on October twelfth.",
+      "translation_kr": "그 거대 IT 기업은 10월 12일에 3분기 실적 보고서를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "tech giant",
+          "why_kr": "'ch'와 'g' 소리가 빠르게 이어지면서 발음이 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "earnings report",
+          "why_kr": "'earnings'의 끝 's'와 'report'의 'r' 발음이 이어지고, 'report'의 'r' 발음이 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech giant",
+          "meaning_kr": "거대 IT 기업"
+        },
+        {
+          "word": "earnings report",
+          "meaning_kr": "실적 보고서"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "They're trying to iron out the bugs in the new software before launch.",
+      "translation_kr": "그들은 출시 전에 새로운 소프트웨어의 버그들을 해결하려고 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "iron out",
+          "why_kr": "'iron'의 'r' 발음과 'n' 소리가 'out'과 연결되면서 '아이런 아웃'이 아닌 '아이런아웃'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "bugs in",
+          "why_kr": "'bugs'의 's'가 'z' 소리로 발음되고 'in'과 이어지면서 '버그진'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "iron out",
+          "meaning_kr": "~을 해결하다, 정리하다"
+        },
+        {
+          "word": "software",
+          "meaning_kr": "소프트웨어"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I'm sure you'll find that their latest gadget's features are quite impressive.",
+      "translation_kr": "당신은 그들의 최신 기기 기능들이 꽤 인상적이라는 것을 알게 될 것이라고 확신합니다.",
+      "tricky_parts": [
+        {
+          "part": "you'll find that",
+          "why_kr": "'you'll'의 빠른 발음과 'find that'에서 'd' 소리가 약화되거나 생략될 수 있습니다."
+        },
+        {
+          "part": "gadget's features",
+          "why_kr": "'gadget's'의 소유격 's'가 'z'로 발음되고, 'features'의 's'는 'z' 소리가 나므로 혼동될 수 있습니다."
+        },
+        {
+          "part": "quite impressive",
+          "why_kr": "'quite'의 't' 소리가 뒤의 'impressive'와 연결되면서 '콰이팀프레시브'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gadget",
+          "meaning_kr": "기기, 장치"
+        },
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        }
+      ]
+    }
+  ]
+}
