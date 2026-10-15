@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-15 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has a great camera and long battery life.",
+      "translation_kr": "이 새 스마트폰은 훌륭한 카메라와 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "great camera",
+          "why_kr": "'great'의 't'가 'camera'의 'c' 앞에서 약화되거나 연음되어 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'battery'의 'tt' 발음이 미국식 영어에서 'd' 소리로 변하는 경향이 있으며, 'life'의 'f' 발음을 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "Our company plans to invest heavily in cloud computing infrastructure next quarter.",
+      "translation_kr": "우리 회사는 다음 분기에 클라우드 컴퓨팅 인프라에 대규모 투자를 계획하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "plans to invest",
+          "why_kr": "'plans'의 's'와 'to'의 't'가 연음되며 'to'가 약하게 발음되어 하나의 소리처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "cloud computing",
+          "why_kr": "'cloud'의 'd' 발음이 다음 단어 'computing'의 'c' 앞에서 약화되거나 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "invest",
+          "meaning_kr": "투자하다"
+        },
+        {
+          "word": "infrastructure",
+          "meaning_kr": "인프라, 기반 시설"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "A major tech firm announced its new AI chip launch for Q3 2025 yesterday.",
+      "translation_kr": "한 주요 기술 기업이 2025년 3분기 AI 칩 출시를 어제 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced its",
+          "why_kr": "'announced'의 마지막 'd' 소리가 다음 단어 'its'와 자연스럽게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "AI chip launch",
+          "why_kr": "'chip'과 'cheap'을 혼동하기 쉽고, 'launch'의 모음과 마지막 'ch' 발음이 한국 학습자에게 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech firm",
+          "meaning_kr": "기술 기업"
+        },
+        {
+          "word": "AI chip",
+          "meaning_kr": "AI 칩"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal_verb",
+      "text": "Many users are trying to get the hang of the advanced features of this new gadget.",
+      "translation_kr": "많은 사용자들은 이 새 기기의 고급 기능들을 익숙해지려고 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "get the hang of",
+          "why_kr": "숙어 'get the hang of'가 빠르게 발음될 때 't' 소리가 약해지고 'of'가 '어' 정도로 약하게 들려 연음과 약형 발음에 유의해야 합니다."
+        },
+        {
+          "part": "advanced features",
+          "why_kr": "'advanced'의 'd' 발음이 약해지고 'features'의 'ea'와 'tures' 발음이 한국 학습자에게는 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "get the hang of",
+          "meaning_kr": "~에 익숙해지다, 요령을 터득하다"
+        },
+        {
+          "word": "gadget",
+          "meaning_kr": "기기, 장치"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're upgrading your system, it'll probably improve your workflow considerably.",
+      "translation_kr": "시스템을 업그레이드하신다면, 아마도 작업 흐름을 상당히 개선할 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "you're upgrading",
+          "why_kr": "'you're'와 'upgrading'이 빠르게 이어질 때 연음이 발생하고 'g' 발음이 약화될 수 있어 주의해야 합니다."
+        },
+        {
+          "part": "it'll probably",
+          "why_kr": "'it'll'과 'probably'가 빠르게 이어질 때 'probably'의 모음이 약화되거나 'b' 소리가 생략될 수 있습니다."
+        },
+        {
+          "part": "workflow considerably",
+          "why_kr": "'workflow'의 'flow'와 'considerably'의 'er' 발음, 그리고 강세 위치가 한국 학습자에게 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "workflow",
+          "meaning_kr": "작업 흐름"
+        },
+        {
+          "word": "considerably",
+          "meaning_kr": "상당히, 매우"
+        }
+      ]
+    }
+  ]
+}
