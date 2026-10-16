@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-16 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new jobs in the current competitive market.",
+      "translation_kr": "많은 사람들이 현재 경쟁이 치열한 시장에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for",
+          "why_kr": "'k'와 'f' 사이에 소리 연음(linking sound)이 발생하여, '루킹 포'가 아닌 '루킹퍼'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "competitive market",
+          "why_kr": "'competitive'의 't' 발음(stopped t)이 한국어 'ㅌ'처럼 명확하게 들리지 않고 약화되거나 멈추는 경향이 있습니다. 또한 'tive'와 'market'의 연음도 자연스럽게 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "competitive",
+          "meaning_kr": "경쟁이 치열한"
+        },
+        {
+          "word": "market",
+          "meaning_kr": "시장"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "The company reported strong quarterly earnings, exceeding analyst expectations for this period.",
+      "translation_kr": "그 회사는 애널리스트들의 이번 기간 예상치를 초과하는 강력한 분기별 수익을 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported strong",
+          "why_kr": "'reported'의 마지막 'd' 소리가 'strong'의 's'와 연결될 때 약화되거나 거의 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "analyst expectations",
+          "why_kr": "'analyst'의 마지막 't' 소리가 약화되거나 생략되는 경우가 많고, 'expectations'의 'x' 발음이 'eks'가 아닌 'egz' 소리로 들릴 수 있어 주의가 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익"
+        },
+        {
+          "word": "exceeding",
+          "meaning_kr": "~을 초과하는"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced intermediate",
+      "text": "Inflation rates rose to 3.5% in September, impacting consumer spending across several sectors.",
+      "translation_kr": "9월 인플레이션율은 3.5%까지 상승하여 여러 부문의 소비자 지출에 영향을 미쳤습니다.",
+      "tricky_parts": [
+        {
+          "part": "inflation rates",
+          "why_kr": "'inflation'의 'n'과 'rates'의 'r'이 자연스럽게 연음되면서 하나의 소리처럼 들릴 수 있어 '인플레이션 레이츠'가 아닌 '인플레이션레잇츠'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "impacting consumer",
+          "why_kr": "'impacting'의 마지막 't' 소리가 'consumer'의 'c'와 연결될 때 약화되거나 한국어 학습자에게 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "inflation rates",
+          "meaning_kr": "인플레이션율"
+        },
+        {
+          "word": "consumer spending",
+          "meaning_kr": "소비자 지출"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "challenging",
+      "text": "Despite the recent market volatility, investors are advised to keep a close eye on long-term trends.",
+      "translation_kr": "최근 시장 변동성에도 불구하고, 투자자들은 장기적인 추세에 계속 면밀한 주의를 기울이도록 권고받습니다.",
+      "tricky_parts": [
+        {
+          "part": "market volatility",
+          "why_kr": "'volatility'의 't' 소리가 'r'과 'l' 사이에서 약화되어 '플랩 t' 발음으로 들릴 수 있으며, 'l' 소리가 명확하게 연결되지 않을 수 있습니다."
+        },
+        {
+          "part": "keep a close eye on",
+          "why_kr": "'keep a'와 'close eye on'에서 각 단어의 마지막 자음이 다음 모음과 자연스럽게 연음되어 하나의 소리처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "volatility",
+          "meaning_kr": "변동성"
+        },
+        {
+          "word": "keep a close eye on",
+          "meaning_kr": "~을 면밀히 주시하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "expert challenge",
+      "text": "You're seeing a slight rebound in stocks, but it won't impact jobs immediately, they've said.",
+      "translation_kr": "주식에서 약간의 반등이 보이지만, 즉시 일자리에 영향을 미치지는 않을 것이라고 그들은 말했습니다.",
+      "tricky_parts": [
+        {
+          "part": "You're seeing a",
+          "why_kr": "'You're'의 축약형과 'seeing a'가 빠르게 연음되어 '유어씨잉어'처럼 들릴 수 있습니다. 'r' 사운드와 이어서 나오는 모음의 연결이 어렵습니다."
+        },
+        {
+          "part": "won't impact",
+          "why_kr": "'won't'의 마지막 't' 소리가 거의 들리지 않거나 생략될 수 있으며, 'impact'와 연결될 때 '워님팩트'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "they've said",
+          "why_kr": "'they've'의 'v' 발음이 약화되고, 'said'의 'd' 발음 역시 문장 끝에서 약하게 들릴 수 있어 명확하게 구분하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "rebound",
+          "meaning_kr": "반등"
+        },
+        {
+          "word": "impact",
+          "meaning_kr": "영향을 미치다"
+        }
+      ]
+    }
+  ]
+}
