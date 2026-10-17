@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-17 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually eat a light breakfast with fruit and yogurt to stay healthy.",
+      "translation_kr": "저는 건강을 위해 보통 과일과 요거트를 곁들인 가벼운 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u' 사운드가 종종 생략되거나 'zhoo'처럼 들려 한국 학습자들이 놓치기 쉽습니다."
+        },
+        {
+          "part": "fruit and",
+          "why_kr": "'fruit'의 마지막 't'와 'and'가 연결되어 'fruit-t-and'처럼 들릴 수 있으며, 'and'의 'd' 발음이 약화되거나 생략됩니다."
+        },
+        {
+          "part": "stay healthy",
+          "why_kr": "'stay'의 'y' 발음이 'healthy'의 'h'와 연결되어 부드럽게 이어지는 소리가 한국 학습자에게는 어색할 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light breakfast",
+          "meaning_kr": "가벼운 아침 식사"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "We need to finalize the travel arrangements for the team retreat next month.",
+      "translation_kr": "다음 달 팀 연수를 위한 여행 준비를 마무리해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize",
+          "why_kr": "'f'와 'l' 발음이 연속으로 나와 한국 학습자들이 정확하게 발음하기 어려워할 수 있습니다."
+        },
+        {
+          "part": "arrangements",
+          "why_kr": "여러 개의 'r' 소리와 'ng' 소리가 섞여 있어 발음이 복잡하고, 강세가 'range'에 있어 앞부분이 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "retreat next",
+          "why_kr": "'retreat'의 마지막 't'가 'next'의 'n'과 연결되어 't-n' 소리가 자연스럽게 이어집니다. 'next'의 't' 발음도 약화되거나 생략되는 경우가 많습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "마무리하다, 확정하다"
+        },
+        {
+          "word": "team retreat",
+          "meaning_kr": "팀 연수, 팀 워크숍"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "A recent survey showed that 75% of adults exercise regularly for better well-being.",
+      "translation_kr": "최근 설문조사에 따르면 성인의 75%가 더 나은 행복을 위해 규칙적으로 운동합니다.",
+      "tricky_parts": [
+        {
+          "part": "recent survey",
+          "why_kr": "'recent'의 마지막 't' 발음이 약해지거나 'survey'의 's'와 연결되어 're-sensurvey'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "75% of",
+          "why_kr": "'75%'는 'seventy-five percent'로 발음하며, 'of'는 약하게 /əv/ 또는 /ɒv/로 발음되어 잘 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "well-being",
+          "why_kr": "두 단어가 합쳐진 복합 명사로, 'well'과 'being'이 자연스럽게 이어지는 소리를 잡기 어렵고, 'being'의 'ng' 발음을 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "survey",
+          "meaning_kr": "설문조사"
+        },
+        {
+          "word": "well-being",
+          "meaning_kr": "행복, 안녕"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "It's important to clear the air after a disagreement to maintain strong friendships.",
+      "translation_kr": "오해를 푼 후에는 강한 우정을 유지하기 위해 관계를 명확히 하는 것이 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "숙어 표현으로, 직역하면 의미를 이해하기 어렵고, 'clear'의 'r' 발음이 'the'와 연결되어 자연스럽게 들립니다."
+        },
+        {
+          "part": "disagreement to",
+          "why_kr": "'disagreement'의 강세가 'agree'에 있으며, 't'가 'to'와 연결될 때 약화되거나 'd'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "strong friendships",
+          "why_kr": "'strong'의 'ng'과 'friendships'의 'f'가 연결되는 소리가 한국 학습자에게는 어색하게 들릴 수 있습니다. 또한 'friendships'의 복수형 's' 발음이 잘 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 불쾌한 분위기를 해소하다"
+        },
+        {
+          "word": "disagreement",
+          "meaning_kr": "의견 불일치, 불화"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're planning a trip, you'd better book tickets soon; they're selling out fast.",
+      "translation_kr": "여행을 계획 중이라면, 빨리 표를 예약하는 게 좋을 거예요. 매진이 빠르게 되고 있어요.",
+      "tricky_parts": [
+        {
+          "part": "you're planning",
+          "why_kr": "'you're'는 'you are'의 줄임말로, 빠르게 발음될 때 'your'와 유사하게 들리며, 'planning'과 연결되어 더 듣기 어렵습니다."
+        },
+        {
+          "part": "you'd better",
+          "why_kr": "'you'd'는 'you had'의 줄임말로, 'had'의 'h'와 'd'가 약화되어 거의 들리지 않으며 'you better'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "selling out fast",
+          "why_kr": "'selling'의 'g'와 'out'이 연결되어 'selling-gout'처럼 들리고, 'out'의 't'가 약화되어 거의 들리지 않거나 다음 단어 'fast'의 'f'와 연결될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "selling out",
+          "meaning_kr": "매진되다"
+        },
+        {
+          "word": "book tickets",
+          "meaning_kr": "표를 예약하다"
+        }
+      ]
+    }
+  ]
+}
