@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-18 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually have a light breakfast, like toast and coffee, before heading to work.",
+      "translation_kr": "저는 보통 출근 전에 토스트와 커피 같은 가벼운 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 소리가 /z/로 발음되는 경우가 많고, 'u'와 'a'가 약화되어 빠르게 지나가는 경향이 있습니다."
+        },
+        {
+          "part": "heading to",
+          "why_kr": "'g'와 't' 사이에 연결음이 발생하여 '헤딩투'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light breakfast",
+          "meaning_kr": "가벼운 아침 식사"
+        },
+        {
+          "word": "heading to",
+          "meaning_kr": "~로 향하다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "We're considering several travel destinations for our annual vacation next summer.",
+      "translation_kr": "저희는 다음 여름 연례 휴가를 위해 여러 여행지를 고려하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "considering",
+          "why_kr": "'s' 소리가 /z/로 발음될 수 있으며, 중간의 'i'가 약하게 발음되어 놓치기 쉽습니다."
+        },
+        {
+          "part": "several travel",
+          "why_kr": "'l'과 't' 사이에 자연스러운 연결음이 발생하며, 'v' 발음에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "considering",
+          "meaning_kr": "고려하다"
+        },
+        {
+          "word": "destinations",
+          "meaning_kr": "목적지"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Recent data shows that consistent exercise for thirty minutes daily enhances overall health.",
+      "translation_kr": "최근 데이터에 따르면 매일 30분 동안 꾸준히 운동하는 것이 전반적인 건강을 향상시킵니다.",
+      "tricky_parts": [
+        {
+          "part": "consistent exercise",
+          "why_kr": "'t' 소리가 뒤의 'e'와 연결되어 약하게 발음되거나 생략될 수 있으며, 'ex' 발음에도 주의해야 합니다."
+        },
+        {
+          "part": "enhances overall",
+          "why_kr": "'s' 소리가 다음 단어 'overall'의 'o'와 연결되어 '인핸스즈 오버롤'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "consistent",
+          "meaning_kr": "꾸준한"
+        },
+        {
+          "word": "enhances",
+          "meaning_kr": "향상시키다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "It's crucial to lend an ear to your friends when they're going through tough times.",
+      "translation_kr": "친구들이 힘든 시기를 겪을 때 그들의 말을 경청하는 것이 매우 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "lend an ear",
+          "why_kr": "관용어구로, 'd'와 'an'이 연결되어 '렌댄이어'처럼 들리며 의미를 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "going through",
+          "why_kr": "구동사로, 'gh'가 묵음이라 발음이 '고잉쓰루'처럼 들리고, 연결 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "lend an ear",
+          "meaning_kr": "경청하다, 귀 기울이다"
+        },
+        {
+          "word": "crucial",
+          "meaning_kr": "매우 중요한"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've gotta tell you, you're gonna love this place; it's an unforgettable culinary experience.",
+      "translation_kr": "제가 꼭 말씀드려야겠어요, 당신은 이곳을 분명히 좋아할 거예요. 잊을 수 없는 미식 경험이 될 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "I've gotta",
+          "why_kr": "'I have got to'의 줄임말 및 구어체 발음으로, '아이브 가라'처럼 빠르게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "you're gonna",
+          "why_kr": "'you are going to'의 줄임말 및 구어체 발음으로, '유어 거나'처럼 빠르게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "culinary experience",
+          "why_kr": "'culinary'의 'l' 소리, 'experience'의 'x' 소리, 그리고 'an'과 'unforgettable'이 연결되는 발음이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "culinary",
+          "meaning_kr": "요리의, 미식의"
+        },
+        {
+          "word": "unforgettable",
+          "meaning_kr": "잊을 수 없는"
+        }
+      ]
+    }
+  ]
+}
