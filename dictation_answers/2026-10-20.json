@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-20 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new jobs in the current market economy.",
+      "translation_kr": "많은 사람들이 현재 시장 경제에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "current market",
+          "why_kr": "'current'의 't' 발음이 'market'의 'm' 앞에서 연음되어 탈락되거나 약해지기 쉽습니다."
+        },
+        {
+          "part": "looking for",
+          "why_kr": "'for'가 약하게 발음될 때 'fr' 또는 'fer'로 들릴 수 있으며, 뒤의 단어와 연결될 때 인지하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "market economy",
+          "meaning_kr": "시장 경제"
+        },
+        {
+          "word": "looking for",
+          "meaning_kr": "~을 찾다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "The company announced its quarterly earnings report, exceeding analyst expectations.",
+      "translation_kr": "그 회사는 분석가들의 예상을 뛰어넘는 분기별 실적 보고서를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced its",
+          "why_kr": "'announced'의 'd' 발음이 'its'의 'i'와 연음되어 하나의 소리처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "analyst expectations",
+          "why_kr": "'analyst'의 't' 발음이 종종 약하게 나거나 탈락하며, 'expectations'는 비교적 긴 단어라 정확한 발음을 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 실적"
+        },
+        {
+          "word": "analyst expectations",
+          "meaning_kr": "분석가 예상"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced",
+      "text": "The central bank projects a 2.8% economic growth for next fiscal year.",
+      "translation_kr": "중앙은행은 다음 회계연도에 2.8%의 경제 성장을 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "central bank projects",
+          "why_kr": "'central'의 'l' 발음이 모호하게 들리거나 'sentral'처럼 들릴 수 있으며, 'projects'의 'j' 발음과 's' 발음이 연이어 나오기 때문에 주의해야 합니다."
+        },
+        {
+          "part": "economic growth",
+          "why_kr": "'economic'의 강세 위치와 'growth'의 'th' 발음을 정확히 구분하기 어려울 수 있습니다."
+        },
+        {
+          "part": "fiscal year",
+          "why_kr": "'fiscal'의 's' 발음이 'physical'의 's'와 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "central bank",
+          "meaning_kr": "중앙은행"
+        },
+        {
+          "word": "fiscal year",
+          "meaning_kr": "회계연도"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "expert",
+      "text": "Many small businesses struggle to weather the storm during economic downturns.",
+      "translation_kr": "많은 소규모 기업들이 경기 침체기 동안 난국을 헤쳐나가기 위해 고군분투합니다.",
+      "tricky_parts": [
+        {
+          "part": "struggle to weather",
+          "why_kr": "'to'가 약하게 발음되고 'weather'가 'whether'와 발음이 유사하여 혼동하기 쉽습니다."
+        },
+        {
+          "part": "weather the storm",
+          "why_kr": "관용구 'weather the storm'의 의미를 문맥상 이해하는 것이 중요하며, 'the'가 약화되어 'weather the'가 연음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "weather the storm",
+          "meaning_kr": "난국을 헤쳐나가다, 역경을 이겨내다"
+        },
+        {
+          "word": "economic downturns",
+          "meaning_kr": "경기 침체"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering why they've decided to pull out of the deal.",
+      "translation_kr": "당신은 그들이 왜 그 거래에서 철수하기로 결정했는지 궁금해할 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "You're probably",
+          "why_kr": "강세가 없는 'You're'의 빠른 발음과 'probably'의 'prob-' 부분이 빠르게 이어지면서 정확한 음가를 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "they've decided",
+          "why_kr": "'they've'의 'v' 발음과 'decided'의 'd' 발음이 빠르게 연결될 때 인지하기 어려울 수 있습니다."
+        },
+        {
+          "part": "pull out of",
+          "why_kr": "세 단어가 연음되어 '풀아웃오브'와 같이 들리며, 특히 'out of'가 '아우더'와 같이 약하게 발음될 수 있어 파악하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "pull out of",
+          "meaning_kr": "~에서 철수하다, ~에서 손을 떼다"
+        },
+        {
+          "word": "deal",
+          "meaning_kr": "거래"
+        }
+      ]
+    }
+  ]
+}
