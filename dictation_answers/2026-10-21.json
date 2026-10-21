@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-21 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I really enjoyed the delicious Korean BBQ last night with my friends.",
+      "translation_kr": "어젯밤 친구들과 맛있는 한국식 바비큐를 정말 즐겼어요.",
+      "tricky_parts": [
+        {
+          "part": "enjoyed the",
+          "why_kr": "'enjoyed'의 'd' 발음과 'the'가 이어지면서 연음이 발생하여 한 단어처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "last night",
+          "why_kr": "'last'의 't' 발음이 약하게 나거나 생략되어 'las'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "enjoyed",
+          "meaning_kr": "즐겼다"
+        },
+        {
+          "word": "delicious",
+          "meaning_kr": "맛있는"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "The business trip to Busan next month requires prior registration for the conference.",
+      "translation_kr": "다음 달 부산 출장은 회의 사전 등록이 필요합니다.",
+      "tricky_parts": [
+        {
+          "part": "requires prior",
+          "why_kr": "'requires'의 's' 발음과 'prior'의 'p' 발음이 이어지면서 부드럽게 연결될 때 구분이 어려울 수 있습니다."
+        },
+        {
+          "part": "registration for the",
+          "why_kr": "'registration'의 'n'과 'for'의 'f', 그리고 'for'의 'r'과 'the'가 연달아 연음되어 발음이 뭉개지기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prior registration",
+          "meaning_kr": "사전 등록"
+        },
+        {
+          "word": "conference",
+          "meaning_kr": "회의"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate-advanced",
+      "text": "Experts predict 300,000 citizens will benefit from the new health program by 2027.",
+      "translation_kr": "전문가들은 2027년까지 30만 명의 시민들이 새로운 건강 프로그램의 혜택을 받을 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "predict 300,000",
+          "why_kr": "'predict'의 't' 발음이 '300,000'의 'th' 발음과 만나면서 'd'처럼 들리거나 약하게 처리될 수 있습니다."
+        },
+        {
+          "part": "benefit from the",
+          "why_kr": "'benefit'의 't' 발음이 'from'과 'the' 사이에 연음되면서 정확히 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "predict",
+          "meaning_kr": "예측하다"
+        },
+        {
+          "word": "benefit",
+          "meaning_kr": "혜택을 받다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "After a long discussion, we decided to clear the air about our recent misunderstanding.",
+      "translation_kr": "긴 논의 끝에, 우리는 최근의 오해에 대해 오해를 풀기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "관용구 'clear the air'는 직역하면 의미가 통하지 않으며, 'clear'의 'r'과 'the'가 연음되어 발음이 매끄럽게 이어집니다."
+        },
+        {
+          "part": "misunderstanding",
+          "why_kr": "길고 복합적인 단어이므로 강세 없는 음절들이 빠르게 발음될 때 정확히 듣고 철자를 파악하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 불화를 해소하다"
+        },
+        {
+          "word": "misunderstanding",
+          "meaning_kr": "오해"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning a trip; won't it be difficult with your tight schedule?",
+      "translation_kr": "여행을 계획 중이라고 들었는데, 빡빡한 일정 때문에 어렵지 않을까요?",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I've'와 'heard', 'you're'가 빠르게 축약되고 연음되어 '아이브 허드 유어'처럼 들려 의미 파악 및 철자 구분이 어려울 수 있습니다."
+        },
+        {
+          "part": "won't it be",
+          "why_kr": "'won't'의 't' 발음이 생략되거나 약하게 발음되고, 'it'과 'be'가 빠르게 연결되어 마치 한 단어처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "tight schedule",
+          "why_kr": "'tight'의 마지막 't' 발음이 약하게 나거나 거의 들리지 않을 수 있으며, 'schedule'의 'sch' 발음이 한국어에 익숙하지 않은 소리입니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tight schedule",
+          "meaning_kr": "빡빡한 일정"
+        },
+        {
+          "word": "planning a trip",
+          "meaning_kr": "여행을 계획하다"
+        }
+      ]
+    }
+  ]
+}
