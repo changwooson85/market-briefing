@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-22 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has an amazing camera and a long battery life.",
+      "translation_kr": "제 새 스마트폰은 놀라운 카메라와 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "smartphone has",
+          "why_kr": "스마트폰의 'e'와 'has'의 'h'가 연결되어 '스마트폰 해즈'처럼 들릴 수 있으며, 'h' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "camera and a",
+          "why_kr": "'and'가 약화되어 '앤드 어'보다는 '앤너' 또는 '애너'처럼 들릴 수 있어 주의가 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our company is investing heavily in AI development for improved customer service.",
+      "translation_kr": "저희 회사는 개선된 고객 서비스를 위해 AI 개발에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'의 'g'와 'heavily'의 'h'가 연결되어 '인베스팅 헤빌리'가 아닌 '인베스팅에빌리'처럼 들릴 수 있으며, 'h' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "improved customer",
+          "why_kr": "'improved'의 'd' 발음이 약하거나 다음 단어의 'c'와 연결될 때 소리가 거의 나지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing heavily",
+          "meaning_kr": "막대한 투자를 하다"
+        },
+        {
+          "word": "customer service",
+          "meaning_kr": "고객 서비스"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Tech giant Nexus Corp announced a 15% revenue increase in the last quarter of 2025.",
+      "translation_kr": "기술 대기업 넥서스 코퍼레이션은 2025년 마지막 분기에 15%의 매출 증가를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "Nexus Corp",
+          "why_kr": "'Corp'는 'Corporation'의 줄임말로, 강세와 발음('코어프')에 익숙하지 않으면 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "revenue increase",
+          "why_kr": "'revenue'와 'increase' (명사)가 연결될 때 '뉴 인크리스'처럼 들릴 수 있으며, 'increase'가 동사가 아닌 명사로 쓰인 것을 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "quarter of",
+          "why_kr": "'of'가 약하게 발음되어 '쿼터어브'가 아닌 '쿼터어'처럼 들리거나 아예 생략되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revenue increase",
+          "meaning_kr": "매출 증가"
+        },
+        {
+          "word": "last quarter",
+          "meaning_kr": "지난 분기"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "includes idiom or phrasal verb",
+      "text": "AI technology is quickly changing the game for many industries, especially in healthcare.",
+      "translation_kr": "AI 기술은 특히 의료 분야에서 많은 산업의 판도를 빠르게 바꾸고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "changing the game",
+          "why_kr": "관용구 'changing the game'의 의미를 모르면 문맥을 파악하기 어렵고, 'g' 사운드가 명확하지 않을 수 있습니다."
+        },
+        {
+          "part": "especially in",
+          "why_kr": "'especially'의 'lly'와 'in'이 빠르게 연결되어 들리고, 'in'이 약하게 발음되어 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "changing the game",
+          "meaning_kr": "판도를 바꾸다, 상황을 완전히 바꾸다 (관용구)"
+        },
+        {
+          "word": "healthcare",
+          "meaning_kr": "의료, 건강 관리"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering how AI's going to affect your job; it'll be transformative.",
+      "translation_kr": "아마도 AI가 당신의 직업에 어떻게 영향을 미칠지 궁금해하실 겁니다. 그것은 혁신적일 거예요.",
+      "tricky_parts": [
+        {
+          "part": "You're probably",
+          "why_kr": "'You're'는 축약형으로 빠르게 발음되고, 'probably'는 '프라블리' 대신 '프라블리' 또는 '프라블리'의 'b' 소리가 약해져 '프라블리'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "AI's going to",
+          "why_kr": "'AI's' (AI is)와 'going to'가 연음되고 'going to'는 'gonna'로 발음되어 빠르게 이어지면 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "it'll be",
+          "why_kr": "'it'll' (it will)은 축약형으로 '이틀'에 가깝게 발음되고, 뒤따르는 'be'와 연음되어 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "wondering",
+          "meaning_kr": "궁금해하는"
+        },
+        {
+          "word": "transformative",
+          "meaning_kr": "변화시키는, 혁신적인"
+        }
+      ]
+    }
+  ]
+}
