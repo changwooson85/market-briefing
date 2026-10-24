@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25 (Sun)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruits and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u' 발음이 약화되거나 거의 들리지 않아 [ˈjuːʒəli]로 발음되는 경향이 있어 한국 학습자들이 놓치기 쉽습니다."
+        },
+        {
+          "part": "fruits and",
+          "why_kr": "'fruits'의 마지막 's' 소리와 'and'의 'a' 소리가 연결되어 [fruːtsənd]처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business_basics",
+      "text": "We need to confirm the hotel reservation details and our flight schedule before departure.",
+      "translation_kr": "우리는 출발 전에 호텔 예약 세부 정보와 항공편 일정을 확인해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "confirm",
+          "why_kr": "'m' 소리가 명확하게 발음되지 않거나 뒤따르는 자음과 섞여서 잘 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "reservation",
+          "why_kr": "여러 음절로 이루어져 있고, 'v' 발음이 한국어에 없어서 정확하게 듣고 발음하기 어려울 수 있습니다."
+        },
+        {
+          "part": "flight schedule",
+          "why_kr": "'flight'의 't' 소리가 'schedule'의 'sch' 소리와 연결되면서 [flaɪt skedʒuːl] 대신 [flaɪtʃ skedʒuːl]처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "confirm",
+          "meaning_kr": "확인하다"
+        },
+        {
+          "word": "departure",
+          "meaning_kr": "출발"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news_reporting",
+      "text": "The community health center announced a new wellness program starting on October 25th.",
+      "translation_kr": "지역 보건소는 10월 25일부터 시작하는 새로운 건강 증진 프로그램을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced",
+          "why_kr": "과거형 '-ed' 발음이 약하게 처리되거나, 'n' 소리가 연속되어 [əˈnaʊnst]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "wellness program",
+          "why_kr": "'wellness'의 마지막 's' 소리와 'program'의 'p' 소리가 연결되어 [welnes prəʊgræm] 대신 [welnes prəʊgræm]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "October 25th",
+          "why_kr": "'th' 발음은 한국어에 없는 소리로, 특히 숫자에 붙을 때 정확히 듣고 구분하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "community",
+          "meaning_kr": "지역 사회"
+        },
+        {
+          "word": "wellness program",
+          "meaning_kr": "건강 증진 프로그램"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom_phrasal_verb",
+      "text": "After a busy week, my friends and I usually catch up over coffee on Saturday.",
+      "translation_kr": "바쁜 한 주를 보낸 후, 친구들과 저는 보통 토요일에 커피를 마시며 밀린 이야기를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "catch up",
+          "why_kr": "'catch'의 'ch' 소리와 'up'의 'u' 소리가 연결되어 [kætʃʌp]처럼 빠르게 발음됩니다."
+        },
+        {
+          "part": "over coffee",
+          "why_kr": "'over'의 'r' 소리가 'coffee'의 'o' 소리와 연결되어 [əʊvər kɒfi] 대신 [əʊvə kɒfi]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "Saturday",
+          "why_kr": "모음 사이에 있는 't' 소리가 약화되거나 'd' 소리처럼 들리며, 때로는 아예 들리지 않을 수 있습니다 (flap t 발음)."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "catch up",
+          "meaning_kr": "밀린 이야기를 나누다, (정보 등을) 따라잡다"
+        },
+        {
+          "word": "busy",
+          "meaning_kr": "바쁜"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're gonna love the local food; we've already booked your accommodation.",
+      "translation_kr": "현지 음식을 정말 좋아하실 거예요; 저희가 이미 숙소를 예약해 두었어요.",
+      "tricky_parts": [
+        {
+          "part": "You're gonna",
+          "why_kr": "'You are going to'의 축약형과 비형식적 발음으로, 빠르게 발음되어 [jʊər gʌnə]처럼 들립니다. 원형을 예측하기 어렵습니다."
+        },
+        {
+          "part": "local food; we've",
+          "why_kr": "'food'의 'd' 소리가 다음 단어 'we've'의 'w' 소리와 연결되고, 'we've'의 'v' 발음이 명확하지 않을 수 있습니다."
+        },
+        {
+          "part": "booked your",
+          "why_kr": "'booked'의 마지막 'k' 소리가 'your'의 'y' 소리와 연결되어 [bʊkt jɔːr] 대신 [bʊkjɔːr]처럼 빠르게 이어질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙소, 숙박 시설"
+        },
+        {
+          "word": "local food",
+          "meaning_kr": "현지 음식"
+        }
+      ]
+    }
+  ]
+}
