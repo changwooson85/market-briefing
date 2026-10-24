@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-24 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually enjoy a warm cup of coffee with my breakfast every morning.",
+      "translation_kr": "저는 보통 매일 아침 식사와 함께 따뜻한 커피 한 잔을 즐겨 마십니다.",
+      "tricky_parts": [
+        {
+          "part": "usually enjoy a",
+          "why_kr": "'usually'의 'u' 발음과 'enjoy'의 'j' 발음, 그리고 이어지는 'a'가 자연스럽게 연결될 때 혼동하기 쉽습니다."
+        },
+        {
+          "part": "with my",
+          "why_kr": "'with'의 'th' 발음과 이어지는 'my'가 자연스럽게 연결될 때 'th' 소리가 불분명해지거나 다른 소리로 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "usually",
+          "meaning_kr": "보통, 대개"
+        },
+        {
+          "word": "breakfast",
+          "meaning_kr": "아침 식사"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Considering the upcoming business trip, I've prioritized getting enough rest beforehand.",
+      "translation_kr": "다가오는 출장을 고려하여, 저는 미리 충분한 휴식을 취하는 것을 우선시했습니다.",
+      "tricky_parts": [
+        {
+          "part": "upcoming business",
+          "why_kr": "'upcoming'의 마지막 'g' 소리와 'business'의 시작 'b' 소리가 연결되면서 'g' 소리가 약해지거나 'mb'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "prioritized getting",
+          "why_kr": "'prioritized'의 끝 'd' 발음이 'getting'의 'g'와 연결되면서 'd' 소리가 약해지거나 '지'처럼 들릴 수 있습니다. 또한 'prioritized'의 복잡한 발음이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prioritized",
+          "meaning_kr": "우선시했다"
+        },
+        {
+          "word": "beforehand",
+          "meaning_kr": "미리, 사전에"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate-advanced",
+      "text": "Over 200 participants attended the community health workshop held on October 15th.",
+      "translation_kr": "200명 이상의 참가자들이 10월 15일에 열린 지역사회 건강 워크숍에 참석했습니다.",
+      "tricky_parts": [
+        {
+          "part": "attended the",
+          "why_kr": "'attended'의 'ed' 발음이 약화되거나 'd' 소리가 'the'의 'th'와 연결되면서 불분명해질 수 있습니다."
+        },
+        {
+          "part": "workshop held",
+          "why_kr": "'workshop'의 'p' 발음과 'held'의 'h' 발음이 연결될 때 'p' 소리가 약화되거나 'h'가 묵음처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "October 15th",
+          "why_kr": "날짜의 'th' 발음은 한국어에는 없는 발음이라 특히 어려워하며, 'f'와 'th'가 연달아 나올 때 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "participants",
+          "meaning_kr": "참가자들"
+        },
+        {
+          "word": "workshop",
+          "meaning_kr": "워크숍"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "advanced",
+      "text": "After a long discussion, we finally managed to clear the air about our recent disagreement.",
+      "translation_kr": "긴 논의 끝에, 우리는 최근의 불일치에 대해 마침내 오해를 풀 수 있었습니다.",
+      "tricky_parts": [
+        {
+          "part": "managed to clear",
+          "why_kr": "'managed'의 'd' 발음이 'to'의 't'와 연결될 때 't' 발음이 약화되거나 'd'가 묻히는 경향이 있습니다. 또한 'clear'의 'cl' 소리도 어렵습니다."
+        },
+        {
+          "part": "clear the air",
+          "why_kr": "구어체에서 'clear the air'는 연음이 많아 'clearth' 처럼 들릴 수 있으며, 'r'과 'air'의 연결도 어렵습니다."
+        },
+        {
+          "part": "recent disagreement",
+          "why_kr": "'recent'의 't' 발음이 종종 생략되거나 약해지고, 'disagreement'의 'dis' 부분이 '디스'로 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 관계를 명확히 하다 (관용구)"
+        },
+        {
+          "word": "disagreement",
+          "meaning_kr": "불일치, 의견 차이"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "It's been a while, but I've heard you're planning that exciting trip you've always wanted.",
+      "translation_kr": "오랜만이야, 그런데 네가 항상 원했던 그 신나는 여행을 계획 중이라고 들었어.",
+      "tricky_parts": [
+        {
+          "part": "It's been a while",
+          "why_kr": "'It's been a while'은 '잇츠빈어와일'처럼 들리는 자연스러운 연음과 'wh' 발음이 어려우며, 특히 'been a' 부분이 약화되기 쉽습니다."
+        },
+        {
+          "part": "I've heard you're",
+          "why_kr": "두 개의 축약형 ('I've', 'you're')과 'heard'의 'd' 발음이 약화되면서 'I've heard you're'가 빠르게 연결될 때 명확하게 구분하기 어렵습니다."
+        },
+        {
+          "part": "you've always wanted",
+          "why_kr": "'you've'의 'v' 소리가 'always'의 'a'와 연결되고, 'wanted'의 't' 발음이 생략되거나 약화되어 빠르게 지나갈 때 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "It's been a while",
+          "meaning_kr": "오랜만이다"
+        },
+        {
+          "word": "exciting trip",
+          "meaning_kr": "신나는 여행"
+        }
+      ]
+    }
+  ]
+}
