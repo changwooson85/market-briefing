@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-27 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "She started her new job at the company last week and is really enjoying it.",
+      "translation_kr": "그녀는 지난주 회사에서 새 직장을 시작했고 정말 즐거워하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "started her",
+          "why_kr": "'d'와 'h' 소리가 연결되어 '스타티드 허'가 아닌 '스타티더'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "enjoying it",
+          "why_kr": "'ng' 소리가 다음 모음과 연결되어 '인조잉 잇'이 아닌 '인조잉닛'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "started",
+          "meaning_kr": "시작했다"
+        },
+        {
+          "word": "enjoying",
+          "meaning_kr": "즐기고 있는"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our team successfully met the quarterly sales targets, exceeding expectations for growth.",
+      "translation_kr": "우리 팀은 분기별 판매 목표를 성공적으로 달성했으며, 성장 기대치를 초과했습니다.",
+      "tricky_parts": [
+        {
+          "part": "successfully met",
+          "why_kr": "'successfully'의 '-fully' 발음과 'met'의 't' 소리가 연결될 때 '풀리 멧'이 아닌 '풀리멧'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "exceeding expectations",
+          "why_kr": "'exceeding'의 'x' 소리와 'ing' 소리가 자연스럽게 이어지고, 'expectations'의 강세와 's' 소리에 유의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly",
+          "meaning_kr": "분기별의"
+        },
+        {
+          "word": "exceeding",
+          "meaning_kr": "초과하는"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "The stock market saw a 1.5% decline yesterday following the central bank's announcement.",
+      "translation_kr": "중앙은행의 발표 이후 어제 주식 시장은 1.5% 하락했습니다.",
+      "tricky_parts": [
+        {
+          "part": "saw a",
+          "why_kr": "'saw'의 'w' 소리가 다음 'a'와 연결되어 '소우 어'가 아닌 '소우어'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "decline yesterday",
+          "why_kr": "'decline'의 끝 'e'가 묵음이고 'ne'가 'yesterday'의 'y'와 연결되어 자연스럽게 발음되는 것을 듣기 어렵습니다."
+        },
+        {
+          "part": "bank's announcement",
+          "why_kr": "'bank's'의 'ks' 소리가 'announcement'의 'a'와 연결될 때 '뱅크스 어나운스먼트'가 아닌 '뱅크써나운스먼트'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "decline",
+          "meaning_kr": "하락"
+        },
+        {
+          "word": "announcement",
+          "meaning_kr": "발표"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "After months of struggle, the startup finally managed to turn a profit this quarter.",
+      "translation_kr": "몇 달간의 고군분투 끝에, 그 스타트업은 마침내 이번 분기에 이익을 내는 데 성공했습니다.",
+      "tricky_parts": [
+        {
+          "part": "months of",
+          "why_kr": "'months'의 'ths' 소리와 'of'의 'v' 소리가 약하게 연결되어 잘 들리지 않거나 혼동될 수 있습니다."
+        },
+        {
+          "part": "managed to",
+          "why_kr": "'managed'의 'd' 소리가 종종 약화되거나 'to'의 't' 소리가 '어'처럼 줄어들어 들리기 어렵습니다."
+        },
+        {
+          "part": "turn a profit",
+          "why_kr": "'turn'의 'n' 소리가 'a'와 연결되고, 'profit'의 'pr' 자음군 발음에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "startup",
+          "meaning_kr": "스타트업"
+        },
+        {
+          "word": "turn a profit",
+          "meaning_kr": "이익을 내다 (숙어)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "You're probably wondering if it'll be a good time to invest next year.",
+      "translation_kr": "아마도 내년에 투자하기 좋은 시기일지 궁금해하실 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "You're probably",
+          "why_kr": "'You're'와 'probably'가 빠르게 연결될 때 '유어 프라버블리'가 아닌 '유어프라블리'처럼 축약되어 들립니다."
+        },
+        {
+          "part": "wondering if it'll",
+          "why_kr": "'wondering'의 'ng' 소리와 'if', 'it'll'이 빠르게 연결되어 '원더링니피틀'처럼 들릴 수 있으며, 'it'll'은 '이틀'에 가깝게 발음됩니다."
+        },
+        {
+          "part": "invest next year",
+          "why_kr": "'invest'의 마지막 't'가 거의 발음되지 않고, 'next'의 't'도 약화되거나 생략되며 'year'와 연결되는 소리에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "wondering",
+          "meaning_kr": "궁금해하는"
+        },
+        {
+          "word": "invest",
+          "meaning_kr": "투자하다"
+        }
+      ]
+    }
+  ]
+}
