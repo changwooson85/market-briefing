@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-28 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually prepare a healthy breakfast with fresh fruit and yogurt every morning.",
+      "translation_kr": "저는 보통 매일 아침 신선한 과일과 요거트로 건강한 아침 식사를 준비합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 발음이 'z'에 가깝게 들리고, '-ally' 부분이 약하게 발음되어 놓치기 쉽습니다."
+        },
+        {
+          "part": "fresh fruit",
+          "why_kr": "'sh'와 'fr' 발음이 연결되어 들리며, 'r' 발음을 명확하게 하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "prepare",
+          "meaning_kr": "준비하다"
+        },
+        {
+          "word": "yogurt",
+          "meaning_kr": "요거트"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate-low",
+      "text": "Our team plans to finalize the travel itinerary for the upcoming client meeting next week.",
+      "translation_kr": "저희 팀은 다음 주에 있을 고객 회의를 위한 여행 일정을 확정할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize",
+          "why_kr": "'f'와 'p' 발음을 혼동하기 쉽고, 끝의 'z' 발음이 's'로 들릴 수 있습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "강세가 어디에 있는지 파악하기 어렵고, 모음 발음이 다양하게 들릴 수 있습니다."
+        },
+        {
+          "part": "upcoming",
+          "why_kr": "'g'와 'u'가 연결되어 '어퍼밍'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정표"
+        },
+        {
+          "word": "client meeting",
+          "meaning_kr": "고객 회의"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "intermediate",
+      "text": "The health ministry confirmed on October 25th that new dietary guidelines will be implemented nationwide.",
+      "translation_kr": "보건부는 10월 25일에 새로운 식단 지침이 전국적으로 시행될 것이라고 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "ministry confirmed",
+          "why_kr": "두 단어의 'r' 발음이 이어지면서 명확하게 듣기 어렵고, 'ed' 발음이 약하게 처리됩니다."
+        },
+        {
+          "part": "dietary guidelines",
+          "why_kr": "'tary' 부분이 약하게 발음되고, 'guidelines'의 'd' 발음이 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "implemented nationwide",
+          "why_kr": "'implemented'의 마지막 'd' 발음이 약하게 처리되거나 다음 단어와 연결되어 '임플러멘티드 네이션와이드'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "ministry",
+          "meaning_kr": "부처, 부"
+        },
+        {
+          "word": "guidelines",
+          "meaning_kr": "지침"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "intermediate-high",
+      "text": "Even though they argued, they decided to bury the hatchet before their long-awaited trip.",
+      "translation_kr": "그들은 다투었음에도 불구하고, 오랫동안 기다려온 여행 전에 화해하기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "argued",
+          "why_kr": "'gued' 부분이 약하게 발음되어 '아규드'처럼 들릴 수 있고, 'e'가 묵음입니다."
+        },
+        {
+          "part": "bury the hatchet",
+          "why_kr": "관용구 자체를 모르면 의미 파악이 어렵고, 'the hatchet'의 'h' 발음이 약하게 처리될 수 있습니다."
+        },
+        {
+          "part": "long-awaited",
+          "why_kr": "'g'와 'a'가 이어지며 '롱어웨이티드'처럼 들리고, 'd' 발음이 약하게 처리될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "bury the hatchet",
+          "meaning_kr": "화해하다, 오해를 풀다"
+        },
+        {
+          "word": "long-awaited",
+          "meaning_kr": "오랫동안 기다려온"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "advanced",
+      "text": "If you're ever feeling run down, it's best to grab a quick, nutritious snack, isn't it?",
+      "translation_kr": "혹시 기운이 없다고 느끼신다면, 빠르고 영양가 있는 간식을 먹는 것이 가장 좋습니다, 그렇지 않나요?",
+      "tricky_parts": [
+        {
+          "part": "you're ever feeling",
+          "why_kr": "'you're'와 'ever'의 'r' 발음이 연결되고 'feeling'의 'g'가 약하게 들려 빠르게 발음될 때 놓치기 쉽습니다."
+        },
+        {
+          "part": "run down",
+          "why_kr": "두 단어가 연결되어 '런다운'처럼 들리며, 구동사로서 의미를 모르면 해석이 어렵습니다."
+        },
+        {
+          "part": "nutritious snack, isn't it?",
+          "why_kr": "'tious' 발음과 'snack'의 'ck'가 약하게 들리고, 'isn't it'의 't'가 거의 들리지 않거나 연결되어 빠르게 지나갑니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "run down",
+          "meaning_kr": "지친, 기운이 없는"
+        },
+        {
+          "word": "nutritious",
+          "meaning_kr": "영양가 있는"
+        }
+      ]
+    }
+  ]
+}
