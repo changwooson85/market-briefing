@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-31 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Eating a balanced breakfast is crucial for maintaining good health throughout the day.",
+      "translation_kr": "균형 잡힌 아침 식사를 하는 것은 하루 종일 건강을 유지하는 데 매우 중요합니다.",
+      "tricky_parts": [
+        {
+          "part": "balanced",
+          "why_kr": "'balance'의 -ed형은 't' 소리처럼 들릴 수 있어 잘못 들을 수 있습니다."
+        },
+        {
+          "part": "crucial",
+          "why_kr": "'cru-' 부분의 발음과 끝의 '-cial' 발음이 어려울 수 있습니다. '크루셜' 보다는 '크루셜'로 연결됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "balanced",
+          "meaning_kr": "균형 잡힌"
+        },
+        {
+          "word": "crucial",
+          "meaning_kr": "매우 중요한"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "Our team effectively coordinated the travel arrangements for the upcoming client meeting next month.",
+      "translation_kr": "우리 팀은 다음 달에 있을 고객 회의를 위한 여행 준비를 효과적으로 조율했습니다.",
+      "tricky_parts": [
+        {
+          "part": "effectively",
+          "why_kr": "'f'와 'ct'가 연속되는 발음이 어려울 수 있으며, 'effect'와 'tively'의 연결이 까다롭습니다."
+        },
+        {
+          "part": "coordinated",
+          "why_kr": "여러 모음이 연속되는 'co-or-di-nat-ed' 발음과 -ed 발음이 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "coordinated",
+          "meaning_kr": "조율했다, 조정했다"
+        },
+        {
+          "word": "arrangements",
+          "meaning_kr": "준비, 배열"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "A new study published on October 25th confirms exercise significantly boosts cognitive function in adults.",
+      "translation_kr": "10월 25일에 발표된 새로운 연구에 따르면 운동이 성인의 인지 기능을 상당히 향상시키는 것으로 확인되었습니다.",
+      "tricky_parts": [
+        {
+          "part": "published",
+          "why_kr": "'sh' 소리와 -ed 발음이 명확하게 들리지 않거나 연결될 때 혼동될 수 있습니다."
+        },
+        {
+          "part": "cognitive function",
+          "why_kr": "'g'와 'f' 소리, 그리고 '-tive'와 '-tion' 접미사의 발음이 동시에 나와 정확하게 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "cognitive function",
+          "meaning_kr": "인지 기능"
+        },
+        {
+          "word": "boosts",
+          "meaning_kr": "향상시키다, 증진시키다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "She decided to clear the air with her friend about their upcoming weekend plans.",
+      "translation_kr": "그녀는 다가오는 주말 계획에 대한 친구와의 오해를 풀기로 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "clear the air",
+          "why_kr": "관용구 자체를 모르면 의미를 파악하기 어렵고, 'clear'와 'the' 사이의 'r' 발음이 'the'와 자연스럽게 연결되어 들릴 수 있습니다."
+        },
+        {
+          "part": "upcoming",
+          "why_kr": "'up'과 'coming'이 합쳐진 형태라 연음이 자연스럽게 이루어지며, 'p'와 'c' 발음이 빠르게 연결될 때 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "clear the air",
+          "meaning_kr": "오해를 풀다, 분위기를 일신하다"
+        },
+        {
+          "word": "upcoming",
+          "meaning_kr": "다가오는, 곧 있을"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've booked their flight, so we're gonna grab dinner before they leave tomorrow.",
+      "translation_kr": "그들은 비행기를 예약했으니, 내일 떠나기 전에 저녁을 먹을 거예요.",
+      "tricky_parts": [
+        {
+          "part": "They've booked",
+          "why_kr": "'They've'의 'v' 발음이 'booked'와 빠르게 연결될 때 듣기 어려울 수 있으며, 'booked'의 -ed 발음이 묵음처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "we're gonna",
+          "why_kr": "'we're'의 빠른 발음과 'going to'의 축약형인 'gonna'는 원어민의 빠른 회화에서 자주 사용되어 익숙하지 않으면 듣기 매우 어렵습니다."
+        },
+        {
+          "part": "before they leave",
+          "why_kr": "'before'의 'r' 발음이 'they'와 연결되고, 'they'의 'th' 발음과 'leave'의 'l' 발음이 빠르게 이어져 들릴 때 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "grab dinner",
+          "meaning_kr": "저녁을 먹다 (격식 없는 표현)"
+        },
+        {
+          "word": "booked",
+          "meaning_kr": "예약했다"
+        }
+      ]
+    }
+  ]
+}
