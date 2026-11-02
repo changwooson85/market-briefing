@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-02 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has an excellent camera and a very long battery life.",
+      "translation_kr": "제 새 스마트폰은 훌륭한 카메라와 아주 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "excellent camera",
+          "why_kr": "'excellent'의 't'와 'camera'의 'c'가 연결되어 발음될 때 [엑설런트 카메라]가 아닌 [엑설런 카메라]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "미국식 영어에서 'battery'의 'tt' 발음이 [디] 또는 [르]와 비슷하게 들릴 수 있고, 'life'가 'live'와 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "The tech company is investing heavily in AI research for future product development.",
+      "translation_kr": "그 IT 회사는 미래 제품 개발을 위해 AI 연구에 대규모로 투자하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'의 중간 't' 소리가 약하게 들리거나 생략될 수 있고, 'heavily'의 'h' 소리가 약해지거나 'v' 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "AI research",
+          "why_kr": "'AI'와 'research'가 연결되어 발음될 때 [에이아이 리서치]가 아닌 [에이아이 리서r치]와 같이 중간 소리가 이어지는 것이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing heavily",
+          "meaning_kr": "대규모로 투자하다"
+        },
+        {
+          "word": "product development",
+          "meaning_kr": "제품 개발"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "Tech giant Innovatech reported a 15% revenue increase in the third quarter of 2026.",
+      "translation_kr": "기술 대기업 이노베이테크는 2026년 3분기에 15%의 매출 증가를 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "Tech giant",
+          "why_kr": "'Tech'의 'ch'와 'giant'의 'g' 발음이 연달아 나오면서 [테크 자이언트]가 아닌 [테k 자이언트]처럼 들릴 수 있으며, 'giant'가 'joint'와 혼동될 수 있습니다."
+        },
+        {
+          "part": "reported a 15%",
+          "why_kr": "'reported'의 'd'와 'a'가 자연스럽게 연결되고, 숫자 '15%' (fifteen percent)가 '50%' (fifty percent)와 혼동될 수 있습니다."
+        },
+        {
+          "part": "third quarter of 2026",
+          "why_kr": "'third'의 'th' 발음과 'quarter'의 발음이 한국 학습자에게 어려울 수 있으며, 'of'가 약화되어 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revenue increase",
+          "meaning_kr": "매출 증가"
+        },
+        {
+          "word": "third quarter",
+          "meaning_kr": "3분기"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "Our team had to burn the midnight oil to fix the software bug before launch.",
+      "translation_kr": "우리 팀은 출시 전에 소프트웨어 버그를 고치기 위해 밤늦게까지 일해야 했습니다.",
+      "tricky_parts": [
+        {
+          "part": "burn the midnight oil",
+          "why_kr": "이디엄 자체가 생소할 수 있으며, 'midnight'의 't'와 'oil'이 자연스럽게 연결될 때 [미드나잇 오일]이 아닌 [미드나이 오일]처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "software bug",
+          "why_kr": "'software'의 'ft' 발음이 약하게 처리될 수 있고, 'bug'가 다른 유사한 소리(e.g., 'bag')와 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "burn the midnight oil",
+          "meaning_kr": "밤늦게까지 일하다/공부하다"
+        },
+        {
+          "word": "software bug",
+          "meaning_kr": "소프트웨어 버그"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "It'll be crucial that you're up-to-date on the latest AI advancements for this project.",
+      "translation_kr": "이 프로젝트를 위해 최신 AI 발전에 대한 정보를 얻는 것이 중요할 것입니다.",
+      "tricky_parts": [
+        {
+          "part": "It'll be crucial",
+          "why_kr": "줄임말 'It'll'이 빠르게 발음될 때 [이럴]처럼 들릴 수 있으며, 'crucial'의 'c'와 'u' 발음이 [크루셜] 대신 [크루셜]처럼 약하게 들릴 수 있습니다."
+        },
+        {
+          "part": "you're up-to-date",
+          "why_kr": "줄임말 'you're'와 'up-to-date'가 연결되어 [유어업투데이트]가 아닌 [유럽투데이트]처럼 연음으로 들릴 수 있습니다. 'up-to-date'의 발음도 빠르면 놓치기 쉽습니다."
+        },
+        {
+          "part": "latest AI advancements",
+          "why_kr": "'latest'의 't'가 거의 들리지 않거나 약하게 발음될 수 있으며, 'AI'와 'advancements'가 빠르게 연결될 때 [레이티스트 에이아이 어드밴스먼츠]가 아닌 [레이티스 에이아이 어드밴스먼츠]처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "up-to-date",
+          "meaning_kr": "최신 정보를 아는"
+        },
+        {
+          "word": "AI advancements",
+          "meaning_kr": "AI 발전/진보"
+        }
+      ]
+    }
+  ]
+}
