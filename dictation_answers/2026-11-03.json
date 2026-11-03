@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-03 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The company's sales increased last quarter due to strong demand.",
+      "translation_kr": "회사의 매출은 강한 수요 덕분에 지난 분기에 증가했습니다.",
+      "tricky_parts": [
+        {
+          "part": "sales increased",
+          "why_kr": "단어 끝 's'와 다음 단어 'in'이 연결되어 '세일즈인크리스트'처럼 들릴 수 있어 학습자가 구분하기 어렵습니다."
+        },
+        {
+          "part": "last quarter",
+          "why_kr": "'last'의 't' 소리가 약화되거나 다음 단어 'quarter'와 연결되어 '라스쿼터'처럼 들려 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "sales",
+          "meaning_kr": "매출"
+        },
+        {
+          "word": "demand",
+          "meaning_kr": "수요"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Our financial team is analyzing market trends to optimize investment strategies.",
+      "translation_kr": "우리 재무팀은 투자 전략을 최적화하기 위해 시장 동향을 분석하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "analyzing market",
+          "why_kr": "'analyzing'의 'z'와 'market'의 'k'가 빠르게 이어지며 소리가 뭉개지거나 혼동될 수 있습니다."
+        },
+        {
+          "part": "investment strategies",
+          "why_kr": "'investment'의 't'가 거의 들리지 않고, 'strategies'의 복수형 's' 발음이 약화될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "market trends",
+          "meaning_kr": "시장 동향"
+        },
+        {
+          "word": "optimize",
+          "meaning_kr": "최적화하다"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "Global equity markets rose by 1.5% yesterday, influenced by positive economic data.",
+      "translation_kr": "전 세계 주식 시장은 긍정적인 경제 데이터에 힘입어 어제 1.5% 상승했습니다.",
+      "tricky_parts": [
+        {
+          "part": "equity markets",
+          "why_kr": "'equity'의 'y' 소리와 'markets'의 'm'이 이어지고, 'markets'의 마지막 'ts' 소리가 빠르게 지나가면 놓치기 쉽습니다."
+        },
+        {
+          "part": "influenced by",
+          "why_kr": "'influenced'의 'd' 소리가 거의 나지 않거나 'by'와 연결되어 '인플루엔스드바이'가 아닌 '인플루엔스바이'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "equity markets",
+          "meaning_kr": "주식 시장"
+        },
+        {
+          "word": "economic data",
+          "meaning_kr": "경제 데이터"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Despite the economic downturn, many businesses are struggling to stay afloat.",
+      "translation_kr": "경기 침체에도 불구하고, 많은 기업들이 살아남기 위해 고군분투하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "economic downturn",
+          "why_kr": "'economic'의 'c'와 'downturn'의 'd'가 빠르게 이어지고, 'downturn'의 'n' 소리가 약화되어 놓칠 수 있습니다."
+        },
+        {
+          "part": "struggling to stay afloat",
+          "why_kr": "'struggling'의 'g' 소리와 'to'가 연결되며, 'stay afloat'라는 관용구 전체의 의미를 파악하는 것이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "downturn",
+          "meaning_kr": "경기 침체"
+        },
+        {
+          "word": "stay afloat",
+          "meaning_kr": "파산하지 않고 유지하다 (어려운 상황에서도 살아남다)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're looking for jobs, you'll find that the tech sector's hiring again.",
+      "translation_kr": "일자리를 찾고 있다면, 기술 부문이 다시 고용을 시작했다는 것을 알게 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "you're looking for",
+          "why_kr": "연음 ('r' 소리)과 'looking'의 'g' 소리 약화가 발생하여 '유어루킹포'처럼 들리며, 빠르게 지나갈 때 의미 파악이 어렵습니다."
+        },
+        {
+          "part": "tech sector's hiring again",
+          "why_kr": "축약형 'sector's'의 's'가 다음 단어 'hiring'과 연결되고, 'hiring again'에서 'again'의 'a'가 약화되어 '하이어링어게인'처럼 들립니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech sector",
+          "meaning_kr": "기술 부문"
+        },
+        {
+          "word": "hiring again",
+          "meaning_kr": "다시 고용하다 (인력을 충원하다)"
+        }
+      ]
+    }
+  ]
+}
