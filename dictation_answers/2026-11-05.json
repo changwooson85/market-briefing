@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-05 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The new smartphone has a better camera and longer battery life.",
+      "translation_kr": "새로운 스마트폰은 더 좋은 카메라와 더 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "smartphone",
+          "why_kr": "'p'와 'b' 발음의 미묘한 차이와 'o' 발음이 'a'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "better",
+          "why_kr": "'t' 발음이 'ㄹ'처럼 플랩 사운드로 약하게 들립니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'y'와 'l' 사이의 연음, 그리고 't' 발음이 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "Our team is developing innovative software solutions for enterprise clients worldwide.",
+      "translation_kr": "우리 팀은 전 세계 기업 고객을 위한 혁신적인 소프트웨어 솔루션을 개발하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "innovative",
+          "why_kr": "'v' 발음이 'b'처럼 들릴 수 있고, 첫 'o'가 약하게 발음됩니다."
+        },
+        {
+          "part": "software solutions",
+          "why_kr": "'re'와 'so' 사이의 연음과 's' 발음이 혼동될 수 있습니다."
+        },
+        {
+          "part": "enterprise clients",
+          "why_kr": "'se'와 'cl' 사이의 연음이 어려울 수 있고, 'cl' 발음이 한국어에 익숙하지 않습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "enterprise clients",
+          "meaning_kr": "기업 고객"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "Analysts predict AI advancements will boost global tech market revenue by 15% in 2027.",
+      "translation_kr": "분석가들은 AI 발전이 2027년까지 전 세계 기술 시장 수익을 15% 증가시킬 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts predict",
+          "why_kr": "'s'와 'p' 사이의 연음, 그리고 'd' 발음이 약하게 처리될 수 있습니다."
+        },
+        {
+          "part": "advancements will",
+          "why_kr": "'s'와 'w' 사이의 연음, 그리고 't'가 거의 묵음처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "revenue by",
+          "why_kr": "'v' 발음이 약하거나 'b'로 혼동될 수 있고, 'ue' 발음이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "revenue",
+          "meaning_kr": "수익"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "Many tech startups are trying to hit the ground running with their groundbreaking AI products.",
+      "translation_kr": "많은 기술 스타트업들이 획기적인 AI 제품으로 즉시 작업을 시작하려고 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "startups are",
+          "why_kr": "'s'와 'a' 사이의 연음, 그리고 'r' 발음이 이어질 때 혼동될 수 있습니다."
+        },
+        {
+          "part": "hit the ground running",
+          "why_kr": "'t' 발음이 약해지고, 'd'와 'r' 사이의 연음, 그리고 'ng' 발음 처리가 어렵습니다."
+        },
+        {
+          "part": "groundbreaking",
+          "why_kr": "'d'가 거의 들리지 않고 'g'와 'b' 사이의 연음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hit the ground running",
+          "meaning_kr": "즉시 작업을 시작하다"
+        },
+        {
+          "word": "groundbreaking",
+          "meaning_kr": "획기적인, 혁신적인"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I'm telling you, it'll be tough, but they've secured crucial funding for this project.",
+      "translation_kr": "제가 말씀드리건대, 힘들겠지만, 그들은 이 프로젝트를 위한 중요한 자금을 확보했습니다.",
+      "tricky_parts": [
+        {
+          "part": "I'm telling you",
+          "why_kr": "'I'm'의 축약 발음, 그리고 'ng'와 'y' 사이의 자연스러운 연음 처리가 어렵습니다."
+        },
+        {
+          "part": "it'll be tough",
+          "why_kr": "'it'll'의 축약 발음이 '이럴'처럼 들릴 수 있고, 'gh'가 'f' 발음으로 납니다."
+        },
+        {
+          "part": "they've secured crucial",
+          "why_kr": "'they've'의 축약 발음, 'd' 발음이 약해지고 'cr' 발음이 어렵게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "crucial",
+          "meaning_kr": "매우 중요한, 결정적인"
+        },
+        {
+          "word": "funding",
+          "meaning_kr": "자금 지원"
+        }
+      ]
+    }
+  ]
+}
