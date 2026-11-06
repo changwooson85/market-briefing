@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-06 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new jobs in the current economic climate.",
+      "translation_kr": "많은 사람들이 현재의 경제 상황에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "current economic",
+          "why_kr": "두 단어의 마지막 자음과 첫 모음이 자연스럽게 연결되어 들릴 수 있으며, 'current'의 끝 소리 '-nt'가 약화되거나 'currency'와 혼동될 수 있습니다."
+        },
+        {
+          "part": "climate",
+          "why_kr": "강세가 첫 음절에 있어 '클라이-밋'으로 발음되며, 마지막 'e'는 묵음입니다. 한국어 학습자는 '클라이메이트'처럼 모든 철자를 발음하려는 경향이 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "economic climate",
+          "meaning_kr": "경제 상황"
+        },
+        {
+          "word": "looking for",
+          "meaning_kr": "~을 찾다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company's quarterly earnings exceeded market expectations due to strong sales.",
+      "translation_kr": "그 회사의 분기별 수익은 견조한 판매로 인해 시장 기대를 초과했습니다.",
+      "tricky_parts": [
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'r' 발음과 'ter' 부분이 까다롭고, 'earnings'의 'ea' 발음이 'ir'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "exceeded market",
+          "why_kr": "'exceeded'의 마지막 'd'와 'market'의 첫 'm'이 연결되어 'exceeded-market'처럼 들릴 수 있으며, 'exceeded'와 'accepted'를 혼동하기 쉽습니다."
+        },
+        {
+          "part": "due to",
+          "why_kr": "'to'가 약화되어 /tə/로 발음될 때, 약하게 들리거나 뒤의 단어와 연결되어 모호하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익"
+        },
+        {
+          "word": "market expectations",
+          "meaning_kr": "시장 기대"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Unemployment rates dropped to 3.8% last month, a positive sign for the economy.",
+      "translation_kr": "실업률은 지난달 3.8%로 하락했으며, 이는 경제에 긍정적인 신호입니다.",
+      "tricky_parts": [
+        {
+          "part": "unemployment rates",
+          "why_kr": "'unemployment'는 긴 단어이며 강세가 'ploy'에 있습니다. 'rates'는 'raids'와 소리가 비슷하여 혼동될 수 있습니다."
+        },
+        {
+          "part": "dropped to",
+          "why_kr": "'dropped'의 마지막 'ed' 소리 /t/가 'to'와 연결되어 약하게 들리거나 'dropt-to'처럼 발음될 수 있습니다."
+        },
+        {
+          "part": "3.8%",
+          "why_kr": "숫자와 소수점, 백분율을 영어로 정확하게 듣고 받아쓰는 것이 어려울 수 있습니다 (three point eight percent)."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "unemployment rates",
+          "meaning_kr": "실업률"
+        },
+        {
+          "word": "positive sign",
+          "meaning_kr": "긍정적인 신호"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Investors shouldn't put all their eggs in one basket during this volatile market.",
+      "translation_kr": "투자자들은 이 변동성이 큰 시장에서 모든 달걀을 한 바구니에 담지 않아야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "shouldn't put",
+          "why_kr": "축약형 'shouldn't'의 't'와 'put'이 연결되어 들리며, 'shouldn't'와 'wouldn't'를 혼동하기 쉽습니다."
+        },
+        {
+          "part": "all their eggs",
+          "why_kr": "'all'의 'l'과 'their'가 연결되어 'all-their'처럼 들릴 수 있으며, 'their'의 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "volatile market",
+          "why_kr": "'volatile'은 강세가 첫 음절에 있으며, 한국어 학습자는 '볼라타일'처럼 잘못 발음하거나 듣는 경우가 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "put all their eggs in one basket",
+          "meaning_kr": "모든 달걀을 한 바구니에 담다 (위험을 분산하지 않다)"
+        },
+        {
+          "word": "volatile market",
+          "meaning_kr": "변동성이 큰 시장"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're looking for work, you'll find great opportunities in tech; they've got plenty.",
+      "translation_kr": "일자리를 찾고 있다면, 기술 분야에서 훌륭한 기회를 찾을 수 있을 거예요; 아주 많아요.",
+      "tricky_parts": [
+        {
+          "part": "If you're",
+          "why_kr": "축약형 'you're'가 빠르게 발음될 때 'if'와 연결되어 'if-you're'처럼 들리며, 'f'와 'y' 소리 때문에 불분명하게 들릴 수 있습니다."
+        },
+        {
+          "part": "you'll find",
+          "why_kr": "'you'll'의 'll' 소리가 빠르게 약화되어 거의 들리지 않거나, 'yoo-l-find'처럼 연결되어 발음될 수 있습니다."
+        },
+        {
+          "part": "they've got plenty",
+          "why_kr": "축약형 'they've'의 'v' 소리가 'got'과 연결되고, 'plenty'의 'ty' 부분이 약화되어 'plen-ee'처럼 들릴 수 있어 정확한 파악이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "opportunities in tech",
+          "meaning_kr": "기술 분야의 기회"
+        },
+        {
+          "word": "plenty",
+          "meaning_kr": "많이, 풍부하게"
+        }
+      ]
+    }
+  ]
+}
