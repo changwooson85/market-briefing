@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-07 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I really enjoyed the delicious homemade pasta my friend cooked last night for dinner.",
+      "translation_kr": "저는 어젯밤 친구가 저녁으로 만들어준 맛있는 수제 파스타를 정말 즐겁게 먹었어요.",
+      "tricky_parts": [
+        {
+          "part": "enjoyed the",
+          "why_kr": "'enjoyed'의 'd'와 'the'가 연음되어 하나의 소리처럼 들릴 수 있습니다. (엔조이드 더 -> 엔조이ㄷ더)"
+        },
+        {
+          "part": "homemade",
+          "why_kr": "두 음절 모두 강세가 있는 복합어이며, 'o' 발음이 길게 나는 것에 주의해야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "homemade",
+          "meaning_kr": "수제의, 집에서 만든"
+        },
+        {
+          "word": "pasta",
+          "meaning_kr": "파스타"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "We need to finalize our travel itinerary for the upcoming conference by Friday afternoon.",
+      "translation_kr": "우리는 다가오는 컨퍼런스를 위한 여행 일정을 금요일 오후까지 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "finalize our",
+          "why_kr": "'finalize'의 'ze' 소리와 'our'가 연음되어 마치 한 단어처럼 빠르게 들릴 수 있습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "음절이 많고 강세 위치(it-TIN-er-ar-y)가 한국어에 익숙하지 않아 발음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "upcoming conference",
+          "why_kr": "'upcoming'의 'ing'와 'conference'의 'c'가 빠르게 연결되어 발음될 때 모호하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "최종 결정하다, 마무리 짓다"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "The city's public health department reported a significant decrease in flu cases as of October 25th.",
+      "translation_kr": "시 보건국은 10월 25일 기준으로 독감 사례의 상당한 감소를 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "public health",
+          "why_kr": "'public'의 'c'와 'health'의 'h'가 연음되며, 특히 'th' 발음이 한국 학습자에게 어렵게 들릴 수 있습니다."
+        },
+        {
+          "part": "significant decrease",
+          "why_kr": "'significant'의 'nt' 발음이 약화되거나 생략될 수 있으며, 'decrease'와 빠르게 연결될 수 있습니다."
+        },
+        {
+          "part": "as of October 25th",
+          "why_kr": "'as of'가 빠르게 연음되고, 날짜 '25th'의 'th' 발음은 한국어에 없어 익숙하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "department",
+          "meaning_kr": "부서, (정부의) 국"
+        },
+        {
+          "word": "significant",
+          "meaning_kr": "상당한, 중요한"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "After a long day, she decided to take it easy and just binge-watch her favorite show.",
+      "translation_kr": "긴 하루를 보낸 후, 그녀는 쉬엄쉬엄하기로 결정하고 좋아하는 프로그램을 몰아보기로 했습니다.",
+      "tricky_parts": [
+        {
+          "part": "take it easy",
+          "why_kr": "'take'의 'k'와 'it'의 'i', 'it'의 't'와 'easy'의 'ea'가 연음되어 한 덩어리처럼 들립니다. (숙어이기도 함)"
+        },
+        {
+          "part": "decided to",
+          "why_kr": "'decided'의 'd'와 'to'의 't'가 연음될 때 't' 발음이 'd' 발음으로 바뀌거나 약화될 수 있습니다."
+        },
+        {
+          "part": "binge-watch",
+          "why_kr": "두 단어가 결합된 표현으로, 'binge'의 'ge'와 'watch'의 'wa'가 빠르게 연결됩니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "take it easy",
+          "meaning_kr": "쉬엄쉬엄하다, 편하게 지내다"
+        },
+        {
+          "word": "binge-watch",
+          "meaning_kr": "(드라마 등을) 몰아보다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge (natural fast speech)",
+      "text": "If you're ever in Japan, you've gotta try their local ramen; it's unbelievably good!",
+      "translation_kr": "일본에 오게 되면, 그곳의 현지 라멘을 꼭 먹어봐야 해; 믿을 수 없을 정도로 맛있어!",
+      "tricky_parts": [
+        {
+          "part": "you're ever",
+          "why_kr": "'you're' (you are)의 축약형과 'ever'가 빠르게 연음되어 정확한 발음을 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "you've gotta",
+          "why_kr": "'you've' (you have) 축약형과 'got to'의 구어체인 'gotta'의 빠른 발음과 연음을 놓치기 쉽습니다."
+        },
+        {
+          "part": "it's unbelievably",
+          "why_kr": "'it's' (it is)의 축약형과 'unbelievably'처럼 긴 단어가 빠르게 이어질 때, 강세와 음절을 정확히 파악하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "gotta (have got to)",
+          "meaning_kr": "~해야 한다 (구어체)"
+        },
+        {
+          "word": "unbelievably",
+          "meaning_kr": "믿을 수 없을 정도로"
+        }
+      ]
+    }
+  ]
+}
