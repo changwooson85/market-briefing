@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-11 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually have a light breakfast with fruit and coffee every morning.",
+      "translation_kr": "저는 보통 매일 아침 과일과 커피로 가벼운 아침 식사를 합니다.",
+      "tricky_parts": [
+        {
+          "part": "usually have a",
+          "why_kr": "세 단어가 빠르게 이어지며 /juʒəli havə/처럼 들릴 수 있습니다. 'have a'의 연음 발음도 주의해야 합니다."
+        },
+        {
+          "part": "breakfast with",
+          "why_kr": "'t' 발음이 약화되거나 생략될 수 있고, 'with'와 연결될 때 /θ/ 소리가 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "light breakfast",
+          "meaning_kr": "가벼운 아침식사"
+        },
+        {
+          "word": "every morning",
+          "meaning_kr": "매일 아침"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Our team is planning a business trip to review project progress next quarter.",
+      "translation_kr": "우리 팀은 다음 분기에 프로젝트 진행 상황을 검토하기 위해 출장을 계획 중입니다.",
+      "tricky_parts": [
+        {
+          "part": "planning a business",
+          "why_kr": "'planning'의 /ŋ/ 발음이 'a'와 이어지고, 'business'의 /s/ 발음이 /z/처럼 들릴 수 있어 주의가 필요합니다."
+        },
+        {
+          "part": "project progress",
+          "why_kr": "두 단어 모두 'pr' 소리로 시작하여 혼동될 수 있으며, 'progress'의 첫 'o' 발음은 /ɑː/ 또는 /oʊ/로 다양하게 발음될 수 있습니다."
+        },
+        {
+          "part": "next quarter",
+          "why_kr": "'next'의 't' 발음이 약화되거나 생략되어 'nex'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "business trip",
+          "meaning_kr": "출장"
+        },
+        {
+          "word": "next quarter",
+          "meaning_kr": "다음 분기"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced intermediate",
+      "text": "A recent study revealed that daily exercise significantly reduces the risk of chronic diseases.",
+      "translation_kr": "최근 연구에 따르면 매일 운동하는 것이 만성 질환의 위험을 크게 줄이는 것으로 나타났습니다.",
+      "tricky_parts": [
+        {
+          "part": "revealed that",
+          "why_kr": "'revealed'의 /d/와 'that'의 /ð/가 이어지면서 /dð/ 소리가 자연스럽게 연결될 때 인지하기 어려울 수 있습니다."
+        },
+        {
+          "part": "significantly reduces",
+          "why_kr": "두 단어 모두 모음과 자음이 복합적으로 나타나 발음이 길고, 'significantly'의 'gn'과 'reduces'의 'du' 부분에서 혼동이 있을 수 있습니다."
+        },
+        {
+          "part": "chronic diseases",
+          "why_kr": "'chronic'의 /k/ 소리와 'diseases'의 /zɪz/ 발음이 연속될 때 정확히 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "chronic diseases",
+          "meaning_kr": "만성 질환"
+        },
+        {
+          "word": "significantly reduces",
+          "meaning_kr": "크게 줄이다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "After a long discussion, they finally saw eye to eye on the vacation plans.",
+      "translation_kr": "긴 논의 끝에, 그들은 마침내 휴가 계획에 대해 의견이 일치했습니다.",
+      "tricky_parts": [
+        {
+          "part": "saw eye to eye",
+          "why_kr": "관용구 'see eye to eye'의 발음 자체가 특이하며, 특히 'saw'와 'eye'의 연음 발음이 빠르게 이어질 때 인지하기 어렵습니다. 'saw'와 'sore'처럼 비슷하게 들릴 수도 있습니다."
+        },
+        {
+          "part": "discussion, they",
+          "why_kr": "'discussion'의 끝에 오는 /n/ 소리가 'they'와 연결될 때 부드럽게 이어지면서 '디스커션데이'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "vacation plans",
+          "why_kr": "'plans'의 끝에 오는 /z/ 발음이 종종 약하게 들리거나 생략될 수 있어 주의가 필요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "saw eye to eye",
+          "meaning_kr": "의견이 일치하다"
+        },
+        {
+          "word": "discussion",
+          "meaning_kr": "논의"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're going abroad next month; it'll be a fantastic experience.",
+      "translation_kr": "다음 달에 해외로 나가신다고 들었어요; 환상적인 경험이 될 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard",
+          "why_kr": "축약형 'I've'의 /aɪv/ 소리가 빠르게 지나가고, 'heard'의 'h' 소리가 약하게 들릴 수 있어 '아이벌드'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "you're going abroad",
+          "why_kr": "축약형 'you're'와 'going'의 연음 발음, 그리고 'going'의 /ŋ/ 소리가 'abroad'와 연결될 때 원어민의 빠른 연음으로 인해 인지하기 어려울 수 있습니다."
+        },
+        {
+          "part": "it'll be",
+          "why_kr": "축약형 'it'll'의 /ɪtəl/ 소리가 'it will'과는 매우 다르게 발음되며, 빠르게 지나가기 때문에 주의 깊게 들어야 합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "going abroad",
+          "meaning_kr": "해외로 나가다"
+        },
+        {
+          "word": "fantastic experience",
+          "meaning_kr": "환상적인 경험"
+        }
+      ]
+    }
+  ]
+}
