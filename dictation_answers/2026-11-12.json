@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-12 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has a really great camera and a long battery life.",
+      "translation_kr": "제 새 스마트폰은 정말 좋은 카메라와 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "really great",
+          "why_kr": "두 단어가 자연스럽게 연결되어 '리얼리 그레잇'보다는 '리얼리 그레잍'처럼 들릴 수 있습니다. 특히 'ly' 뒤의 'g' 소리가 이어집니다."
+        },
+        {
+          "part": "battery life",
+          "why_kr": "'battery'의 't' 소리가 부드러운 'ㄹ' 발음(flapping 't')으로 변하고, 'life'의 'f' 소리를 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "The company announced its plan to integrate AI technology into all future products.",
+      "translation_kr": "그 회사는 모든 미래 제품에 AI 기술을 통합할 계획을 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced its",
+          "why_kr": "'announced'의 'd'와 'its'의 'i'가 연결되어 '어넌스트 이츠'보다 '어넌스티츠'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "integrate AI",
+          "why_kr": "'integrate'의 마지막 'e' 소리가 거의 나지 않고, 'AI'와 자연스럽게 연결됩니다. '인터그레이트 에이아이'가 아닌 '인터그레이러이아이'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "integrate",
+          "meaning_kr": "통합하다, 합치다"
+        },
+        {
+          "word": "technology",
+          "meaning_kr": "기술"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "Global tech giant 'Innovatech' reported a 15% increase in AI software sales this quarter.",
+      "translation_kr": "글로벌 기술 대기업 '이노베이테크'는 이번 분기에 AI 소프트웨어 판매가 15% 증가했다고 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "tech giant",
+          "why_kr": "'tech'의 'k'와 'giant'의 'g'가 연결되어 '텍 자이언트'보다 '텍자이언트'처럼 자연스럽게 들립니다."
+        },
+        {
+          "part": "reported a",
+          "why_kr": "'reported'의 'd'와 'a'가 연결되어 '리포티드 어'보다 '리포티더'처럼 들릴 수 있습니다. 특히 't'가 'd'처럼 발음될 수 있습니다."
+        },
+        {
+          "part": "increase in",
+          "why_kr": "'increase'의 마지막 's' 소리와 'in'의 'i'가 연결되어 '인크리스 인'보다 '인크리스인'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tech giant",
+          "meaning_kr": "기술 대기업"
+        },
+        {
+          "word": "software sales",
+          "meaning_kr": "소프트웨어 판매"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "Tech companies are scrambling to keep up with the rapid pace of AI innovation.",
+      "translation_kr": "기술 기업들은 AI 혁신의 빠른 속도를 따라잡기 위해 분주히 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "scrambling to",
+          "why_kr": "'scrambling'의 'ng' 사운드와 'to'가 연결되어 '스크램블링 투'보다 '스크램블링우'처럼 들리며, 'to'의 모음이 약하게 발음됩니다."
+        },
+        {
+          "part": "keep up with",
+          "why_kr": "세 단어가 빠르게 연결되어 '킵 업 위드'가 아닌 '키법윗'처럼 들릴 수 있습니다. 특히 'up'과 'with'의 'w' 소리가 연음됩니다."
+        },
+        {
+          "part": "rapid pace",
+          "why_kr": "'rapid'의 'd' 소리가 약하게 나거나 'p' 소리와 연결되어 '래피드 페이스'보다 '래핏페이스'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "scrambling",
+          "meaning_kr": "허둥지둥 움직이다, 분주히 노력하다"
+        },
+        {
+          "word": "innovation",
+          "meaning_kr": "혁신"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've confirmed it's essential you're updating your phone's OS to prevent security breaches.",
+      "translation_kr": "그들은 보안 침해를 막기 위해 휴대폰의 운영 체제를 업데이트하는 것이 필수적이라고 확인했습니다.",
+      "tricky_parts": [
+        {
+          "part": "They've confirmed it's",
+          "why_kr": "세 개의 축약형과 연음이 빠르게 이어져 '데이프 컨펌드 이츠'가 아닌 '데입컨펌딧츠'처럼 들릴 수 있습니다. 'd'와 'i' 소리 연결, 't' 소리의 약화에 주의해야 합니다."
+        },
+        {
+          "part": "essential you're",
+          "why_kr": "'essential'의 마지막 'l' 소리와 'you're'가 연결되어 '이센셜 유어'보다 '이센셜유어'처럼 들립니다. 'you're'의 'r' 소리도 종종 생략되거나 약화됩니다."
+        },
+        {
+          "part": "security breaches",
+          "why_kr": "'security'의 'r' 소리와 'y' 소리, 그리고 'breaches'의 'ch' 소리와 's' 소리가 복합적으로 나타나 발음이 어렵습니다. '시큐리티 브리치스'를 빠르게 말하면 '시큐리티브리취스'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "essential",
+          "meaning_kr": "필수적인, 본질적인"
+        },
+        {
+          "word": "security breaches",
+          "meaning_kr": "보안 침해"
+        }
+      ]
+    }
+  ]
+}
