@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-13 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new jobs in the current market situation.",
+      "translation_kr": "많은 사람들이 현재 시장 상황에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "are looking",
+          "why_kr": "'are'는 종종 약하게 발음되거나 축약되어 잘 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "current market",
+          "why_kr": "'current'의 't' 발음이 약화되거나 다음 단어 'market'과 연결되어 모호하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "current",
+          "meaning_kr": "현재의"
+        },
+        {
+          "word": "market situation",
+          "meaning_kr": "시장 상황"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company reported strong quarterly earnings, exceeding analyst expectations.",
+      "translation_kr": "그 회사는 분석가들의 예상을 뛰어넘는 강력한 분기별 수익을 보고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "reported strong",
+          "why_kr": "'reported'의 'd'가 'strong'의 's'와 연결되어 '티드 스트롱'이 아닌 '리포티드 스트롱'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "analyst expectations",
+          "why_kr": "'analyst'의 't'가 거의 발음되지 않고 's'가 'expectations'의 'e'와 연결되어 '애널리스트 익스펙테이션즈' 대신 '애널리시 익스펙테이션즈'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 수익"
+        },
+        {
+          "word": "exceeding",
+          "meaning_kr": "초과하는"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The stock market saw a 1.5% increase by closing time on October 25th.",
+      "translation_kr": "주식 시장은 10월 25일 마감 시간까지 1.5% 상승을 보였습니다.",
+      "tricky_parts": [
+        {
+          "part": "stock market saw",
+          "why_kr": "'stock'의 'k'와 'market'의 't'가 각각 다음 단어와 연음되어 '스탁 마켓 소' 대신 '스탁마켓 쏘'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "1.5% increase",
+          "why_kr": "소수점 'point'를 놓치거나 '%(percent)'와 'increase'가 연음되어 '퍼센트 인크리스'가 아닌 '퍼센틴크리스'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "25th",
+          "why_kr": "영어의 'th' 발음은 한국어에는 없는 소리로, 특히 숫자에 붙을 때 정확히 듣고 구분하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "closing time",
+          "meaning_kr": "마감 시간"
+        },
+        {
+          "word": "increase",
+          "meaning_kr": "증가"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Businesses need to tighten their belts during this economic downturn period.",
+      "translation_kr": "기업들은 이 경기 침체기에 허리띠를 졸라맬 필요가 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "tighten their belts",
+          "why_kr": "'tighten'의 'gh'는 묵음이고, 'their'의 'th' 발음은 어려우며, 'belts'의 'ts' 발음이 약화되어 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "economic downturn",
+          "why_kr": "'economic'의 'c'와 'downturn'의 'd'가 연결되어 발음될 수 있으며, 'down' 발음이 빠르게 지나갈 때 놓치기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tighten their belts",
+          "meaning_kr": "허리띠를 졸라매다 (절약하다)"
+        },
+        {
+          "word": "economic downturn",
+          "meaning_kr": "경기 침체"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard they're not hiring much; it'll be tough to land a job.",
+      "translation_kr": "그들이 많이 고용하고 있지 않다고 들었어요. 일자리를 구하기 어려울 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard they're",
+          "why_kr": "세 단어 모두 축약형이고 연음이 발생하여 '아이브 허드 데얼'이 아닌 '아이비얼 데얼'처럼 빠르게 이어져 들릴 수 있습니다."
+        },
+        {
+          "part": "it'll be tough",
+          "why_kr": "'it'll' 축약형 발음이 빠르게 지나가기 쉽고, 't' 발음이 거의 들리지 않거나 약화되어 '이럴 비 터프'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "land a job",
+          "why_kr": "'land'의 'd'가 'a'와 연음되어 '랜더 잡'처럼 들리며, 'd' 발음이 약해질 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "land a job",
+          "meaning_kr": "일자리를 얻다/구하다"
+        },
+        {
+          "word": "tough",
+          "meaning_kr": "힘든, 어려운"
+        }
+      ]
+    }
+  ]
+}
