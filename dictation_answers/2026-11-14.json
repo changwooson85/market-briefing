@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-14 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually enjoy cooking healthy meals at home with fresh ingredients.",
+      "translation_kr": "저는 보통 신선한 재료로 집에서 건강한 식사를 요리하는 것을 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'u' 사운드가 'ju'처럼 발음되고, 's'가 'z' 소리로 연결되어 한국 학습자들이 혼동하기 쉽습니다."
+        },
+        {
+          "part": "healthy meals",
+          "why_kr": "'th' 발음과 'l' 발음이 명확하지 않으면 'healthy'와 'meals'의 연결이 어렵게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "ingredients",
+          "meaning_kr": "재료"
+        },
+        {
+          "word": "healthy",
+          "meaning_kr": "건강한"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The upcoming team retreat should include some effective wellness workshops for everyone's benefit.",
+      "translation_kr": "다가오는 팀 워크숍에는 모두의 이익을 위한 효과적인 웰니스 워크숍이 포함되어야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "upcoming",
+          "why_kr": "'up'과 'coming'이 빠르게 이어질 때 'p' 사운드가 약화되거나 'b'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "retreat should",
+          "why_kr": "'t' 발음이 약하고 'should'와 연결될 때 소리가 뭉개질 수 있습니다."
+        },
+        {
+          "part": "wellness workshops",
+          "why_kr": "'w' 발음과 's' 발음이 연속으로 이어져 정확한 발음과 구별이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "retreat",
+          "meaning_kr": "워크숍, 수련회 (여기서는 회사 워크숍 의미)"
+        },
+        {
+          "word": "wellness workshops",
+          "meaning_kr": "웰니스 워크숍"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Health experts today advised daily walks and balanced nutrition for preventing chronic illnesses among adults.",
+      "translation_kr": "건강 전문가들은 오늘 성인들의 만성 질환 예방을 위해 매일 걷기와 균형 잡힌 영양 섭취를 권고했습니다.",
+      "tricky_parts": [
+        {
+          "part": "advised daily",
+          "why_kr": "'d'와 'd'가 연달아 나오며 앞의 'd'가 약화되거나 연결되어 한 단어처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "nutrition for preventing",
+          "why_kr": "'n'과 'f' 발음, 그리고 'v' 발음이 복합적으로 나타나 정확한 발음과 연결이 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "chronic illnesses",
+          "meaning_kr": "만성 질환"
+        },
+        {
+          "word": "nutrition",
+          "meaning_kr": "영양"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "Before our trip, we need to hammer out the details for accommodation and transportation.",
+      "translation_kr": "여행 전에 숙박과 교통편에 대한 세부 사항을 결정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "hammer out",
+          "why_kr": "구동사 'hammer out'의 의미를 모르거나, 'r'과 'o'가 연결되어 '해머아웃'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "accommodation",
+          "why_kr": "모음과 자음이 반복되는 긴 단어로, 정확한 강세와 철자를 파악하기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "hammer out",
+          "meaning_kr": "합의를 이끌어내다, 해결하다"
+        },
+        {
+          "word": "accommodation",
+          "meaning_kr": "숙박시설, 숙소"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard it's a great spot to grab a quick bite before you head out.",
+      "translation_kr": "그곳은 나가기 전에 간단하게 요기하기 좋은 곳이라고 들었어요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard it's",
+          "why_kr": "세 단어가 빠르게 연결되고 ('v'와 'h' 발음이 약화), 'd'와 'i'가 이어져 마치 한 단어처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "grab a quick bite",
+          "why_kr": "'b'와 'a'가 연결되고, 'ck' 소리가 빠르게 이어져 '그랩 어 퀵 바이트'처럼 명확하게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "head out",
+          "why_kr": "'h' 소리가 약하거나 거의 들리지 않고, 'd'와 'ou'가 연결되어 '헤다웃'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "grab a quick bite",
+          "meaning_kr": "간단히 요기하다, 빨리 먹다"
+        },
+        {
+          "word": "head out",
+          "meaning_kr": "나가다, 떠나다"
+        }
+      ]
+    }
+  ]
+}
