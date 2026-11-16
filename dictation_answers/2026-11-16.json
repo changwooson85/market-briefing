@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-16 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has a really impressive camera.",
+      "translation_kr": "제 새 스마트폰은 정말 인상적인 카메라를 가지고 있어요.",
+      "tricky_parts": [
+        {
+          "part": "impressive",
+          "why_kr": "'im' 부분의 강세가 약하고, 'ss' 발음이 'z'처럼 들리거나 놓치기 쉬울 수 있습니다."
+        },
+        {
+          "part": "camera",
+          "why_kr": "중간 모음 'e'가 약하게 발음되어 'cam-ra'처럼 들리기 때문에 '카메라' 전체를 명확히 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "impressive",
+          "meaning_kr": "인상적인"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company announced its quarterly earnings report for the software division.",
+      "translation_kr": "그 회사는 소프트웨어 부문의 분기별 실적 보고서를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced its",
+          "why_kr": "'d'와 'i'가 자연스럽게 연결되어 '어넌스딧츠'처럼 들릴 수 있어 'its'를 놓치기 쉽습니다."
+        },
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'와 'earnings'의 'er' 발음이 유사하고, 연음으로 인해 정확한 구분이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly earnings",
+          "meaning_kr": "분기별 실적"
+        },
+        {
+          "word": "software division",
+          "meaning_kr": "소프트웨어 부문"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Experts predict AI will significantly impact various industries by 2030.",
+      "translation_kr": "전문가들은 AI가 2030년까지 다양한 산업에 상당한 영향을 미칠 것이라고 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "experts predict",
+          "why_kr": "'ts'와 'p'가 연결되어 '엑스퍼츠프리딕트'처럼 발음될 때, '츠프' 발음이 뭉개져 들릴 수 있습니다."
+        },
+        {
+          "part": "significantly impact",
+          "why_kr": "'significantly'의 약화된 모음과 'impact'의 강세가 만나 발음이 다소 빠르게 지나갈 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "significantly",
+          "meaning_kr": "상당히, 현저하게"
+        },
+        {
+          "word": "impact",
+          "meaning_kr": "영향을 미치다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "includes an idiom or phrasal verb",
+      "text": "Many startups are trying to catch on to the latest AI trends.",
+      "translation_kr": "많은 스타트업들이 최신 AI 트렌드를 따라잡으려 노력하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "catch on to",
+          "why_kr": "'catch on to'가 하나의 구동사로 빠르게 발음될 때, 각 단어의 경계가 불분명해지고 '투'가 '트'로 약화될 수 있습니다."
+        },
+        {
+          "part": "latest AI trends",
+          "why_kr": "'latest'의 't' 사운드와 'AI'가 연결되어 '레이티스타이'처럼 들릴 수 있고, 'trends'의 'ds' 사운드가 명확하게 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "startups",
+          "meaning_kr": "신생 기업, 스타트업"
+        },
+        {
+          "word": "catch on to",
+          "meaning_kr": "~을 이해하다, ~을 따라잡다, ~에 적응하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "They've just launched a new wearable device; it'll revolutionize health tracking.",
+      "translation_kr": "그들은 방금 새로운 웨어러블 기기를 출시했어요; 그것이 건강 추적을 혁신할 거예요.",
+      "tricky_parts": [
+        {
+          "part": "They've just launched",
+          "why_kr": "They've의 v와 just의 j가 연결되고, launched의 d가 거의 들리지 않으며 '런치트'처럼 빠르게 발음되어 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "wearable device",
+          "why_kr": "'wearable'의 끝 'le'와 'device'가 연결되어 '웨어러블디바이스'처럼 들리며, 'd' 발음이 약해질 수 있습니다."
+        },
+        {
+          "part": "it'll revolutionize",
+          "why_kr": "'it'll'의 연음과 빠르게 발음되는 'revolutionize'의 'v'와 'z' 소리가 연결되어 혼동하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "wearable device",
+          "meaning_kr": "웨어러블 기기"
+        },
+        {
+          "word": "revolutionize",
+          "meaning_kr": "혁신하다, 혁명적으로 바꾸다"
+        }
+      ]
+    }
+  ]
+}
