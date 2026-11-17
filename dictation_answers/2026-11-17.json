@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-17 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many companies are hiring new staff to expand their business.",
+      "translation_kr": "많은 회사들이 사업 확장을 위해 신입 직원을 채용하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "companies are",
+          "why_kr": "두 단어의 소리가 연결되어 '캄파니스 아'처럼 들릴 수 있으며, 특히 's'와 'a'가 이어집니다."
+        },
+        {
+          "part": "hiring new",
+          "why_kr": "'hiring'의 '-ing' 끝소리 'g'가 약해지거나 생략되어 '하이린 뉴'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "staff",
+          "meaning_kr": "직원, 인력"
+        },
+        {
+          "word": "expand",
+          "meaning_kr": "확장하다"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The stock market saw a significant rebound yesterday due to positive economic data.",
+      "translation_kr": "긍정적인 경제 지표 덕분에 어제 주식 시장이 상당한 반등을 보였습니다.",
+      "tricky_parts": [
+        {
+          "part": "saw a significant",
+          "why_kr": "'saw a'가 연음되어 '소어'처럼 들릴 수 있으며, 'significant'는 모음이 많아 음절 강세와 발음이 어렵습니다."
+        },
+        {
+          "part": "due to",
+          "why_kr": "빠르게 발음될 때 '듀 투'가 아닌 '듀러' 또는 '두러'처럼 약화되어 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "rebound",
+          "meaning_kr": "반등"
+        },
+        {
+          "word": "economic data",
+          "meaning_kr": "경제 지표"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Analysts predict a 2.5% growth in GDP for the third quarter of this year.",
+      "translation_kr": "분석가들은 올해 3분기 GDP 2.5% 성장을 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts predict a",
+          "why_kr": "'Analysts'의 's'와 't' 발음이 모호하거나 생략될 수 있으며, 'predict a'는 연음되어 '프레딕터'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "growth in",
+          "why_kr": "'growth'의 'th' 소리와 'in'의 'i'가 만나 어색하게 들리거나 'th' 소리를 놓치기 쉽습니다."
+        },
+        {
+          "part": "third quarter",
+          "why_kr": "'third'의 'd' 소리와 'quarter'의 'q' 소리가 연결될 때 '서드 쿼터' 대신 빠르게 '써드쿼터'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "Analysts",
+          "meaning_kr": "분석가"
+        },
+        {
+          "word": "GDP",
+          "meaning_kr": "국내총생산"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite initial setbacks, the startup managed to break even by year-end.",
+      "translation_kr": "초기 난관에도 불구하고, 그 스타트업은 연말까지 손익분기점에 도달했습니다.",
+      "tricky_parts": [
+        {
+          "part": "initial setbacks",
+          "why_kr": "'initial'의 'sh' 소리와 'setbacks'의 's'와 'b'가 이어지는 자음군이 발음하기 까다롭습니다."
+        },
+        {
+          "part": "managed to",
+          "why_kr": "'managed'의 끝 소리가 약해지고 'to'가 '터'로 약화되어 '매니지드터'처럼 빠르게 들릴 수 있습니다."
+        },
+        {
+          "part": "break even",
+          "why_kr": "관용구 자체의 의미를 모르면 문맥 파악이 어렵고, '브레이크 이븐'이 자연스럽게 연음될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "setbacks",
+          "meaning_kr": "난관, 차질"
+        },
+        {
+          "word": "break even",
+          "meaning_kr": "손익분기점에 도달하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "If you're investing in stocks, you'll need to keep up with market trends.",
+      "translation_kr": "주식에 투자한다면, 시장 동향을 계속 파악해야 할 겁니다.",
+      "tricky_parts": [
+        {
+          "part": "If you're investing",
+          "why_kr": "'If you're'는 축약과 연음으로 '이퓨어'처럼 들릴 수 있고, 'investing'의 'v'와 '-ing'의 'g'가 약해지기 쉽습니다."
+        },
+        {
+          "part": "you'll need to",
+          "why_kr": "'you'll'은 축약되어 '율'처럼 발음되고, 'need to'는 '니드터'로 약화되면서 빠르게 이어집니다."
+        },
+        {
+          "part": "keep up with",
+          "why_kr": "'keep up'과 'up with' 사이에서 소리 연결이 발생하고, 'with'의 'th' 소리가 약해지거나 다음 단어와 이어질 때 변화하기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing",
+          "meaning_kr": "투자하다"
+        },
+        {
+          "word": "market trends",
+          "meaning_kr": "시장 동향"
+        }
+      ]
+    }
+  ]
+}
