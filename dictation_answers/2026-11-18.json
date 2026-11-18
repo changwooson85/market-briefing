@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-18 (Wed)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I usually enjoy cooking healthy meals at home with fresh ingredients.",
+      "translation_kr": "저는 보통 신선한 재료로 집에서 건강한 식사를 요리하는 것을 즐깁니다.",
+      "tricky_parts": [
+        {
+          "part": "usually",
+          "why_kr": "'s' 소리가 '즈'로 발음되어 들리지 않거나 착각하기 쉽습니다."
+        },
+        {
+          "part": "healthy meals",
+          "why_kr": "'healthy'의 'th'와 'meals'의 'm' 사이의 연결 발음이 어렵고, 'y' 소리가 약하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "ingredients",
+          "meaning_kr": "재료"
+        },
+        {
+          "word": "healthy",
+          "meaning_kr": "건강한"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "For our next business trip, we need to finalize the travel itinerary by Friday.",
+      "translation_kr": "다음 출장을 위해 금요일까지 여행 일정을 확정해야 합니다.",
+      "tricky_parts": [
+        {
+          "part": "business trip",
+          "why_kr": "'business'의 'ss'와 'trip'의 't' 사이의 소리가 연결되어 's' 소리가 약하게 들릴 수 있습니다."
+        },
+        {
+          "part": "finalize",
+          "why_kr": "'f' 발음은 한국어에는 없는 소리이므로 정확히 듣고 구분하기 어렵습니다."
+        },
+        {
+          "part": "itinerary",
+          "why_kr": "강세가 없는 음절이 많고 발음이 길어서 전체 단어를 명확히 듣기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "finalize",
+          "meaning_kr": "마무리하다, 확정하다"
+        },
+        {
+          "word": "itinerary",
+          "meaning_kr": "여행 일정"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "A recent study, published on October 25th, highlights the benefits of daily exercise.",
+      "translation_kr": "10월 25일에 발표된 최근 연구는 매일 운동의 이점을 강조합니다.",
+      "tricky_parts": [
+        {
+          "part": "published on",
+          "why_kr": "'published'의 마지막 'd' 소리가 'on'과 연결되거나 약하게 발음되어 놓치기 쉽습니다."
+        },
+        {
+          "part": "October 25th",
+          "why_kr": "날짜와 'th' 발음이 결합되어 정확한 숫자를 파악하고 끝 소리를 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "highlights the",
+          "why_kr": "'s' 소리가 'the'와 연결되면서 'ts' 발음이 약화될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "study",
+          "meaning_kr": "연구"
+        },
+        {
+          "word": "benefits",
+          "meaning_kr": "이점"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Even though we disagree sometimes, we always try to see eye to eye.",
+      "translation_kr": "가끔 의견이 다르더라도, 우리는 항상 서로 의견이 일치하려고 노력합니다.",
+      "tricky_parts": [
+        {
+          "part": "disagree sometimes",
+          "why_kr": "'disagree'의 'g' 소리와 'sometimes'의 's' 소리가 연결될 때 명확하게 들리지 않을 수 있습니다."
+        },
+        {
+          "part": "try to",
+          "why_kr": "자연스러운 대화에서 'try to'는 '트라다'처럼 약화되어 들리는 경우가 많습니다."
+        },
+        {
+          "part": "eye to eye",
+          "why_kr": "연결된 발음과 'to'의 약화된 소리 때문에 하나의 구로 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "disagree",
+          "meaning_kr": "의견이 다르다"
+        },
+        {
+          "word": "see eye to eye",
+          "meaning_kr": "의견이 일치하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "I've heard you're planning a detox retreat; it'll probably be quite beneficial.",
+      "translation_kr": "해독 휴양지를 계획하고 있다고 들었어요; 아마 꽤 유익할 거예요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "세 개의 축약형('I've', 'heard', 'you're')이 빠르게 연결되어 각각의 소리를 구분하기 어렵습니다."
+        },
+        {
+          "part": "detox retreat",
+          "why_kr": "'x' 소리와 're' 발음이 빠르게 연결되어 정확한 단어의 경계를 파악하기 어려울 수 있습니다."
+        },
+        {
+          "part": "it'll probably",
+          "why_kr": "'it'll'의 't' 소리가 거의 들리지 않고 'probably'는 '프라블리'처럼 약화되어 발음되는 경우가 많습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "detox retreat",
+          "meaning_kr": "해독 휴양지"
+        },
+        {
+          "word": "beneficial",
+          "meaning_kr": "유익한"
+        }
+      ]
+    }
+  ]
+}
