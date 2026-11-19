@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-19 (Thu)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "My new smartphone has an amazing camera and long battery life.",
+      "translation_kr": "제 새 스마트폰은 멋진 카메라와 긴 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "smartphone",
+          "why_kr": "'smart'와 'phone' 사이의 연음, 't' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "amazing",
+          "why_kr": "'a' 발음이 강하게 시작하고, 'z' 발음이 'j'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many tech companies are investing heavily in artificial intelligence development.",
+      "translation_kr": "많은 기술 기업들이 인공지능 개발에 막대한 투자를 하고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "investing heavily",
+          "why_kr": "'investing'의 'ng' 발음과 'heavily'의 'h' 발음이 약화될 수 있으며, 'v' 발음이 'b'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "artificial intelligence",
+          "why_kr": "'artificial'의 't' 발음이 약화되거나 'r' 발음이 어려울 수 있고, 'intelligence'의 강세 위치와 'ge' 발음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "investing",
+          "meaning_kr": "투자하는"
+        },
+        {
+          "word": "artificial intelligence",
+          "meaning_kr": "인공지능"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting",
+      "text": "The innovative AI-powered gadget will launch on November 20th, targeting a younger demographic.",
+      "translation_kr": "혁신적인 AI 기반 기기가 11월 20일에 출시될 예정이며, 젊은 인구층을 목표로 합니다.",
+      "tricky_parts": [
+        {
+          "part": "innovative",
+          "why_kr": "'n' 발음이 두 번 반복되고 'v' 발음이 'b'처럼 들릴 수 있으며, 강세 위치가 한국 학습자에게는 익숙하지 않을 수 있습니다."
+        },
+        {
+          "part": "AI-powered",
+          "why_kr": "'AI'의 모음 소리와 'powered'의 'w' 발음이 연결될 때 자연스러운 발음이 어려울 수 있습니다."
+        },
+        {
+          "part": "targeting a younger demographic",
+          "why_kr": "'targeting'의 'g'와 'a'가 연음되고, 'younger'의 'ng' 소리, 'demographic'의 'g' 발음과 강세 위치가 헷갈릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "meaning_kr": "혁신적인"
+        },
+        {
+          "word": "demographic",
+          "meaning_kr": "인구층, 특정 집단"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "To stay ahead of the curve, our company is always looking for cutting-edge AI solutions.",
+      "translation_kr": "경쟁에서 앞서나가기 위해, 우리 회사는 항상 최첨단 AI 솔루션을 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "ahead of the",
+          "why_kr": "'ahead'와 'of' 그리고 'the'가 연음될 때 '어헤더브더'처럼 빠르게 들려 'of the' 부분이 약화될 수 있습니다."
+        },
+        {
+          "part": "cutting-edge",
+          "why_kr": "'cutting'의 'ng' 발음과 'edge'의 'dge' 발음이 명확하게 이어지지 않을 수 있으며, 전체적으로 '커링엣지'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "ahead of the curve",
+          "meaning_kr": "시대에 앞서나가다, 경쟁에서 우위를 점하다"
+        },
+        {
+          "word": "cutting-edge",
+          "meaning_kr": "최첨단"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "It's incredible how quickly AI's becoming indispensable; you're seeing it everywhere.",
+      "translation_kr": "AI가 얼마나 빨리 필수 불가결한 것이 되었는지 믿기지 않아요; 어디에서나 그것을 볼 수 있죠.",
+      "tricky_parts": [
+        {
+          "part": "It's incredible",
+          "why_kr": "'It's'의 's'와 'incredible'이 연음될 때 '잇츠인크레더블'이 아닌 '이씬크레더블'처럼 들릴 수 있으며, 'in' 부분이 약화될 수 있습니다."
+        },
+        {
+          "part": "AI's becoming",
+          "why_kr": "'AI is'의 축약형 'AI's'와 'becoming'이 연음될 때, 's' 발음이 명확하지 않거나 '즈비커밍'처럼 들릴 수 있습니다. 'becoming'의 'o' 소리도 약화될 수 있습니다."
+        },
+        {
+          "part": "seeing it everywhere",
+          "why_kr": "'seeing'의 'ng'와 'it'이 연음될 때 '씨잉잇'이 아닌 '씨이닛'처럼 들릴 수 있고, 'it'의 't' 발음이 약화될 수 있습니다. 'everywhere'의 'r' 발음이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "indispensable",
+          "meaning_kr": "필수 불가결한, 없어서는 안 될"
+        },
+        {
+          "word": "everywhere",
+          "meaning_kr": "어디에나, 도처에"
+        }
+      ]
+    }
+  ]
+}
