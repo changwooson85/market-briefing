@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-20 (Fri)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "Many people are looking for new jobs in the current competitive market.",
+      "translation_kr": "많은 사람들이 현재 경쟁적인 시장에서 새로운 일자리를 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "looking for",
+          "why_kr": "'k'와 'f'가 빠르게 연결되어 '킹포r'처럼 들릴 수 있으며, 'r' 발음이 약화될 수 있어 구별이 어렵습니다."
+        },
+        {
+          "part": "competitive",
+          "why_kr": "음절이 많고 강세가 'pe'에 있어 뒤따르는 'ti-tive' 부분이 불분명하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "competitive",
+          "meaning_kr": "경쟁력 있는"
+        },
+        {
+          "word": "market",
+          "meaning_kr": "시장"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "The company's quarterly earnings report showed steady growth in sales.",
+      "translation_kr": "그 회사의 분기별 실적 보고서는 매출의 꾸준한 성장을 보여주었습니다.",
+      "tricky_parts": [
+        {
+          "part": "quarterly earnings",
+          "why_kr": "'quarterly'의 'terly' 부분이 빠르게 발음되고 'earnings'의 'ea' 발음과 's'가 겹쳐서 정확한 구분이 어렵습니다."
+        },
+        {
+          "part": "showed steady",
+          "why_kr": "'d'와 's' 소리가 연결되어 '쇼드스테디'처럼 들리기보다 '쇼스테디'처럼 'd' 소리가 거의 들리지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "quarterly",
+          "meaning_kr": "분기별의"
+        },
+        {
+          "word": "earnings report",
+          "meaning_kr": "실적 보고서"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "Analysts predict the stock market will rebound sharply by early next year, possibly by March.",
+      "translation_kr": "분석가들은 주식 시장이 내년 초, 아마도 3월까지 급격히 반등할 것이라고 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "Analysts predict",
+          "why_kr": "'ts'와 'p'가 연결되어 '애널리스트프리딕트'처럼 't' 소리가 약하게 나거나 생략될 수 있습니다."
+        },
+        {
+          "part": "sharply by",
+          "why_kr": "'ly'와 'by'가 연결되어 'p'와 'b' 발음이 섞여 들리거나 'l' 소리가 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "analysts",
+          "meaning_kr": "분석가들"
+        },
+        {
+          "word": "rebound",
+          "meaning_kr": "반등하다"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom/phrasal verb",
+      "text": "After months of planning, the startup finally got off the ground last week.",
+      "translation_kr": "몇 달간의 계획 끝에, 그 스타트업은 지난주 마침내 시작되었습니다.",
+      "tricky_parts": [
+        {
+          "part": "months of",
+          "why_kr": "'ths' 발음과 'of'가 연결되면서 'th' 소리가 불분명하게 들리거나 's' 소리가 'z'처럼 변형될 수 있습니다."
+        },
+        {
+          "part": "got off the ground",
+          "why_kr": "숙어 표현으로, 'off'와 'the'가 연결되어 '오프더'보다는 '오더'처럼 들릴 수 있으며, 전체 구의 의미 파악이 중요합니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "startup",
+          "meaning_kr": "스타트업"
+        },
+        {
+          "word": "get off the ground",
+          "meaning_kr": "(사업 등이) 시작되다, 순조롭게 진행되다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge (contractions, connected speech)",
+      "text": "If you're investing, it'll be smart to diversify your portfolio, won't it?",
+      "translation_kr": "투자하고 있다면, 포트폴리오를 다각화하는 것이 현명할 거예요, 그렇죠?",
+      "tricky_parts": [
+        {
+          "part": "If you're",
+          "why_kr": "'if'와 'you're'가 빠르게 연결되어 '이f유r'처럼 들릴 수 있으며, 'f' 발음이 약화될 수 있습니다."
+        },
+        {
+          "part": "it'll be smart",
+          "why_kr": "'it'll'은 '이틀'처럼 빠르게 발음되며, 't' 소리가 거의 들리지 않거나 'l' 소리에 묻혀서 들릴 수 있습니다."
+        },
+        {
+          "part": "won't it",
+          "why_kr": "꼬리 질문으로, 't' 발음이 거의 들리지 않고 '원닛'처럼 빠르게 연결되어 들리기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "diversify",
+          "meaning_kr": "다각화하다"
+        },
+        {
+          "word": "portfolio",
+          "meaning_kr": "포트폴리오"
+        }
+      ]
+    }
+  ]
+}
