@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-21 (Sat)",
+  "theme": "Daily Life (food, travel, health, relationships)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "I often eat fresh fruit and vegetables for a healthy diet.",
+      "translation_kr": "저는 건강한 식단을 위해 신선한 과일과 채소를 자주 먹습니다.",
+      "tricky_parts": [
+        {
+          "part": "often",
+          "why_kr": "'t' 발음이 묵음이거나 약하게 발음되어 놓치기 쉽습니다."
+        },
+        {
+          "part": "fruit and",
+          "why_kr": "'fruit'와 'and'가 연결되어 발음될 때 't' 발음이 약해지거나 'd'가 탈락될 수 있습니다."
+        },
+        {
+          "part": "vegetables",
+          "why_kr": "두 번째 'e' 음절이 종종 줄어들거나 묵음이 되어 'veg-tables'처럼 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "healthy diet",
+          "meaning_kr": "건강한 식단"
+        },
+        {
+          "word": "fresh fruit",
+          "meaning_kr": "신선한 과일"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "intermediate",
+      "text": "Our team discussed upcoming travel arrangements for the international conference next month.",
+      "translation_kr": "우리 팀은 다음 달 국제 회의를 위한 다가오는 출장 계획에 대해 논의했습니다.",
+      "tricky_parts": [
+        {
+          "part": "discussed upcoming",
+          "why_kr": "'discussed'의 마지막 'd' 소리가 'upcoming'의 'u'와 연결되어 발음될 때 's' 소리와 함께 혼동될 수 있습니다."
+        },
+        {
+          "part": "travel arrangements",
+          "why_kr": "'l'과 'r' 발음이 혼동되기 쉬우며, 'arrangements'의 마지막 's'가 흐릿하게 들릴 수 있습니다."
+        },
+        {
+          "part": "international conference",
+          "why_kr": "'international'의 't'가 'd'처럼 들리는 경향이 있으며, 'conference'의 'f' 발음이 명확하지 않을 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "travel arrangements",
+          "meaning_kr": "출장 계획"
+        },
+        {
+          "word": "international conference",
+          "meaning_kr": "국제 회의"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "advanced intermediate",
+      "text": "A recent report on November 15th highlighted the benefits of daily exercise for all age groups.",
+      "translation_kr": "11월 15일의 최근 보고서는 모든 연령대의 일상 운동의 이점을 강조했습니다.",
+      "tricky_parts": [
+        {
+          "part": "report on",
+          "why_kr": "'report'의 마지막 't'가 'on'과 연결되어 빠르게 발음될 때 'ton'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "15th highlighted",
+          "why_kr": "'15th'의 'th' 발음과 'highlighted'의 'ed' 발음이 이어질 때 혼동되거나 뭉개질 수 있습니다."
+        },
+        {
+          "part": "benefits of daily",
+          "why_kr": "'benefits'의 'ts' 소리와 'of'가 약화되어 '어브'처럼 발음될 때 'daily'와 연결되어 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "recent report",
+          "meaning_kr": "최근 보고서"
+        },
+        {
+          "word": "daily exercise",
+          "meaning_kr": "매일 운동"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "challenging intermediate",
+      "text": "She decided to bite the bullet and finish her difficult project before vacation.",
+      "translation_kr": "그녀는 휴가 전에 힘든 프로젝트를 끝내기 위해 이를 악물고 결정했습니다.",
+      "tricky_parts": [
+        {
+          "part": "bite the bullet",
+          "why_kr": "숙어 표현이라 의미를 모르면 문맥 이해가 어렵고, 't' 발음이 약하게 처리될 수 있습니다."
+        },
+        {
+          "part": "finish her",
+          "why_kr": "'finish'의 'sh'와 'her'의 'h'가 연결될 때 'h' 발음이 약화되거나 탈락될 수 있습니다."
+        },
+        {
+          "part": "before vacation",
+          "why_kr": "'before'의 'r' 발음과 'vacation'의 'tion' 발음이 빠르게 이어질 때 명확하게 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "bite the bullet",
+          "meaning_kr": "이를 악물고 견디다 (어려운 일을 감수하다)"
+        },
+        {
+          "word": "difficult project",
+          "meaning_kr": "어려운 프로젝트"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "advanced",
+      "text": "I've heard you're planning a trip, but I don't think it'll be easy to book flights now.",
+      "translation_kr": "여행을 계획 중이라고 들었는데, 지금 항공권을 예약하는 것이 쉽지 않을 것 같아요.",
+      "tricky_parts": [
+        {
+          "part": "I've heard you're",
+          "why_kr": "'I've'와 'you're' 같은 축약형들이 빠르게 연결되어 발음될 때 원형을 알아차리기 어렵습니다."
+        },
+        {
+          "part": "don't think it'll",
+          "why_kr": "'don't'의 't'가 뒤따르는 'think'의 'th' 앞에서 묵음이 되기 쉽고, 'it'll' (it will)이 매우 짧게 발음됩니다."
+        },
+        {
+          "part": "book flights now",
+          "why_kr": "'book'의 'k'와 'flights'의 'f' 및 'ts' 발음이 빠르게 연결될 때 명확하게 듣기 어렵습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "planning a trip",
+          "meaning_kr": "여행 계획"
+        },
+        {
+          "word": "book flights",
+          "meaning_kr": "항공권 예약"
+        }
+      ]
+    }
+  ]
+}
