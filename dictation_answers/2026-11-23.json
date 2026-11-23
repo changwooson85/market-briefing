@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-23 (Mon)",
+  "theme": "Technology / IT (AI, gadgets, tech companies)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "This new smartphone has an amazing camera and a long-lasting battery life.",
+      "translation_kr": "이 새 스마트폰은 놀라운 카메라와 오래가는 배터리 수명을 가지고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "amazing camera and a",
+          "why_kr": "'amazing'과 'camera' 사이, 그리고 'camera'와 'and' 사이의 연음이 발생하며 'and'의 'd' 발음이 약해지거나 생략될 수 있어 듣기 어렵습니다."
+        },
+        {
+          "part": "long-lasting",
+          "why_kr": "두 단어가 합쳐진 복합 형용사로, 빠르게 발음될 때 'g' 소리가 약해지거나 다음 단어와 겹쳐 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "smartphone",
+          "meaning_kr": "스마트폰"
+        },
+        {
+          "word": "battery life",
+          "meaning_kr": "배터리 수명"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business",
+      "text": "Our company plans to invest significantly in AI development next fiscal quarter.",
+      "translation_kr": "우리 회사는 다음 회계 분기에 AI 개발에 상당한 투자를 할 계획입니다.",
+      "tricky_parts": [
+        {
+          "part": "invest significantly",
+          "why_kr": "'invest'의 't' 발음이 약해지거나 생략될 수 있고, 'significantly'는 길고 빠르게 발음될 때 모든 음절을 정확히 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "fiscal quarter",
+          "why_kr": "'fiscal'의 'l' 발음과 'quarter'의 'qua' 소리가 빠르게 연결될 때 명확하게 구분하기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "invest",
+          "meaning_kr": "투자하다"
+        },
+        {
+          "word": "fiscal quarter",
+          "meaning_kr": "회계 분기"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news",
+      "text": "By 2030, analysts predict AI will revolutionize global industries, impacting millions of jobs.",
+      "translation_kr": "분석가들은 2030년까지 AI가 전 세계 산업을 혁신하여 수백만 개의 일자리에 영향을 미칠 것으로 예측합니다.",
+      "tricky_parts": [
+        {
+          "part": "By 2030, analysts predict",
+          "why_kr": "'by'와 숫자 '2030'이 빠르게 연결되고, 'analysts'의 중간 'y' 발음이 약하며 'predict'와 자연스럽게 이어질 때 구분이 어려울 수 있습니다."
+        },
+        {
+          "part": "revolutionize global industries",
+          "why_kr": "'revolutionize'는 발음하기 어려운 긴 단어이며, 'global'과 'industries'가 연결될 때 'l'과 'i' 소리가 겹쳐 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "revolutionize",
+          "meaning_kr": "혁신하다, 혁명적으로 변화시키다"
+        },
+        {
+          "word": "impacting",
+          "meaning_kr": "영향을 미치는"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom",
+      "text": "Many startups are trying to jump on the AI bandwagon to gain a competitive edge.",
+      "translation_kr": "많은 스타트업들이 경쟁 우위를 확보하기 위해 AI 대세에 합류하려고 합니다.",
+      "tricky_parts": [
+        {
+          "part": "jump on the bandwagon",
+          "why_kr": "관용어구로, 'on the' 부분이 빠르게 발음될 때 약화되거나 겹쳐 들려 전체 의미 파악이 어려울 수 있습니다."
+        },
+        {
+          "part": "competitive edge",
+          "why_kr": "'competitive'의 't'가 플랩 t 사운드처럼 들릴 수 있고, 'edge'의 'g' 소리가 불분명하거나 'age'와 혼동될 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "jump on the bandwagon",
+          "meaning_kr": "대세에 합류하다, 유행에 편승하다"
+        },
+        {
+          "word": "competitive edge",
+          "meaning_kr": "경쟁 우위"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "We're convinced it'll be crucial that you're prepared for these rapid technological shifts.",
+      "translation_kr": "우리는 당신이 이러한 급격한 기술 변화에 대비하는 것이 중요하다고 확신합니다.",
+      "tricky_parts": [
+        {
+          "part": "We're convinced it'll be",
+          "why_kr": "'We're' (we are)와 'it'll' (it will) 같은 축약형들이 연이어 나와 각각의 단어와 의미를 분리하여 듣기가 매우 어렵습니다."
+        },
+        {
+          "part": "you're prepared for these",
+          "why_kr": "'you're' (you are)와 'your' (너의)는 발음이 같아 혼동될 수 있으며, 'for these' 부분에서 'r'과 'th' 발음이 연결되며 빠르게 지나갈 수 있습니다."
+        },
+        {
+          "part": "technological shifts",
+          "why_kr": "'technological'은 길고 복잡한 발음을 가지며, 'shifts'는 'sh'와 연이은 'fts' 소리가 불분명하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "convinced",
+          "meaning_kr": "확신하는"
+        },
+        {
+          "word": "technological shifts",
+          "meaning_kr": "기술적 변화"
+        }
+      ]
+    }
+  ]
+}
