@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-24 (Tue)",
+  "theme": "Economy / Finance (stock market, business, jobs)",
+  "sentences": [
+    {
+      "id": 1,
+      "level": "easy",
+      "text": "The company announced a new job opening for a marketing specialist position.",
+      "translation_kr": "그 회사는 마케팅 전문가 직책에 대한 새로운 일자리 공고를 발표했습니다.",
+      "tricky_parts": [
+        {
+          "part": "announced a new",
+          "why_kr": "'announced'의 'd' 발음이 'a'와 연결되어 마치 '어나운스더뉴'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "specialist position",
+          "why_kr": "'specialist'의 마지막 't' 발음이 약하거나 생략될 수 있고, 'position'의 첫 음절이 강세가 없어 모호하게 들릴 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "job opening",
+          "meaning_kr": "일자리 공고, 채용 공고"
+        },
+        {
+          "word": "marketing specialist",
+          "meaning_kr": "마케팅 전문가"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "business basics",
+      "text": "Many small businesses are seeking loans to expand their operations this quarter.",
+      "translation_kr": "많은 소규모 기업들이 이번 분기에 사업 확장을 위해 대출을 찾고 있습니다.",
+      "tricky_parts": [
+        {
+          "part": "seeking loans",
+          "why_kr": "'seeking'의 'k' 발음이 약하게 처리되고 'loans'의 'l'과 연결될 수 있으며, 's' 발음이 두 번 이어져 혼동될 수 있습니다."
+        },
+        {
+          "part": "expand their",
+          "why_kr": "'expand'의 'd' 발음이 'their'의 'th' 발음과 연결되어 소리가 뭉개지기 쉽습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "seeking loans",
+          "meaning_kr": "대출을 찾다/구하다"
+        },
+        {
+          "word": "operations",
+          "meaning_kr": "사업, 운영"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "news reporting style",
+      "text": "The stock market rebounded today, with the index rising 1.5% by midday trading.",
+      "translation_kr": "오늘 주식 시장이 반등하여, 정오 거래까지 지수가 1.5% 상승했습니다.",
+      "tricky_parts": [
+        {
+          "part": "rebounded today",
+          "why_kr": "'rebounded'의 'd' 발음이 'today'의 't' 발음과 연결되거나 약하게 처리되어 잘 안 들릴 수 있습니다."
+        },
+        {
+          "part": "index rising",
+          "why_kr": "'index'의 'x' 발음과 'rising'의 'r' 발음이 연속되어 정확한 소리 구별이 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "rebounded",
+          "meaning_kr": "반등했다"
+        },
+        {
+          "word": "index",
+          "meaning_kr": "지수"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "idiom or phrasal verb",
+      "text": "Despite tough competition, our startup managed to get off the ground successfully.",
+      "translation_kr": "치열한 경쟁에도 불구하고, 우리 스타트업은 성공적으로 시작할 수 있었습니다.",
+      "tricky_parts": [
+        {
+          "part": "managed to get off",
+          "why_kr": "'to'가 약화되어 /tə/로 발음되고, 'get off'에서 't'와 'o'가 연결되어 '게러프'처럼 들릴 수 있습니다."
+        },
+        {
+          "part": "get off the ground",
+          "why_kr": "이디엄 자체가 생소할 수 있으며, 'the'의 약한 'th' 발음이 빠르게 지나갈 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "tough competition",
+          "meaning_kr": "치열한 경쟁"
+        },
+        {
+          "word": "get off the ground",
+          "meaning_kr": "(사업 등이) 시작되다, 순조롭게 출발하다"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "challenge",
+      "text": "Economists project that if inflation isn't curbed, it'll significantly impact consumers' spending.",
+      "translation_kr": "경제학자들은 인플레이션이 억제되지 않으면, 그것이 소비자의 지출에 상당한 영향을 미칠 것이라고 예상합니다.",
+      "tricky_parts": [
+        {
+          "part": "project that if",
+          "why_kr": "'project'와 'that'의 't' 발음이 약화되거나 생략되고, 'that'의 't'가 'if'의 'i'와 연결되어 빠른 연음에 익숙하지 않으면 듣기 어려울 수 있습니다."
+        },
+        {
+          "part": "isn't curbed",
+          "why_kr": "'isn't'의 't' 발음이 거의 들리지 않거나 생략되고, 'curbed'의 'd' 발음도 약하게 처리되어 혼동될 수 있습니다."
+        },
+        {
+          "part": "it'll significantly impact",
+          "why_kr": "'it'll'과 같은 축약형이 빠르게 발음되고, 'significantly'의 't' 발음이 'impact'의 'i'와 연결되면서 빠른 연음이 이루어져 듣기 어려울 수 있습니다."
+        }
+      ],
+      "key_vocab": [
+        {
+          "word": "inflation",
+          "meaning_kr": "인플레이션, 물가 상승"
+        },
+        {
+          "word": "curbed",
+          "meaning_kr": "억제된, 제어된"
+        }
+      ]
+    }
+  ]
+}
